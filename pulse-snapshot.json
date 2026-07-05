@@ -3,62 +3,281 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife. Every video is published, edited and scripted by me.",
+    "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
-    "statistics": { "viewCount": 19002, "subscriberCount": 24, "videoCount": 40 },
+    "statistics": {
+      "viewCount": 19002,
+      "subscriberCount": 24,
+      "videoCount": 41
+    },
     "monetized": false
   },
-  "window": { "startDate": "2026-06-06", "endDate": "2026-07-04", "label": "Last 28 days" },
+  "window": {
+    "startDate": "2026-06-07",
+    "endDate": "2026-07-05",
+    "label": "Last 28 days"
+  },
   "totals": {
-    "views": 12389,
-    "estimatedMinutesWatched": 2065,
-    "subscribersGained": 16,
-    "subscribersLost": 3,
-    "netSubscribers": 13,
-    "likes": 238,
+    "views": 8138,
+    "estimatedMinutesWatched": 1749,
+    "subscribersGained": 13,
+    "subscribersLost": 1,
+    "netSubscribers": 12,
+    "likes": 185,
     "comments": 6,
     "shares": 1
   },
   "daily": [
-    { "day": "2026-06-06", "views": 1951, "watched": 316, "subsGained": 3, "subsLost": 2, "likes": 32 },
-    { "day": "2026-06-07", "views": 780, "watched": 148, "subsGained": 0, "subsLost": 0, "likes": 12 },
-    { "day": "2026-06-08", "views": 312, "watched": 41, "subsGained": 1, "subsLost": 0, "likes": 7 },
-    { "day": "2026-06-09", "views": 898, "watched": 205, "subsGained": 2, "subsLost": 0, "likes": 11 },
-    { "day": "2026-06-10", "views": 707, "watched": 183, "subsGained": 2, "subsLost": 1, "likes": 7 },
-    { "day": "2026-06-11", "views": 795, "watched": 128, "subsGained": 1, "subsLost": 0, "likes": 14 },
-    { "day": "2026-06-12", "views": 1044, "watched": 122, "subsGained": 1, "subsLost": 0, "likes": 15 },
-    { "day": "2026-06-13", "views": 1754, "watched": 317, "subsGained": 4, "subsLost": 0, "likes": 22 },
-    { "day": "2026-06-14", "views": 282, "watched": 20, "subsGained": 0, "subsLost": 0, "likes": 2 },
-    { "day": "2026-06-15", "views": 582, "watched": 47, "subsGained": 0, "subsLost": 0, "likes": 8 },
-    { "day": "2026-06-16", "views": 1371, "watched": 207, "subsGained": 1, "subsLost": 0, "likes": 54 },
-    { "day": "2026-06-17", "views": 1223, "watched": 190, "subsGained": 1, "subsLost": 0, "likes": 33 },
-    { "day": "2026-06-18", "views": 653, "watched": 137, "subsGained": 0, "subsLost": 0, "likes": 18 },
-    { "day": "2026-06-19", "views": 29, "watched": 4, "subsGained": 0, "subsLost": 0, "likes": 1 },
-    { "day": "2026-06-20", "views": 2, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-21", "views": 4, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-22", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-23", "views": 2, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 2 },
-    { "day": "2026-06-24", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-25", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-26", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-27", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-28", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-29", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-30", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-07-01", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-07-02", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 }
+    {
+      "day": "2026-06-07",
+      "views": 780,
+      "watched": 148,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 12
+    },
+    {
+      "day": "2026-06-08",
+      "views": 312,
+      "watched": 41,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 7
+    },
+    {
+      "day": "2026-06-09",
+      "views": 898,
+      "watched": 205,
+      "subsGained": 2,
+      "subsLost": 0,
+      "likes": 11
+    },
+    {
+      "day": "2026-06-10",
+      "views": 707,
+      "watched": 183,
+      "subsGained": 2,
+      "subsLost": 1,
+      "likes": 7
+    },
+    {
+      "day": "2026-06-11",
+      "views": 795,
+      "watched": 128,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 14
+    },
+    {
+      "day": "2026-06-12",
+      "views": 1044,
+      "watched": 122,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 15
+    },
+    {
+      "day": "2026-06-13",
+      "views": 1754,
+      "watched": 317,
+      "subsGained": 4,
+      "subsLost": 0,
+      "likes": 22
+    },
+    {
+      "day": "2026-06-14",
+      "views": 282,
+      "watched": 20,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 2
+    },
+    {
+      "day": "2026-06-15",
+      "views": 582,
+      "watched": 47,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 8
+    },
+    {
+      "day": "2026-06-16",
+      "views": 1371,
+      "watched": 207,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 54
+    },
+    {
+      "day": "2026-06-17",
+      "views": 1223,
+      "watched": 190,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 33
+    },
+    {
+      "day": "2026-06-18",
+      "views": 653,
+      "watched": 137,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 18
+    },
+    {
+      "day": "2026-06-19",
+      "views": 29,
+      "watched": 4,
+      "subsGained": 0,
+      "subsLost":  0,
+      "likes": 1
+    },
+    {
+      "day": "2026-06-20",
+      "views": 2,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-06-21",
+      "views": 4,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-06-23",
+      "views": 2,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 2
+    },
+    {
+      "day": "2026-06-29",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": -1
+    }
   ],
   "topVideos": [
-    { "videoId": "fj4-WKURK24", "title": "Top wildlife short (fj4-WKURK24)", "views": 1581, "watched": 277, "likes": 28, "comments": 0, "avgViewDuration": 18, "flag": "optimize", "note": "Most views in window but 18s avg duration = early drop-off. Optimizer to test new title + thumbnail." },
-    { "videoId": "zbQossrADw4", "title": "Wolves' Impact on Yellowstone Rivers #Shorts", "views": 786, "watched": 162, "likes": 43, "comments": 1, "avgViewDuration": 25, "flag": "winner", "note": "Highest like count (43). Strong engagement signal — double down on ecosystem-impact topic." },
-    { "videoId": "U5EkMB6EV6Q", "title": "Top performer (U5EkMB6EV6Q)", "views": 978, "watched": 214, "likes": 8, "comments": 0, "avgViewDuration": 38, "flag": "winner", "note": "Best retention in top 10 (38s avg). Retention Analyst: study opening hook structure." },
-    { "videoId": "99f5zBFgd0M", "title": "Wildlife short (99f5zBFgd0M)", "views": 742, "watched": 147, "likes": 12, "comments": 1, "avgViewDuration": 25, "flag": "stable", "note": "Stable mid-tier performer." },
-    { "videoId": "8QKw2mkKk_w", "title": "Wildlife short (8QKw2mkKk_w)", "views": 691, "watched": 80, "likes": 9, "comments": 1, "avgViewDuration": 13, "flag": "optimize", "note": "13s avg duration — strong drop-off. Optimizer queued for title/thumbnail test." },
-    { "videoId": "0j-I7pXW5OQ", "title": "Could Water Turn Animals to Stone? #Shorts", "views": 687, "watched": 125, "likes": 15, "comments": 0, "avgViewDuration": 21, "flag": "stable", "note": "Stable performer, clickable title concept." },
-    { "videoId": "nwx9HIi8XzE", "title": "The Spider That Can Outrun Humans #Shorts", "views": 674, "watched": 126, "likes": 10, "comments": 0, "avgViewDuration": 21, "flag": "stable", "note": "Stable performer." },
-    { "videoId": "1s3lw9EZDcQ", "title": "Octopus Maternal Sacrifice: A Starving Act of Love #Shorts", "views": 606, "watched": 53, "likes": 13, "comments": 1, "avgViewDuration": 13, "flag": "optimize", "note": "13s avg duration — early drop-off. Low watch time vs views." }
+    {
+      "videoId": "U5EkMB6EV6Q",
+      "title": "Why Blue Crabs Have Glowing Eyes #Shorts",
+      "views": 978,
+      "watched": 214,
+      "likes": 8,
+      "comments": 0,
+      "avgViewDuration": 38,
+      "flag": "winner",
+      "note": "Top views in window + above-median avg view duration (38s)."
+    },
+    {
+      "videoId": "zbQossrADw4",
+      "title": "Wolves' Impact on Yellowstone Rivers #Shorts",
+      "views": 786,
+      "watched": 162,
+      "likes": 43,
+      "comments": 1,
+      "avgViewDuration": 25,
+      "flag": "stable",
+      "note": "Strong engagement (likes/comments) with solid retention."
+    },
+    {
+      "videoId": "99f5zBFgd0M",
+      "title": "Spiders That Skydive from Trees #Shorts",
+      "views": 742,
+      "watched": 147,
+      "likes": 12,
+      "comments": 1,
+      "avgViewDuration": 25,
+      "flag": "stable",
+      "note": "Steady performer."
+    },
+    {
+      "videoId": "8QKw2mkKk_w",
+      "title": "Tardigrades: The Microscopic Survivors #Shorts",
+      "views": 691,
+      "watched": 80,
+      "likes": 9,
+      "comments": 1,
+      "avgViewDuration": 13,
+      "flag": "optimize",
+      "note": "Above-average views but below-median avg view duration (13s)."
+    },
+    {
+      "videoId": "0j-I7pXW5OQ",
+      "title": "Could Water Turn Animals to Stone? #Shorts",
+      "views": 687,
+      "watched": 125,
+      "likes": 15,
+      "comments": 0,
+      "avgViewDuration": 21,
+      "flag": "stable",
+      "note": "Steady performer."
+    },
+    {
+      "videoId": "WxmrAMzLtrU",
+      "title": "The Fish That Flies for Its Life #Shorts",
+      "views": 686,
+      "watched": 108,
+      "likes": 9,
+      "comments": 0,
+      "avgViewDuration": 19,
+      "flag": "stable",
+      "note": "Steady performer."
+    },
+    {
+      "videoId": "nwx9HIi8XzE",
+      "title": "The Spider That Can Outrun Humans #Shorts",
+      "views": 674,
+      "watched": 126,
+      "likes": 10,
+      "comments": 0,
+      "avgViewDuration": 21,
+      "flag": "stable",
+      "note": "Steady performer."
+    },
+    {
+      "videoId": "DR1W_YgCKtc",
+      "title": "This Octopus Pretends to be Poisonous #Shorts",
+      "views": 616,
+      "watched": 112,
+      "likes": 11,
+      "comments": 1,
+      "avgViewDuration": 20,
+      "flag": "stable",
+      "note": "Steady performer."
+    },
+    {
+      "videoId": "1s3lw9EZDcQ",
+      "title": "Octopus Maternal Sacrifice: A Starving Act of Love #Shorts",
+      "views": 606,
+      "watched": 53,
+      "likes": 13,
+      "comments": 1,
+      "avgViewDuration": 13,
+      "flag": "optimize",
+      "note": "Above-average views but below-median avg view duration (13s)."
+    },
+    {
+      "videoId": "qRaMQyjLSv4",
+      "title": "This Fish Can Light Up a Horse #Shorts",
+      "views": 590,
+      "watched": 115,
+      "likes": 10,
+      "comments": 0,
+      "avgViewDuration": 20,
+      "flag": "stable",
+      "note": "Steady performer."
+    }
   ],
-  "fetchedAt": "2026-07-04T16:12:00-04:00",
-  "source": "YouTube Analytics API + YouTube Data API (live)"
+  "fetchedAt": "2026-07-05T09:01:00-04:00",
+  "source": "YouTube Analytics API"
 }
