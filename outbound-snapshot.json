@@ -6,8 +6,8 @@
   "activationNote": "Auto-send is ARMED and active. The daily auto-send scheduled task (id 30886b35, 9 AM ET, background) was created on 2026-07-04 after explicit user launch approval. It will send up to 10 drafted emails/day via Gmail, starting with the next 9 AM ET fire. Day 1 sends 10 leads, Day 2 sends the last 2. To pause, delete cron 30886b35 — this flag stays true but no task means no sends.",
   "dailyCap": 10,
   "perRunCap": 10,
-  "sentToday": 0,
-  "sentDate": "2026-07-04",
+  "sentToday": 10,
+  "sentDate": "2026-07-05",
   "cadence": "Daily ~9 AM ET",
   "sender": {
     "name": "Jackson Vanderpool",
@@ -24,10 +24,71 @@
     "sendingOnlyInScheduledAgent": "The Express app and published site display state only; sends happen inside the scheduled task."
   },
   "suppressionList": [],
-  "sentLog": [],
+  "sentLog": [
+    {
+      "id": "OL-001",
+      "to": "david@leeandassoc.com",
+      "subject": "CRE outreach ops — an AI pilot worth a look",
+      "sentAt": "2026-07-05T09:01:47-04:00"
+    },
+    {
+      "id": "OL-002",
+      "to": "sean.taylor@taylorhospitality.com",
+      "subject": "Keeping hospitality outreach from stalling",
+      "sentAt": "2026-07-05T09:01:49-04:00"
+    },
+    {
+      "id": "OL-003",
+      "to": "mmcdonald@syntrillo.com",
+      "subject": "Lightening the outreach load for a digital health team",
+      "sentAt": "2026-07-05T09:01:50-04:00"
+    },
+    {
+      "id": "OL-004",
+      "to": "sarah.rumbaugh@12twenty.com",
+      "subject": "Scaling BD outreach without scaling headcount",
+      "sentAt": "2026-07-05T09:01:52-04:00"
+    },
+    {
+      "id": "OL-005",
+      "to": "james.grimm@woehner.com",
+      "subject": "Keeping your sales pipeline on autopilot",
+      "sentAt": "2026-07-05T09:01:53-04:00"
+    },
+    {
+      "id": "OL-006",
+      "to": "srobbins@royalcreekconsulting.com",
+      "subject": "Less pipeline busywork for your consulting practice",
+      "sentAt": "2026-07-05T09:01:55-04:00"
+    },
+    {
+      "id": "OL-007",
+      "to": "lou@gridandpixel.com",
+      "subject": "You build email automation — here's the outbound side",
+      "sentAt": "2026-07-05T09:01:56-04:00"
+    },
+    {
+      "id": "OL-008",
+      "to": "kirby.farrell@locushealth.com",
+      "subject": "Freeing up your team's outreach bandwidth",
+      "sentAt": "2026-07-05T09:01:57-04:00"
+    },
+    {
+      "id": "OL-009",
+      "to": "gregg@ivy.solutions",
+      "subject": "Outreach that keeps your search pipeline warm",
+      "sentAt": "2026-07-05T09:01:59-04:00"
+    },
+    {
+      "id": "OL-010",
+      "to": "hunter@trophyclubconsulting.com",
+      "subject": "Keeping your consulting outreach consistent",
+      "sentAt": "2026-07-05T09:02:00-04:00"
+    }
+  ],
   "totals": {
     "drafted": 12,
-    "sent": 0,
+    "sent": 10,
     "replied": 0,
     "bounced": 0,
     "suppressed": 0
@@ -43,10 +104,11 @@
       "company": "Lee & Associates Commercial Real Estate",
       "email": "david@leeandassoc.com",
       "industry": "Commercial Real Estate",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "CRE outreach ops — an AI pilot worth a look",
-      "body": "Hi David,\n\nIn commercial real estate, the bottleneck is usually follow-up — sourcing the right contacts, personalizing outreach to brokers and owners, and tracking who actually replied. I'm piloting an AI agent with a few teams that handles that pipeline end to end: it researches prospects, drafts the outreach, and triages replies so nothing falls through.\n\nCurious if that'd save your team a few hours a week. Worth a quick call to compare notes?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi David,\n\nIn commercial real estate, the bottleneck is usually follow-up — sourcing the right contacts, personalizing outreach to brokers and owners, and tracking who actually replied. I'm piloting an AI agent with a few teams that handles that pipeline end to end: it researches prospects, drafts the outreach, and triages replies so nothing falls through.\n\nCurious if that'd save your team a few hours a week. Worth a quick call to compare notes?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:47-04:00"
     },
     {
       "id": "OL-002",
@@ -58,10 +120,11 @@
       "company": "Taylor Hospitality",
       "email": "sean.taylor@taylorhospitality.com",
       "industry": "Hospitality",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Keeping hospitality outreach from stalling",
-      "body": "Hi Sean,\n\nIn hospitality, growth usually comes down to consistent outreach — to partners, operators, and prospects — and that work is the first thing that slips when the team gets busy. I'm piloting an AI agent that researches prospects, drafts personalized outreach, and triages replies so the pipeline keeps moving without manual busywork.\n\nWould it be worth a short call to see if this fits how your team works?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Sean,\n\nIn hospitality, growth usually comes down to consistent outreach — to partners, operators, and prospects — and that work is the first thing that slips when the team gets busy. I'm piloting an AI agent that researches prospects, drafts personalized outreach, and triages replies so the pipeline keeps moving without manual busywork.\n\nWould it be worth a short call to see if this fits how your team works?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:49-04:00"
     },
     {
       "id": "OL-003",
@@ -73,10 +136,11 @@
       "company": "Syntrillo",
       "email": "mmcdonald@syntrillo.com",
       "industry": "Digital Health",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Lightening the outreach load for a digital health team",
-      "body": "Hi Mark,\n\nBuilding a digital health company means your team's time goes to the mission, not to chasing down prospects and sorting replies. I'm helping a few teams pilot an AI agent that handles the outreach pipeline — prospect research, personalized drafts, and reply triage — so the clinical and product work doesn't get crowded out.\n\nWorth a quick call to see if it'd help with partner and stakeholder outreach?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Mark,\n\nBuilding a digital health company means your team's time goes to the mission, not to chasing down prospects and sorting replies. I'm helping a few teams pilot an AI agent that handles the outreach pipeline — prospect research, personalized drafts, and reply triage — so the clinical and product work doesn't get crowded out.\n\nWorth a quick call to see if it'd help with partner and stakeholder outreach?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:50-04:00"
     },
     {
       "id": "OL-004",
@@ -88,10 +152,11 @@
       "company": "12twenty",
       "email": "sarah.rumbaugh@12twenty.com",
       "industry": "SaaS / Career Services",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Scaling BD outreach without scaling headcount",
-      "body": "Hi Sarah,\n\nIn BD, the work that actually moves the needle — relationship-building — keeps losing out to prospect research and reply triage. I'm piloting an AI agent that handles the outreach pipeline end to end: finds prospects, drafts personalized emails, and surfaces the replies worth your time.\n\nCurious whether that'd free up your team for the conversations that count. Worth a quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Sarah,\n\nIn BD, the work that actually moves the needle — relationship-building — keeps losing out to prospect research and reply triage. I'm piloting an AI agent that handles the outreach pipeline end to end: finds prospects, drafts personalized emails, and surfaces the replies worth your time.\n\nCurious whether that'd free up your team for the conversations that count. Worth a quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:52-04:00"
     },
     {
       "id": "OL-005",
@@ -103,10 +168,11 @@
       "company": "Woehner LLC",
       "email": "james.grimm@woehner.com",
       "industry": "Electrical Manufacturing",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Keeping your sales pipeline on autopilot",
-      "body": "Hi James,\n\nRegional sales lives and dies on follow-up — and the prospecting, drafting, and reply-chasing work is usually what eats a sales manager's week. I'm piloting an AI agent that runs that pipeline: researches prospects, drafts the outreach, and triages replies so your reps spend time closing, not sorting inboxes.\n\nWould it be worth a short call to see if it fits your territory's workflow?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi James,\n\nRegional sales lives and dies on follow-up — and the prospecting, drafting, and reply-chasing work is usually what eats a sales manager's week. I'm piloting an AI agent that runs that pipeline: researches prospects, drafts the outreach, and triages replies so your reps spend time closing, not sorting inboxes.\n\nWould it be worth a short call to see if it fits your territory's workflow?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:53-04:00"
     },
     {
       "id": "OL-006",
@@ -118,10 +184,11 @@
       "company": "Royal Creek Consulting LLC",
       "email": "srobbins@royalcreekconsulting.com",
       "industry": "Oil & Energy Consulting",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Less pipeline busywork for your consulting practice",
-      "body": "Hi Stephen,\n\nFor a consulting practice, steady outreach is what fills the pipeline — but research, drafting, and reply follow-up are the first things that slip when client work picks up. I'm piloting an AI agent that runs that pipeline: finds prospects, drafts personalized outreach, and triages the replies.\n\nCurious if it'd save your team a few hours a week. Worth a quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Stephen,\n\nFor a consulting practice, steady outreach is what fills the pipeline — but research, drafting, and reply follow-up are the first things that slip when client work picks up. I'm piloting an AI agent that runs that pipeline: finds prospects, drafts personalized outreach, and triages the replies.\n\nCurious if it'd save your team a few hours a week. Worth a quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:55-04:00"
     },
     {
       "id": "OL-007",
@@ -133,10 +200,11 @@
       "company": "Grid & Pixel",
       "email": "lou@gridandpixel.com",
       "industry": "Email Marketing Automation",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "You build email automation — here's the outbound side",
-      "body": "Hi Lou,\n\nYou build tools that make email marketing smarter, so you know better than most how much manual work still sits behind outbound prospecting. I'm piloting an AI agent that runs that side — prospect research, personalized drafts, and reply triage — and it felt worth flagging to someone who thinks about this space daily.\n\nOpen to comparing notes on where outbound is heading? Quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Lou,\n\nYou build tools that make email marketing smarter, so you know better than most how much manual work still sits behind outbound prospecting. I'm piloting an AI agent that runs that side — prospect research, personalized drafts, and reply triage — and it felt worth flagging to someone who thinks about this space daily.\n\nOpen to comparing notes on where outbound is heading? Quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:56-04:00"
     },
     {
       "id": "OL-008",
@@ -148,10 +216,11 @@
       "company": "Locus Health",
       "email": "kirby.farrell@locushealth.com",
       "industry": "Remote Patient Monitoring",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Freeing up your team's outreach bandwidth",
-      "body": "Hi Kirby,\n\nIn remote patient monitoring, the team's time belongs with partners and patients — not with prospect research and inbox triage. I'm piloting an AI agent that runs the outreach pipeline: it researches prospects, drafts personalized outreach, and surfaces the replies worth attention, so the clinical and operational work stays front and center.\n\nWould it be worth a short call to see if it fits your partner outreach?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Kirby,\n\nIn remote patient monitoring, the team's time belongs with partners and patients — not with prospect research and inbox triage. I'm piloting an AI agent that runs the outreach pipeline: it researches prospects, drafts personalized outreach, and surfaces the replies worth attention, so the clinical and operational work stays front and center.\n\nWould it be worth a short call to see if it fits your partner outreach?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:57-04:00"
     },
     {
       "id": "OL-009",
@@ -163,10 +232,11 @@
       "company": "Ivy Talent Partners",
       "email": "gregg@ivy.solutions",
       "industry": "Executive Search",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Outreach that keeps your search pipeline warm",
-      "body": "Hi Gregg,\n\nExecutive search runs on relationships — but the prospecting, drafting, and follow-up that keep the pipeline warm are exactly what gets deprioritized. I'm piloting an AI agent that handles that outreach pipeline: researches prospects, drafts personalized notes, and triages replies so your team focuses on the conversations that matter.\n\nWorth a quick call to see if it fits how your team sources?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Gregg,\n\nExecutive search runs on relationships — but the prospecting, drafting, and follow-up that keep the pipeline warm are exactly what gets deprioritized. I'm piloting an AI agent that handles that outreach pipeline: researches prospects, drafts personalized notes, and triages replies so your team focuses on the conversations that matter.\n\nWorth a quick call to see if it fits how your team sources?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:01:59-04:00"
     },
     {
       "id": "OL-010",
@@ -178,10 +248,11 @@
       "company": "Trophy Club Consulting",
       "email": "hunter@trophyclubconsulting.com",
       "industry": "Insurance Agent Training",
-      "status": "drafted",
+      "status": "sent",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "Keeping your consulting outreach consistent",
-      "body": "Hi Hunter,\n\nFor a consulting practice like yours, consistent outreach is what keeps the pipeline full — and it's the first thing that slips when client work picks up. I'm piloting an AI agent that runs that pipeline end to end: prospect research, personalized drafts, and reply triage.\n\nCurious if it'd save you a few hours a week. Worth a quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "body": "Hi Hunter,\n\nFor a consulting practice like yours, consistent outreach is what keeps the pipeline full — and it's the first thing that slips when client work picks up. I'm piloting an AI agent that runs that pipeline end to end: prospect research, personalized drafts, and reply triage.\n\nCurious if it'd save you a few hours a week. Worth a quick call?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up.",
+      "sentAt": "2026-07-05T09:02:00-04:00"
     },
     {
       "id": "OL-011",
