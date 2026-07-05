@@ -1,0 +1,36 @@
+{
+  "experiments": [
+    {
+      "id": "EXP-001",
+      "videoId": "fj4-WKURK24",
+      "field": "title",
+      "baseline": "Antarctic Fish with White Blood #Shorts",
+      "variant": "Why Does This Fish Have White Blood? #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-07-04T16:23:00-04:00",
+      "launchedBy": "agent (user-approved A/B test)",
+      "baselineMetrics": {
+        "windowDays": 28,
+        "views": 1581,
+        "watchedMinutes": 277,
+        "likes": 28,
+        "avgViewDurationSec": 18
+      },
+      "baselineDailyAverages": { "views": 56, "watchedMinutes": 10, "avgViewDurationSec": 18 },
+      "status": "running",
+      "evaluatedAt": null,
+      "decision": null,
+      "evalNotes": null
+    }
+  ],
+  "policy": {
+    "trustTier": "fully_automatic",
+    "autoLaunchTitleTests": true,
+    "autoRevertFailedTests": true,
+    "autoPostCommentReplies": true,
+    "maxConcurrentExperiments": 1,
+    "evalWindowHours": 72,
+    "minViewsForTestEligibility": 200,
+    "notes": "User elected fully automatic on 2026-07-04. Agents post replies, launch/revert title tests with no human in loop. Daily evaluator checks for due experiments."
+  }
+}
