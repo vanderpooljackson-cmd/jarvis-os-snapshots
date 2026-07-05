@@ -1,0 +1,60 @@
+{
+  "weekOf": "2026-07-06",
+  "generatedAt": "2026-07-05T13:10:00-04:00",
+  "generatedBy": "manual regeneration (growth planner cron fired 10AM but failed to write during sandbox provisioning blip; plan rebuilt from fresh 9:01AM Pulse)",
+  "basedOn": {
+    "topVideos": [
+      { "videoId": "U5EkMB6EV6Q", "title": "Why Blue Crabs Have Glowing Eyes #Shorts", "views": 978, "avgViewDuration": 38, "flag": "winner" },
+      { "videoId": "zbQossrADw4", "title": "Wolves' Impact on Yellowstone Rivers #Shorts", "views": 786, "likes": 43, "flag": "stable" },
+      { "videoId": "99f5zBFgd0M", "title": "Spiders That Skydive from Trees #Shorts", "views": 742, "flag": "stable" }
+    ],
+    "bestRetention": [
+      { "videoId": "U5EkMB6EV6Q", "title": "Why Blue Crabs Have Glowing Eyes #Shorts", "avgViewDuration": 38, "note": "Best retention in window — nearly 2x the 19-25s median. The 'Why [animal] [sensory surprise]' hook holds viewers." }
+    ],
+    "titleLessons": [
+      "'Why [animal] [surprising sensory fact] #Shorts' is the winning frame — best views AND best retention (blue crabs, 38s).",
+      "'The [animal] that can [surprising ability] #Shorts' and 'This [animal] [surprising trait] #Shorts' are solid view-drivers (590-742) but retain ~19-25s.",
+      "Documentary-style title frames ('Octopus Maternal Sacrifice...', 'Tardigrades: The Microscopic Survivors') pull views but tank retention (13s, flagged optimize). Avoid dry/documentary titles.",
+      "EXP-001 (title test on fj4-WKURK24) is still running — not yet evaluated. No title lesson from it yet."
+    ],
+    "patternInsight": "Animal SENSES and SUPERPOWERS with a curiosity-gap 'Why...' or 'The...that can...' hook win. Sensory surprises (glowing eyes) retain best. Avoid documentary-tone titles."
+  },
+  "ideas": [
+    {
+      "id": "GP-001",
+      "title": "Why the Owl Hunts in Total Silence #Shorts",
+      "concept": "Owls have comb-like serrations on their primary feathers plus a velvety surface that breaks turbulence into micro-currents, making their flight nearly silent — and asymmetric ear openings let them hunt in 3D sound.",
+      "hook": "An owl can fly right past its prey — and the prey never hears a thing. Here's how.",
+      "keyVisual": "Slow-motion barn owl gliding silently over a moonlit meadow, then a macro close-up of the feather edge serrations.",
+      "hashtagSets": [
+        ["#Owls", "#Wildlife", "#Nature", "#Shorts"],
+        ["#AnimalSenses", "#BirdFacts", "#NatureDocumentary", "#Shorts"],
+        ["#Owls", "#ScienceFacts", "#WildlifePhotography", "#Shorts"]
+      ]
+    },
+    {
+      "id": "GP-002",
+      "title": "The Frog That Freezes Solid and Wakes Up #Shorts",
+      "concept": "Wood frogs survive winter frozen solid — heart stopped, brain flatlined — because their livers flood their cells with glucose that acts as antifreeze. In spring they thaw and hop away.",
+      "hook": "This frog lets its whole body freeze solid — heart, brain, everything — then wakes up in spring.",
+      "keyVisual": "A wood frog encased in ice in a frozen forest floor, then the same frog thawing and blinking awake as snow melts.",
+      "hashtagSets": [
+        ["#WoodFrog", "#Wildlife", "#Nature", "#Shorts"],
+        ["#AnimalSurvival", "#ScienceFacts", "#WinterWildlife", "#Shorts"],
+        ["#Frogs", "#Biology", "#NatureDocumentary", "#Shorts"]
+      ]
+    },
+    {
+      "id": "GP-003",
+      "title": "Why the Axolotl Can Regrow Its Own Heart #Shorts",
+      "concept": "Axolotls regenerate entire limbs, spinal cords, parts of their heart and brain — without scarring. Scientists study them for clues to human regenerative medicine.",
+      "hook": "This animal can regrow its own heart. And its brain. And its limbs. How?",
+      "keyVisual": "An axolotl in a clear tank, pale pink with feathery gills, with a close-up of a regenerating limb bud.",
+      "hashtagSets": [
+        ["#Axolotl", "#Wildlife", "#Nature", "#Shorts"],
+        ["#AnimalFacts", "#Regeneration", "#Biology", "#Shorts"],
+        ["#Axolotl", "#ScienceFacts", "#WildlifePhotography", "#Shorts"]
+      ]
+    }
+  ]
+}
