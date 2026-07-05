@@ -1,6 +1,38 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": null,
-  "videos": []
+  "lastRunAt": "2026-07-05T10:18:31-04:00",
+  "videos": [
+    {
+      "productionId": "JV-2026-07-05-SELFN",
+      "ideaId": "selfgen-2026-07-05",
+      "sourceHash": "63955f453baebd0152d9b4acff57fe03e4abf288c49b6089d78f3b76fe3f883e",
+      "status": "uploaded",
+      "mode": "slideshow",
+      "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
+      "concept": "Mantis shrimp vision — up to 16 photoreceptor types, sees UV/polarized light, plus the 50+ mph cavitation punch. Self-generated from Pulse winner pattern (animal senses/curiosity-gap).",
+      "startedAt": "2026-07-05T10:02:00-04:00",
+      "renderedAt": "2026-07-05T10:14:00-04:00",
+      "uploadedAt": "2026-07-05T10:18:31-04:00",
+      "youtube": {
+        "videoId": "KwGyJHy9ZMQ",
+        "url": "https://www.youtube.com/watch?v=KwGyJHy9ZMQ",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-07-05-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-07-05-SELFN/narration.mp3",
+        "images": [
+          "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_01.png",
+          "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_02.png",
+          "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_03.png",
+          "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_04.png",
+          "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_05.png",
+          "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_06.png"
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-05-SELFN/final.mp4"
+      },
+      "error": null
+    }
+  ]
 }
