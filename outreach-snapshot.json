@@ -1,0 +1,36 @@
+{
+  "fetchedAt": "2026-07-04T16:25:00-04:00",
+  "source": "Apollo People Search + Gmail inbox scan",
+  "query": {
+    "personLocations": ["Charlottesville, VA"],
+    "orgSizes": ["1-10", "11-50", "51-200"],
+    "seniorities": ["owner", "c_suite", "vp", "manager"],
+    "emailStatus": ["verified", "likely_to_engage"]
+  },
+  "totals": {
+    "apolloResults": 2616,
+    "newLeadsShown": 12,
+    "prospectReplies": 0
+  },
+  "apolloLeads": [
+    { "apolloId": "60f06c764c6d0f0001b48758", "firstName": "David", "lastName": "Lee", "title": "President", "organization": "Lee & Associates Commercial Real Estate Brokerage", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "60703701bf31e9000193a62a", "firstName": "Sean", "lastName": "Ta***r", "title": "Chief Executive Officer", "organization": "Taylor Hospitality", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "6471bf08d5856c0001138220", "firstName": "Mark", "lastName": "Mc***d", "title": "Chief Executive Officer", "organization": "Syntrillo", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "66fec67791ce040001e54a52", "firstName": "Sarah", "lastName": "Ru***h", "title": "VP, Business Development", "organization": "12twenty", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "60925573a6f84f0001dff1ab", "firstName": "James", "lastName": "Gr***m", "title": "Regional Sales Manager", "organization": "Woehner LLC", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "57ddeb90a6da987ae8cb9433", "firstName": "Stephen", "lastName": "Ro***s", "title": "Vice President", "organization": "Royal Creek Consulting LLC", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "66f1e49cf3f112000194f40e", "firstName": "Lou", "lastName": "Mi***r", "title": "Chief Executive Officer", "organization": "Grid & Pixel", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "66f2d49bcc913b0001c9eb20", "firstName": "Kirby", "lastName": "Fa***l", "title": "Chairman", "organization": "Locus", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "66fcba38c64b740001013de6", "firstName": "Gregg", "lastName": "Ca***r", "title": "President & General Manager", "organization": "Ivy Talent Partners", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "66f657f46a60a8000119c93b", "firstName": "Hunter", "lastName": "Wy***t", "title": "Owner", "organization": "Trophy Club Consulting, LLC", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "66fb0a5a97e0840001b4e995", "firstName": "William", "lastName": "St***y", "title": "Chief Executive Officer", "organization": "Adovate", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "5571442a7369645320230a00", "firstName": "Amrie", "lastName": "Gr***r", "title": "President", "organization": "AMPEL BioSolutions", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" }
+  ],
+  "inboxScan": {
+    "queries": ["re: your site", "re: outreach", "re: website", "re: interested", "re: charlottesville", "re: marketing"],
+    "emailsScanned": 8,
+    "prospectReplies": 0,
+    "note": "Inbox scan surfaced newsletters and promotions only (Techpresso, TLDR, Maven, StocksToTrade, Substack). No prospect replies yet — cold outreach has not been sent. The lead pipeline monitors (8 AM, 1 PM, 6 PM ET) will flag replies as soon as the first outreach goes out."
+  },
+  "replies": []
+}
