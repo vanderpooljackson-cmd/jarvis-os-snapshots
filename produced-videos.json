@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-05T10:18:31-04:00",
+  "lastRunAt": "2026-07-05T16:10:00-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -31,6 +31,37 @@
           "/tmp/jvshorts/JV-2026-07-05-SELFN/scene_06.png"
         ],
         "finalVideo": "/tmp/jvshorts/JV-2026-07-05-SELFN/final.mp4"
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-07-05-GP-001",
+      "ideaId": "GP-001",
+      "sourceHash": "d82fe24cd50bace542817da60160b4cf678d072febb0be41dc6c8b8a9e404240",
+      "status": "uploaded",
+      "mode": "slideshow",
+      "title": "Why the Owl Hunts in Total Silence #Shorts",
+      "concept": "Owl silent flight — comb-like feather serrations + velvety coating break turbulence; asymmetric ears enable 3D-sound hunting. Pulled from growth-plan.json GP-001 (winning 'Why [animal] [sensory surprise]' pattern).",
+      "startedAt": "2026-07-05T16:01:00-04:00",
+      "renderedAt": "2026-07-05T16:08:00-04:00",
+      "uploadedAt": "2026-07-05T16:10:00-04:00",
+      "youtube": {
+        "videoId": "eD5uslCyTt4",
+        "url": "https://www.youtube.com/watch?v=eD5uslCyTt4",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-07-05-GP-001/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-07-05-GP-001/narration.mp3",
+        "images": [
+          "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_01.png",
+          "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_02.png",
+          "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_03.png",
+          "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_04.png",
+          "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_05.png",
+          "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_06.png"
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-05-GP-001/final.mp4"
       },
       "error": null
     }
