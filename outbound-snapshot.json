@@ -1,6 +1,8 @@
 {
   "fetchedAt": "2026-07-04T16:56:00-04:00",
-  "source": "Apollo People Match enrichment + agent-drafted cold email",
+  "source": "Apollo People Search + agent-drafted website-services cold email",
+  "campaign": "website-services",
+  "campaignNote": "All outreach pitches fast, modern websites for small businesses (built by Jackson). NOT an AI-agent / personal-assistant offer. Pivot applied 2026-07-05. Old AI-agent pitch retained only on the 10 leads already sent before the pivot; the 2 queued drafts were redrafted to the website angle.",
   "trustTier": "fully_automatic",
   "activated": true,
   "activationNote": "Auto-send is ARMED and active. The daily auto-send scheduled task (id 30886b35, 9 AM ET, background) was created on 2026-07-04 after explicit user launch approval. It will send up to 10 drafted emails/day via Gmail, starting with the next 9 AM ET fire. Day 1 sends 10 leads, Day 2 sends the last 2. To pause, delete cron 30886b35 — this flag stays true but no task means no sends.",
@@ -266,8 +268,8 @@
       "industry": "Biopharmaceutical",
       "status": "drafted",
       "draftedAt": "2026-07-04T16:55:00-04:00",
-      "subject": "Less outreach busywork for your biopharma team",
-      "body": "Hi William,\n\nLeading a biopharma company, your team's time belongs with the science and the partners — not with prospect research and inbox triage. I'm piloting an AI agent that runs the outreach pipeline: researches prospects, drafts personalized outreach, and surfaces the replies worth attention, so the core work stays front and center.\n\nWould it be worth a short call to see if it fits your stakeholder outreach?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "subject": "A homepage direction for Adovate",
+      "body": "Hi William,\n\nRunning a biopharma company, the last thing you want to babysit is the website — but for most teams it ends up dated, slow, or quietly losing the partners and investors who land on it. I'm based near Charlottesville and build fast, modern sites for small teams: clean design that loads quickly and turns visitors into the calls and emails you actually want.\n\nI can mock up a homepage direction for Adovate before you commit to anything. Want me to send it over?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
     },
     {
       "id": "OL-012",
@@ -281,8 +283,8 @@
       "industry": "Precision Medicine / Biotech",
       "status": "drafted",
       "draftedAt": "2026-07-04T16:55:00-04:00",
-      "subject": "Freeing up your team's outreach bandwidth",
-      "body": "Hi Amrie,\n\nIn precision medicine, your team's time belongs with the research and partners — not with prospect research and reply triage. I'm piloting an AI agent that runs the outreach pipeline: it researches prospects, drafts personalized outreach, and surfaces the replies worth attention, so the scientific work stays front and center.\n\nWould it be worth a short call to see if it fits your stakeholder outreach?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
+      "subject": "A homepage direction for AMPEL BioSolutions",
+      "body": "Hi Amrie,\n\nIn precision medicine, the science is the hard part — the website shouldn't be. But for most biotech teams the site ends up dated, slow, or quietly losing the partners and collaborators who land on it. I'm based near Charlottesville and build fast, modern sites for small teams: clean design that loads quickly and turns visitors into the calls and emails you actually want.\n\nI can mock up a homepage direction for AMPEL BioSolutions before you commit to anything. Want me to send it over?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
     }
   ]
 }
