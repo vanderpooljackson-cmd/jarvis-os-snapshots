@@ -266,7 +266,9 @@
       "company": "Adovate",
       "email": "wstilley@adovate.com",
       "industry": "Biopharmaceutical",
-      "status": "drafted",
+      "status": "archived",
+      "archivedAt": "2026-07-05T23:50:00-04:00",
+      "archivedReason": "ICP pivoted to nationwide trades (plumbing/electrical/sealcoating/etc.). Biotech prospect no longer in target segment. Email not sent.",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "A homepage direction for Adovate",
       "body": "Hi William,\n\nRunning a biopharma company, the last thing you want to babysit is the website — but for most teams it ends up dated, slow, or quietly losing the partners and investors who land on it. I'm based near Charlottesville and build fast, modern sites for small teams: clean design that loads quickly and turns visitors into the calls and emails you actually want.\n\nI can mock up a homepage direction for Adovate before you commit to anything. Want me to send it over?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
@@ -281,7 +283,9 @@
       "company": "AMPEL BioSolutions",
       "email": "amriegrammer@ampelbiosolutions.com",
       "industry": "Precision Medicine / Biotech",
-      "status": "drafted",
+      "status": "archived",
+      "archivedAt": "2026-07-05T23:50:00-04:00",
+      "archivedReason": "ICP pivoted to nationwide trades. Biotech prospect no longer in target segment. Email not sent.",
       "draftedAt": "2026-07-04T16:55:00-04:00",
       "subject": "A homepage direction for AMPEL BioSolutions",
       "body": "Hi Amrie,\n\nIn precision medicine, the science is the hard part — the website shouldn't be. But for most biotech teams the site ends up dated, slow, or quietly losing the partners and collaborators who land on it. I'm based near Charlottesville and build fast, modern sites for small teams: clean design that loads quickly and turns visitors into the calls and emails you actually want.\n\nI can mock up a homepage direction for AMPEL BioSolutions before you commit to anything. Want me to send it over?\n\nBest,\nJackson Vanderpool\n\nIf this isn't relevant, reply 'not interested' and I won't follow up."
