@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T18:03:00-04:00",
+  "fetchedAt": "2026-07-07T08:05:00-04:00",
   "source": "Apollo People Search + Gmail inbox scan",
   "query": {
     "personLocations": ["Charlottesville, VA"],
@@ -8,8 +8,8 @@
     "emailStatus": ["verified", "likely_to_engage"]
   },
   "totals": {
-    "apolloResults": 1251,
-    "newLeadsShown": 5,
+    "apolloResults": 1249,
+    "newLeadsShown": 9,
     "prospectReplies": 0
   },
   "apolloLeads": [
@@ -29,27 +29,35 @@
     { "apolloId": "60f6db4b99924d0001da1618", "firstName": "John", "lastName": "Ha***k", "title": "CEO and Founder", "organization": "Sight Casting - Executive Coaching", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
     { "apolloId": "68b7b3260e3d8800019af6bc", "firstName": "Nick", "lastName": "Ha***e", "title": "CEO & Co-Founder", "organization": "fitDEGREE", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
     { "apolloId": "60b712f57123a20001d7519e", "firstName": "Hope", "lastName": "Mc***n", "title": "CEO, Founder", "organization": "Cville Capital Partners LLC", "hasEmail": true, "hasDirectPhone": null, "emailNote": "enrichment required" },
-    { "apolloId": "664934222e0ad400011ba163", "firstName": "Steven", "lastName": "Ya***s", "title": "CEO and Co-Founder", "organization": "Federant", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" }
+    { "apolloId": "664934222e0ad400011ba163", "firstName": "Steven", "lastName": "Ya***s", "title": "CEO and Co-Founder", "organization": "Federant", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+
+    { "apolloId": "66f4654a09554f000152acfd", "firstName": "Jaffray", "lastName": "Wo***f", "title": "Co-founder & CEO", "organization": "Quantitative Investment Management", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "67bd8d0a8bdd8c0001fd7987", "firstName": "Greg", "lastName": "Di***n", "title": "Founder / CEO", "organization": "Dickerson International", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "54c176af7468691639a75f11", "firstName": "Neal", "lastName": "Pi***r", "title": "Founder & CEO", "organization": "Luminoah", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "603d5a87a4ea660001a59499", "firstName": "Jill", "lastName": "My***s", "title": "Founder & Chief Executive Officer", "organization": "Women In Olive Oil", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "55bf00617369645273433100", "firstName": "Matt", "lastName": "Pi***e", "title": "Founder and CEO", "organization": "Objektiv Solutions, LLC", "hasEmail": true, "hasDirectPhone": null, "emailNote": "enrichment required" },
+    { "apolloId": "66f5372f0cfe97000130ac80", "firstName": "Kevin", "lastName": "Ei***s", "title": "Co-Founder and CEO", "organization": "Contraline", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "54ebfe85746869444ca66d39", "firstName": "Gregg", "lastName": "Ke***k", "title": "Founder / CEO", "organization": "Basileia LLC", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "54a705577468696b7fadca0d", "firstName": "Susan", "lastName": "Ro***n", "title": "Founder and CEO", "organization": "Linceis® Conscious Business Group, LLC", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" },
+    { "apolloId": "695d7e2c8a80420001a7ba04", "firstName": "Hunter", "lastName": "Sm***h", "title": "Founder & CEO", "organization": "Drink Grow", "hasEmail": true, "hasDirectPhone": true, "emailNote": "enrichment required" }
   ],
   "inboxScan": {
     "queries": [
-      "subject:re: after:2026-07-06T13:04:00-04:00",
-      "after:2026-07-06T13:04:00-04:00 from:leeandassoc.com",
-      "after:2026-07-06T13:04:00-04:00 from:taylorhospitality.com",
-      "after:2026-07-06T13:04:00-04:00 from:syntrillo.com",
-      "after:2026-07-06T13:04:00-04:00 from:12twenty.com",
-      "after:2026-07-06T13:04:00-04:00 from:woehner.com",
-      "after:2026-07-06T13:04:00-04:00 from:royalcreekconsulting.com",
-      "after:2026-07-06T13:04:00-04:00 from:gridandpixel.com",
-      "after:2026-07-06T13:04:00-04:00 from:locushealth.com",
-      "after:2026-07-06T13:04:00-04:00 from:ivy.solutions",
-      "after:2026-07-06T13:04:00-04:00 from:trophyclubconsulting.com",
-      "after:2026-07-06T13:04:00-04:00 from:adovate.com",
-      "after:2026-07-06T13:04:00-04:00 from:ampelbiosolutions.com"
+      "subject:re: after:2026-07-06T18:03:00-04:00",
+      "after:2026-07-06T18:03:00-04:00 from:leeandassoc.com",
+      "after:2026-07-06T18:03:00-04:00 from:taylorhospitality.com",
+      "after:2026-07-06T18:03:00-04:00 from:syntrillo.com",
+      "after:2026-07-06T18:03:00-04:00 from:12twenty.com",
+      "after:2026-07-06T18:03:00-04:00 from:woehner.com",
+      "after:2026-07-06T18:03:00-04:00 from:royalcreekconsulting.com",
+      "after:2026-07-06T18:03:00-04:00 from:gridandpixel.com",
+      "after:2026-07-06T18:03:00-04:00 from:locushealth.com",
+      "after:2026-07-06T18:03:00-04:00 from:ivy.solutions",
+      "after:2026-07-06T18:03:00-04:00 from:trophyclubconsulting.com"
     ],
     "emailsScanned": 0,
     "prospectReplies": 0,
-    "note": "No new prospect replies found since last snapshot."
+    "note": "No new prospect replies found since last scan."
   },
   "replies": []
 }
