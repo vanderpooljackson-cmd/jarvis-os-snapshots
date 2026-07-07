@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T13:05:00-04:00",
+  "fetchedAt": "2026-07-07T18:03:30-04:00",
   "source": "Apollo People Search + Gmail inbox scan",
   "query": {
     "personLocations": [
@@ -21,8 +21,8 @@
     ]
   },
   "totals": {
-    "apolloResults": 1249,
-    "newLeadsShown": 7,
+    "apolloResults": 1248,
+    "newLeadsShown": 5,
     "prospectReplies": 0
   },
   "apolloLeads": [
@@ -191,7 +191,7 @@
       "firstName": "Susan",
       "lastName": "Ro***n",
       "title": "Founder and CEO",
-      "organization": "Linceis® Conscious Business Group, LLC",
+      "organization": "Linceis\u00ae Conscious Business Group, LLC",
       "hasEmail": true,
       "hasDirectPhone": true,
       "emailNote": "enrichment required"
@@ -225,13 +225,67 @@
       "hasEmail": true,
       "hasDirectPhone": true,
       "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "5e7f5ea061693f00015e3a96",
+      "firstName": "Custis",
+      "lastName": "Co***n",
+      "title": "Founder & CEO",
+      "organization": "Land Credit",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "67bd8d0a8bdd8c0001fd7987",
+      "firstName": "Greg",
+      "lastName": "Di***n",
+      "title": "Founder / CEO",
+      "organization": "Dickerson International",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "54c176af7468691639a75f11",
+      "firstName": "Neal",
+      "lastName": "Pi***r",
+      "title": "Founder & CEO",
+      "organization": "Luminoah",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "672ca08b2911d800011a315f",
+      "firstName": "Charles",
+      "lastName": "He***n",
+      "title": "Founder & CEO",
+      "organization": "Stacker Group LLC",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "6108c7235a2ebd000155117e",
+      "firstName": "John",
+      "lastName": "Kl***e",
+      "title": "Co-Founder & CEO",
+      "organization": "Thistlerock Mead Company",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
     }
   ],
   "inboxScan": {
-    "queries": [],
+    "queries": [
+      "subject:re after:2026-07-06T13:04:00-04:00",
+      "after:2026-07-06T13:04:00-04:00",
+      "after:2026-07-06T13:04:00-04:00 from:(@<sent domains>)"
+    ],
     "emailsScanned": 0,
     "prospectReplies": 0,
-    "note": "Gmail scan skipped: Failed to describe external tools for gcal.search_email."
+    "note": "No prospect replies found; broad after: query returned only non-prospect notifications."
   },
   "replies": []
 }
