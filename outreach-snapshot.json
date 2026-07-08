@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T18:03:30-04:00",
+  "fetchedAt": "2026-07-08T08:05:00-04:00",
   "source": "Apollo People Search + Gmail inbox scan",
   "query": {
     "personLocations": [
@@ -21,8 +21,8 @@
     ]
   },
   "totals": {
-    "apolloResults": 1248,
-    "newLeadsShown": 5,
+    "apolloResults": 1249,
+    "newLeadsShown": 8,
     "prospectReplies": 0
   },
   "apolloLeads": [
@@ -191,7 +191,7 @@
       "firstName": "Susan",
       "lastName": "Ro***n",
       "title": "Founder and CEO",
-      "organization": "Linceis\u00ae Conscious Business Group, LLC",
+      "organization": "Linceis® Conscious Business Group, LLC",
       "hasEmail": true,
       "hasDirectPhone": true,
       "emailNote": "enrichment required"
@@ -275,17 +275,85 @@
       "hasEmail": true,
       "hasDirectPhone": true,
       "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "601a4e2f2619f600016fadbe",
+      "firstName": "Karianne",
+      "lastName": "Mi***e",
+      "title": "Founder & CEO",
+      "organization": "Lofti",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "66fbf0533acb6100013ad5f7",
+      "firstName": "Bobby",
+      "lastName": "Pe***n",
+      "title": "Founder & CEO",
+      "organization": "Law Leads",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "61678bb293be7d0001366866",
+      "firstName": "Joe",
+      "lastName": "Ja***n",
+      "title": "CEO & Founder",
+      "organization": "VisitAble",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "664934222e0ad400011ba163",
+      "firstName": "Steven",
+      "lastName": "Ya***s",
+      "title": "CEO and Co-Founder",
+      "organization": "Federant",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "66f2cdbba7e66e00019a9d55",
+      "firstName": "Jerry",
+      "lastName": "Mo***y",
+      "title": "Founder & CEO",
+      "organization": "5W Insights",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "5ae04998a6da984cea7bd3fb",
+      "firstName": "Gary",
+      "lastName": "Ta***r",
+      "title": "Founder and CEO",
+      "organization": "Taylor Associates - Northwestern Mutual",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
     }
   ],
   "inboxScan": {
     "queries": [
-      "subject:re after:2026-07-06T13:04:00-04:00",
-      "after:2026-07-06T13:04:00-04:00",
-      "after:2026-07-06T13:04:00-04:00 from:(@<sent domains>)"
+      "subject:re after:2026-07-07T08:05:00-04:00",
+      "after:2026-07-07T08:05:00-04:00 from:leeandassoc.com",
+      "after:2026-07-07T08:05:00-04:00 from:taylorhospitality.com",
+      "after:2026-07-07T08:05:00-04:00 from:syntrillo.com",
+      "after:2026-07-07T08:05:00-04:00 from:12twenty.com",
+      "after:2026-07-07T08:05:00-04:00 from:woehner.com",
+      "after:2026-07-07T08:05:00-04:00 from:royalcreekconsulting.com",
+      "after:2026-07-07T08:05:00-04:00 from:gridandpixel.com",
+      "after:2026-07-07T08:05:00-04:00 from:locushealth.com",
+      "after:2026-07-07T08:05:00-04:00 from:ivy.solutions",
+      "after:2026-07-07T08:05:00-04:00 from:trophyclubconsulting.com"
     ],
     "emailsScanned": 0,
     "prospectReplies": 0,
-    "note": "No prospect replies found; broad after: query returned only non-prospect notifications."
+    "note": "No prospect replies found in Gmail for sent-log domains since last scan."
   },
   "replies": []
 }
