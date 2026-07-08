@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T08:05:00-04:00",
+  "fetchedAt": "2026-07-08T13:02:00-04:00",
   "source": "Apollo People Search + Gmail inbox scan",
   "query": {
     "personLocations": [
@@ -21,8 +21,8 @@
     ]
   },
   "totals": {
-    "apolloResults": 1249,
-    "newLeadsShown": 8,
+    "apolloResults": 1248,
+    "newLeadsShown": 3,
     "prospectReplies": 0
   },
   "apolloLeads": [
@@ -167,76 +167,6 @@
       "emailNote": "enrichment required"
     },
     {
-      "apolloId": "695d7e2c8a80420001a7ba04",
-      "firstName": "Hunter",
-      "lastName": "Sm***h",
-      "title": "Founder & CEO",
-      "organization": "Drink Grow",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "603d5a87a4ea660001a59499",
-      "firstName": "Jill",
-      "lastName": "My***s",
-      "title": "Founder & Chief Executive Officer",
-      "organization": "Women In Olive Oil",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "54a705577468696b7fadca0d",
-      "firstName": "Susan",
-      "lastName": "Ro***n",
-      "title": "Founder and CEO",
-      "organization": "Linceis® Conscious Business Group, LLC",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "66f8a82f8dcef000015b45b9",
-      "firstName": "James",
-      "lastName": "Al***e",
-      "title": "Founder and CEO",
-      "organization": "Clio Asset Management LLC",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "55c114207369640bd2290a01",
-      "firstName": "Kyle",
-      "lastName": "Re***r",
-      "title": "Founder & CEO",
-      "organization": "LandStriker",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "611a4f730aa62c0001b84863",
-      "firstName": "Najib",
-      "lastName": "Br***m",
-      "title": "Founder & CEO",
-      "organization": "Ignis Health",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "5e7f5ea061693f00015e3a96",
-      "firstName": "Custis",
-      "lastName": "Co***n",
-      "title": "Founder & CEO",
-      "organization": "Land Credit",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
       "apolloId": "67bd8d0a8bdd8c0001fd7987",
       "firstName": "Greg",
       "lastName": "Di***n",
@@ -245,115 +175,26 @@
       "hasEmail": true,
       "hasDirectPhone": true,
       "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "54c176af7468691639a75f11",
-      "firstName": "Neal",
-      "lastName": "Pi***r",
-      "title": "Founder & CEO",
-      "organization": "Luminoah",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "672ca08b2911d800011a315f",
-      "firstName": "Charles",
-      "lastName": "He***n",
-      "title": "Founder & CEO",
-      "organization": "Stacker Group LLC",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "6108c7235a2ebd000155117e",
-      "firstName": "John",
-      "lastName": "Kl***e",
-      "title": "Co-Founder & CEO",
-      "organization": "Thistlerock Mead Company",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "601a4e2f2619f600016fadbe",
-      "firstName": "Karianne",
-      "lastName": "Mi***e",
-      "title": "Founder & CEO",
-      "organization": "Lofti",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "66fbf0533acb6100013ad5f7",
-      "firstName": "Bobby",
-      "lastName": "Pe***n",
-      "title": "Founder & CEO",
-      "organization": "Law Leads",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "61678bb293be7d0001366866",
-      "firstName": "Joe",
-      "lastName": "Ja***n",
-      "title": "CEO & Founder",
-      "organization": "VisitAble",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "664934222e0ad400011ba163",
-      "firstName": "Steven",
-      "lastName": "Ya***s",
-      "title": "CEO and Co-Founder",
-      "organization": "Federant",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "66f2cdbba7e66e00019a9d55",
-      "firstName": "Jerry",
-      "lastName": "Mo***y",
-      "title": "Founder & CEO",
-      "organization": "5W Insights",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
-    },
-    {
-      "apolloId": "5ae04998a6da984cea7bd3fb",
-      "firstName": "Gary",
-      "lastName": "Ta***r",
-      "title": "Founder and CEO",
-      "organization": "Taylor Associates - Northwestern Mutual",
-      "hasEmail": true,
-      "hasDirectPhone": true,
-      "emailNote": "enrichment required"
     }
   ],
   "inboxScan": {
     "queries": [
-      "subject:re after:2026-07-07T08:05:00-04:00",
-      "after:2026-07-07T08:05:00-04:00 from:leeandassoc.com",
-      "after:2026-07-07T08:05:00-04:00 from:taylorhospitality.com",
-      "after:2026-07-07T08:05:00-04:00 from:syntrillo.com",
-      "after:2026-07-07T08:05:00-04:00 from:12twenty.com",
-      "after:2026-07-07T08:05:00-04:00 from:woehner.com",
-      "after:2026-07-07T08:05:00-04:00 from:royalcreekconsulting.com",
-      "after:2026-07-07T08:05:00-04:00 from:gridandpixel.com",
-      "after:2026-07-07T08:05:00-04:00 from:locushealth.com",
-      "after:2026-07-07T08:05:00-04:00 from:ivy.solutions",
-      "after:2026-07-07T08:05:00-04:00 from:trophyclubconsulting.com"
+      "subject:re after:2026-07-07T13:05:00-04:00",
+      "subject:RE after:2026-07-07T13:05:00-04:00",
+      "after:2026-07-07T13:05:00-04:00 from:leeandassoc.com",
+      "after:2026-07-07T13:05:00-04:00 from:taylorhospitality.com",
+      "after:2026-07-07T13:05:00-04:00 from:syntrillo.com",
+      "after:2026-07-07T13:05:00-04:00 from:12twenty.com",
+      "after:2026-07-07T13:05:00-04:00 from:woehner.com",
+      "after:2026-07-07T13:05:00-04:00 from:royalcreekconsulting.com",
+      "after:2026-07-07T13:05:00-04:00 from:gridandpixel.com",
+      "after:2026-07-07T13:05:00-04:00 from:locushealth.com",
+      "after:2026-07-07T13:05:00-04:00 from:ivy.solutions",
+      "after:2026-07-07T13:05:00-04:00 from:trophyclubconsulting.com"
     ],
     "emailsScanned": 0,
     "prospectReplies": 0,
-    "note": "No prospect replies found in Gmail for sent-log domains since last scan."
+    "note": "No prospect replies found in Gmail since last scan."
   },
   "replies": []
 }
