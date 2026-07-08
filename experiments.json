@@ -17,10 +17,10 @@
         "avgViewDurationSec": 18
       },
       "baselineDailyAverages": { "views": 56, "watchedMinutes": 10, "avgViewDurationSec": 18 },
-      "status": "running",
-      "evaluatedAt": null,
-      "decision": null,
-      "evalNotes": null
+      "status": "kept",
+      "evaluatedAt": "2026-07-08T18:25:00-04:00",
+      "decision": "inconclusive-keep",
+      "evalNotes": "Resolved manually after evaluator escalation. The video had ZERO traffic in both the pre-test baseline (2026-06-15 to 2026-07-03: 0 views every day except 3 views on 2026-06-16) and the variant period (2026-07-04 to 2026-07-06: 0 views). With no traffic either before or after the title change, the test is inconclusive — there is no signal to measure the variant's effect. Decision: KEEP the variant title (do not revert). Rationale: (1) no evidence the variant hurt since there was no traffic to lose; (2) the variant framing 'Why Does This Fish Have White Blood?' is a stronger curiosity-gap hook than the baseline 'Antarctic Fish with White Blood', so it is the better bet when traffic returns; (3) reverting would be churn with no supporting data. The evaluator cron's 'empty rows' was this zero-traffic case (a 0-view video returns no row on a dimension=video query), not an API/auth failure. Evaluator cron updated to treat zero-traffic variant periods as inconclusive/keep instead of escalating."
     }
   ],
   "policy": {
