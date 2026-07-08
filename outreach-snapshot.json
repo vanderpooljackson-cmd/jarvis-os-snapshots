@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T13:02:00-04:00",
+  "fetchedAt": "2026-07-08T18:02:00-04:00",
   "source": "Apollo People Search + Gmail inbox scan",
   "query": {
     "personLocations": [
@@ -21,8 +21,8 @@
     ]
   },
   "totals": {
-    "apolloResults": 1248,
-    "newLeadsShown": 3,
+    "apolloResults": 1247,
+    "newLeadsShown": 7,
     "prospectReplies": 0
   },
   "apolloLeads": [
@@ -167,11 +167,81 @@
       "emailNote": "enrichment required"
     },
     {
-      "apolloId": "67bd8d0a8bdd8c0001fd7987",
-      "firstName": "Greg",
-      "lastName": "Di***n",
-      "title": "Founder / CEO",
-      "organization": "Dickerson International",
+      "apolloId": "54a705577468696b7fadca0d",
+      "firstName": "Susan",
+      "lastName": "Ro***n",
+      "title": "Founder and CEO",
+      "organization": "Linceis® Conscious Business Group, LLC",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "66f6fd5bc84f80000172fd9b",
+      "firstName": "Anthony",
+      "lastName": "Ga***t",
+      "title": "CEO & Cofounder",
+      "organization": "Vali Cyber",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "614d5986b81e590001aaf1c2",
+      "firstName": "James",
+      "lastName": "Ea***n",
+      "title": "Founder and CEO",
+      "organization": "Climate Investment Partners",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "68b7b3260e3d8800019af6bc",
+      "firstName": "Nick",
+      "lastName": "Ha***e",
+      "title": "CEO & Co-Founder",
+      "organization": "fitDEGREE",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "60f6db4b99924d0001da1618",
+      "firstName": "John",
+      "lastName": "Ha***k",
+      "title": "CEO and Founder",
+      "organization": "Sight Casting - Executive Coaching",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "66fd8dd26bbe610001b0027f",
+      "firstName": "Connie",
+      "lastName": "Lee",
+      "title": "Founder and CEO",
+      "organization": "Alliance to Cure Cavernous Malformation",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "672c9b0e1e039e0001deea8a",
+      "firstName": "Jonathan",
+      "lastName": "St***n",
+      "title": "Founder & CEO",
+      "organization": "Everhaven Securities",
+      "hasEmail": true,
+      "hasDirectPhone": true,
+      "emailNote": "enrichment required"
+    },
+    {
+      "apolloId": "611a4f730aa62c0001b84863",
+      "firstName": "Najib",
+      "lastName": "Br***m",
+      "title": "Founder & CEO",
+      "organization": "Ignis Health",
       "hasEmail": true,
       "hasDirectPhone": true,
       "emailNote": "enrichment required"
@@ -179,18 +249,18 @@
   ],
   "inboxScan": {
     "queries": [
-      "subject:re after:2026-07-07T13:05:00-04:00",
-      "subject:RE after:2026-07-07T13:05:00-04:00",
-      "after:2026-07-07T13:05:00-04:00 from:leeandassoc.com",
-      "after:2026-07-07T13:05:00-04:00 from:taylorhospitality.com",
-      "after:2026-07-07T13:05:00-04:00 from:syntrillo.com",
-      "after:2026-07-07T13:05:00-04:00 from:12twenty.com",
-      "after:2026-07-07T13:05:00-04:00 from:woehner.com",
-      "after:2026-07-07T13:05:00-04:00 from:royalcreekconsulting.com",
-      "after:2026-07-07T13:05:00-04:00 from:gridandpixel.com",
-      "after:2026-07-07T13:05:00-04:00 from:locushealth.com",
-      "after:2026-07-07T13:05:00-04:00 from:ivy.solutions",
-      "after:2026-07-07T13:05:00-04:00 from:trophyclubconsulting.com"
+      "subject:re after:2026-07-07T18:03:30-04:00",
+      "subject:RE after:2026-07-07T18:03:30-04:00",
+      "after:2026-07-07T18:03:30-04:00 from:leeandassoc.com",
+      "after:2026-07-07T18:03:30-04:00 from:taylorhospitality.com",
+      "after:2026-07-07T18:03:30-04:00 from:syntrillo.com",
+      "after:2026-07-07T18:03:30-04:00 from:12twenty.com",
+      "after:2026-07-07T18:03:30-04:00 from:woehner.com",
+      "after:2026-07-07T18:03:30-04:00 from:royalcreekconsulting.com",
+      "after:2026-07-07T18:03:30-04:00 from:gridandpixel.com",
+      "after:2026-07-07T18:03:30-04:00 from:locushealth.com",
+      "after:2026-07-07T18:03:30-04:00 from:ivy.solutions",
+      "after:2026-07-07T18:03:30-04:00 from:trophyclubconsulting.com"
     ],
     "emailsScanned": 0,
     "prospectReplies": 0,
