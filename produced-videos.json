@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-05T16:10:00-04:00",
+  "lastRunAt": "2026-07-08T19:54:54-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -10,7 +10,7 @@
       "status": "uploaded",
       "mode": "slideshow",
       "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
-      "concept": "Mantis shrimp vision — up to 16 photoreceptor types, sees UV/polarized light, plus the 50+ mph cavitation punch. Self-generated from Pulse winner pattern (animal senses/curiosity-gap).",
+      "concept": "Mantis shrimp vision \u2014 up to 16 photoreceptor types, sees UV/polarized light, plus the 50+ mph cavitation punch. Self-generated from Pulse winner pattern (animal senses/curiosity-gap).",
       "startedAt": "2026-07-05T10:02:00-04:00",
       "renderedAt": "2026-07-05T10:14:00-04:00",
       "uploadedAt": "2026-07-05T10:18:31-04:00",
@@ -41,7 +41,7 @@
       "status": "uploaded",
       "mode": "slideshow",
       "title": "Why the Owl Hunts in Total Silence #Shorts",
-      "concept": "Owl silent flight — comb-like feather serrations + velvety coating break turbulence; asymmetric ears enable 3D-sound hunting. Pulled from growth-plan.json GP-001 (winning 'Why [animal] [sensory surprise]' pattern).",
+      "concept": "Owl silent flight \u2014 comb-like feather serrations + velvety coating break turbulence; asymmetric ears enable 3D-sound hunting. Pulled from growth-plan.json GP-001 (winning 'Why [animal] [sensory surprise]' pattern).",
       "startedAt": "2026-07-05T16:01:00-04:00",
       "renderedAt": "2026-07-05T16:08:00-04:00",
       "uploadedAt": "2026-07-05T16:10:00-04:00",
@@ -62,6 +62,66 @@
           "/tmp/jvshorts/JV-2026-07-05-GP-001/scene_06.png"
         ],
         "finalVideo": "/tmp/jvshorts/JV-2026-07-05-GP-001/final.mp4"
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-07-08-GP-002",
+      "ideaId": "GP-002",
+      "sourceHash": "58bf158f1d106d47e54873db7440af0166f68c443bae22579b312a8be4c76d87",
+      "status": "uploaded",
+      "startedAt": "2026-07-08T19:50:07-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
+      "concept": "Wood frog freeze survival \u2014 liver floods cells with glucose antifreeze; heart stops, brain flatlines, thaws in spring. GP-002 from growth plan, winning 'Why [animal] [superpower]' pattern.",
+      "renderedAt": "2026-07-08T19:53:00-04:00",
+      "uploadedAt": "2026-07-08T19:54:46-04:00",
+      "youtube": {
+        "videoId": "uEWo-Q5jST8",
+        "url": "https://www.youtube.com/watch?v=uEWo-Q5jST8",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-07-08-GP-002/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-07-08-GP-002/narration.mp3",
+        "musicBed": "/tmp/jvshorts/JV-2026-07-08-GP-002/music_bed.wav",
+        "stockClips": [
+          {
+            "scene": 1,
+            "queryUsed": "wood frog close up",
+            "providerId": "32880082"
+          },
+          {
+            "scene": 2,
+            "queryUsed": "frog frozen in ice winter",
+            "providerId": "36274229"
+          },
+          {
+            "scene": 3,
+            "queryUsed": "frog in leaves forest",
+            "providerId": "32880081"
+          },
+          {
+            "scene": 4,
+            "queryUsed": "frog hopping slow motion",
+            "providerId": "32899870"
+          },
+          {
+            "scene": 5,
+            "queryUsed": "snow melting forest stream",
+            "providerId": "19994622"
+          },
+          {
+            "scene": 6,
+            "queryUsed": "spring forest melting snow",
+            "providerId": "34697148"
+          }
+        ],
+        "captions": "/tmp/jvshorts/JV-2026-07-08-GP-002/captions.ass",
+        "hookTitle": "FROZEN SOLID AND ALIVE",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-08-GP-002/final.mp4",
+        "duration": 45.57,
+        "resolution": "1080x1920"
       },
       "error": null
     }
