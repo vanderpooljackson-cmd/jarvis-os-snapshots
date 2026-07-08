@@ -8,8 +8,8 @@
   "activationNote": "Auto-send is ARMED and active. The daily auto-send scheduled task (id 30886b35, 9 AM ET, background) was created on 2026-07-04 after explicit user launch approval. It will send up to 10 drafted emails/day via Gmail, starting with the next 9 AM ET fire. Day 1 sends 10 leads, Day 2 sends the last 2. To pause, delete cron 30886b35 — this flag stays true but no task means no sends.",
   "dailyCap": 10,
   "perRunCap": 10,
-  "sentToday": 10,
-  "sentDate": "2026-07-05",
+  "sentToday": 0,
+  "sentDate": "2026-07-08",
   "cadence": "Daily ~9 AM ET",
   "sender": {
     "name": "Jackson Vanderpool",
