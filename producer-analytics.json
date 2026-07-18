@@ -1,11 +1,179 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": null,
-  "fetchedAt": null,
-  "videos": [],
-  "hookFrames": [],
-  "topics": [],
-  "titlePatterns": [],
-  "summary": []
+  "lastRunAt": "2026-07-18T11:03:00-04:00",
+  "fetchedAt": "2026-07-18T11:03:00-04:00",
+  "videos": [
+    {
+      "productionId": "JV-2026-07-05-SELFN",
+      "videoId": "KwGyJHy9ZMQ",
+      "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
+      "uploadedAt": "2026-07-05T10:18:31-04:00",
+      "ageHoursAtAnalysis": 313.7,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 3,
+        "estimatedMinutesWatched": 0,
+        "averageViewDuration": 12,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0
+      },
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 27,
+        "ratioToBaselineAvgViewDuration": 0.44,
+        "note": "Avg view duration is well below current channel median (proxy: 28d top-video median ~27s), but overall views are still very low so this is treated as stable/not enough signal."
+      },
+      "analyzedAt": "2026-07-18T11:03:00-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-05-GP-001",
+      "videoId": "eD5uslCyTt4",
+      "title": "Why the Owl Hunts in Total Silence #Shorts",
+      "uploadedAt": "2026-07-05T16:10:00-04:00",
+      "ageHoursAtAnalysis": 307.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 16,
+        "estimatedMinutesWatched": 2,
+        "averageViewDuration": 25,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0
+      },
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 27,
+        "ratioToBaselineAvgViewDuration": 0.93,
+        "note": "Avg view duration is near channel median, but views are modest; treated as stable."
+      },
+      "analyzedAt": "2026-07-18T11:03:00-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-08-GP-002",
+      "videoId": "uEWo-Q5jST8",
+      "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
+      "uploadedAt": "2026-07-08T19:54:46-04:00",
+      "ageHoursAtAnalysis": 183.1,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1050,
+        "estimatedMinutesWatched": 246,
+        "averageViewDuration": 27,
+        "likes": 16,
+        "comments": 1,
+        "shares": 0
+      },
+      "videoDurationSeconds": 45.57,
+      "retentionPercent": 59.2,
+      "performanceLabel": "winner",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 27,
+        "ratioToBaselineAvgViewDuration": 1.0,
+        "note": "This video is driving nearly all recent channel views and matches the current channel median AVD; labeled winner due to outsized views and solid retention."
+      },
+      "analyzedAt": "2026-07-18T11:03:00-04:00",
+      "lastNotifiedLabel": null
+    }
+  ],
+  "hookFrames": [
+    {
+      "key": "why_animal_sensory_surprise",
+      "label": "Why the [animal] [sensory surprise]",
+      "videos": [
+        "KwGyJHy9ZMQ",
+        "eD5uslCyTt4"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 18.5,
+      "viewsMedian": 9.5,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "why_animal_superpower",
+      "label": "Why the [animal] [superpower]",
+      "videos": [
+        "uEWo-Q5jST8"
+      ],
+      "sampleSize": 1,
+      "avgViewDurationMedian": 27,
+      "viewsMedian": 1050,
+      "verdict": "promising",
+      "confidence": "low"
+    }
+  ],
+  "topics": [
+    {
+      "key": "mantis_shrimp",
+      "label": "Mantis shrimp",
+      "videos": [
+        "KwGyJHy9ZMQ"
+      ],
+      "sampleSize": 1,
+      "avgViewDurationMedian": 12,
+      "viewsMedian": 3,
+      "verdict": "avoid",
+      "confidence": "low"
+    },
+    {
+      "key": "owl",
+      "label": "Owl",
+      "videos": [
+        "eD5uslCyTt4"
+      ],
+      "sampleSize": 1,
+      "avgViewDurationMedian": 25,
+      "viewsMedian": 16,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "wood_frog",
+      "label": "Wood frog",
+      "videos": [
+        "uEWo-Q5jST8"
+      ],
+      "sampleSize": 1,
+      "avgViewDurationMedian": 27,
+      "viewsMedian": 1050,
+      "verdict": "promising",
+      "confidence": "low"
+    }
+  ],
+  "titlePatterns": [
+    {
+      "key": "why_the_[animal]_[verb/trait]_#shorts",
+      "label": "Why the [animal] [X] #Shorts",
+      "videos": [
+        "KwGyJHy9ZMQ",
+        "eD5uslCyTt4",
+        "uEWo-Q5jST8"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 25,
+      "viewsMedian": 16,
+      "verdict": "promising",
+      "confidence": "low"
+    }
+  ],
+  "summary": [
+    {
+      "pattern": "\"Why the [animal] [surprising ability]\" is the right frame to keep using",
+      "evidence": "Across 3 produced videos, 1 is a clear breakout (Wood frog: 1,050 views; 27s AVD; ~59% retention on 45.6s). The other two are low-view but not disastrous on AVD (owl: 25s).",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Underwater/less-familiar animals may need better immediate visual proof",
+      "evidence": "Mantis shrimp video is currently at 3 views with 12s AVD, far below the channel median AVD proxy (~27s), though sample is too small to over-interpret.",
+      "verdict": "promising"
+    }
+  ]
 }
