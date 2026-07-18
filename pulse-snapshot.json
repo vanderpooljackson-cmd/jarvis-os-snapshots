@@ -3,162 +3,257 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "\ud83d\udc32JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
-    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s88-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 19036,
-      "subscriberCount": 24,
-      "videoCount": 43
+      "viewCount": 20087,
+      "subscriberCount": 25,
+      "videoCount": 44
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-06-10",
-    "endDate": "2026-07-08",
+    "startDate": "2026-06-20",
+    "endDate": "2026-07-18",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 8480,
-    "estimatedMinutesWatched": 1360,
-    "subscribersGained": 11,
-    "subscribersLost": 1,
-    "netSubscribers": 10,
-    "likes": 179,
-    "comments": 8,
-    "shares": 1
+    "views": 1095,
+    "estimatedMinutesWatched": 250,
+    "subscribersGained": 1,
+    "subscribersLost": 0,
+    "netSubscribers": 1,
+    "likes": 21,
+    "comments": 1,
+    "shares": 0
   },
   "daily": [
-    { "day": "2026-06-10", "views": 707, "watched": 183, "subsGained": 2, "subsLost": 1, "likes": 7 },
-    { "day": "2026-06-11", "views": 795, "watched": 128, "subsGained": 1, "subsLost": 0, "likes": 14 },
-    { "day": "2026-06-12", "views": 1044, "watched": 122, "subsGained": 1, "subsLost": 0, "likes": 15 },
-    { "day": "2026-06-13", "views": 1754, "watched": 317, "subsGained": 4, "subsLost": 0, "likes": 22 },
-    { "day": "2026-06-14", "views": 282, "watched": 20, "subsGained": 0, "subsLost": 0, "likes": 2 },
-    { "day": "2026-06-15", "views": 582, "watched": 47, "subsGained": 0, "subsLost": 0, "likes": 8 },
-    { "day": "2026-06-16", "views": 1371, "watched": 207, "subsGained": 1, "subsLost": 0, "likes": 54 },
-    { "day": "2026-06-17", "views": 1223, "watched": 190, "subsGained": 1, "subsLost": 0, "likes": 33 },
-    { "day": "2026-06-18", "views": 653, "watched": 137, "subsGained": 0, "subsLost": 0, "likes": 18 },
-    { "day": "2026-06-19", "views": 29, "watched": 4, "subsGained": 0, "subsLost": 0, "likes": 1 },
-    { "day": "2026-06-20", "views": 2, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-21", "views": 4, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-06-23", "views": 2, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 2 },
-    { "day": "2026-06-29", "views": 0, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": -1 },
-    { "day": "2026-07-03", "views": 1, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 0 },
-    { "day": "2026-07-04", "views": 1, "watched": 0, "subsGained": 0, "subsLost": 0, "likes": 1 },
-    { "day": "2026-07-05", "views": 30, "watched": 5, "subsGained": 0, "subsLost": 0, "likes": 3 }
+    {
+      "day": "2026-06-20",
+      "views": 2,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-06-21",
+      "views": 4,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-06-23",
+      "views": 2,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 2
+    },
+    {
+      "day": "2026-06-29",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": -1
+    },
+    {
+      "day": "2026-07-03",
+      "views": 1,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-04",
+      "views": 1,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 1
+    },
+    {
+      "day": "2026-07-05",
+      "views": 30,
+      "watched": 5,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 3
+    },
+    {
+      "day": "2026-07-06",
+      "views": 1,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-07",
+      "views": 2,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-08",
+      "views": 946,
+      "watched": 223,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 14
+    },
+    {
+      "day": "2026-07-09",
+      "views": 99,
+      "watched": 22,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 2
+    },
+    {
+      "day": "2026-07-10",
+      "views": 3,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-12",
+      "views": 3,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-13",
+      "views": 1,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    }
   ],
   "topVideos": [
     {
+      "videoId": "uEWo-Q5jST8",
+      "title": null,
+      "views": 1050,
+      "watched": 246,
+      "likes": 16,
+      "comments": 1,
+      "avgViewDuration": 27.0,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "eD5uslCyTt4",
+      "title": null,
+      "views": 16,
+      "watched": 2,
+      "likes": 2,
+      "comments": 0,
+      "avgViewDuration": 25.0,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "zbQossrADw4",
-      "title": "Wolves' Impact on Yellowstone Rivers #Shorts",
-      "views": 787,
-      "watched": 162,
-      "likes": 43,
-      "comments": 1,
-      "avgViewDuration": 25,
-      "flag": "winner",
-      "note": "Top views and above-median retention"
-    },
-    {
-      "videoId": "8QKw2mkKk_w",
       "title": null,
-      "views": 691,
-      "watched": 80,
-      "likes": 9,
-      "comments": 1,
-      "avgViewDuration": 13,
-      "flag": "optimize",
-      "note": "Above-average views but below-median avg view duration"
-    },
-    {
-      "videoId": "0j-I7pXW5OQ",
-      "title": null,
-      "views": 687,
-      "watched": 125,
-      "likes": 15,
+      "views": 4,
+      "watched": 0,
+      "likes": 0,
       "comments": 0,
-      "avgViewDuration": 21,
+      "avgViewDuration": 10.0,
       "flag": "stable",
-      "note": "In-range performance"
-    },
-    {
-      "videoId": "WxmrAMzLtrU",
-      "title": null,
-      "views": 687,
-      "watched": 108,
-      "likes": 9,
-      "comments": 0,
-      "avgViewDuration": 19,
-      "flag": "stable",
-      "note": "In-range performance"
+      "note": ""
     },
     {
       "videoId": "nwx9HIi8XzE",
       "title": null,
-      "views": 678,
-      "watched": 128,
-      "likes": 10,
+      "views": 4,
+      "watched": 1,
+      "likes": 0,
       "comments": 0,
-      "avgViewDuration": 21,
+      "avgViewDuration": 97.0,
       "flag": "stable",
-      "note": "In-range performance"
+      "note": ""
     },
     {
-      "videoId": "DR1W_YgCKtc",
+      "videoId": "jDZxh-T1Blw",
       "title": null,
-      "views": 616,
-      "watched": 112,
-      "likes": 11,
-      "comments": 1,
-      "avgViewDuration": 20,
+      "views": 4,
+      "watched": 0,
+      "likes": 1,
+      "comments": 0,
+      "avgViewDuration": 10.0,
       "flag": "stable",
-      "note": "In-range performance"
+      "note": ""
+    },
+    {
+      "videoId": "KwGyJHy9ZMQ",
+      "title": null,
+      "views": 3,
+      "watched": 0,
+      "likes": 1,
+      "comments": 0,
+      "avgViewDuration": 12.0,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "8sAOhG7i-XU",
+      "title": null,
+      "views": 2,
+      "watched": 0,
+      "likes": 1,
+      "comments": 0,
+      "avgViewDuration": 24.0,
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "1s3lw9EZDcQ",
       "title": null,
-      "views": 607,
-      "watched": 53,
-      "likes": 13,
-      "comments": 1,
-      "avgViewDuration": 13,
-      "flag": "optimize",
-      "note": "Above-average views but below-median avg view duration"
+      "views": 2,
+      "watched": 0,
+      "likes": 0,
+      "comments": 0,
+      "avgViewDuration": 0.0,
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "qRaMQyjLSv4",
       "title": null,
-      "views": 591,
-      "watched": 115,
-      "likes": 10,
+      "views": 2,
+      "watched": 0,
+      "likes": 0,
       "comments": 0,
-      "avgViewDuration": 20,
+      "avgViewDuration": 0.0,
       "flag": "stable",
-      "note": "In-range performance"
+      "note": ""
     },
     {
-      "videoId": "s8a3GRI0f8M",
+      "videoId": "99f5zBFgd0M",
       "title": null,
-      "views": 546,
-      "watched": 122,
-      "likes": 13,
+      "views": 1,
+      "watched": 0,
+      "likes": 0,
       "comments": 0,
-      "avgViewDuration": 22,
+      "avgViewDuration": 3.0,
       "flag": "stable",
-      "note": "In-range performance"
-    },
-    {
-      "videoId": "4-qB4qxemio",
-      "title": null,
-      "views": 486,
-      "watched": 37,
-      "likes": 5,
-      "comments": 0,
-      "avgViewDuration": 16,
-      "flag": "stable",
-      "note": "In-range performance"
+      "note": ""
     }
   ],
-  "fetchedAt": "2026-07-08T09:01:00-04:00",
+  "fetchedAt": "2026-07-18T09:04:31-04:00",
   "source": "YouTube Analytics API"
 }
