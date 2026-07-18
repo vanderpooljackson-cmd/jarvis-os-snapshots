@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-08T19:54:54-04:00",
+  "lastRunAt": "2026-07-18T10:04:09.213788-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -124,6 +124,30 @@
         "resolution": "1080x1920"
       },
       "error": null
+    },
+    {
+      "productionId": "JV-2026-07-18-GP-003",
+      "ideaId": "GP-003",
+      "sourceHash": "7897b1096909628ebf85d496d928312214fb3c5340e2497dd19618b5de6b4fa1",
+      "status": "render-failed",
+      "startedAt": "2026-07-18T10:02:42.952427-04:00",
+      "mode": "stock-footage+captions",
+      "renderedAt": "2026-07-18T10:04:09.213788-04:00",
+      "error": "insufficient stock footage (content mismatch): 6/6 clips fetched but 0 depict axolotls. Pexels lacks axolotl footage - fetcher returned a marine worm (scene 1 hook), penguin (scene 2), snake (scene 5), and generic aquarium fish. Violates hook-must-show-animal and 4/6-must-be-the-animal rules. Did not upload mismatched footage; did not fall back to AI visuals.",
+      "evalNote": "Axolotl topic is not filmable with Pexels stock footage. Growth planner should avoid axolotl/salamander topics until a footage source with axolotl clips is available. Next run should self-generate an animal with abundant Pexels footage (e.g. owl, frog, shark, octopus, eagle, fox, bee).",
+      "stockFetchResult": {
+        "clipsFetched": 6,
+        "clipsNeeded": 6,
+        "mismatched": true,
+        "clipTitles": [
+          "marine worm on sea bed",
+          "penguin swimming underwater",
+          "fish in aquarium",
+          "hand underwater",
+          "snake in shallow water",
+          "fish in aquarium with plants"
+        ]
+      }
     }
   ]
 }
