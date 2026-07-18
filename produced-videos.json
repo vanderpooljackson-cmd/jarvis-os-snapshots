@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-18T10:04:09.213788-04:00",
+  "lastRunAt": "2026-07-18T16:10:31.057742-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -148,6 +148,106 @@
           "fish in aquarium with plants"
         ]
       }
+    },
+    {
+      "productionId": "JV-2026-07-18-SELFN",
+      "ideaId": "SELF-ARCTICFOX",
+      "sourceHash": "e7dc5d1a3c0d14ace702858f1e431569ec08b1cadee49d024c8ee2b3baf0d183",
+      "status": "render-failed",
+      "startedAt": "2026-07-18T16:04:08.692843-04:00",
+      "mode": "stock-footage+captions",
+      "selfGenerated": true,
+      "concept": "Arctic fox extreme cold survival - warmest fur of any mammal, parallel to winning wood-frog freeze-survival angle",
+      "renderedAt": "2026-07-18T16:06:17.543529-04:00",
+      "error": "insufficient stock footage (content mismatch): 6/6 clips fetched but 0 depict arctic foxes. Scene 1 = red fox on gravel path (no snow), scene 4 = red fox in green grass (summer), scene 3 = lynx (wrong animal), scenes 2/5/6 = generic winter forests/ice. Red foxes in summer contradict minus-70-degrees narration. Did not upload; did not fall back to AI.",
+      "evalNote": "Pexels lacks arctic fox footage - returns red foxes (wrong season) + lynx. Avoid arctic fox topic."
+    },
+    {
+      "productionId": "JV-2026-07-18-SELFN2",
+      "ideaId": "SELF-EMPERORPENGUIN",
+      "sourceHash": "93134453a5b14c51967a12b055b1f9e99f59f66685d984af8b0ff950e2cb5b90",
+      "status": "uploaded",
+      "startedAt": "2026-07-18T16:06:17.621308-04:00",
+      "mode": "stock-footage+captions",
+      "selfGenerated": true,
+      "concept": "Emperor penguin extreme cold survival - coldest breeding season of any animal, parallel to winning wood-frog extreme-survival angle",
+      "pivotedFrom": "JV-2026-07-18-SELFN (arctic fox, render-failed: no arctic fox footage on Pexels)",
+      "renderedAt": "2026-07-18T16:10:31.057742-04:00",
+      "uploadedAt": "2026-07-18T16:10:31.057742-04:00",
+      "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+      "youtube": {
+        "videoId": "D2elbK2vCRE",
+        "url": "https://www.youtube.com/watch?v=D2elbK2vCRE",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-18T20:10:10Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-18-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-07-18-SELFN2/narration.mp3",
+        "narrationDurationSec": 40.65,
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-18-SELFN2/final.mp4",
+        "finalDurationSec": 40.6,
+        "resolution": "1080x1920",
+        "hookOverlayPhrase": "STANDS FOR A HUNDRED DAYS",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "11403283",
+            "sourceUrl": "https://www.pexels.com/video/penguins-resting-in-oceanarium-11403283/",
+            "photographer": "Sun452",
+            "queryUsed": "emperor penguin close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "37331912",
+            "sourceUrl": "https://www.pexels.com/video/captivating-king-penguin-by-tranquil-water-37331912/",
+            "photographer": "Paul Bredt",
+            "queryUsed": "penguins walking on ice",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "31750544",
+            "sourceUrl": "https://www.pexels.com/video/gentoo-penguins-group-at-rocky-habitat-31750544/",
+            "photographer": "Moh Kashani",
+            "queryUsed": "penguin colony antarctica",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "31750544",
+            "sourceUrl": "https://www.pexels.com/video/gentoo-penguins-group-at-rocky-habitat-31750544/",
+            "photographer": "Moh Kashani",
+            "queryUsed": "penguin colony antarctica (reused for huddle beat - original 'penguins huddling together' query returned an unrelated starfish clip 27901184, replaced with penguin colony clip)",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "36274229",
+            "sourceUrl": "https://www.pexels.com/video/frozen-lake-surface-with-circular-ice-patterns-36274229/",
+            "photographer": "Nidas Kiuberis",
+            "queryUsed": "penguin on ice snow (returned pancake-ice habitat, thematically fits heat-trapping beat)",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "36134172",
+            "sourceUrl": "https://www.pexels.com/video/aerial-view-of-ice-sheet-and-ocean-36134172/",
+            "photographer": "Efrem Efre",
+            "queryUsed": "antarctic ice landscape",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ]
+      },
+      "error": null
     }
   ]
 }
