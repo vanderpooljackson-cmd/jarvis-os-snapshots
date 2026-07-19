@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-19T10:16:08.545203-04:00",
+  "lastRunAt": "2026-07-19T16:06:29.342991-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -355,6 +355,89 @@
         "error": null
       },
       "lastRunAt": "2026-07-19T10:16:08.545203-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-19-SELFN2",
+      "ideaId": "self-generated",
+      "sourceHash": "cf42a7e20b271bb6",
+      "status": "uploaded",
+      "startedAt": "2026-07-19T16:02:48.006623-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "sourceType": "self-generated (skipped growth-plan IDEA003 owl: duplicates underperforming animal + sensory angle that tanked on mantis shrimp)",
+      "renderedAt": "2026-07-19T16:06:29.342991-04:00",
+      "uploadedAt": "2026-07-19T16:06:29.342991-04:00",
+      "youtube": {
+        "videoId": "RZ6qtnTpTiA",
+        "url": "https://www.youtube.com/watch?v=RZ6qtnTpTiA",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-19T20:06:22Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "How does a fox catch a mouse it can't even see? (fox uses Earth's magnetic field as a targeting scope; NE-aligned pounces land ~73% of the time)",
+        "narration": "charon TTS 46.97s",
+        "hookCard": "SEES MAGNETIC FIELDS",
+        "finalVideo": "1080x1920 46.97s",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "28152276",
+            "sourceUrl": "https://www.pexels.com/video/a-fox-is-laying-in-the-grass-next-to-some-bushes-28152276/",
+            "photographer": "AP Vibes",
+            "queryUsed": "red fox close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "15795015",
+            "sourceUrl": "https://www.pexels.com/video/fox-slow-motion-15795015/",
+            "photographer": "Gabriele Brancati",
+            "queryUsed": "fox in snow",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "18831845",
+            "sourceUrl": "https://www.pexels.com/video/slow-fox-18831845/",
+            "photographer": "Gabriele Brancati",
+            "queryUsed": "fox hunting in snow",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "18832351",
+            "sourceUrl": "https://www.pexels.com/video/eyes-that-capture-the-soul-18832351/",
+            "photographer": "Gabriele Brancati",
+            "queryUsed": "fox jumping",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "16349092",
+            "sourceUrl": "https://www.pexels.com/video/incontri-16349092/",
+            "photographer": "Simone Cappellari",
+            "queryUsed": "red fox in winter",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "18831845",
+            "sourceUrl": "https://www.pexels.com/video/slow-fox-18831845/",
+            "photographer": "Gabriele Brancati (reused scene 3)",
+            "queryUsed": "fox walking in forest (returned brown dog; reused fox clip to keep all-fox footage)",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "error": null
+      },
+      "lastRunAt": "2026-07-19T16:06:29.342991-04:00"
     }
   ]
 }
