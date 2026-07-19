@@ -8,18 +8,18 @@
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s88-c-k-c0x00ffffff-no-rj",
     "statistics": {
       "viewCount": 20087,
-      "subscriberCount": 25,
-      "videoCount": 44
+      "subscriberCount": 26,
+      "videoCount": 45
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-06-20",
-    "endDate": "2026-07-18",
+    "startDate": "2026-06-21",
+    "endDate": "2026-07-19",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 1095,
+    "views": 1093,
     "estimatedMinutesWatched": 250,
     "subscribersGained": 1,
     "subscribersLost": 0,
@@ -29,14 +29,6 @@
     "shares": 0
   },
   "daily": [
-    {
-      "day": "2026-06-20",
-      "views": 2,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-06-21",
       "views": 4,
@@ -177,17 +169,6 @@
       "note": ""
     },
     {
-      "videoId": "nwx9HIi8XzE",
-      "title": null,
-      "views": 4,
-      "watched": 1,
-      "likes": 0,
-      "comments": 0,
-      "avgViewDuration": 97.0,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "jDZxh-T1Blw",
       "title": null,
       "views": 4,
@@ -195,6 +176,17 @@
       "likes": 1,
       "comments": 0,
       "avgViewDuration": 10.0,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "nwx9HIi8XzE",
+      "title": null,
+      "views": 4,
+      "watched": 1,
+      "likes": 0,
+      "comments": 0,
+      "avgViewDuration": 97.0,
       "flag": "stable",
       "note": ""
     },
@@ -221,17 +213,6 @@
       "note": ""
     },
     {
-      "videoId": "1s3lw9EZDcQ",
-      "title": null,
-      "views": 2,
-      "watched": 0,
-      "likes": 0,
-      "comments": 0,
-      "avgViewDuration": 0.0,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "qRaMQyjLSv4",
       "title": null,
       "views": 2,
@@ -243,7 +224,18 @@
       "note": ""
     },
     {
-      "videoId": "99f5zBFgd0M",
+      "videoId": "1s3lw9EZDcQ",
+      "title": null,
+      "views": 2,
+      "watched": 0,
+      "likes": 0,
+      "comments": 0,
+      "avgViewDuration": 0.0,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "U5EkMB6EV6Q",
       "title": null,
       "views": 1,
       "watched": 0,
@@ -254,6 +246,6 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-07-18T09:04:31-04:00",
+  "fetchedAt": "2026-07-19T09:03:38-04:00",
   "source": "YouTube Analytics API"
 }
