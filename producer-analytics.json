@@ -1,15 +1,15 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-18T11:03:00-04:00",
-  "fetchedAt": "2026-07-18T11:03:00-04:00",
+  "lastRunAt": "2026-07-19T11:03:29.334463-04:00",
+  "fetchedAt": "2026-07-19T11:03:29.334463-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
       "videoId": "KwGyJHy9ZMQ",
       "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
       "uploadedAt": "2026-07-05T10:18:31-04:00",
-      "ageHoursAtAnalysis": 313.7,
+      "ageHoursAtAnalysis": 336.7,
       "analyticsStatus": "available",
       "metrics": {
         "views": 3,
@@ -23,11 +23,11 @@
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 27,
-        "ratioToBaselineAvgViewDuration": 0.44,
-        "note": "Avg view duration is well below current channel median (proxy: 28d top-video median ~27s), but overall views are still very low so this is treated as stable/not enough signal."
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": 1.0,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-18T11:03:00-04:00",
+      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -35,7 +35,7 @@
       "videoId": "eD5uslCyTt4",
       "title": "Why the Owl Hunts in Total Silence #Shorts",
       "uploadedAt": "2026-07-05T16:10:00-04:00",
-      "ageHoursAtAnalysis": 307.9,
+      "ageHoursAtAnalysis": 330.9,
       "analyticsStatus": "available",
       "metrics": {
         "views": 16,
@@ -49,11 +49,11 @@
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 27,
-        "ratioToBaselineAvgViewDuration": 0.93,
-        "note": "Avg view duration is near channel median, but views are modest; treated as stable."
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": 2.08,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-18T11:03:00-04:00",
+      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -61,7 +61,7 @@
       "videoId": "uEWo-Q5jST8",
       "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
       "uploadedAt": "2026-07-08T19:54:46-04:00",
-      "ageHoursAtAnalysis": 183.1,
+      "ageHoursAtAnalysis": 255.1,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1050,
@@ -75,11 +75,49 @@
       "retentionPercent": 59.2,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 27,
-        "ratioToBaselineAvgViewDuration": 1.0,
-        "note": "This video is driving nearly all recent channel views and matches the current channel median AVD; labeled winner due to outsized views and solid retention."
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": 2.25,
+        "note": "Above baseline AVD with meaningful early views."
       },
-      "analyzedAt": "2026-07-18T11:03:00-04:00",
+      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-18-SELFN2",
+      "videoId": "D2elbK2vCRE",
+      "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+      "uploadedAt": "2026-07-18T16:10:31.057742-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": 40.6,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (expected for <24\u201348h old videos)."
+      },
+      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-19-SELFN",
+      "videoId": "g6Nmh2WuHDo",
+      "title": "Why the Polar Bear Is Not Actually White #Shorts",
+      "uploadedAt": "2026-07-19T10:16:08.545203-04:00",
+      "ageHoursAtAnalysis": 0.8,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (expected for <24\u201348h old videos)."
+      },
+      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -92,8 +130,8 @@
         "eD5uslCyTt4"
       ],
       "sampleSize": 2,
-      "avgViewDurationMedian": 18.5,
-      "viewsMedian": 9.5,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 16.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -104,23 +142,23 @@
         "uEWo-Q5jST8"
       ],
       "sampleSize": 1,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1050,
-      "verdict": "promising",
+      "avgViewDurationMedian": 27.0,
+      "viewsMedian": 1050.0,
+      "verdict": "prioritize",
       "confidence": "low"
     }
   ],
   "topics": [
     {
       "key": "mantis_shrimp",
-      "label": "Mantis shrimp",
+      "label": "Mantis Shrimp",
       "videos": [
         "KwGyJHy9ZMQ"
       ],
       "sampleSize": 1,
-      "avgViewDurationMedian": 12,
-      "viewsMedian": 3,
-      "verdict": "avoid",
+      "avgViewDurationMedian": 12.0,
+      "viewsMedian": 3.0,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -130,27 +168,27 @@
         "eD5uslCyTt4"
       ],
       "sampleSize": 1,
-      "avgViewDurationMedian": 25,
-      "viewsMedian": 16,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 16.0,
       "verdict": "promising",
       "confidence": "low"
     },
     {
       "key": "wood_frog",
-      "label": "Wood frog",
+      "label": "Wood Frog",
       "videos": [
         "uEWo-Q5jST8"
       ],
       "sampleSize": 1,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1050,
-      "verdict": "promising",
+      "avgViewDurationMedian": 27.0,
+      "viewsMedian": 1050.0,
+      "verdict": "prioritize",
       "confidence": "low"
     }
   ],
   "titlePatterns": [
     {
-      "key": "why_the_[animal]_[verb/trait]_#shorts",
+      "key": "why_the_[animal]_[x]_#shorts",
       "label": "Why the [animal] [X] #Shorts",
       "videos": [
         "KwGyJHy9ZMQ",
@@ -158,22 +196,17 @@
         "uEWo-Q5jST8"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 25,
-      "viewsMedian": 16,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 16.0,
       "verdict": "promising",
       "confidence": "low"
     }
   ],
   "summary": [
     {
-      "pattern": "\"Why the [animal] [surprising ability]\" is the right frame to keep using",
-      "evidence": "Across 3 produced videos, 1 is a clear breakout (Wood frog: 1,050 views; 27s AVD; ~59% retention on 45.6s). The other two are low-view but not disastrous on AVD (owl: 25s).",
+      "pattern": "Extreme-survival / \"superpower\" angle is the only proven breakout so far",
+      "evidence": "Why the Wood Frog Freezes Solid and Survives #Shorts has 1050 views with 27s AVD (retention 59.2%).",
       "verdict": "prioritize"
-    },
-    {
-      "pattern": "Underwater/less-familiar animals may need better immediate visual proof",
-      "evidence": "Mantis shrimp video is currently at 3 views with 12s AVD, far below the channel median AVD proxy (~27s), though sample is too small to over-interpret.",
-      "verdict": "promising"
     }
   ]
 }
