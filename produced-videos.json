@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-18T16:10:31.057742-04:00",
+  "lastRunAt": "2026-07-19T10:16:08.545203-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -248,6 +248,113 @@
         ]
       },
       "error": null
+    },
+    {
+      "productionId": "JV-2026-07-19-IDEA001",
+      "ideaId": "JV-W27-IDEA-001",
+      "sourceHash": "10e767f704ee8c18",
+      "status": "render-failed",
+      "startedAt": "2026-07-19T10:06:00.766148-04:00",
+      "renderedAt": "2026-07-19T10:06:00.766148-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Arctic Ground Squirrel Doesn't Freeze to Death #Shorts",
+      "error": "insufficient stock footage (content mismatch): 6/6 clips fetched but hook scene (scene 1) is domestic squirrels eating from a plastic dish - does not convey arctic/sub-zero survival. Only scenes 3+5 are cold-context squirrels (and identical). None show the specific sub-zero-body-temp superpower. Footage cannot visually prove the hook. Did not upload; did not fall back to AI.",
+      "evalNote": "Arctic ground squirrel superpower (sub-zero body temp during hibernation) is not visually demonstrable with Pexels stock - same pattern as axolotl/arctic fox. Avoid."
+    },
+    {
+      "productionId": "JV-2026-07-19-IDEA002",
+      "ideaId": "JV-W27-IDEA-002",
+      "sourceHash": "8f0ad93722ecb9b8",
+      "status": "render-failed",
+      "startedAt": "2026-07-19T10:07:00.115009-04:00",
+      "renderedAt": "2026-07-19T10:07:00.115009-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Peregrine Falcon Hits 200+ mph #Shorts",
+      "error": "insufficient stock footage (content mismatch): 6/6 clips fetched but 0 peregrine falcons. Returned perched eagles (scenes 1,5), a black kite perched (scene 3), generic bird silhouettes in flight (scenes 2,4), and a pelican (scene 6). No diving/200mph footage exists on Pexels. Hook 'dives at 200mph' cannot be visually proven with perched eagle footage. Did not upload; did not fall back to AI.",
+      "evalNote": "Peregrine falcon dive footage not available on Pexels. Growth planner should avoid specific raptor dive concepts."
+    },
+    {
+      "productionId": "JV-2026-07-19-SELFN",
+      "ideaId": "self-generated",
+      "sourceHash": "894c363e9bba03b9",
+      "status": "uploaded",
+      "startedAt": "2026-07-19T10:08:51.978207-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Polar Bear Is Not Actually White #Shorts",
+      "sourceType": "self-generated (pivoted from growth-plan IDEA001 arctic ground squirrel + IDEA002 peregrine falcon, both render-failed on Pexels footage)",
+      "renderedAt": "2026-07-19T10:16:08.545203-04:00",
+      "uploadedAt": "2026-07-19T10:16:08.545203-04:00",
+      "youtube": {
+        "videoId": "g6Nmh2WuHDo",
+        "url": "https://www.youtube.com/watch?v=g6Nmh2WuHDo",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-19T14:15:57Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "What if this snow-white bear isn't actually white? (hollow clear fur, black skin, solar-panel heat trapping)",
+        "narration": "charon TTS 51.65s",
+        "hookCard": "NOT ACTUALLY WHITE",
+        "finalVideo": "1080x1920 51.6s",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "35375254",
+            "sourceUrl": "https://www.pexels.com/video/playful-polar-bear-in-icy-habitat-35375254/",
+            "photographer": "Irina Fedotova",
+            "queryUsed": "polar bear close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "35570637",
+            "sourceUrl": "https://www.pexels.com/video/playful-polar-bear-rolling-snowball-in-winter-35570637/",
+            "photographer": "Irina Fedotova",
+            "queryUsed": "polar bear swimming",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "34754172",
+            "sourceUrl": "https://www.pexels.com/video/polar-bears-in-snowy-habitat-34754172/",
+            "photographer": "Irina Fedotova",
+            "queryUsed": "polar bear walking on ice",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "35570278",
+            "sourceUrl": "https://www.pexels.com/video/polar-bear-resting-in-snowy-enclosure-35570278/",
+            "photographer": "Irina Fedotova",
+            "queryUsed": "polar bear in snow",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "34754172",
+            "sourceUrl": "https://www.pexels.com/video/polar-bears-in-snowy-habitat-34754172/",
+            "photographer": "Irina Fedotova (reused scene 3)",
+            "queryUsed": "polar bear swimming in water (returned underwater rocks; reused polar bear clip to keep all-animal footage)",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "35568432",
+            "sourceUrl": "https://www.pexels.com/video/glacial-ice-floes-drifting-in-sunny-waters-35568432/",
+            "photographer": "Claudia Solano",
+            "queryUsed": "arctic ice ocean",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "error": null
+      },
+      "lastRunAt": "2026-07-19T10:16:08.545203-04:00"
     }
   ]
 }
