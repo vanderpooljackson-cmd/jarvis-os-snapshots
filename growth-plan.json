@@ -1,59 +1,127 @@
 {
-  "weekOf": "2026-07-06",
-  "generatedAt": "2026-07-05T13:10:00-04:00",
-  "generatedBy": "manual regeneration (growth planner cron fired 10AM but failed to write during sandbox provisioning blip; plan rebuilt from fresh 9:01AM Pulse)",
+  "weekOf": "2026-07-20",
   "basedOn": {
     "topVideos": [
-      { "videoId": "U5EkMB6EV6Q", "title": "Why Blue Crabs Have Glowing Eyes #Shorts", "views": 978, "avgViewDuration": 38, "flag": "winner" },
-      { "videoId": "zbQossrADw4", "title": "Wolves' Impact on Yellowstone Rivers #Shorts", "views": 786, "likes": 43, "flag": "stable" },
-      { "videoId": "99f5zBFgd0M", "title": "Spiders That Skydive from Trees #Shorts", "views": 742, "flag": "stable" }
+      {
+        "videoId": "uEWo-Q5jST8",
+        "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
+        "views": 1050,
+        "avgViewDuration": 27,
+        "source": "pulse-snapshot"
+      },
+      {
+        "videoId": "eD5uslCyTt4",
+        "title": "Why the Owl Hunts in Total Silence #Shorts",
+        "views": 16,
+        "avgViewDuration": 25,
+        "source": "pulse-snapshot"
+      },
+      {
+        "videoId": "zbQossrADw4",
+        "title": null,
+        "views": 4,
+        "avgViewDuration": 10,
+        "source": "pulse-snapshot"
+      }
     ],
     "bestRetention": [
-      { "videoId": "U5EkMB6EV6Q", "title": "Why Blue Crabs Have Glowing Eyes #Shorts", "avgViewDuration": 38, "note": "Best retention in window — nearly 2x the 19-25s median. The 'Why [animal] [sensory surprise]' hook holds viewers." }
+      {
+        "videoId": "nwx9HIi8XzE",
+        "title": null,
+        "avgViewDuration": 97,
+        "views": 4,
+        "note": "Very low views; treat as directional only",
+        "source": "pulse-snapshot"
+      },
+      {
+        "videoId": "uEWo-Q5jST8",
+        "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
+        "avgViewDuration": 27,
+        "views": 1050,
+        "source": "pulse-snapshot"
+      },
+      {
+        "videoId": "eD5uslCyTt4",
+        "title": "Why the Owl Hunts in Total Silence #Shorts",
+        "avgViewDuration": 25,
+        "views": 16,
+        "source": "pulse-snapshot"
+      }
     ],
     "titleLessons": [
-      "'Why [animal] [surprising sensory fact] #Shorts' is the winning frame — best views AND best retention (blue crabs, 38s).",
-      "'The [animal] that can [surprising ability] #Shorts' and 'This [animal] [surprising trait] #Shorts' are solid view-drivers (590-742) but retain ~19-25s.",
-      "Documentary-style title frames ('Octopus Maternal Sacrifice...', 'Tardigrades: The Microscopic Survivors') pull views but tank retention (13s, flagged optimize). Avoid dry/documentary titles.",
-      "EXP-001 (title test on fj4-WKURK24) is still running — not yet evaluated. No title lesson from it yet."
+      {
+        "experimentId": "EXP-001",
+        "lesson": "Curiosity-gap question titles (\"Why does this [animal] have [weird trait]?\") are a better bet than plain descriptors, but this specific test was inconclusive due to zero traffic; variant was kept.",
+        "winner": "Why Does This Fish Have White Blood? #Shorts",
+        "loser": "Antarctic Fish with White Blood #Shorts",
+        "confidence": "low"
+      }
     ],
-    "patternInsight": "Animal SENSES and SUPERPOWERS with a curiosity-gap 'Why...' or 'The...that can...' hook win. Sensory surprises (glowing eyes) retain best. Avoid documentary-tone titles."
+    "producerAnalytics": {
+      "available": true,
+      "hookFrames": [
+        {
+          "key": "why_animal_superpower",
+          "label": "Why the [animal] [superpower]",
+          "verdict": "promising",
+          "confidence": "low",
+          "sampleSize": 1
+        },
+        {
+          "key": "why_animal_sensory_surprise",
+          "label": "Why the [animal] [sensory surprise]",
+          "verdict": "promising",
+          "confidence": "low",
+          "sampleSize": 2
+        }
+      ],
+      "summary": [
+        {
+          "pattern": "\"Why the [animal] [surprising ability]\" is the right frame to keep using",
+          "verdict": "prioritize"
+        },
+        {
+          "pattern": "Underwater/less-familiar animals may need better immediate visual proof",
+          "verdict": "promising"
+        }
+      ]
+    }
   },
   "ideas": [
     {
-      "id": "GP-001",
-      "title": "Why the Owl Hunts in Total Silence #Shorts",
-      "concept": "Owls have comb-like serrations on their primary feathers plus a velvety surface that breaks turbulence into micro-currents, making their flight nearly silent — and asymmetric ear openings let them hunt in 3D sound.",
-      "hook": "An owl can fly right past its prey — and the prey never hears a thing. Here's how.",
-      "keyVisual": "Slow-motion barn owl gliding silently over a moonlit meadow, then a macro close-up of the feather edge serrations.",
+      "id": "JV-W27-IDEA-001",
+      "title": "Why the Arctic Ground Squirrel Doesn’t Freeze to Death #Shorts",
+      "concept": "Explain the ground squirrel’s extreme cold tolerance and how it survives sub-zero body temps during hibernation.",
+      "hook": "\"This animal lets its body temperature drop below freezing… and lives.\"",
+      "keyVisual": "Close-up ground squirrel in snowy tundra (breathing visible), quick cut to burrow/hibernation B-roll; readable ice/snow context for instant proof.",
       "hashtagSets": [
-        ["#Owls", "#Wildlife", "#Nature", "#Shorts"],
-        ["#AnimalSenses", "#BirdFacts", "#NatureDocumentary", "#Shorts"],
-        ["#Owls", "#ScienceFacts", "#WildlifePhotography", "#Shorts"]
+        ["#Shorts", "#wildlife", "#naturefacts", "#arctic"],
+        ["#Shorts", "#animals", "#science", "#hibernation"],
+        ["#Shorts", "#outdoors", "#winter", "#funfacts"]
       ]
     },
     {
-      "id": "GP-002",
-      "title": "The Frog That Freezes Solid and Wakes Up #Shorts",
-      "concept": "Wood frogs survive winter frozen solid — heart stopped, brain flatlined — because their livers flood their cells with glucose that acts as antifreeze. In spring they thaw and hop away.",
-      "hook": "This frog lets its whole body freeze solid — heart, brain, everything — then wakes up in spring.",
-      "keyVisual": "A wood frog encased in ice in a frozen forest floor, then the same frog thawing and blinking awake as snow melts.",
+      "id": "JV-W27-IDEA-002",
+      "title": "Why the Peregrine Falcon Hits 200+ mph #Shorts",
+      "concept": "Break down the ‘superpower’ of the fastest animal: the falcon’s dive (stoop) mechanics and airflow adaptations.",
+      "hook": "\"Fastest animal on Earth—here’s the trick that makes it possible.\"",
+      "keyVisual": "High-speed peregrine falcon dive footage (silhouette against sky), cut to talons/impact on prey dummy or prey capture shot; strong motion in first second.",
       "hashtagSets": [
-        ["#WoodFrog", "#Wildlife", "#Nature", "#Shorts"],
-        ["#AnimalSurvival", "#ScienceFacts", "#WinterWildlife", "#Shorts"],
-        ["#Frogs", "#Biology", "#NatureDocumentary", "#Shorts"]
+        ["#Shorts", "#birds", "#peregrinefalcon", "#wildlife"],
+        ["#Shorts", "#nature", "#animalfacts", "#speed"],
+        ["#Shorts", "#science", "#biology", "#naturefacts"]
       ]
     },
     {
-      "id": "GP-003",
-      "title": "Why the Axolotl Can Regrow Its Own Heart #Shorts",
-      "concept": "Axolotls regenerate entire limbs, spinal cords, parts of their heart and brain — without scarring. Scientists study them for clues to human regenerative medicine.",
-      "hook": "This animal can regrow its own heart. And its brain. And its limbs. How?",
-      "keyVisual": "An axolotl in a clear tank, pale pink with feathery gills, with a close-up of a regenerating limb bud.",
+      "id": "JV-W27-IDEA-003",
+      "title": "Why the Owl’s Face Works Like a Satellite Dish #Shorts",
+      "concept": "A follow-up to the winning owl theme: how the facial disc funnels sound and helps pinpoint prey in darkness.",
+      "hook": "\"An owl’s face isn’t for looks—it’s a sound-catching tool.\"",
+      "keyVisual": "Front-on owl head close-up (clear facial disc), quick cut to owl turning head toward faint sound; use night-forest ambience style footage.",
       "hashtagSets": [
-        ["#Axolotl", "#Wildlife", "#Nature", "#Shorts"],
-        ["#AnimalFacts", "#Regeneration", "#Biology", "#Shorts"],
-        ["#Axolotl", "#ScienceFacts", "#WildlifePhotography", "#Shorts"]
+        ["#Shorts", "#owl", "#wildlife", "#naturefacts"],
+        ["#Shorts", "#birds", "#animalfacts", "#science"],
+        ["#Shorts", "#nature", "#outdoors", "#education"]
       ]
     }
   ]
