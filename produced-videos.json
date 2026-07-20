@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-19T16:06:29.342991-04:00",
+  "lastRunAt": "2026-07-20T10:07:43.687009-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -438,6 +438,101 @@
         "error": null
       },
       "lastRunAt": "2026-07-19T16:06:29.342991-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-20-SELFN",
+      "ideaId": "self-generated",
+      "sourceHash": "73770d41d914f0c1",
+      "status": "render-failed",
+      "startedAt": "2026-07-20T10:02:52.082336-04:00",
+      "renderedAt": "2026-07-20T10:02:52.082336-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
+      "error": "insufficient stock footage (content mismatch): 6/6 clips fetched but 0 sloths. Returned a man's face (scene 1 hook), a bird feeder (scene 2), sloth BEARS (scene 3 - a bear species), a koala (scene 4), birds (scene 5), and a dolphin (scene 6). Pexels has no usable sloth footage. Did not upload; did not fall back to AI.",
+      "evalNote": "Sloth footage not available on Pexels. Avoid sloth topics."
+    },
+    {
+      "productionId": "JV-2026-07-20-SELFN2",
+      "ideaId": "self-generated",
+      "sourceHash": "883fc77ee6b9a66b",
+      "status": "uploaded",
+      "startedAt": "2026-07-20T10:03:55.490519-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
+      "sourceType": "self-generated (pivoted from sloth - unfilmable on Pexels; growth-plan queue exhausted: IDEA001/002 render-failed, IDEA003 owl skipped as duplicate/weak)",
+      "renderedAt": "2026-07-20T10:07:43.687009-04:00",
+      "uploadedAt": "2026-07-20T10:07:43.687009-04:00",
+      "youtube": {
+        "videoId": "C5rhgXKTkO4",
+        "url": "https://www.youtube.com/watch?v=C5rhgXKTkO4",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-19T14:07:34Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "What if a camel's hump isn't full of water? (hump stores fat not water - energy reserve + heat dissipation + metabolic water; camel loses up to 25% body water and survives; drinks 30 gal in minutes)",
+        "narration": "charon TTS 44.61s",
+        "hookCard": "STORES FAT NOT WATER",
+        "finalVideo": "1080x1920 44.6s",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "35664968",
+            "sourceUrl": "https://www.pexels.com/video/camel-close-up-at-werribee-open-range-zoo-35664968/",
+            "photographer": "Joolsmagools",
+            "queryUsed": "camel close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "18752156",
+            "sourceUrl": "https://www.pexels.com/video/camel-in-desert-18752156/",
+            "photographer": "Kashif Shah",
+            "queryUsed": "camel in desert",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "36619755",
+            "sourceUrl": "https://www.pexels.com/video/camels-walking-in-desert-at-sunset-36619755/",
+            "photographer": "Nicol\u00f3 Monterotondo",
+            "queryUsed": "camel walking",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "37688203",
+            "sourceUrl": "https://www.pexels.com/video/relaxed-camel-resting-on-green-field-37688203/",
+            "photographer": "Joolsmagools",
+            "queryUsed": "camel hump",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "36204315",
+            "sourceUrl": "https://www.pexels.com/video/serene-sahara-desert-landscape-with-camels-36204315/",
+            "photographer": "Nirjhar Basak",
+            "queryUsed": "camel drinking water",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "18897114",
+            "sourceUrl": "https://www.pexels.com/video/dubai-s-golden-desert-18897114/",
+            "photographer": "Annemarie Horne",
+            "queryUsed": "desert sand dunes",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "error": null
+      },
+      "lastRunAt": "2026-07-20T10:07:43.687009-04:00"
     }
   ]
 }
