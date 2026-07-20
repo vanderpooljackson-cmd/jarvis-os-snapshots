@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-20T10:07:43.687009-04:00",
+  "lastRunAt": "2026-07-20T16:08:34.626978-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -533,6 +533,89 @@
         "error": null
       },
       "lastRunAt": "2026-07-20T10:07:43.687009-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-20-SELFN3",
+      "ideaId": "self-generated",
+      "sourceHash": "253ef0f15641b1c0",
+      "status": "uploaded",
+      "startedAt": "2026-07-20T16:03:49.042655-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
+      "sourceType": "self-generated (growth-plan queue exhausted; extreme-survival underwater angle parallel to wood frog winner)",
+      "renderedAt": "2026-07-20T16:08:34.626978-04:00",
+      "uploadedAt": "2026-07-20T16:08:34.626978-04:00",
+      "youtube": {
+        "videoId": "0jZSeW-87Gw",
+        "url": "https://www.youtube.com/watch?v=0jZSeW-87Gw",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-20T20:08:27Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "How does this turtle breathe underwater for months? (cloacal respiration - bursae lined with blood vessels pull oxygen from water; Fitzroy River turtle gets up to 70% oxygen this way; survives trapped under ice for months)",
+        "narration": "charon TTS 53.05s",
+        "hookCard": "BREATHES THROUGH ITS BUTT",
+        "finalVideo": "1080x1920 53.0s",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "28639826",
+            "sourceUrl": "https://www.pexels.com/video/underwater-turtle-swim-in-turquoise-ocean-28639826/",
+            "photographer": "Logan Voss",
+            "queryUsed": "turtle swimming underwater",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "11358452",
+            "sourceUrl": "https://www.pexels.com/video/sea-turtles-in-sea-life-aquarium-11358452/",
+            "photographer": "Juliana Finamore",
+            "queryUsed": "sea turtle close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "11358398",
+            "sourceUrl": "https://www.pexels.com/video/sea-turtles-swimming-in-sea-life-sanctuary-11358398/",
+            "photographer": "Juliana Finamore",
+            "queryUsed": "sea turtle swimming",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "31849219",
+            "sourceUrl": "https://www.pexels.com/video/majestic-sea-turtle-swimming-over-coral-reef-31849219/",
+            "photographer": "JUN HO LEE",
+            "queryUsed": "turtle underwater",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "11358388",
+            "sourceUrl": "https://www.pexels.com/video/herd-of-turtles-swimming-in-zoo-habitat-11358388/",
+            "photographer": "Juliana Finamore",
+            "queryUsed": "turtle in pond",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "36447479",
+            "sourceUrl": "https://www.pexels.com/video/exploring-vibrant-coral-reefs-underwater-36447479/",
+            "photographer": "JUN HO LEE",
+            "queryUsed": "sea turtle ocean",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "error": null
+      },
+      "lastRunAt": "2026-07-20T16:08:34.626978-04:00"
     }
   ]
 }
