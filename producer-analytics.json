@@ -1,15 +1,15 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-19T11:03:29.334463-04:00",
-  "fetchedAt": "2026-07-19T11:03:29.334463-04:00",
+  "lastRunAt": "2026-07-20T11:08:00-04:00",
+  "fetchedAt": "2026-07-20T11:08:00-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
       "videoId": "KwGyJHy9ZMQ",
       "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
       "uploadedAt": "2026-07-05T10:18:31-04:00",
-      "ageHoursAtAnalysis": 336.7,
+      "ageHoursAtAnalysis": 362.8,
       "analyticsStatus": "available",
       "metrics": {
         "views": 3,
@@ -27,7 +27,7 @@
         "ratioToBaselineAvgViewDuration": 1.0,
         "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -35,7 +35,7 @@
       "videoId": "eD5uslCyTt4",
       "title": "Why the Owl Hunts in Total Silence #Shorts",
       "uploadedAt": "2026-07-05T16:10:00-04:00",
-      "ageHoursAtAnalysis": 330.9,
+      "ageHoursAtAnalysis": 357.0,
       "analyticsStatus": "available",
       "metrics": {
         "views": 16,
@@ -53,7 +53,7 @@
         "ratioToBaselineAvgViewDuration": 2.08,
         "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -61,7 +61,7 @@
       "videoId": "uEWo-Q5jST8",
       "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
       "uploadedAt": "2026-07-08T19:54:46-04:00",
-      "ageHoursAtAnalysis": 255.1,
+      "ageHoursAtAnalysis": 281.2,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1050,
@@ -79,7 +79,7 @@
         "ratioToBaselineAvgViewDuration": 2.25,
         "note": "Above baseline AVD with meaningful early views."
       },
-      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -87,7 +87,7 @@
       "videoId": "D2elbK2vCRE",
       "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
       "uploadedAt": "2026-07-18T16:10:31.057742-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 114.9,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": 40.6,
@@ -96,9 +96,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 12.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos)."
+        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
       },
-      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -106,7 +106,7 @@
       "videoId": "g6Nmh2WuHDo",
       "title": "Why the Polar Bear Is Not Actually White #Shorts",
       "uploadedAt": "2026-07-19T10:16:08.545203-04:00",
-      "ageHoursAtAnalysis": 0.8,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": null,
@@ -115,9 +115,47 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 12.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos)."
+        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
       },
-      "analyzedAt": "2026-07-19T11:03:29.334463-04:00",
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-19-SELFN2",
+      "videoId": "RZ6qtnTpTiA",
+      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "uploadedAt": "2026-07-19T16:06:29.342991-04:00",
+      "ageHoursAtAnalysis": 19.0,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+      },
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-20-SELFN2",
+      "videoId": "C5rhgXKTkO4",
+      "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
+      "uploadedAt": "2026-07-20T10:07:43.687009-04:00",
+      "ageHoursAtAnalysis": 1.0,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 12.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+      },
+      "analyzedAt": "2026-07-20T11:08:00-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -193,9 +231,13 @@
       "videos": [
         "KwGyJHy9ZMQ",
         "eD5uslCyTt4",
-        "uEWo-Q5jST8"
+        "uEWo-Q5jST8",
+        "D2elbK2vCRE",
+        "g6Nmh2WuHDo",
+        "RZ6qtnTpTiA",
+        "C5rhgXKTkO4"
       ],
-      "sampleSize": 3,
+      "sampleSize": 7,
       "avgViewDurationMedian": 25.0,
       "viewsMedian": 16.0,
       "verdict": "promising",
@@ -207,6 +249,11 @@
       "pattern": "Extreme-survival / \"superpower\" angle is the only proven breakout so far",
       "evidence": "Why the Wood Frog Freezes Solid and Survives #Shorts has 1050 views with 27s AVD (retention 59.2%).",
       "verdict": "prioritize"
+    },
+    {
+      "pattern": "Newer uploads still pending Analytics aggregation",
+      "evidence": "Penguin, Polar Bear, Fox, and Camel videos returned no rows yet; this is typical within the first 24\u201348h (and sometimes a bit longer).",
+      "verdict": "wait"
     }
   ]
 }
