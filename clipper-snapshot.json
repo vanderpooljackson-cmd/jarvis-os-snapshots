@@ -1,52 +1,127 @@
 {
-  "fetchedAt": "2026-07-04T18:30:45.224904-04:00",
-  "source": "YouTube watch page (browser extraction)",
-  "postedReplies": 0,
+  "fetchedAt": "2026-07-20T17:37:00-04:00",
+  "channelId": "UCseGVATXCf7COWSj4eB_amA",
   "videos": [
     {
-      "videoId": "jDZxh-T1Blw",
-      "title": "The Sea Otter That Saves the Ocean #Shorts",
-      "publishedAt": "2026-07-04T21:39:10Z",
-      "transcriptStatus": "failed",
-      "commentsStatus": "no comments yet",
+      "videoId": "0jZSeW-87Gw",
+      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook + surprising reveal (breathes through its backside)",
+          "startSec": 0,
+          "endSec": 17,
+          "why": "Opens on the strongest curiosity gap (breathing underwater for months) and lands the surprising reveal — the secret is a hidden opening at the base of the tail. Highest surprise density in the video.",
+          "hookRewrite": "This turtle breathes through its butt to survive trapped under the ice for months."
+        },
+        {
+          "momentLabel": "The gill-like sacs mechanism (cloacal respiration explained)",
+          "startSec": 17,
+          "endSec": 32,
+          "why": "Explains the how — bursae lined with blood vessels working like gills, pulling oxygen from water (up to 70%). Strong 'hidden anatomy you never knew' angle for a re-cut.",
+          "hookRewrite": "A turtle has gills hidden inside its backside."
+        }
+      ]
     },
     {
-      "videoId": "s8a3GRI0f8M",
-      "title": "Octopus Becomes Deadly Predators #Shorts",
-      "publishedAt": "2026-06-18T17:00:39Z",
-      "transcriptStatus": "failed",
-      "commentsStatus": "no comments yet",
+      "videoId": "C5rhgXKTkO4",
+      "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [
+        {
+          "momentLabel": "Myth-debunk hook (hump is fat, not water)",
+          "startSec": 0,
+          "endSec": 17,
+          "why": "Debunks a widely believed myth in the first 3 seconds ('not full of water') and reveals it's packed with fat. Classic curiosity-gap + myth-bust structure that re-cuts well.",
+          "hookRewrite": "Everything you were taught about a camel's hump is a lie."
+        },
+        {
+          "momentLabel": "Extreme-survival stat (loses 1/4 body water, drinks 30 gal in minutes)",
+          "startSec": 32,
+          "endSec": 44,
+          "why": "Densest cluster of surprising survival stats — lose a quarter of body weight in water and keep walking, then drink 30 gallons in minutes. Great standalone 'superpower stat' clip.",
+          "hookRewrite": "This animal can lose a quarter of its body water and still keep walking."
+        }
+      ]
     },
     {
-      "videoId": "YmMXrQcOD6I",
-      "title": "Imagine Traveling 44,000 Miles Every Year #Shorts",
-      "publishedAt": "2026-06-17T23:00:04Z",
-      "transcriptStatus": "failed",
-      "commentsStatus": "no comments yet",
-      "comments": [],
-      "clipCandidates": []
+      "videoId": "RZ6qtnTpTiA",
+      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": null,
+          "author": null,
+          "text": null,
+          "replyPosted": false,
+          "replyText": null,
+          "note": "Page header shows 1 comment exists, but YouTube did not render comment body/author/thread ID in the unauthenticated cloud browser (ytd-comment-thread-renderer empty). Thread ID could not be extracted, so no reply was posted."
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook + magnetic-field reveal",
+          "startSec": 0,
+          "endSec": 16,
+          "why": "Best curiosity gap: a fox catches prey it can't see — the reveal is that it uses Earth's magnetic field like a targeting scope. Strongest 'impossible-sounding then explained' beat.",
+          "hookRewrite": "This fox hunts prey it can't even see using a compass built into its brain."
+        },
+        {
+          "momentLabel": "Rangefinder mechanism + 75% success stat",
+          "startSec": 24,
+          "endSec": 36,
+          "why": "Combines the vivid 'rangefinder in its head' image with the hard stat (NE-aligned pounces land ~3/4 of the time). Great proof-of-superpower moment for a re-cut.",
+          "hookRewrite": "A fox pointed northeast catches its hidden prey nearly 75% of the time."
+        }
+      ]
     },
     {
-      "videoId": "0j-I7pXW5OQ",
-      "title": "Could Water Turn Animals to Stone? #Shorts",
-      "publishedAt": "2026-06-17T17:00:05Z",
-      "transcriptStatus": "failed",
-      "commentsStatus": "no comments yet",
+      "videoId": "g6Nmh2WuHDo",
+      "title": "Why the Polar Bear Is Not Actually White #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook + black-skin reveal",
+          "startSec": 0,
+          "endSec": 25,
+          "why": "Opens on the myth-bust (the white bear isn't white) and escalates to the reveal that the skin underneath is completely black. Highest surprise density in the video.",
+          "hookRewrite": "A polar bear's skin isn't white — it's completely black."
+        },
+        {
+          "momentLabel": "Living solar panel mechanism",
+          "startSec": 30,
+          "endSec": 47,
+          "why": "The hollow-hair light-channeling + 'living solar panel' payoff is a memorable, visually-explainable superpower beat that stands alone well.",
+          "hookRewrite": "A polar bear is basically a walking solar panel."
+        }
+      ]
     },
     {
-      "videoId": "4-qB4qxemio",
-      "title": "It Becomes Liquid to Fly? A Shocking Transformation #Shorts",
-      "publishedAt": "2026-06-16T23:00:19Z",
-      "transcriptStatus": "failed",
-      "commentsStatus": "no comments yet",
+      "videoId": "D2elbK2vCRE",
+      "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook + extreme-survival stat (2 months, minus 40, no eating)",
+          "startSec": 0,
+          "endSec": 13,
+          "why": "Packs the most surprising survival stats up front — standing in the dark at minus 40 for two months, 100+ days without eating. Strongest curiosity-gap cluster.",
+          "hookRewrite": "This bird stands in the dark at minus 40 for two months without eating."
+        },
+        {
+          "momentLabel": "The huddle that gets too warm",
+          "startSec": 21,
+          "endSec": 36,
+          "why": "Counterintuitive beat — the penguin huddle traps heat so well it can actually overheat. Surprising reversal that re-cuts into a strong standalone clip.",
+          "hookRewrite": "A penguin huddle can get so warm the birds actually overheat."
+        }
+      ]
     }
-  ]
+  ],
+  "postedReplies": 0,
+  "notes": "All 5 most-recent uploads are Shorts (not long-form), so clip candidates are best-moment re-cuts/remix hooks rather than long-form-to-Short extractions. 1 comment exists on the fox video but its thread ID could not be extracted (YouTube did not render comment content in the unauthenticated cloud browser), so 0 replies were posted. Transcripts extracted for all 5 videos."
 }
