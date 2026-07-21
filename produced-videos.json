@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-21T10:14:26.251857-04:00",
+  "lastRunAt": "2026-07-21T16:13:47.585269-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -710,6 +710,89 @@
         "error": null
       },
       "lastRunAt": "2026-07-21T10:14:26.251857-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-21-SELFN2",
+      "ideaId": "self-generated",
+      "sourceHash": "c4b8cfbf0bddaf8c",
+      "status": "uploaded",
+      "startedAt": "2026-07-21T16:04:48.463224-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
+      "sourceType": "self-generated (unihemispheric sleep superpower; extreme-survival angle parallel to wood frog winner)",
+      "renderedAt": "2026-07-21T20:11:00-04:00",
+      "uploadedAt": "2026-07-21T20:13:36-04:00",
+      "youtube": {
+        "videoId": "M95zB-4aYAQ",
+        "url": "https://www.youtube.com/watch?v=M95zB-4aYAQ",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-21T20:13:36Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "How does a dolphin sleep without drowning? (unihemispheric slow-wave sleep - shuts down half brain at a time; other half stays alert to swim, watch for sharks, surface to breathe; eye on awake side stays open; switches hemispheres every couple hours; never fully unconscious)",
+        "narration": "charon TTS 51.89s",
+        "hookCard": "SLEEPS WITH ONE EYE OPEN",
+        "finalVideo": "1080x1920 51.8s",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "10136766",
+            "sourceUrl": "https://www.pexels.com/video/dolphins-swimming-in-blue-pool-10136766/",
+            "photographer": "Niraj Shrestha",
+            "queryUsed": "dolphin swimming",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "12073471",
+            "sourceUrl": "https://www.pexels.com/video/dolphins-in-water-12073471/",
+            "photographer": "Asad Photo Maldives",
+            "queryUsed": "dolphin jumping",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "11042818",
+            "sourceUrl": "https://www.pexels.com/video/dolphins-swimming-in-blue-water-11042818/",
+            "photographer": "Diana",
+            "queryUsed": "dolphin underwater",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "11042822",
+            "sourceUrl": "https://www.pexels.com/video/dolphins-swimming-underwater-11042822/",
+            "photographer": "Diana",
+            "queryUsed": "dolphin close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "32509693",
+            "sourceUrl": "https://www.pexels.com/video/captivating-aerial-view-of-swimming-dolphins-32509693/",
+            "photographer": "Nikos Pentarakis",
+            "queryUsed": "dolphin pod",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "31697738",
+            "sourceUrl": "https://www.pexels.com/video/dolphins-swimming-in-open-ocean-31697738/",
+            "photographer": "Memet Oz",
+            "queryUsed": "dolphin ocean",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "error": null
+      },
+      "lastRunAt": "2026-07-21T16:13:47.585269-04:00"
     }
   ]
 }
