@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-20T16:08:34.626978-04:00",
+  "lastRunAt": "2026-07-21T10:14:26.251857-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -616,6 +616,100 @@
         "error": null
       },
       "lastRunAt": "2026-07-20T16:08:34.626978-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-21-SELFN-OCTOFAIL",
+      "ideaId": "self-generated",
+      "sourceHash": "1a3101ec87b23063",
+      "status": "render-failed",
+      "startedAt": "2026-07-21T10:09:08.380102-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Octopus Disappears in Plain Sight #Shorts",
+      "error": "insufficient octopus footage: 1/6 (only scene 4 was a live octopus; scenes 1/5 turtles, 2 cooked octopus dish, 3 autumn leaves, 6 fish school). Octopus camouflage is not adequately filmed on Pexels.",
+      "sourceType": "self-generated (camouflage superpower angle; pivoted to shark)"
+    },
+    {
+      "productionId": "JV-2026-07-21-SELFN",
+      "ideaId": "self-generated",
+      "sourceHash": "22cd5e22c2331435",
+      "status": "uploaded",
+      "startedAt": "2026-07-21T10:09:59.594196-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
+      "sourceType": "self-generated (electroreception superpower; octopus pivoted to shark after octopus footage insufficient)",
+      "renderedAt": "2026-07-21T14:12:00-04:00",
+      "uploadedAt": "2026-07-21T14:14:13-04:00",
+      "youtube": {
+        "videoId": "4WUNKscls30",
+        "url": "https://www.youtube.com/watch?v=4WUNKscls30",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-21T14:14:13Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "How does a shark find prey it can't see, smell, or hear? (ampullae of Lorenzini - electroreceptor pores on snout detect faint electrical fields from heartbeats/muscle twitches; can find fish buried under sand or in pitch black; senses electricity weaker than a flashlight battery signal)",
+        "narration": "charon TTS 48.37s",
+        "hookCard": "SENSES HEARTBEATS IN THE DARK",
+        "finalVideo": "1080x1920 48.37s",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "29258553",
+            "sourceUrl": "https://www.pexels.com/video/serene-underwater-scene-with-swimming-sharks-29258553/",
+            "photographer": "hype current",
+            "queryUsed": "shark swimming",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "37665777",
+            "sourceUrl": "https://www.pexels.com/video/underwater-exploration-with-reef-shark-encounter-37665777/",
+            "photographer": "JUN HO LEE",
+            "queryUsed": "shark close up",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "37665777",
+            "sourceUrl": "https://www.pexels.com/video/underwater-exploration-with-reef-shark-encounter-37665777/",
+            "photographer": "JUN HO LEE (reused from scene 2 - original scene 3 was a ray)",
+            "queryUsed": "great white shark",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "34214602",
+            "sourceUrl": "https://www.pexels.com/video/vibrant-underwater-life-in-aquarium-exhibit-34214602/",
+            "photographer": "Stephan Leuzinger",
+            "queryUsed": "shark underwater",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "27141937",
+            "sourceUrl": "https://www.pexels.com/video/a-shark-swimming-in-the-ocean-near-the-shore-27141937/",
+            "photographer": "Olga Simonova (reused from scene 6 - original scene 5 was a ray)",
+            "queryUsed": "shark ocean",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "27141937",
+            "sourceUrl": "https://www.pexels.com/video/a-shark-swimming-in-the-ocean-near-the-shore-27141937/",
+            "photographer": "Olga Simonova",
+            "queryUsed": "shark hunting",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "error": null
+      },
+      "lastRunAt": "2026-07-21T10:14:26.251857-04:00"
     }
   ]
 }
