@@ -1,20 +1,20 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-21T11:03:00-04:00",
-  "fetchedAt": "2026-07-21T11:03:00-04:00",
+  "lastRunAt": "2026-07-22T15:03:37.630545+00:00",
+  "fetchedAt": "2026-07-22T15:03:37.630545+00:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
       "videoId": "KwGyJHy9ZMQ",
       "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
       "uploadedAt": "2026-07-05T10:18:31-04:00",
-      "ageHoursAtAnalysis": 385.7,
+      "ageHoursAtAnalysis": 408.8,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 3,
-        "estimatedMinutesWatched": 0,
-        "averageViewDuration": 12,
+        "views": 8,
+        "estimatedMinutesWatched": 11,
+        "averageViewDuration": 165,
         "likes": 1,
         "comments": 0,
         "shares": 0
@@ -23,11 +23,11 @@
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
-        "ratioToBaselineAvgViewDuration": 0.67,
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": 5.89,
         "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -35,12 +35,12 @@
       "videoId": "eD5uslCyTt4",
       "title": "Why the Owl Hunts in Total Silence #Shorts",
       "uploadedAt": "2026-07-05T16:10:00-04:00",
-      "ageHoursAtAnalysis": 379.9,
+      "ageHoursAtAnalysis": 402.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 16,
-        "estimatedMinutesWatched": 2,
-        "averageViewDuration": 25,
+        "views": 21,
+        "estimatedMinutesWatched": 8,
+        "averageViewDuration": 70,
         "likes": 2,
         "comments": 0,
         "shares": 0
@@ -49,11 +49,11 @@
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
-        "ratioToBaselineAvgViewDuration": 1.39,
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": 2.5,
         "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -61,7 +61,7 @@
       "videoId": "uEWo-Q5jST8",
       "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
       "uploadedAt": "2026-07-08T19:54:46-04:00",
-      "ageHoursAtAnalysis": 304.1,
+      "ageHoursAtAnalysis": 327.1,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1050,
@@ -73,13 +73,13 @@
       },
       "videoDurationSeconds": 45.57,
       "retentionPercent": 59.2,
-      "performanceLabel": "winner",
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
-        "ratioToBaselineAvgViewDuration": 1.5,
-        "note": "Above baseline AVD with meaningful early views."
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": 0.96,
+        "note": "High views but below-baseline AVD (hook/story may be less sticky)."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -87,11 +87,11 @@
       "videoId": "D2elbK2vCRE",
       "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
       "uploadedAt": "2026-07-18T16:10:31.057742-04:00",
-      "ageHoursAtAnalysis": 137.8,
+      "ageHoursAtAnalysis": 90.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1223,
-        "estimatedMinutesWatched": 251,
+        "views": 1253,
+        "estimatedMinutesWatched": 257,
         "averageViewDuration": 18,
         "likes": 33,
         "comments": 0,
@@ -99,13 +99,13 @@
       },
       "videoDurationSeconds": 40.6,
       "retentionPercent": 44.3,
-      "performanceLabel": "stable",
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
-        "ratioToBaselineAvgViewDuration": 1,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": 0.64,
+        "note": "High views but below-baseline AVD (hook/story may be less sticky)."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -113,18 +113,25 @@
       "videoId": "g6Nmh2WuHDo",
       "title": "Why the Polar Bear Is Not Actually White #Shorts",
       "uploadedAt": "2026-07-19T10:16:08.545203-04:00",
-      "ageHoursAtAnalysis": 47.8,
-      "analyticsStatus": "pending",
-      "metrics": null,
+      "ageHoursAtAnalysis": 72.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1167,
+        "estimatedMinutesWatched": 301,
+        "averageViewDuration": 26,
+        "likes": 58,
+        "comments": 0,
+        "shares": 2
+      },
       "videoDurationSeconds": null,
       "retentionPercent": null,
-      "performanceLabel": "stable",
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": 0.93,
+        "note": "High views but below-baseline AVD (hook/story may be less sticky)."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -132,18 +139,25 @@
       "videoId": "RZ6qtnTpTiA",
       "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
       "uploadedAt": "2026-07-19T16:06:29.342991-04:00",
-      "ageHoursAtAnalysis": 41.9,
-      "analyticsStatus": "pending",
-      "metrics": null,
+      "ageHoursAtAnalysis": 67.0,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1272,
+        "estimatedMinutesWatched": 398,
+        "averageViewDuration": 28,
+        "likes": 51,
+        "comments": 1,
+        "shares": 0
+      },
       "videoDurationSeconds": null,
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": 1.0,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -151,18 +165,18 @@
       "videoId": "C5rhgXKTkO4",
       "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
       "uploadedAt": "2026-07-20T10:07:43.687009-04:00",
-      "ageHoursAtAnalysis": 24.9,
+      "ageHoursAtAnalysis": 48.9,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": null,
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
+        "baselineAvgViewDuration": 28,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+        "note": "No analytics rows yet (expected for <24–48h old videos, or Analytics lag)."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -170,18 +184,18 @@
       "videoId": "0jZSeW-87Gw",
       "title": "Why the Turtle Breathes Through Its Butt #Shorts",
       "uploadedAt": "2026-07-20T16:08:34.626978-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": null,
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
+        "baselineAvgViewDuration": 28,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+        "note": "No analytics rows yet (expected for <24–48h old videos, or Analytics lag)."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     },
     {
@@ -189,104 +203,79 @@
       "videoId": "4WUNKscls30",
       "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
       "uploadedAt": "2026-07-21T14:14:13-04:00",
-      "ageHoursAtAnalysis": -3.2,
+      "ageHoursAtAnalysis": 20.8,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": 48.37,
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 18,
+        "baselineAvgViewDuration": 28,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (expected for <24\u201348h old videos, or Analytics lag)."
+        "note": "No analytics rows yet (expected for <24–48h old videos, or Analytics lag)."
       },
-      "analyzedAt": "2026-07-21T11:03:00-04:00",
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-21-SELFN2",
+      "videoId": "M95zB-4aYAQ",
+      "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
+      "uploadedAt": "2026-07-21T20:13:36-04:00",
+      "ageHoursAtAnalysis": 14.8,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (expected for <24–48h old videos, or Analytics lag)."
+      },
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-22-SELFN",
+      "videoId": "9Il9e4WfzXw",
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
+      "uploadedAt": "2026-07-22T14:14:30-04:00",
+      "ageHoursAtAnalysis": -3.2,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": 49.2,
+      "retentionPercent": null,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 28,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (expected for <24–48h old videos, or Analytics lag)."
+      },
+      "analyzedAt": "2026-07-22T15:03:37.630545+00:00",
       "lastNotifiedLabel": null
     }
   ],
   "hookFrames": [
     {
-      "key": "why_animal_sensory_surprise",
-      "label": "Why the [animal] [sensory surprise]",
+      "key": "why_the_[animal]_[x]_#shorts",
+      "label": "Why the [animal] [X] #Shorts",
       "videos": [
         "KwGyJHy9ZMQ",
         "eD5uslCyTt4",
-        "RZ6qtnTpTiA",
-        "4WUNKscls30"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 18.5,
-      "viewsMedian": 9.5,
-      "verdict": "avoid",
-      "confidence": "low"
-    },
-    {
-      "key": "why_animal_superpower",
-      "label": "Why the [animal] [superpower]",
-      "videos": [
         "uEWo-Q5jST8",
         "D2elbK2vCRE",
         "g6Nmh2WuHDo",
-        "C5rhgXKTkO4",
-        "0jZSeW-87Gw"
+        "RZ6qtnTpTiA"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 22.5,
-      "viewsMedian": 1136.5,
+      "sampleSize": 6,
+      "avgViewDurationMedian": 27.5,
+      "viewsMedian": 1108.5,
       "verdict": "promising",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
-  "topics": [
-    {
-      "key": "mantis_shrimp",
-      "label": "Mantis Shrimp",
-      "videos": [
-        "KwGyJHy9ZMQ"
-      ],
-      "sampleSize": 1,
-      "avgViewDurationMedian": 12,
-      "viewsMedian": 3,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "owl",
-      "label": "Owl",
-      "videos": [
-        "eD5uslCyTt4"
-      ],
-      "sampleSize": 1,
-      "avgViewDurationMedian": 25,
-      "viewsMedian": 16,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "wood_frog",
-      "label": "Wood Frog",
-      "videos": [
-        "uEWo-Q5jST8"
-      ],
-      "sampleSize": 1,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1050,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "penguin",
-      "label": "Penguin",
-      "videos": [
-        "D2elbK2vCRE"
-      ],
-      "sampleSize": 1,
-      "avgViewDurationMedian": 18,
-      "viewsMedian": 1223,
-      "verdict": "promising",
-      "confidence": "low"
-    }
-  ],
+  "topics": [],
   "titlePatterns": [
     {
       "key": "why_the_[animal]_[x]_#shorts",
@@ -297,32 +286,19 @@
         "uEWo-Q5jST8",
         "D2elbK2vCRE",
         "g6Nmh2WuHDo",
-        "RZ6qtnTpTiA",
-        "C5rhgXKTkO4",
-        "0jZSeW-87Gw",
-        "4WUNKscls30"
+        "RZ6qtnTpTiA"
       ],
-      "sampleSize": 4,
-      "avgViewDurationMedian": 21.5,
-      "viewsMedian": 533,
+      "sampleSize": 6,
+      "avgViewDurationMedian": 27.5,
+      "viewsMedian": 1108.5,
       "verdict": "promising",
-      "confidence": "low"
+      "confidence": "medium"
     }
   ],
   "summary": [
     {
-      "pattern": "Winner check (retention above channel median AVD with meaningful views)",
-      "evidence": "Wood Frog (uEWo-Q5jST8) still leads on retention: 27s AVD on a 45.6s Short (59.2% retention) with 1050 views.",
-      "verdict": "prioritize"
-    },
-    {
-      "pattern": "High views + baseline retention (good distribution; hook may be less sticky than Wood Frog)",
-      "evidence": "Penguin (D2elbK2vCRE) now has Analytics: 1223 views, 18s AVD on 40.6s (44.3% retention), 33 likes, 1 share.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Most last-48h uploads still pending Analytics lag",
-      "evidence": "Polar Bear, Fox, Camel, Turtle, and Shark returned empty rows today; expected with 24–48h aggregation lag.",
+      "pattern": "Recent uploads still pending Analytics lag",
+      "evidence": "Pending (no rows yet): Why the Camel's Hump Is Not Full of Water #Shorts, Why the Turtle Breathes Through Its Butt #Shorts, Why the Shark Can Sense a Heartbeat in the Dark #Shorts, Why the Dolphin Never Fully Falls Asleep #Shorts, Why the Elephant Hears With Its Feet #Shorts",
       "verdict": "wait"
     }
   ]
