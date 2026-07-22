@@ -5,38 +5,30 @@
     "handle": "@jvoutdoors67",
     "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
-    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 23811,
-      "subscriberCount": 37,
-      "videoCount": 49
+      "viewCount": "25902",
+      "subscriberCount": "45",
+      "videoCount": "51"
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-06-23",
-    "endDate": "2026-07-21",
+    "startDate": "2026-06-24",
+    "endDate": "2026-07-22",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 2312,
-    "estimatedMinutesWatched": 501,
-    "subscribersGained": 4,
-    "subscribersLost": 2,
-    "netSubscribers": 2,
-    "likes": 72,
-    "comments": 1,
-    "shares": 1
+    "views": 4799,
+    "estimatedMinutesWatched": 1225,
+    "subscribersGained": 12,
+    "subscribersLost": 4,
+    "netSubscribers": 8,
+    "likes": 161,
+    "comments": 3,
+    "shares": 3
   },
   "daily": [
-    {
-      "day": "2026-06-23",
-      "views": 2,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 2
-    },
     {
       "day": "2026-06-29",
       "views": 0,
@@ -132,19 +124,49 @@
       "subsGained": 3,
       "subsLost": 2,
       "likes": 33
+    },
+    {
+      "day": "2026-07-19",
+      "views": 2489,
+      "watched": 723,
+      "subsGained": 8,
+      "subsLost": 2,
+      "likes": 109
     }
   ],
   "topVideos": [
     {
+      "videoId": "RZ6qtnTpTiA",
+      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "views": 1272,
+      "watched": 398,
+      "likes": 51,
+      "comments": 1,
+      "avgViewDuration": 28,
+      "flag": "winner",
+      "note": "Top views with above-median average view duration"
+    },
+    {
       "videoId": "D2elbK2vCRE",
       "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
-      "views": 1223,
-      "watched": 251,
+      "views": 1253,
+      "watched": 257,
       "likes": 33,
       "comments": 0,
       "avgViewDuration": 18,
+      "flag": "optimize",
+      "note": "High views but below-median average view duration"
+    },
+    {
+      "videoId": "g6Nmh2WuHDo",
+      "title": "Why the Polar Bear Is Not Actually White #Shorts",
+      "views": 1167,
+      "watched": 301,
+      "likes": 58,
+      "comments": 0,
+      "avgViewDuration": 26,
       "flag": "stable",
-      "note": "High views but retention is also top-tier within this set."
+      "note": "Normal performance"
     },
     {
       "videoId": "uEWo-Q5jST8",
@@ -154,98 +176,76 @@
       "likes": 16,
       "comments": 1,
       "avgViewDuration": 27,
-      "flag": "winner",
-      "note": "Top retention among high-view videos."
+      "flag": "stable",
+      "note": "Normal performance"
     },
     {
       "videoId": "eD5uslCyTt4",
-      "title": "Video eD5uslCyTt4",
-      "views": 16,
-      "watched": 2,
+      "title": "Why the Owl Hunts in Total Silence #Shorts",
+      "views": 21,
+      "watched": 8,
       "likes": 2,
       "comments": 0,
-      "avgViewDuration": 25,
+      "avgViewDuration": 70,
       "flag": "stable",
-      "note": ""
+      "note": "Normal performance"
+    },
+    {
+      "videoId": "KwGyJHy9ZMQ",
+      "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
+      "views": 8,
+      "watched": 11,
+      "likes": 1,
+      "comments": 0,
+      "avgViewDuration": 165,
+      "flag": "stable",
+      "note": "Normal performance"
     },
     {
       "videoId": "jDZxh-T1Blw",
-      "title": "Video jDZxh-T1Blw",
+      "title": "The Sea Otter That Saves the Ocean #Shorts",
       "views": 4,
       "watched": 0,
       "likes": 1,
       "comments": 0,
       "avgViewDuration": 10,
       "flag": "stable",
-      "note": ""
+      "note": "Normal performance"
     },
     {
       "videoId": "nwx9HIi8XzE",
-      "title": "Video nwx9HIi8XzE",
+      "title": "The Spider That Can Outrun Humans #Shorts",
       "views": 4,
       "watched": 1,
       "likes": 0,
       "comments": 0,
       "avgViewDuration": 97,
       "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "KwGyJHy9ZMQ",
-      "title": "Video KwGyJHy9ZMQ",
-      "views": 3,
-      "watched": 0,
-      "likes": 1,
-      "comments": 0,
-      "avgViewDuration": 12,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "8sAOhG7i-XU",
-      "title": "Video 8sAOhG7i-XU",
-      "views": 2,
-      "watched": 0,
-      "likes": 1,
-      "comments": 0,
-      "avgViewDuration": 24,
-      "flag": "stable",
-      "note": ""
+      "note": "Normal performance"
     },
     {
       "videoId": "qRaMQyjLSv4",
-      "title": "Video qRaMQyjLSv4",
+      "title": "This Fish Can Light Up a Horse #Shorts",
       "views": 2,
       "watched": 0,
       "likes": 0,
       "comments": 0,
       "avgViewDuration": 0,
       "flag": "stable",
-      "note": ""
+      "note": "Normal performance"
     },
     {
       "videoId": "1s3lw9EZDcQ",
-      "title": "Video 1s3lw9EZDcQ",
+      "title": "Octopus Maternal Sacrifice: A Starving Act of Love #Shorts",
       "views": 2,
       "watched": 0,
       "likes": 0,
       "comments": 0,
       "avgViewDuration": 0,
       "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "zbQossrADw4",
-      "title": "Video zbQossrADw4",
-      "views": 1,
-      "watched": 0,
-      "likes": 0,
-      "comments": 0,
-      "avgViewDuration": 0,
-      "flag": "stable",
-      "note": ""
+      "note": "Normal performance"
     }
   ],
-  "fetchedAt": "2026-07-21T09:09:00-04:00",
+  "fetchedAt": "2026-07-22T09:01:00-04:00",
   "source": "YouTube Analytics API"
 }
