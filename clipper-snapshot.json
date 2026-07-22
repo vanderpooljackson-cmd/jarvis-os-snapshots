@@ -1,127 +1,84 @@
 {
-  "fetchedAt": "2026-07-20T17:37:00-04:00",
-  "channelId": "UCseGVATXCf7COWSj4eB_amA",
+  "fetchedAt": "2026-07-22T17:35:00-04:00",
   "videos": [
     {
-      "videoId": "0jZSeW-87Gw",
-      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "FLK0SMOCaaU",
+      "title": "Why the Jellyfish Never Actually Dies #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Hook + surprising reveal (breathes through its backside)",
-          "startSec": 0,
-          "endSec": 17,
-          "why": "Opens on the strongest curiosity gap (breathing underwater for months) and lands the surprising reveal — the secret is a hidden opening at the base of the tail. Highest surprise density in the video.",
-          "hookRewrite": "This turtle breathes through its butt to survive trapped under the ice for months."
-        },
-        {
-          "momentLabel": "The gill-like sacs mechanism (cloacal respiration explained)",
-          "startSec": 17,
-          "endSec": 32,
-          "why": "Explains the how — bursae lined with blood vessels working like gills, pulling oxygen from water (up to 70%). Strong 'hidden anatomy you never knew' angle for a re-cut.",
-          "hookRewrite": "A turtle has gills hidden inside its backside."
-        }
-      ]
+      "clipCandidates": [],
+      "commentsStatus": "empty"
     },
     {
-      "videoId": "C5rhgXKTkO4",
-      "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "9Il9e4WfzXw",
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Myth-debunk hook (hump is fat, not water)",
-          "startSec": 0,
-          "endSec": 17,
-          "why": "Debunks a widely believed myth in the first 3 seconds ('not full of water') and reveals it's packed with fat. Classic curiosity-gap + myth-bust structure that re-cuts well.",
-          "hookRewrite": "Everything you were taught about a camel's hump is a lie."
-        },
-        {
-          "momentLabel": "Extreme-survival stat (loses 1/4 body water, drinks 30 gal in minutes)",
-          "startSec": 32,
-          "endSec": 44,
-          "why": "Densest cluster of surprising survival stats — lose a quarter of body weight in water and keep walking, then drink 30 gallons in minutes. Great standalone 'superpower stat' clip.",
-          "hookRewrite": "This animal can lose a quarter of its body water and still keep walking."
-        }
-      ]
+      "clipCandidates": [],
+      "commentsStatus": "empty"
     },
     {
-      "videoId": "RZ6qtnTpTiA",
-      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "videoId": "M95zB-4aYAQ",
+      "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
       "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": null,
-          "author": null,
-          "text": null,
+          "id": "UgwxfzKMrIsZoZ7Zs954AaABAg",
+          "author": "@InnocentRubibi-j4h",
+          "text": "❤❤❤❤❤❤❤❤❤❤",
           "replyPosted": false,
-          "replyText": null,
-          "note": "Page header shows 1 comment exists, but YouTube did not render comment body/author/thread ID in the unauthenticated cloud browser (ytd-comment-thread-renderer empty). Thread ID could not be extracted, so no reply was posted."
+          "replyText": null
+        },
+        {
+          "id": "UgzNE6xqS-rvE4TWlfx4AaABAg",
+          "author": "@ChrisWalters-t2g",
+          "text": "How can you say it's the only way to sleep as a marine mammal wales don't sleep like that",
+          "replyPosted": true,
+          "replyText": "Great point — and you're actually spot on! Whales use the exact same half-brain trick. Dolphins, whales, and porpoises are all cetaceans, and they all sleep unihemispherically so they can keep breathing and stay alert in the open ocean. So your example actually confirms it: this is THE way air-breathing marine mammals can safely sleep at sea. Thanks for keeping the science sharp!"
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "Hook + magnetic-field reveal",
+          "momentLabel": "Hook: dolphin sleep/drowning",
           "startSec": 0,
-          "endSec": 16,
-          "why": "Best curiosity gap: a fox catches prey it can't see — the reveal is that it uses Earth's magnetic field like a targeting scope. Strongest 'impossible-sounding then explained' beat.",
-          "hookRewrite": "This fox hunts prey it can't even see using a compass built into its brain."
+          "endSec": 11,
+          "why": "Opens with the core curiosity gap — how does a dolphin sleep without drowning? Strong 3-second pull that earned the video's opening.",
+          "hookRewrite": "What happens if a dolphin falls completely asleep?"
         },
         {
-          "momentLabel": "Rangefinder mechanism + 75% success stat",
-          "startSec": 24,
-          "endSec": 36,
-          "why": "Combines the vivid 'rangefinder in its head' image with the hard stat (NE-aligned pounces land ~3/4 of the time). Great proof-of-superpower moment for a re-cut.",
-          "hookRewrite": "A fox pointed northeast catches its hidden prey nearly 75% of the time."
+          "momentLabel": "Half-brain sleep reveal",
+          "startSec": 12,
+          "endSec": 22,
+          "why": "The surprising fact — only half the brain sleeps at a time while the other half watches for sharks. Highest surprise density in the video.",
+          "hookRewrite": "Dolphins sleep with half their brain still awake."
         }
-      ]
+      ],
+      "commentsStatus": "loaded"
     },
     {
-      "videoId": "g6Nmh2WuHDo",
-      "title": "Why the Polar Bear Is Not Actually White #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
+      "videoId": "4WUNKscls30",
+      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [
         {
-          "momentLabel": "Hook + black-skin reveal",
-          "startSec": 0,
-          "endSec": 25,
-          "why": "Opens on the myth-bust (the white bear isn't white) and escalates to the reveal that the skin underneath is completely black. Highest surprise density in the video.",
-          "hookRewrite": "A polar bear's skin isn't white — it's completely black."
-        },
-        {
-          "momentLabel": "Living solar panel mechanism",
-          "startSec": 30,
-          "endSec": 47,
-          "why": "The hollow-hair light-channeling + 'living solar panel' payoff is a memorable, visually-explainable superpower beat that stands alone well.",
-          "hookRewrite": "A polar bear is basically a walking solar panel."
+          "id": "UgwsBQBsuu122XWeX2V4AaABAg",
+          "author": "@ElPasoTubeAmps",
+          "text": "The electrical signal from a heart beat is many orders of magnitude less than the electrial amplitude a flashlight battery can produce.",
+          "replyPosted": true,
+          "replyText": "Exactly right — and that's what makes the ampullae of Lorenzini so incredible. They can detect electric fields down to nanovolt levels, far fainter than anything a battery produces. That's how a shark can sense the tiny voltage a fish's heartbeat creates as it moves through seawater, even in pitch black or buried under sand. Thanks for adding that detail!"
         }
-      ]
+      ],
+      "clipCandidates": [],
+      "commentsStatus": "loaded"
     },
     {
-      "videoId": "D2elbK2vCRE",
-      "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "0jZSeW-87Gw",
+      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Hook + extreme-survival stat (2 months, minus 40, no eating)",
-          "startSec": 0,
-          "endSec": 13,
-          "why": "Packs the most surprising survival stats up front — standing in the dark at minus 40 for two months, 100+ days without eating. Strongest curiosity-gap cluster.",
-          "hookRewrite": "This bird stands in the dark at minus 40 for two months without eating."
-        },
-        {
-          "momentLabel": "The huddle that gets too warm",
-          "startSec": 21,
-          "endSec": 36,
-          "why": "Counterintuitive beat — the penguin huddle traps heat so well it can actually overheat. Surprising reversal that re-cuts into a strong standalone clip.",
-          "hookRewrite": "A penguin huddle can get so warm the birds actually overheat."
-        }
-      ]
+      "clipCandidates": [],
+      "commentsStatus": "empty"
     }
   ],
-  "postedReplies": 0,
-  "notes": "All 5 most-recent uploads are Shorts (not long-form), so clip candidates are best-moment re-cuts/remix hooks rather than long-form-to-Short extractions. 1 comment exists on the fox video but its thread ID could not be extracted (YouTube did not render comment content in the unauthenticated cloud browser), so 0 replies were posted. Transcripts extracted for all 5 videos."
+  "postedReplies": 2
 }
