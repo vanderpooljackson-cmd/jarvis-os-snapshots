@@ -16,11 +16,39 @@
         "likes": 28,
         "avgViewDurationSec": 18
       },
-      "baselineDailyAverages": { "views": 56, "watchedMinutes": 10, "avgViewDurationSec": 18 },
+      "baselineDailyAverages": {
+        "views": 56,
+        "watchedMinutes": 10,
+        "avgViewDurationSec": 18
+      },
       "status": "kept",
       "evaluatedAt": "2026-07-08T18:25:00-04:00",
       "decision": "inconclusive-keep",
-      "evalNotes": "Resolved manually after evaluator escalation. The video had ZERO traffic in both the pre-test baseline (2026-06-15 to 2026-07-03: 0 views every day except 3 views on 2026-06-16) and the variant period (2026-07-04 to 2026-07-06: 0 views). With no traffic either before or after the title change, the test is inconclusive — there is no signal to measure the variant's effect. Decision: KEEP the variant title (do not revert). Rationale: (1) no evidence the variant hurt since there was no traffic to lose; (2) the variant framing 'Why Does This Fish Have White Blood?' is a stronger curiosity-gap hook than the baseline 'Antarctic Fish with White Blood', so it is the better bet when traffic returns; (3) reverting would be churn with no supporting data. The evaluator cron's 'empty rows' was this zero-traffic case (a 0-view video returns no row on a dimension=video query), not an API/auth failure. Evaluator cron updated to treat zero-traffic variant periods as inconclusive/keep instead of escalating."
+      "evalNotes": "Resolved manually after evaluator escalation. The video had ZERO traffic in both the pre-test baseline (2026-06-15 to 2026-07-03: 0 views every day except 3 views on 2026-06-16) and the variant period (2026-07-04 to 2026-07-06: 0 views). With no traffic either before or after the title change, the test is inconclusive \u2014 there is no signal to measure the variant's effect. Decision: KEEP the variant title (do not revert). Rationale: (1) no evidence the variant hurt since there was no traffic to lose; (2) the variant framing 'Why Does This Fish Have White Blood?' is a stronger curiosity-gap hook than the baseline 'Antarctic Fish with White Blood', so it is the better bet when traffic returns; (3) reverting would be churn with no supporting data. The evaluator cron's 'empty rows' was this zero-traffic case (a 0-view video returns no row on a dimension=video query), not an API/auth failure. Evaluator cron updated to treat zero-traffic variant periods as inconclusive/keep instead of escalating."
+    },
+    {
+      "id": "EXP-002",
+      "videoId": "D2elbK2vCRE",
+      "field": "title",
+      "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+      "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-07-22T09:17:37.226640-04:00",
+      "launchedBy": "agent (manual launch \u2014 Pulse cron 8c24d1c2 failed to auto-launch on 2026-07-22 due to lifetime-views eligibility gap; launched interactively per fully-automatic policy autoLaunchTitleTests=true)",
+      "baselineMetrics": {
+        "windowDays": 28,
+        "views": 1253,
+        "avgViewDurationSec": 18,
+        "flag": "optimize",
+        "note": "High views (1253, well above 200 threshold) but below-median retention (18s vs ~27s channel median) \u2014 viewers click but bounce"
+      },
+      "baselineDailyAverages": {
+        "views": 45,
+        "avgViewDurationSec": 18
+      },
+      "status": "running",
+      "evalWindowHours": 72,
+      "rationale": "Variant swaps generic 'coldest winter on earth' for a concrete impossible-sounding curiosity gap matching the video's own opening hook. Daily evaluator cron (0dedfa05) will auto-judge in ~72h."
     }
   ],
   "policy": {
