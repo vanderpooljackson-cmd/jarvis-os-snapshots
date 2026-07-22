@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-22T10:14:43.353110-04:00",
+  "lastRunAt": "2026-07-22T16:07:16.232570-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -870,6 +870,83 @@
         "url": "https://www.youtube.com/watch?v=9Il9e4WfzXw",
         "privacyStatus": "public",
         "publishedAt": "2026-07-22T14:14:30Z"
+      }
+    },
+    {
+      "productionId": "JV-2026-07-22-SELFN2",
+      "ideaId": "selfgen-2026-07-22",
+      "sourceHash": "b8d3e1026a9a8db353ec0fcd60763696c0f46f07aed5a821b6f3328f97c2b1b8",
+      "status": "uploaded",
+      "startedAt": "2026-07-22T16:02:56.401095-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Jellyfish Never Actually Dies #Shorts",
+      "sourceType": "self-generated (jellyfish biological immortality \u2014 extreme survival angle, filmable per pexels-footage-index, not yet produced)",
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-22-SELFN2/script.txt",
+        "narration": "charon TTS 53.13s",
+        "hookCard": "CHEATS DEATH FOREVER",
+        "finalVideo": "1080x1920 53.13s",
+        "videoDurationSeconds": 53.13,
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "13287812",
+            "sourceUrl": "https://www.pexels.com/video/jellyfish-in-water-13287812/",
+            "photographer": "Chandra Halim",
+            "duration": 21
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "11042890",
+            "sourceUrl": "https://www.pexels.com/video/jellyfish-in-water-in-aquarium-11042890/",
+            "photographer": "Diana",
+            "duration": 11
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "13320123",
+            "sourceUrl": "https://www.pexels.com/video/medusa-in-water-13320123/",
+            "photographer": "Boyan Minchev",
+            "duration": 60
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "9711144",
+            "sourceUrl": "https://www.pexels.com/video/blue-jellyfish-swimming-underwater-9711144/",
+            "photographer": "Andrew James Millward",
+            "duration": 66
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "11042992",
+            "sourceUrl": "https://www.pexels.com/video/jellyfish-swimming-in-blue-aquarium-11042992/",
+            "photographer": "Diana",
+            "duration": 11
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "31314195",
+            "sourceUrl": "https://www.pexels.com/video/mesmerizing-blue-jellyfish-in-dark-ocean-31314195/",
+            "photographer": "Kateryna Hnidash",
+            "duration": 11
+          }
+        ]
+      },
+      "error": null,
+      "renderedAt": "2026-07-22T16:07:00-04:00",
+      "uploadedAt": "2026-07-22T16:07:11-04:00",
+      "youtube": {
+        "videoId": "FLK0SMOCaaU",
+        "url": "https://www.youtube.com/watch?v=FLK0SMOCaaU",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-22T20:07:11Z"
       }
     }
   ]
