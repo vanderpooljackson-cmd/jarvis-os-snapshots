@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-21T16:13:47.585269-04:00",
+  "lastRunAt": "2026-07-22T10:14:43.353110-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -793,6 +793,84 @@
         "error": null
       },
       "lastRunAt": "2026-07-21T16:13:47.585269-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-22-SELFN",
+      "ideaId": "selfgen-2026-07-22",
+      "sourceHash": "a6ef068af8cfab88b069f1e82c57dad7e433c024d67dee5e6eda7f1a301aea78",
+      "status": "uploaded",
+      "startedAt": "2026-07-22T10:09:48.606405-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
+      "sourceType": "self-generated (elephant seismic/infrasound superpower \u2014 sensory sense, filmable per pexels-footage-index, not yet produced)",
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-22-SELFN/script.txt",
+        "narration": "charon TTS 49.29s",
+        "hookCard": "HEARS WITH ITS FEET",
+        "finalVideo": "1080x1920 49.2s",
+        "videoDurationSeconds": 49.2,
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "11760786",
+            "sourceUrl": "https://www.pexels.com/video/an-african-elephant-and-its-baby-11760786/",
+            "photographer": "ROMAN ODINTSOV",
+            "duration": 21
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "35764996",
+            "sourceUrl": "https://www.pexels.com/video/two-asian-elephants-interacting-in-enclosure-35764996/",
+            "photographer": "Joolsmagools",
+            "duration": 63,
+            "note": "re-fetched \u2014 original scene-2 returned a human face"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "36124266",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephants-roaming-zoo-habitat-36124266/",
+            "photographer": "Joolsmagools",
+            "duration": 32
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "34785949",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephant-walking-in-australian-zoo-34785949/",
+            "photographer": "Joolsmagools",
+            "duration": 10
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "36435783",
+            "sourceUrl": "https://www.pexels.com/video/playful-elephants-enjoying-water-in-zoo-36435783/",
+            "photographer": "Joolsmagools",
+            "duration": 69
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "17195993",
+            "sourceUrl": "https://www.pexels.com/video/a-large-elephant-walking-on-the-road-with-a-person-17195993/",
+            "photographer": "Shoeb Suryani",
+            "duration": 24
+          }
+        ]
+      },
+      "error": null,
+      "renderedAt": "2026-07-22T14:14:00-04:00",
+      "uploadedAt": "2026-07-22T14:14:30-04:00",
+      "youtube": {
+        "videoId": "9Il9e4WfzXw",
+        "url": "https://www.youtube.com/watch?v=9Il9e4WfzXw",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-22T14:14:30Z"
+      }
     }
   ]
 }
