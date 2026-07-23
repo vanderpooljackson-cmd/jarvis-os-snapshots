@@ -948,6 +948,82 @@
         "privacyStatus": "public",
         "publishedAt": "2026-07-22T20:07:11Z"
       }
+    },
+    {
+      "productionId": "JV-2026-07-23-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "d4cc39d67e1e9d0a2988135a107b3429725ec4982815d5095c5567e6cc2939ac",
+      "status": "uploaded",
+      "startedAt": "2026-07-23T16:04:07.745921-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Butterfly Tastes With Its Feet #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-23T16:18:29.913961-04:00",
+      "uploadedAt": "2026-07-23T16:18:29.913961-04:00",
+      "youtube": {
+        "videoId": "SDOouEXJgQw",
+        "url": "https://www.youtube.com/watch?v=SDOouEXJgQw",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-23T20:18:12Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "script.txt",
+        "narration": "narration.mp3",
+        "hookCard": "TASTES WITH ITS FEET",
+        "finalVideo": "final.mp4",
+        "videoDurationSeconds": 55.0,
+        "stockClips": [
+          {
+            "scene": 1,
+            "queryUsed": "butterfly landing on flower close up",
+            "providerId": "34809284",
+            "sourceUrl": "https://www.pexels.com/video/butterflies-on-yellow-flowers-in-spring-garden-34809284/",
+            "user": "Tuong Chopper",
+            "duration": 20
+          },
+          {
+            "scene": 2,
+            "queryUsed": "butterfly on flower macro",
+            "providerId": "33463320",
+            "sourceUrl": "https://www.pexels.com/video/macro-capture-of-butterfly-on-lavender-flowers-33463320/",
+            "user": "Hao Le",
+            "duration": 30
+          },
+          {
+            "scene": 3,
+            "queryUsed": "butterfly perched on leaf",
+            "providerId": "34141751",
+            "sourceUrl": "https://www.pexels.com/video/vibrant-butterfly-on-leaf-in-serene-nature-34141751/",
+            "user": "Tuong Chopper",
+            "duration": 11
+          },
+          {
+            "scene": 4,
+            "queryUsed": "butterfly wings close up",
+            "providerId": "28157955",
+            "sourceUrl": "https://www.pexels.com/video/a-brown-butterfly-sitting-on-a-green-leaf-28157955/",
+            "user": "Yusuf Celik",
+            "duration": 11
+          },
+          {
+            "scene": 5,
+            "queryUsed": "butterfly on hand finger",
+            "providerId": "6275791",
+            "sourceUrl": "https://www.pexels.com/video/woman-with-butterfly-on-her-hand-6275791/",
+            "user": "cottonbro studio",
+            "duration": 22
+          },
+          {
+            "scene": 6,
+            "queryUsed": "colorful flowers macro",
+            "providerId": "37182919",
+            "sourceUrl": "https://www.pexels.com/video/vibrant-poppy-field-in-blooming-spring-37182919/",
+            "user": "Jeonggyu Song Nui MALAMA",
+            "duration": 15
+          }
+        ]
+      }
     }
   ]
 }
