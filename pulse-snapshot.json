@@ -3,7 +3,7 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "\ud83d\udc32JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
@@ -247,5 +247,32 @@
     }
   ],
   "fetchedAt": "2026-07-22T09:01:00-04:00",
-  "source": "YouTube Analytics API"
+  "source": "YouTube Analytics API",
+  "monetization": {
+    "ypp": {
+      "program": "YouTube Partner Program",
+      "fetchedAt": "2026-07-22T20:09:42.441641-04:00",
+      "source": "YouTube Analytics API + channel statistics",
+      "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
+      "subscribers": {
+        "current": 45,
+        "threshold": 1000,
+        "percent": 4.5
+      },
+      "watchHours12mo": {
+        "current": 82.0,
+        "threshold": 4000,
+        "percent": 2.05,
+        "window": "Last 12 months",
+        "minutesWatched": 4919
+      },
+      "shortsViews90d": {
+        "current": 25897,
+        "threshold": 10000000,
+        "percent": 0.259,
+        "window": "Last 90 days",
+        "note": "connector has no shorts-only metric; total 90-day views used as proxy (channel is ~all Shorts)"
+      }
+    }
+  }
 }
