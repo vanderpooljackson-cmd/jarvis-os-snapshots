@@ -1,84 +1,78 @@
 {
-  "fetchedAt": "2026-07-22T17:35:00-04:00",
+  "fetchedAt": "2026-07-24T17:34:58.640510-04:00",
   "videos": [
+    {
+      "videoId": "9HLUyhN-xt8",
+      "title": "Why the Lion Roars Loud Enough to Hear Five Miles Away #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": [],
+      "note": "Shorts format - no transcript available. 389 views, 33 likes, uploaded 1h ago."
+    },
+    {
+      "videoId": "SDOouEXJgQw",
+      "title": "Why the Butterfly Tastes With Its Feet #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": [],
+      "note": "Shorts format - no transcript available. 174 views, 7 likes."
+    },
     {
       "videoId": "FLK0SMOCaaU",
       "title": "Why the Jellyfish Never Actually Dies #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": [],
-      "commentsStatus": "empty"
+      "note": "Shorts format - no transcript available. 1K views, 49 likes."
     },
     {
       "videoId": "9Il9e4WfzXw",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "transcriptStatus": "failed",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": [],
-      "commentsStatus": "empty"
+      "clipCandidates": [
+        {
+          "momentLabel": "Curiosity hook - storm sensing",
+          "startSec": 0,
+          "endSec": 8,
+          "why": "Strong curiosity gap: elephant hearing storms before clouds appear. Punchy hook in first 8 seconds.",
+          "hookRewrite": "This elephant can hear a storm coming before a single cloud appears"
+        },
+        {
+          "momentLabel": "Seismic feet - hidden sense",
+          "startSec": 16,
+          "endSec": 24,
+          "why": "Surprising biomechanics: cushioned soles packed with nerve endings detecting ground vibrations. High surprise density.",
+          "hookRewrite": "Elephants feel earthquakes in their feet to talk to each other"
+        }
+      ],
+      "transcript": "0:00 - Why can an elephant hear a coming storm before a single cloud appears? The secret isnt just those giant ears. 0:08 - Elephants send out deep rumbles too low for humans to hear. Infrasound that rolls through the ground like an 0:16 - invisible earthquake for miles. And the herd listening, they feel it in their feet. Their cushioned soles are 0:24 - packed with nerve endings that pick up these seismic vibrations, letting them sense distant thunder, warning calls, 0:31 - and approaching elephants they cant yet see or hear. Its a hidden sense woven into the earth itself, a long distance 0:39 - network the ground quietly carries. So when the soil trembles softly, an elephant may already know 0:47 - exactly what its doing."
     },
     {
       "videoId": "M95zB-4aYAQ",
       "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
-      "transcriptStatus": "extracted",
+      "transcriptStatus": "failed",
       "comments": [
         {
           "id": "UgwxfzKMrIsZoZ7Zs954AaABAg",
           "author": "@InnocentRubibi-j4h",
-          "text": "❤❤❤❤❤❤❤❤❤❤",
+          "text": "heart emojis x10",
           "replyPosted": false,
-          "replyText": null
+          "replyText": null,
+          "skipReason": "Generic praise (hearts only), no reply needed."
         },
         {
           "id": "UgzNE6xqS-rvE4TWlfx4AaABAg",
           "author": "@ChrisWalters-t2g",
-          "text": "How can you say it's the only way to sleep as a marine mammal wales don't sleep like that",
+          "text": "How can you say its the only way to sleep as a marine mammal wales dont sleep like that",
           "replyPosted": true,
-          "replyText": "Great point — and you're actually spot on! Whales use the exact same half-brain trick. Dolphins, whales, and porpoises are all cetaceans, and they all sleep unihemispherically so they can keep breathing and stay alert in the open ocean. So your example actually confirms it: this is THE way air-breathing marine mammals can safely sleep at sea. Thanks for keeping the science sharp!"
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Hook: dolphin sleep/drowning",
-          "startSec": 0,
-          "endSec": 11,
-          "why": "Opens with the core curiosity gap — how does a dolphin sleep without drowning? Strong 3-second pull that earned the video's opening.",
-          "hookRewrite": "What happens if a dolphin falls completely asleep?"
-        },
-        {
-          "momentLabel": "Half-brain sleep reveal",
-          "startSec": 12,
-          "endSec": 22,
-          "why": "The surprising fact — only half the brain sleeps at a time while the other half watches for sharks. Highest surprise density in the video.",
-          "hookRewrite": "Dolphins sleep with half their brain still awake."
-        }
-      ],
-      "commentsStatus": "loaded"
-    },
-    {
-      "videoId": "4WUNKscls30",
-      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [
-        {
-          "id": "UgwsBQBsuu122XWeX2V4AaABAg",
-          "author": "@ElPasoTubeAmps",
-          "text": "The electrical signal from a heart beat is many orders of magnitude less than the electrial amplitude a flashlight battery can produce.",
-          "replyPosted": true,
-          "replyText": "Exactly right — and that's what makes the ampullae of Lorenzini so incredible. They can detect electric fields down to nanovolt levels, far fainter than anything a battery produces. That's how a shark can sense the tiny voltage a fish's heartbeat creates as it moves through seawater, even in pitch black or buried under sand. Thanks for adding that detail!"
+          "replyText": "Great point - and youre actually spot on! Whales use the exact same half-brain trick. Dolphins, whales, and porpoises are all cetaceans, and they all sleep unihemispherically so they can keep breathing and stay alert in the open ocean. So your example actually confirms it: this is THE way air-breathing marine mammals can safely sleep at sea. Thanks for keeping the science sharp!",
+          "note": "Reply was already posted by JVOutdoors in a prior concierge run."
         }
       ],
       "clipCandidates": [],
-      "commentsStatus": "loaded"
-    },
-    {
-      "videoId": "0jZSeW-87Gw",
-      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "commentsStatus": "empty"
+      "note": "Shorts format - no transcript available. 1.9K views. 2 top-level comments + 1 existing reply from channel."
     }
   ],
-  "postedReplies": 2
+  "postedReplies": 0
 }
