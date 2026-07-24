@@ -1024,6 +1024,82 @@
           }
         ]
       }
+    },
+    {
+      "productionId": "JV-2026-07-24-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "c68e7166e5bd97e73dec478abc98fddc065b503c5cdac87deec3b6a38d7fe654",
+      "status": "render-failed",
+      "startedAt": "2026-07-24T16:01:47.150305-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Cheetah Outruns Every Land Animal #Shorts",
+      "sourceType": "selfgen",
+      "error": "insufficient cheetah footage: only 2/6 valid clips (Pexels returns leopards/lions/monkeys for cheetah queries)",
+      "failedAt": "2026-07-24T16:04:18.025211-04:00"
+    },
+    {
+      "productionId": "JV-2026-07-24-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "09ec131dae86c9dfe113a20b9655f2dc6c8851f3ba5657595add17c70002a493",
+      "status": "uploaded",
+      "startedAt": "2026-07-24T16:04:18.025211-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Lion Roars Loud Enough to Hear Five Miles Away #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-24T16:08:46.508026-04:00",
+      "uploadedAt": "2026-07-24T16:08:46.508026-04:00",
+      "youtube": {
+        "videoId": "9HLUyhN-xt8",
+        "url": "https://www.youtube.com/watch?v=9HLUyhN-xt8",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-24T20:08:37Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-24-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "HEARD FROM FIVE MILES",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-24-SELFN2/final.mp4",
+        "videoDurationSeconds": 52.93,
+        "stockClips": [
+          {
+            "scene": 1,
+            "queryUsed": "lion roaring close up",
+            "providerId": "37249673",
+            "sourceUrl": "https://www.pexels.com/video/majestic-lion-roaring-in-safari-wilderness-37249673/"
+          },
+          {
+            "scene": 2,
+            "queryUsed": "lion mouth open roaring",
+            "providerId": "38159299",
+            "sourceUrl": "https://www.pexels.com/video/majestic-lion-roaring-in-natural-habitat-38159299/"
+          },
+          {
+            "scene": 3,
+            "queryUsed": "lion in savanna",
+            "providerId": "37357772",
+            "sourceUrl": "https://www.pexels.com/video/majestic-lions-resting-in-natural-habitat-37357772/"
+          },
+          {
+            "scene": 4,
+            "queryUsed": "male lion roaring",
+            "providerId": "36124989",
+            "sourceUrl": "https://www.pexels.com/video/majestic-lion-strolling-in-natural-habitat-36124989/"
+          },
+          {
+            "scene": 5,
+            "queryUsed": "lion pride together",
+            "providerId": "15954372",
+            "sourceUrl": "https://www.pexels.com/video/momenti-magici-15954372/"
+          },
+          {
+            "scene": 6,
+            "queryUsed": "lion standing on rock",
+            "providerId": "37358035",
+            "sourceUrl": "https://www.pexels.com/video/adorable-lion-cubs-playing-in-nature-37358035/"
+          }
+        ]
+      }
     }
   ]
 }
