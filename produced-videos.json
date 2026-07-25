@@ -1127,6 +1127,33 @@
         "videoDurationSeconds": 58.09,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-25-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "2c1e3f40be1f71e58d65b686b9f34cb04f0bdfb45e84ec9a26a4b611dd2701e9",
+      "status": "uploaded",
+      "startedAt": "2026-07-25T16:04:07.213373-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Bee Sees Colors Invisible to Human Eyes #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-25T16:08:13.642239-04:00",
+      "uploadedAt": "2026-07-25T16:08:13.642239-04:00",
+      "youtube": {
+        "videoId": "MbGo7OdtqW8",
+        "url": "https://www.youtube.com/watch?v=MbGo7OdtqW8",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-25T20:07:52Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-25-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SEES COLORS WE CANT",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-25-SELFN2/final.mp4",
+        "videoDurationSeconds": 46.81,
+        "stockClips": 6
+      }
     }
   ]
 }
