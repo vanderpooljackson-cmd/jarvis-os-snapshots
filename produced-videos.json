@@ -1100,6 +1100,33 @@
           }
         ]
       }
+    },
+    {
+      "productionId": "JV-2026-07-25-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "78ca03bbd48e01de25288dd6155c529bc1700610cc2272b6e2d44e5acd719e69",
+      "status": "uploaded",
+      "startedAt": "2026-07-25T10:04:54.388345-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Bear Smells Food From Twenty Miles Away #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-25T10:09:26.652033-04:00",
+      "uploadedAt": "2026-07-25T10:09:26.652033-04:00",
+      "youtube": {
+        "videoId": "F39DdwKsONc",
+        "url": "https://www.youtube.com/watch?v=F39DdwKsONc",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-25T14:09:20Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-25-SELFN/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SMELLS FROM TWENTY MILES",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-25-SELFN/final.mp4",
+        "videoDurationSeconds": 58.09,
+        "stockClips": 6
+      }
     }
   ]
 }
