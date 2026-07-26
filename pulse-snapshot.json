@@ -5,30 +5,38 @@
     "handle": "@jvoutdoors67",
     "description": "\ud83d\udc32JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
-    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s88-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 31640,
-      "subscriberCount": 53,
-      "videoCount": 55
+      "viewCount": 32578,
+      "subscriberCount": 55,
+      "videoCount": 57
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-06-27",
-    "endDate": "2026-07-25",
+    "startDate": "2026-06-28",
+    "endDate": "2026-07-26",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 12094,
-    "estimatedMinutesWatched": 3766,
-    "subscribersGained": 34,
+    "views": 12574,
+    "estimatedMinutesWatched": 3880,
+    "subscribersGained": 35,
     "subscribersLost": 7,
-    "netSubscribers": 27,
-    "likes": 444,
+    "netSubscribers": 28,
+    "likes": 454,
     "comments": 6,
     "shares": 9
   },
   "daily": [
+    {
+      "day": "2026-06-28",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
     {
       "day": "2026-06-29",
       "views": 0,
@@ -36,6 +44,30 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": -1
+    },
+    {
+      "day": "2026-06-30",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-01",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-02",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     },
     {
       "day": "2026-07-03",
@@ -102,6 +134,14 @@
       "likes": 0
     },
     {
+      "day": "2026-07-11",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
       "day": "2026-07-12",
       "views": 3,
       "watched": 0,
@@ -112,6 +152,38 @@
     {
       "day": "2026-07-13",
       "views": 1,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-14",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-15",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-16",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-17",
+      "views": 0,
       "watched": 0,
       "subsGained": 0,
       "subsLost": 0,
@@ -143,8 +215,8 @@
     },
     {
       "day": "2026-07-21",
-      "views": 2705,
-      "watched": 1088,
+      "views": 2703,
+      "watched": 1087,
       "subsGained": 8,
       "subsLost": 0,
       "likes": 92
@@ -156,120 +228,155 @@
       "subsGained": 7,
       "subsLost": 1,
       "likes": 103
+    },
+    {
+      "day": "2026-07-23",
+      "views": 482,
+      "watched": 115,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 10
     }
   ],
   "topVideos": [
     {
       "videoId": "M95zB-4aYAQ",
-      "title": null,
-      "views": 1713,
-      "watched": 865,
-      "likes": 41,
+      "title": "",
+      "views": 1856,
+      "watched": 913,
+      "likes": 44,
       "comments": 2,
-      "avgViewDuration": 47.0,
+      "avgViewDuration": 46,
       "flag": "winner",
-      "note": "Top views + retention in this window."
-    },
-    {
-      "videoId": "D2elbK2vCRE",
-      "title": null,
-      "views": 1335,
-      "watched": 279,
-      "likes": 35,
-      "comments": 0,
-      "avgViewDuration": 18.0,
-      "flag": "optimize",
       "note": ""
     },
     {
-      "videoId": "RZ6qtnTpTiA",
-      "title": null,
-      "views": 1293,
-      "watched": 406,
-      "likes": 51,
+      "videoId": "D2elbK2vCRE",
+      "title": "The Secret That Keeps Penguins Alive in Antarctica\u2019s Winter #Shorts",
+      "views": 1336,
+      "watched": 279,
+      "likes": 35,
+      "comments": 0,
+      "avgViewDuration": 18,
+      "flag": "optimize",
+      "note": "A/B test running: title changed from 'Why the Penguin Survives the Coldest Winter on Earth #Shorts'"
+    },
+    {
+      "videoId": "0jZSeW-87Gw",
+      "title": "",
+      "views": 1299,
+      "watched": 529,
+      "likes": 61,
       "comments": 1,
-      "avgViewDuration": 28.0,
+      "avgViewDuration": 37,
       "flag": "stable",
       "note": ""
     },
     {
-      "videoId": "0jZSeW-87Gw",
-      "title": null,
-      "views": 1258,
-      "watched": 517,
-      "likes": 61,
+      "videoId": "RZ6qtnTpTiA",
+      "title": "",
+      "views": 1295,
+      "watched": 406,
+      "likes": 51,
       "comments": 1,
-      "avgViewDuration": 37.0,
+      "avgViewDuration": 28,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "g6Nmh2WuHDo",
-      "title": null,
+      "title": "",
       "views": 1215,
       "watched": 313,
       "likes": 59,
       "comments": 0,
-      "avgViewDuration": 26.0,
-      "flag": "optimize",
-      "note": ""
-    },
-    {
-      "videoId": "uEWo-Q5jST8",
-      "title": null,
-      "views": 1050,
-      "watched": 246,
-      "likes": 16,
-      "comments": 1,
-      "avgViewDuration": 27.0,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "4WUNKscls30",
-      "title": null,
-      "views": 1048,
-      "watched": 317,
-      "likes": 47,
-      "comments": 1,
-      "avgViewDuration": 29.0,
+      "avgViewDuration": 26,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "C5rhgXKTkO4",
-      "title": null,
-      "views": 1048,
-      "watched": 255,
+      "title": "",
+      "views": 1098,
+      "watched": 268,
       "likes": 40,
       "comments": 0,
-      "avgViewDuration": 22.0,
+      "avgViewDuration": 22,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "4WUNKscls30",
+      "title": "",
+      "views": 1072,
+      "watched": 322,
+      "likes": 47,
+      "comments": 1,
+      "avgViewDuration": 28,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "9Il9e4WfzXw",
-      "title": null,
-      "views": 1022,
-      "watched": 281,
-      "likes": 41,
+      "title": "",
+      "views": 1056,
+      "watched": 290,
+      "likes": 43,
       "comments": 0,
-      "avgViewDuration": 26.0,
+      "avgViewDuration": 26,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "uEWo-Q5jST8",
+      "title": "",
+      "views": 1050,
+      "watched": 246,
+      "likes": 16,
+      "comments": 1,
+      "avgViewDuration": 27,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "FLK0SMOCaaU",
-      "title": null,
-      "views": 1012,
-      "watched": 260,
-      "likes": 50,
+      "title": "",
+      "views": 1026,
+      "watched": 263,
+      "likes": 49,
       "comments": 0,
-      "avgViewDuration": 25.0,
+      "avgViewDuration": 25,
       "flag": "stable",
       "note": ""
     }
   ],
-  "fetchedAt": "2026-07-25T09:03:37-04:00",
+  "monetization": {
+    "ypp": {
+      "program": "YouTube Partner Program",
+      "fetchedAt": "2026-07-26T09:03:36-04:00",
+      "source": "YouTube Analytics API + channel statistics",
+      "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
+      "subscribers": {
+        "current": 55,
+        "threshold": 1000,
+        "percent": 5.5
+      },
+      "watchHours12mo": {
+        "current": 114.1,
+        "threshold": 4000,
+        "percent": 2.85,
+        "window": "Last 12 months",
+        "minutesWatched": 6848
+      },
+      "shortsViews90d": {
+        "current": 31657,
+        "threshold": 10000000,
+        "percent": 0.317,
+        "window": "Last 90 days",
+        "note": "proxy: total 90-day views"
+      }
+    }
+  },
+  "fetchedAt": "2026-07-26T09:03:36-04:00",
   "source": "YouTube Analytics API"
 }
