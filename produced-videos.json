@@ -1193,6 +1193,33 @@
         "videoDurationSeconds": 54.8,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-26-GP03",
+      "ideaId": "JVGP-2026-07-27-03",
+      "sourceHash": "b0c75448afa2bce04b13ab19055e77873d7b83640cb09109597388c85c20e56a",
+      "status": "uploaded",
+      "startedAt": "2026-07-26T16:04:10.411636-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Crocodile Can Hold Its Breath for Over an Hour #Shorts",
+      "sourceType": "growth-plan",
+      "renderedAt": "2026-07-26T16:12:27.797899-04:00",
+      "uploadedAt": "2026-07-26T16:12:27.797899-04:00",
+      "youtube": {
+        "videoId": "U7HFrqyEAyQ",
+        "url": "https://www.youtube.com/watch?v=U7HFrqyEAyQ",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-26T20:12:21Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-26-GP03/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "HOLDS BREATH FOR AN HOUR",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-26-GP03/final.mp4",
+        "videoDurationSeconds": 48.73,
+        "stockClips": 6
+      }
     }
   ]
 }
