@@ -1,36 +1,42 @@
 {
-  "weekOf": "2026-07-20",
+  "weekOf": "2026-07-27",
   "basedOn": {
     "topVideos": [
       {
-        "videoId": "uEWo-Q5jST8",
-        "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
-        "views": 1050,
-        "avgViewDuration": 27,
+        "videoId": "M95zB-4aYAQ",
+        "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
+        "views": 1856,
+        "avgViewDuration": 46,
         "source": "pulse-snapshot"
       },
       {
-        "videoId": "eD5uslCyTt4",
-        "title": "Why the Owl Hunts in Total Silence #Shorts",
-        "views": 16,
-        "avgViewDuration": 25,
+        "videoId": "D2elbK2vCRE",
+        "title": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
+        "views": 1336,
+        "avgViewDuration": 18,
         "source": "pulse-snapshot"
       },
       {
-        "videoId": "zbQossrADw4",
-        "title": null,
-        "views": 4,
-        "avgViewDuration": 10,
+        "videoId": "0jZSeW-87Gw",
+        "title": "Why the Turtle Breathes Through Its Butt #Shorts",
+        "views": 1299,
+        "avgViewDuration": 37,
         "source": "pulse-snapshot"
       }
     ],
     "bestRetention": [
       {
-        "videoId": "nwx9HIi8XzE",
-        "title": null,
-        "avgViewDuration": 97,
-        "views": 4,
-        "note": "Very low views; treat as directional only",
+        "videoId": "M95zB-4aYAQ",
+        "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
+        "avgViewDuration": 46,
+        "views": 1856,
+        "source": "pulse-snapshot"
+      },
+      {
+        "videoId": "0jZSeW-87Gw",
+        "title": "Why the Turtle Breathes Through Its Butt #Shorts",
+        "avgViewDuration": 37,
+        "views": 1299,
         "source": "pulse-snapshot"
       },
       {
@@ -38,90 +44,92 @@
         "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
         "avgViewDuration": 27,
         "views": 1050,
-        "source": "pulse-snapshot"
-      },
-      {
-        "videoId": "eD5uslCyTt4",
-        "title": "Why the Owl Hunts in Total Silence #Shorts",
-        "avgViewDuration": 25,
-        "views": 16,
-        "source": "pulse-snapshot"
+        "source": "pulse-snapshot + producer-analytics"
       }
     ],
     "titleLessons": [
       {
         "experimentId": "EXP-001",
-        "lesson": "Curiosity-gap question titles (\"Why does this [animal] have [weird trait]?\") are a better bet than plain descriptors, but this specific test was inconclusive due to zero traffic; variant was kept.",
+        "videoId": "fj4-WKURK24",
+        "lesson": "Use a direct curiosity question framing (e.g., ‘Why does…?’) over a descriptive label; test was inconclusive due to zero traffic but variant kept as stronger hook wording.",
         "winner": "Why Does This Fish Have White Blood? #Shorts",
         "loser": "Antarctic Fish with White Blood #Shorts",
-        "confidence": "low"
+        "decision": "inconclusive-keep"
+      },
+      {
+        "experimentId": "EXP-002",
+        "videoId": "D2elbK2vCRE",
+        "lesson": "Avoid overly long, overly specific ‘extreme detail’ titles if they depress views; shorter baseline beat the long variant.",
+        "winner": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+        "loser": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
+        "decision": "revert"
+      },
+      {
+        "experimentId": "EXP-003",
+        "videoId": "D2elbK2vCRE",
+        "lesson": "‘The Secret That…’ curiosity-gap framing is worth testing versus straight ‘Why…’ framing (test currently running).",
+        "winner": null,
+        "loser": null,
+        "decision": "running"
       }
     ],
     "producerAnalytics": {
       "available": true,
       "hookFrames": [
         {
-          "key": "why_animal_superpower",
-          "label": "Why the [animal] [superpower]",
+          "key": "why_the_[animal]_[x]_#shorts",
+          "label": "Why the [animal] [X] #Shorts",
           "verdict": "promising",
-          "confidence": "low",
-          "sampleSize": 1
-        },
-        {
-          "key": "why_animal_sensory_surprise",
-          "label": "Why the [animal] [sensory surprise]",
-          "verdict": "promising",
-          "confidence": "low",
-          "sampleSize": 2
+          "confidence": "medium",
+          "sampleSize": 6,
+          "viewsMedian": 1108.5,
+          "avgViewDurationMedian": 27.5
         }
       ],
       "summary": [
         {
-          "pattern": "\"Why the [animal] [surprising ability]\" is the right frame to keep using",
-          "verdict": "prioritize"
-        },
-        {
-          "pattern": "Underwater/less-familiar animals may need better immediate visual proof",
-          "verdict": "promising"
+          "pattern": "Recent uploads still pending Analytics lag",
+          "verdict": "wait",
+          "evidence": "Pending (no rows yet): Why the Camel's Hump Is Not Full of Water #Shorts, Why the Turtle Breathes Through Its Butt #Shorts, Why the Shark Can Sense a Heartbeat in the Dark #Shorts, Why the Dolphin Never Fully Falls Asleep #Shorts, Why the Elephant Hears With Its Feet #Shorts"
         }
       ]
     }
   },
   "ideas": [
     {
-      "id": "JV-W27-IDEA-001",
-      "title": "Why the Arctic Ground Squirrel Doesn’t Freeze to Death #Shorts",
-      "concept": "Explain the ground squirrel’s extreme cold tolerance and how it survives sub-zero body temps during hibernation.",
-      "hook": "\"This animal lets its body temperature drop below freezing… and lives.\"",
-      "keyVisual": "Close-up ground squirrel in snowy tundra (breathing visible), quick cut to burrow/hibernation B-roll; readable ice/snow context for instant proof.",
+      "id": "JVGP-2026-07-27-01",
+      "title": "Why the Octopus Changes Color in a Split Second #Shorts",
+      "concept": "Explain how octopus skin cells (chromatophores) let it instantly camouflage for hunting and hiding.",
+      "hook": "Watch this octopus vanish… it’s not magic—it’s living pixels.",
+      "keyVisual": "Close-up stock footage of an octopus on reef rock rapidly shifting from mottled brown to bright/striped patterns while moving.",
       "hashtagSets": [
-        ["#Shorts", "#wildlife", "#naturefacts", "#arctic"],
-        ["#Shorts", "#animals", "#science", "#hibernation"],
-        ["#Shorts", "#outdoors", "#winter", "#funfacts"]
+        ["#Shorts", "#Octopus", "#Ocean"],
+        ["#Shorts", "#Wildlife", "#NatureFacts"],
+        ["#Shorts", "#Camouflage", "#Animals"]
       ]
     },
     {
-      "id": "JV-W27-IDEA-002",
-      "title": "Why the Peregrine Falcon Hits 200+ mph #Shorts",
-      "concept": "Break down the ‘superpower’ of the fastest animal: the falcon’s dive (stoop) mechanics and airflow adaptations.",
-      "hook": "\"Fastest animal on Earth—here’s the trick that makes it possible.\"",
-      "keyVisual": "High-speed peregrine falcon dive footage (silhouette against sky), cut to talons/impact on prey dummy or prey capture shot; strong motion in first second.",
+      "id": "JVGP-2026-07-27-02",
+      "title": "Why the Hummingbird Can Hover Like a Helicopter #Shorts",
+      "concept": "Break down the unique wingbeat motion that allows hovering and flying backward.",
+      "hook": "This bird can stop midair and even fly backwards—here’s the trick.",
+      "keyVisual": "High-speed style clip of a hummingbird hovering at a flower, then reversing slightly and repositioning.",
       "hashtagSets": [
-        ["#Shorts", "#birds", "#peregrinefalcon", "#wildlife"],
-        ["#Shorts", "#nature", "#animalfacts", "#speed"],
-        ["#Shorts", "#science", "#biology", "#naturefacts"]
+        ["#Shorts", "#Hummingbird", "#Birds"],
+        ["#Shorts", "#Nature", "#Science"],
+        ["#Shorts", "#Wildlife", "#AnimalFacts"]
       ]
     },
     {
-      "id": "JV-W27-IDEA-003",
-      "title": "Why the Owl’s Face Works Like a Satellite Dish #Shorts",
-      "concept": "A follow-up to the winning owl theme: how the facial disc funnels sound and helps pinpoint prey in darkness.",
-      "hook": "\"An owl’s face isn’t for looks—it’s a sound-catching tool.\"",
-      "keyVisual": "Front-on owl head close-up (clear facial disc), quick cut to owl turning head toward faint sound; use night-forest ambience style footage.",
+      "id": "JVGP-2026-07-27-03",
+      "title": "Why the Crocodile Can Hold Its Breath for Over an Hour #Shorts",
+      "concept": "Teach the simple physiology (slow metabolism + efficient oxygen use) behind long underwater ambushes.",
+      "hook": "A crocodile can wait underwater longer than you can watch this video.",
+      "keyVisual": "Crocodile barely submerged at water surface with only eyes/nose visible, then slow underwater glide toward prey area.",
       "hashtagSets": [
-        ["#Shorts", "#owl", "#wildlife", "#naturefacts"],
-        ["#Shorts", "#birds", "#animalfacts", "#science"],
-        ["#Shorts", "#nature", "#outdoors", "#education"]
+        ["#Shorts", "#Crocodile", "#Reptiles"],
+        ["#Shorts", "#Wildlife", "#Predators"],
+        ["#Shorts", "#NatureFacts", "#Animals"]
       ]
     }
   ]
