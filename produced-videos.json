@@ -1154,6 +1154,45 @@
         "videoDurationSeconds": 46.81,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-26-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "4f0a3daebd3cf63fa6bb985d4019ff4b28cd5a471f396b26d7d3882d62884678",
+      "status": "render-failed",
+      "startedAt": "2026-07-26T10:02:45.974209-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Snake Sees Body Heat in Total Darkness #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-26T10:04:30.373808-04:00",
+      "error": "insufficient stock footage: 1/6 \u2014 snake effectively unfilmable on Pexels (returns humans holding snakes, squirrels, mushrooms)"
+    },
+    {
+      "productionId": "JV-2026-07-26-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "17b0265d8ca15dfecf0981e59f18e85593f6990292cd4fb59bd2fea60dd101dc",
+      "status": "uploaded",
+      "startedAt": "2026-07-26T10:04:30.373808-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Hippo Sweats Red Like Blood #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-26T10:17:00.805554-04:00",
+      "uploadedAt": "2026-07-26T10:17:00.805554-04:00",
+      "youtube": {
+        "videoId": "36_7wDuALKU",
+        "url": "https://www.youtube.com/watch?v=36_7wDuALKU",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-26T14:16:53Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-26-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SWEATS RED LIKE BLOOD",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-26-SELFN2/final.mp4",
+        "videoDurationSeconds": 54.8,
+        "stockClips": 6
+      }
     }
   ]
 }
