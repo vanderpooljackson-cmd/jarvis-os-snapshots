@@ -1220,6 +1220,33 @@
         "videoDurationSeconds": 48.73,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-27-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "8823e003d09751123d8590a5611989399d5c5163e8aba4e80225b800d3105e31",
+      "status": "uploaded",
+      "startedAt": "2026-07-27T10:13:04.489307-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Giraffe Has Blood Pressure That Would Kill You #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-27T10:18:17.377559-04:00",
+      "uploadedAt": "2026-07-27T10:18:17.377559-04:00",
+      "youtube": {
+        "videoId": "Nudk8CPNgCI",
+        "url": "https://www.youtube.com/watch?v=Nudk8CPNgCI",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-27T14:18:09Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-27-SELFN/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "BLOOD PRESSURE THAT WOULD KILL YOU",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-27-SELFN/final.mp4",
+        "videoDurationSeconds": 62.13,
+        "stockClips": 6
+      }
     }
   ]
 }
