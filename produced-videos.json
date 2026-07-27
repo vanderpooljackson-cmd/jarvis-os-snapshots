@@ -1247,6 +1247,33 @@
         "videoDurationSeconds": 62.13,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-27-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "04d463b13fe3d5b2642151229ac3ef9bb1d43dddf953855e78cf7035355f4c04",
+      "status": "uploaded",
+      "startedAt": "2026-07-27T16:04:44.150724-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Flamingo Survives Water That Would Burn You #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-27T16:11:35.450655-04:00",
+      "uploadedAt": "2026-07-27T16:11:35.450655-04:00",
+      "youtube": {
+        "videoId": "MKT7UcL0gps",
+        "url": "https://www.youtube.com/watch?v=MKT7UcL0gps",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-27T20:11:24Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-27-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SURVIVES WATER THAT BURNS",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-27-SELFN2/final.mp4",
+        "videoDurationSeconds": 67.93,
+        "stockClips": 6
+      }
     }
   ]
 }
