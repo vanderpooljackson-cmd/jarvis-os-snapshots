@@ -1301,6 +1301,45 @@
         "videoDurationSeconds": 64.0,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-28-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "25c0df5ad1cd77b189693dc415e96911fcd3824813c87ae9786bd480593204b1",
+      "status": "render-failed",
+      "startedAt": "2026-07-28T16:03:11.442995-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Whale Talks Across Entire Oceans #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-28T16:05:04.832264-04:00",
+      "error": "insufficient stock footage: 3/6 \u2014 whale effectively unfilmable on Pexels (returns dolphins, seals, seagulls, boats)"
+    },
+    {
+      "productionId": "JV-2026-07-28-SELFN3",
+      "ideaId": "SELFN3",
+      "sourceHash": "6f91b5c24ae78763e97deefc2ea8aec709e64350314e17ea6f150c2d4e4c00a0",
+      "status": "uploaded",
+      "startedAt": "2026-07-28T16:05:04.832264-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Tiger Sees Six Times Better in the Dark #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-28T16:10:31.825826-04:00",
+      "uploadedAt": "2026-07-28T16:10:31.825826-04:00",
+      "youtube": {
+        "videoId": "WJBVgO1_rT8",
+        "url": "https://www.youtube.com/watch?v=WJBVgO1_rT8",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-28T20:10:26Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-28-SELFN3/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SEES SIX TIMES BETTER IN DARK",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-28-SELFN3/final.mp4",
+        "videoDurationSeconds": 61.8,
+        "stockClips": 6
+      }
     }
   ]
 }

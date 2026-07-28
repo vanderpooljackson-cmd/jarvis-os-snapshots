@@ -82,10 +82,6 @@
       "baseQuery": "starfish"
     },
     {
-      "animal": "whale",
-      "baseQuery": "whale"
-    },
-    {
       "animal": "seal",
       "baseQuery": "seal"
     },
@@ -274,6 +270,11 @@
       "animal": "snake",
       "baseQuery": "snake",
       "note": "effectively unfilmable \u2014 Pexels returns humans holding snakes, squirrels, mushrooms, pheasants. 1/6 valid across 2 fetch attempts."
+    },
+    {
+      "animal": "whale",
+      "baseQuery": "whale",
+      "note": "effectively unfilmable \u2014 Pexels returns dolphins, seals, seagulls, boats. 3/6 valid across 2 fetch attempts."
     }
   ],
   "alreadyProduced": [
