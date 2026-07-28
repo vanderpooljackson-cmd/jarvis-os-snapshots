@@ -1274,6 +1274,33 @@
         "videoDurationSeconds": 67.93,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-28-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "f1a68437a22a950822c6087c417939d3f0114a8cb781fd9f8394c5fbbf498f22",
+      "status": "uploaded",
+      "startedAt": "2026-07-28T10:07:02.940885-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Peacock Glows Without Pigment #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-28T10:12:20.651294-04:00",
+      "uploadedAt": "2026-07-28T10:12:20.651294-04:00",
+      "youtube": {
+        "videoId": "Myb4_3AuIec",
+        "url": "https://www.youtube.com/watch?v=Myb4_3AuIec",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-28T14:12:15Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-28-SELFN/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "COLORS WITHOUT PIGMENT",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-28-SELFN/final.mp4",
+        "videoDurationSeconds": 64.0,
+        "stockClips": 6
+      }
     }
   ]
 }
