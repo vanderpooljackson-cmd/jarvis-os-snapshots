@@ -1340,6 +1340,33 @@
         "videoDurationSeconds": 61.8,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-29-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "bf319c16feed928c438f1deb3d4be9aac3810362707ede2aae0b6d6b7a41b234",
+      "status": "uploaded",
+      "startedAt": "2026-07-29T10:04:05.387496-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Kangaroo Can Pause Her Own Pregnancy #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-29T10:08:55.692901-04:00",
+      "uploadedAt": "2026-07-29T10:08:55.692901-04:00",
+      "youtube": {
+        "videoId": "FpsDSm0tmfs",
+        "url": "https://www.youtube.com/watch?v=FpsDSm0tmfs",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-29T14:08:50Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-29-SELFN/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "PAUSES HER OWN PREGNANCY",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-29-SELFN/final.mp4",
+        "videoDurationSeconds": 58.57,
+        "stockClips": 6
+      }
     }
   ]
 }
