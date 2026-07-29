@@ -11,7 +11,7 @@
       },
       {
         "videoId": "D2elbK2vCRE",
-        "title": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
+        "title": "The Secret That Keeps Penguins Alive in Antarctica\u2019s Winter #Shorts",
         "views": 1336,
         "avgViewDuration": 18,
         "source": "pulse-snapshot"
@@ -51,7 +51,7 @@
       {
         "experimentId": "EXP-001",
         "videoId": "fj4-WKURK24",
-        "lesson": "Use a direct curiosity question framing (e.g., ‘Why does…?’) over a descriptive label; test was inconclusive due to zero traffic but variant kept as stronger hook wording.",
+        "lesson": "Use a direct curiosity question framing (e.g., \u2018Why does\u2026?\u2019) over a descriptive label; test was inconclusive due to zero traffic but variant kept as stronger hook wording.",
         "winner": "Why Does This Fish Have White Blood? #Shorts",
         "loser": "Antarctic Fish with White Blood #Shorts",
         "decision": "inconclusive-keep"
@@ -59,7 +59,7 @@
       {
         "experimentId": "EXP-002",
         "videoId": "D2elbK2vCRE",
-        "lesson": "Avoid overly long, overly specific ‘extreme detail’ titles if they depress views; shorter baseline beat the long variant.",
+        "lesson": "Avoid overly long, overly specific \u2018extreme detail\u2019 titles if they depress views; shorter baseline beat the long variant.",
         "winner": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "loser": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
         "decision": "revert"
@@ -67,7 +67,7 @@
       {
         "experimentId": "EXP-003",
         "videoId": "D2elbK2vCRE",
-        "lesson": "‘The Secret That…’ curiosity-gap framing is worth testing versus straight ‘Why…’ framing (test currently running).",
+        "lesson": "\u2018The Secret That\u2026\u2019 curiosity-gap framing is worth testing versus straight \u2018Why\u2026\u2019 framing (test currently running).",
         "winner": null,
         "loser": null,
         "decision": "running"
@@ -100,24 +100,48 @@
       "id": "JVGP-2026-07-27-01",
       "title": "Why the Octopus Changes Color in a Split Second #Shorts",
       "concept": "Explain how octopus skin cells (chromatophores) let it instantly camouflage for hunting and hiding.",
-      "hook": "Watch this octopus vanish… it’s not magic—it’s living pixels.",
+      "hook": "Watch this octopus vanish\u2026 it\u2019s not magic\u2014it\u2019s living pixels.",
       "keyVisual": "Close-up stock footage of an octopus on reef rock rapidly shifting from mottled brown to bright/striped patterns while moving.",
       "hashtagSets": [
-        ["#Shorts", "#Octopus", "#Ocean"],
-        ["#Shorts", "#Wildlife", "#NatureFacts"],
-        ["#Shorts", "#Camouflage", "#Animals"]
+        [
+          "#Shorts",
+          "#Octopus",
+          "#Ocean"
+        ],
+        [
+          "#Shorts",
+          "#Wildlife",
+          "#NatureFacts"
+        ],
+        [
+          "#Shorts",
+          "#Camouflage",
+          "#Animals"
+        ]
       ]
     },
     {
       "id": "JVGP-2026-07-27-02",
       "title": "Why the Hummingbird Can Hover Like a Helicopter #Shorts",
       "concept": "Break down the unique wingbeat motion that allows hovering and flying backward.",
-      "hook": "This bird can stop midair and even fly backwards—here’s the trick.",
+      "hook": "This bird can stop midair and even fly backwards\u2014here\u2019s the trick.",
       "keyVisual": "High-speed style clip of a hummingbird hovering at a flower, then reversing slightly and repositioning.",
       "hashtagSets": [
-        ["#Shorts", "#Hummingbird", "#Birds"],
-        ["#Shorts", "#Nature", "#Science"],
-        ["#Shorts", "#Wildlife", "#AnimalFacts"]
+        [
+          "#Shorts",
+          "#Hummingbird",
+          "#Birds"
+        ],
+        [
+          "#Shorts",
+          "#Nature",
+          "#Science"
+        ],
+        [
+          "#Shorts",
+          "#Wildlife",
+          "#AnimalFacts"
+        ]
       ]
     },
     {
@@ -127,10 +151,109 @@
       "hook": "A crocodile can wait underwater longer than you can watch this video.",
       "keyVisual": "Crocodile barely submerged at water surface with only eyes/nose visible, then slow underwater glide toward prey area.",
       "hashtagSets": [
-        ["#Shorts", "#Crocodile", "#Reptiles"],
-        ["#Shorts", "#Wildlife", "#Predators"],
-        ["#Shorts", "#NatureFacts", "#Animals"]
+        [
+          "#Shorts",
+          "#Crocodile",
+          "#Reptiles"
+        ],
+        [
+          "#Shorts",
+          "#Wildlife",
+          "#Predators"
+        ],
+        [
+          "#Shorts",
+          "#NatureFacts",
+          "#Animals"
+        ]
+      ]
+    },
+    {
+      "id": "JVLF-2026-08-02-01",
+      "type": "longform-compilation",
+      "title": "5 Animals With Senses You Wish You Had",
+      "concept": "Weekly long-form compilation stitching together the best Shorts from the past week with bridging narration. Features dolphin (echolocation sleep), turtle (butt breathing), bear (20-mile smell), lion (5-mile roar), and tiger (6x night vision).",
+      "hook": "These 5 animals have superpowers you can only dream of \u2014 and they use them every single day.",
+      "keyVisual": "Split-screen composite of 5 animal faces (dolphin, turtle, bear, lion, tiger) with bold 'SUPERPOWERS' text overlay",
+      "hashtagSets": [
+        [
+          "#Wildlife",
+          "#Nature",
+          "#AnimalFacts"
+        ],
+        [
+          "#Animals",
+          "#Science",
+          "#Education"
+        ],
+        [
+          "#NatureDocumentary",
+          "#WildlifeFacts",
+          "#JVOutdoors"
+        ]
+      ],
+      "segments": [
+        {
+          "videoId": "M95zB-4aYAQ",
+          "title": "Dolphin \u2014 Half-Brain Sleep",
+          "order": 1
+        },
+        {
+          "videoId": "0jZSeW-87Gw",
+          "title": "Turtle \u2014 Butt Breathing",
+          "order": 2
+        },
+        {
+          "videoId": "F39DdwKsONc",
+          "title": "Bear \u2014 20-Mile Smell",
+          "order": 3
+        },
+        {
+          "videoId": "9HLUyhN-xt8",
+          "title": "Lion \u2014 5-Mile Roar",
+          "order": 4
+        },
+        {
+          "videoId": "WJBVgO1_rT8",
+          "title": "Tiger \u2014 6x Night Vision",
+          "order": 5
+        }
       ]
     }
-  ]
+  ],
+  "longFormPlan": {
+    "enabled": true,
+    "concept": "Weekly 6-8 minute compilation video stitching together the week's best-performing Shorts with connecting narration, chapter markers, and a unified theme (e.g. '5 Animals With Superpowers You Didn't Know Existed').",
+    "rationale": "Long-form videos earn watch hours toward the 4,000-hour YPP threshold (currently at 127.8/4000 = 3.2%), get recommended to broader audiences beyond Shorts feed, and rank in YouTube search. Each weekly compilation reuses existing footage + narration with new bridging content \u2014 high ROI, low production cost.",
+    "cadence": "Weekly \u2014 Sunday production, published Sunday evening",
+    "format": {
+      "duration": "6-8 minutes",
+      "structure": "Cold open hook (10s) \u2192 5-7 Shorts segments stitched with 5-10s bridging narration between each \u2192 outro with channel CTA (15s)",
+      "segments": "Select top 5-7 Shorts from the past 7 days by views + retention. Prioritize WINNER-labeled videos.",
+      "bridging": "New TTS narration connecting segments thematically (e.g. 'Speaking of super senses...')",
+      "chapters": "YouTube chapter timestamps in description for each animal segment",
+      "thumbnail": "Composite of top 3 animal thumbnails with bold text overlay"
+    },
+    "productionFlow": [
+      "1. Read pulse-snapshot.json + producer-analytics.json to select top 5-7 Shorts from the past 7 days",
+      "2. Download each Short's final.mp4 from produced-videos records (or re-render from cached clips)",
+      "3. Write bridging narration script (50-80 words of connective tissue between segments)",
+      "4. Generate TTS for bridges + intro + outro",
+      "5. Assemble with ffmpeg: concat segments with bridges, add chapter markers",
+      "6. Upload as a standard video (not Shorts) with chapter timestamps in description",
+      "7. Track in produced-videos.json with type 'longform-compilation'"
+    ],
+    "status": "planned",
+    "firstRun": "2026-08-02 (Sunday)",
+    "prerequisites": [
+      "Durable storage for final.mp4 files (currently in /tmp which clears between runs \u2014 need to cache to workspace)",
+      "New Sunday cron task for long-form production",
+      "Updated assemble script to support concatenation mode with bridges"
+    ],
+    "yppImpact": {
+      "watchHoursPerWeek": "~1.5-2 hours per compilation (6-8 min \u00d7 15-25 views in first week)",
+      "projectedAnnualWatchHours": "~78-104 hours from 52 weekly compilations",
+      "note": "Long-form watch hours compound \u2014 videos keep getting views over months. Real impact likely 2-3x the first-week numbers."
+    }
+  }
 }
