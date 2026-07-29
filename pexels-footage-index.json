@@ -106,10 +106,6 @@
       "baseQuery": "giraffe"
     },
     {
-      "animal": "zebra",
-      "baseQuery": "zebra"
-    },
-    {
       "animal": "lion",
       "baseQuery": "lioness"
     },
@@ -275,6 +271,11 @@
       "animal": "whale",
       "baseQuery": "whale",
       "note": "effectively unfilmable \u2014 Pexels returns dolphins, seals, seagulls, boats. 3/6 valid across 2 fetch attempts."
+    },
+    {
+      "animal": "zebra",
+      "baseQuery": "zebra",
+      "note": "effectively unfilmable \u2014 Pexels returns giraffes, man face. Only 3 unique zebra clips across 2 fetch attempts."
     }
   ],
   "alreadyProduced": [

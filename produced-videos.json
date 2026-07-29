@@ -1367,6 +1367,45 @@
         "videoDurationSeconds": 58.57,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-29-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "3c339128f71366d80c954a4cfe4ae3bbd8c21e006a2ead9621e274141468fd3a",
+      "status": "render-failed",
+      "startedAt": "2026-07-29T16:03:41.736838-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Zebra Stripes Confuse Every Predator #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-29T16:05:10.404881-04:00",
+      "error": "insufficient stock footage: 3/6 \u2014 zebra effectively unfilmable on Pexels (returns giraffes, man face, only 3 unique zebra clips across 2 fetch attempts)"
+    },
+    {
+      "productionId": "JV-2026-07-29-SELFN3",
+      "ideaId": "SELFN3",
+      "sourceHash": "f49201d9560eb659e032e43fe5d6280b93ef59dceb3d1f3c6c8b186d055dd576",
+      "status": "uploaded",
+      "startedAt": "2026-07-29T16:05:10.404881-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Koala Eats Poison Every Day #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-29T16:10:50.478379-04:00",
+      "uploadedAt": "2026-07-29T16:10:50.478379-04:00",
+      "youtube": {
+        "videoId": "zdZttF3obWc",
+        "url": "https://www.youtube.com/watch?v=zdZttF3obWc",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-29T20:10:44Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-29-SELFN3/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "EATS POISON EVERY DAY",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-29-SELFN3/final.mp4",
+        "videoDurationSeconds": 60.5,
+        "stockClips": 6
+      }
     }
   ]
 }
