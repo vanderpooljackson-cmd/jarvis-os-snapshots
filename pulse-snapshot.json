@@ -14,8 +14,8 @@
     "monetized": false
   },
   "window": {
-    "startDate": "2026-06-30",
-    "endDate": "2026-07-28",
+    "startDate": "2026-07-01",
+    "endDate": "2026-07-29",
     "label": "Last 28 days"
   },
   "totals": {
@@ -286,12 +286,12 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-07-28T09:15:43.793366-04:00",
+  "fetchedAt": "2026-07-29T09:02:38.913474-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-07-28T09:15:43.793366-04:00",
+      "fetchedAt": "2026-07-29T09:02:38.913474-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
