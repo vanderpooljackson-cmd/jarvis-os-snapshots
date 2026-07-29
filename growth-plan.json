@@ -170,10 +170,10 @@
     },
     {
       "id": "JVLF-2026-08-02-01",
-      "type": "longform-compilation",
-      "title": "5 Animals With Senses You Wish You Had",
-      "concept": "Weekly long-form compilation stitching together the best Shorts from the past week with bridging narration. Features dolphin (echolocation sleep), turtle (butt breathing), bear (20-mile smell), lion (5-mile roar), and tiger (6x night vision).",
-      "hook": "These 5 animals have superpowers you can only dream of \u2014 and they use them every single day.",
+      "type": "longform-episode",
+      "title": "5 Animal Superpowers That Sound Made Up",
+      "concept": "Pilot long-form episode. Not a raw compilation \u2014 new narration, cold open, bridges, and pacing built from the week's best Shorts footage. Features dolphin (half-brain sleep), turtle (butt breathing), bear (20-mile smell), lion (5-mile roar), and tiger (6x night vision). All are survival superpowers, not just senses.",
+      "hook": "These animals have abilities that sound completely fake \u2014 but every single one is real.",
       "keyVisual": "Split-screen composite of 5 animal faces (dolphin, turtle, bear, lion, tiger) with bold 'SUPERPOWERS' text overlay",
       "hashtagSets": [
         [
@@ -192,68 +192,121 @@
           "#JVOutdoors"
         ]
       ],
-      "segments": [
+      "episodeStructure": [
         {
+          "segment": "cold_open",
+          "duration": "0:00-0:15",
+          "narration": "New hook narration \u2014 'These animals have abilities that sound completely fake, but every single one is real.'"
+        },
+        {
+          "segment": "dolphin",
           "videoId": "M95zB-4aYAQ",
-          "title": "Dolphin \u2014 Half-Brain Sleep",
-          "order": 1
+          "duration": "0:15-1:20",
+          "title": "Dolphin \u2014 Never Fully Sleeps"
         },
         {
+          "segment": "bridge_1",
+          "duration": "1:20-1:30",
+          "narration": "Speaking of impossible survival... what if you could breathe without using your lungs?"
+        },
+        {
+          "segment": "turtle",
           "videoId": "0jZSeW-87Gw",
-          "title": "Turtle \u2014 Butt Breathing",
-          "order": 2
+          "duration": "1:30-2:35",
+          "title": "Turtle \u2014 Breathes Through Its Butt"
         },
         {
+          "segment": "bridge_2",
+          "duration": "2:35-2:45",
+          "narration": "From underwater breathing to super smell..."
+        },
+        {
+          "segment": "bear",
           "videoId": "F39DdwKsONc",
-          "title": "Bear \u2014 20-Mile Smell",
-          "order": 3
+          "duration": "2:45-3:50",
+          "title": "Bear \u2014 Smells Food 20 Miles Away"
         },
         {
+          "segment": "bridge_3",
+          "duration": "3:50-4:00",
+          "narration": "If you think that's impressive, wait until you hear this roar..."
+        },
+        {
+          "segment": "lion",
           "videoId": "9HLUyhN-xt8",
-          "title": "Lion \u2014 5-Mile Roar",
-          "order": 4
+          "duration": "4:00-5:05",
+          "title": "Lion \u2014 Roar Heard 5 Miles Away"
         },
         {
+          "segment": "bridge_4",
+          "duration": "5:05-5:15",
+          "narration": "And when the sun goes down, the jungle belongs to one hunter..."
+        },
+        {
+          "segment": "tiger",
           "videoId": "WJBVgO1_rT8",
-          "title": "Tiger \u2014 6x Night Vision",
-          "order": 5
+          "duration": "5:15-6:20",
+          "title": "Tiger \u2014 Sees 6x Better in the Dark"
+        },
+        {
+          "segment": "outro",
+          "duration": "6:20-6:40",
+          "narration": "Recap + subscribe CTA \u2014 '5 real superpowers. Which one amazed you most? Subscribe for weekly wildlife episodes.'"
         }
       ]
     }
   ],
   "longFormPlan": {
     "enabled": true,
-    "concept": "Weekly 6-8 minute compilation video stitching together the week's best-performing Shorts with connecting narration, chapter markers, and a unified theme (e.g. '5 Animals With Superpowers You Didn't Know Existed').",
-    "rationale": "Long-form videos earn watch hours toward the 4,000-hour YPP threshold (currently at 127.8/4000 = 3.2%), get recommended to broader audiences beyond Shorts feed, and rank in YouTube search. Each weekly compilation reuses existing footage + narration with new bridging content \u2014 high ROI, low production cost.",
+    "status": "pilot",
+    "concept": "Weekly long-form episode built FROM Shorts assets \u2014 not a raw compilation. Each episode features 5-7 animal segments from the week's best Shorts, but with entirely new narration, cold open, transitions, pacing, and chapter structure. Feels like an original mini-doc, not stitched-together Shorts.",
+    "rationale": "Long-form videos earn watch hours toward YPP (currently 127.8/4000 = 3.2%), reach broader audiences beyond Shorts feed, and rank in YouTube search. Reusing footage from Shorts keeps production cost low while new narration and structure make it original content.",
     "cadence": "Weekly \u2014 Sunday production, published Sunday evening",
+    "validationStrategy": "Pilot first, automate later. Build one semi-manual episode, track CTR, average view duration, total watch hours, subscribers gained, and whether Shorts viewers cross over to long-form. If retention holds, automate the weekly flow. If weak, pivot to original mini-docs.",
+    "metricsToTrack": [
+      "CTR",
+      "averageViewDuration",
+      "totalWatchHours",
+      "subscribersGained",
+      "shortsToLongFormCrossover"
+    ],
     "format": {
       "duration": "6-8 minutes",
-      "structure": "Cold open hook (10s) \u2192 5-7 Shorts segments stitched with 5-10s bridging narration between each \u2192 outro with channel CTA (15s)",
-      "segments": "Select top 5-7 Shorts from the past 7 days by views + retention. Prioritize WINNER-labeled videos.",
-      "bridging": "New TTS narration connecting segments thematically (e.g. 'Speaking of super senses...')",
-      "chapters": "YouTube chapter timestamps in description for each animal segment",
-      "thumbnail": "Composite of top 3 animal thumbnails with bold text overlay"
+      "structure": "Cold open hook (15s) \u2192 5-7 segments with 5-10s bridging narration between each \u2192 recap + subscribe CTA (20s)",
+      "transformations": [
+        "New cold open narration (not reused from any Short)",
+        "Remove repeated intros/outros from Short segments",
+        "New bridging narration between segments (thematic connective tissue)",
+        "Tighter pacing \u2014 trim weak moments from original Shorts",
+        "Chapter timestamps in description for each animal",
+        "New outro with channel CTA"
+      ],
+      "thumbnail": "Composite of top 3 animal faces with bold text overlay"
     },
     "productionFlow": [
-      "1. Read pulse-snapshot.json + producer-analytics.json to select top 5-7 Shorts from the past 7 days",
-      "2. Download each Short's final.mp4 from produced-videos records (or re-render from cached clips)",
-      "3. Write bridging narration script (50-80 words of connective tissue between segments)",
-      "4. Generate TTS for bridges + intro + outro",
-      "5. Assemble with ffmpeg: concat segments with bridges, add chapter markers",
-      "6. Upload as a standard video (not Shorts) with chapter timestamps in description",
-      "7. Track in produced-videos.json with type 'longform-compilation'"
+      "1. Read pulse-snapshot.json + producer-analytics.json to select top 5-7 Shorts from past 7 days (prioritize WINNER labels)",
+      "2. Source each Short's footage clips from workspace cache (prerequisite: durable storage)",
+      "3. Write new episode script: cold open + bridges + outro (150-250 words of NEW narration)",
+      "4. Generate TTS for new narration segments only",
+      "5. Assemble with ffmpeg: cold open \u2192 segment 1 \u2192 bridge \u2192 segment 2 \u2192 bridge \u2192 ... \u2192 outro",
+      "6. Add chapter markers and upload as standard video (not Shorts)",
+      "7. Track in produced-videos.json with type 'longform-episode'"
     ],
-    "status": "planned",
-    "firstRun": "2026-08-02 (Sunday)",
+    "firstRun": "2026-08-02 (Sunday) \u2014 pilot episode",
     "prerequisites": [
-      "Durable storage for final.mp4 files (currently in /tmp which clears between runs \u2014 need to cache to workspace)",
-      "New Sunday cron task for long-form production",
-      "Updated assemble script to support concatenation mode with bridges"
+      "Cache Short footage clips to workspace (currently in /tmp which clears between runs)",
+      "New assembly script supporting episode mode (cold open + segments + bridges + outro)",
+      "New TTS script generation for episode narration"
     ],
     "yppImpact": {
-      "watchHoursPerWeek": "~1.5-2 hours per compilation (6-8 min \u00d7 15-25 views in first week)",
-      "projectedAnnualWatchHours": "~78-104 hours from 52 weekly compilations",
-      "note": "Long-form watch hours compound \u2014 videos keep getting views over months. Real impact likely 2-3x the first-week numbers."
-    }
+      "watchHoursPerWeek": "~1.5-2 hours per episode (6-8 min \u00d7 15-25 views in first week)",
+      "projectedAnnualWatchHours": "~78-104 hours from 52 weekly episodes",
+      "note": "Long-form watch hours compound \u2014 videos keep getting views over months. Real impact likely 2-3x first-week numbers."
+    },
+    "risks": [
+      "YouTube may flag reused Shorts footage as repurposed content \u2014 mitigated by new narration, pacing, and chapter structure",
+      "Retention may be lower than Shorts (viewers accustomed to 60s content) \u2014 mitigated by strong cold open and tight pacing",
+      "Production complexity higher than Shorts \u2014 mitigated by starting with semi-manual pilot before automating"
+    ]
   }
 }
