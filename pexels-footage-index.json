@@ -178,10 +178,6 @@
       "baseQuery": "hawk soaring"
     },
     {
-      "animal": "beaver",
-      "baseQuery": "beaver swimming"
-    },
-    {
       "animal": "parrot",
       "baseQuery": "macaw"
     },
@@ -276,6 +272,11 @@
       "animal": "zebra",
       "baseQuery": "zebra",
       "note": "effectively unfilmable \u2014 Pexels returns giraffes, man face. Only 3 unique zebra clips across 2 fetch attempts."
+    },
+    {
+      "animal": "beaver",
+      "baseQuery": "beaver swimming",
+      "note": "effectively unfilmable \u2014 Pexels returns otters, ducks, nutria, man. Only 3 unique beaver clips across 2 fetch attempts."
     }
   ],
   "alreadyProduced": [

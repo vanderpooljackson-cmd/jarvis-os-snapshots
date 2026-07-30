@@ -1406,6 +1406,45 @@
         "videoDurationSeconds": 60.5,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-30-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "1db47294cee3c07820cec12fb3ae46fa2f80514e9d5e3bc386cdf6de6e37bc65",
+      "status": "render-failed",
+      "startedAt": "2026-07-30T10:09:09.694527-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Beaver Has Iron Teeth That Never Dull #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-30T10:12:52.380458-04:00",
+      "error": "insufficient stock footage: 3/6 \u2014 Pexels returns otters, ducks, man for beaver queries. Only 3 unique beaver clips across 2 fetch attempts."
+    },
+    {
+      "productionId": "JV-2026-07-30-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "8395a6866f07ab6f0ced23636015568c6999ff5d2b9d15329ef40c6a4a44efef",
+      "status": "uploaded",
+      "startedAt": "2026-07-30T10:12:52.380458-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Alligator Has the Strongest Bite on Earth #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-30T10:19:34.228424-04:00",
+      "uploadedAt": "2026-07-30T10:19:34.228424-04:00",
+      "youtube": {
+        "videoId": "4Gd0lrEAVs4",
+        "url": "https://www.youtube.com/watch?v=4Gd0lrEAVs4",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-30T14:19:28Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-30-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "STRONGEST BITE ON EARTH",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-30-SELFN2/final.mp4",
+        "videoDurationSeconds": 72.9,
+        "stockClips": 6
+      }
     }
   ]
 }
