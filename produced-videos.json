@@ -1445,6 +1445,33 @@
         "videoDurationSeconds": 72.9,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-30-SELFN3",
+      "ideaId": "SELFN3",
+      "sourceHash": "10df2d31f5dae0f8c5c78308a9be05af31b723302960dee1f87cf37f371016af",
+      "status": "uploaded",
+      "startedAt": "2026-07-30T16:02:40.812266-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Rhino Smells Danger From Miles Away #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-30T16:09:04.482554-04:00",
+      "uploadedAt": "2026-07-30T16:09:04.482554-04:00",
+      "youtube": {
+        "videoId": "idqWVEzP_Ps",
+        "url": "https://www.youtube.com/watch?v=idqWVEzP_Ps",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-30T20:08:58Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-30-SELFN3/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SMELLS DANGER MILES AWAY",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-30-SELFN3/final.mp4",
+        "videoDurationSeconds": 73.2,
+        "stockClips": 6
+      }
     }
   ]
 }
