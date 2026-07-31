@@ -1511,6 +1511,33 @@
         "videoDurationSeconds": 80.2,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-31-SELFN3",
+      "ideaId": "SELFN3",
+      "sourceHash": "dd2a2bece73b344e54e324482c08720da050827b825e96e845ddc06382aafb13",
+      "status": "uploaded",
+      "startedAt": "2026-07-31T16:03:33.210847-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Monkey Has a Tail That Grabs #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-31T16:08:53.046250-04:00",
+      "uploadedAt": "2026-07-31T16:08:53.046250-04:00",
+      "youtube": {
+        "videoId": "kDNyOJnQMXM",
+        "url": "https://www.youtube.com/watch?v=kDNyOJnQMXM",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-31T20:08:42Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-31-SELFN3/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "TAIL THAT GRABS",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-31-SELFN3/final.mp4",
+        "videoDurationSeconds": 69.2,
+        "stockClips": 6
+      }
     }
   ]
 }
