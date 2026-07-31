@@ -158,10 +158,6 @@
       "baseQuery": "silverback gorilla"
     },
     {
-      "animal": "seahorse",
-      "baseQuery": "seahorse"
-    },
-    {
       "animal": "manta ray",
       "baseQuery": "manta ray"
     },
@@ -277,6 +273,11 @@
       "animal": "beaver",
       "baseQuery": "beaver swimming",
       "note": "effectively unfilmable \u2014 Pexels returns otters, ducks, nutria, man. Only 3 unique beaver clips across 2 fetch attempts."
+    },
+    {
+      "animal": "seahorse",
+      "baseQuery": "seahorse",
+      "note": "effectively unfilmable \u2014 Pexels has zero seahorse footage. Returns marine worms, turtles, boy with cardboard seahorse, generic ocean views."
     }
   ],
   "alreadyProduced": [

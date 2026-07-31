@@ -1472,6 +1472,45 @@
         "videoDurationSeconds": 73.2,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-07-31-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "9da78c9f2a2b4ecf3709372a239a04747aa987b5842bc4bc4933f29d16446731",
+      "status": "render-failed",
+      "startedAt": "2026-07-31T10:07:01.661054-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Seahorse Male Gets Pregnant #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-31T10:09:25.247243-04:00",
+      "error": "insufficient stock footage: 0/6 \u2014 Pexels has NO seahorse footage. Returns marine worms, turtles, boy with cardboard seahorse, generic ocean views."
+    },
+    {
+      "productionId": "JV-2026-07-31-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "e61df3dd4a6016bcccc906ac6199762aa60772e19e52947b69fae95c60dd8de0",
+      "status": "uploaded",
+      "startedAt": "2026-07-31T10:09:25.247243-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Deer Sees in Every Direction #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-07-31T10:17:05.164704-04:00",
+      "uploadedAt": "2026-07-31T10:17:05.164704-04:00",
+      "youtube": {
+        "videoId": "1XxTz8DJ_0Y",
+        "url": "https://www.youtube.com/watch?v=1XxTz8DJ_0Y",
+        "privacyStatus": "public",
+        "publishedAt": "2026-07-31T14:16:58Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-07-31-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "SEES IN EVERY DIRECTION",
+        "finalVideo": "/tmp/jvshorts/JV-2026-07-31-SELFN2/final.mp4",
+        "videoDurationSeconds": 80.2,
+        "stockClips": 6
+      }
     }
   ]
 }
