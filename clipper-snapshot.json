@@ -1,124 +1,56 @@
 {
-  "fetchedAt": "2026-07-29T17:35:00-04:00",
+  "fetchedAt": "2026-07-31T17:37:00-04:00",
   "videos": [
+    {
+      "videoId": "kDNyOJnQMXM",
+      "title": "Why the Monkey Has a Tail That Grabs #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "1XxTz8DJ_0Y",
+      "title": "Why the Deer Sees in Every Direction #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "idqWVEzP_Ps",
+      "title": "Why the Rhino Smells Danger From Miles Away #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "4Gd0lrEAVs4",
+      "title": "Why the Alligator Has the Strongest Bite on Earth #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Human can hold jaws shut",
+          "startSec": 23,
+          "endSec": 37,
+          "why": "Surprising paradox: 3,000 PSI bite force but a human can hold the mouth shut with bare hands — one-way weapon with massive closing muscles and tiny opening muscles",
+          "hookRewrite": "This animal has the strongest bite but you can hold its mouth shut"
+        },
+        {
+          "momentLabel": "3,000 teeth conveyor belt",
+          "startSec": 43,
+          "endSec": 58,
+          "why": "Mind-blowing fact: alligator goes through 3,000 teeth in a lifetime, each replaced like a conveyor belt — design perfected over 80 million years",
+          "hookRewrite": "This animal grows 3,000 teeth in a lifetime on a conveyor belt"
+        }
+      ]
+    },
     {
       "videoId": "zdZttF3obWc",
       "title": "Why the Koala Eats Poison Every Day #Shorts",
-      "transcriptStatus": "extracted",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Sleep = detox energy twist",
-          "startSec": 37,
-          "endSec": 49,
-          "why": "Surprising reveal that koalas sleep 22h/day because detoxifying poison takes enormous energy — reframes laziness as survival superpower",
-          "hookRewrite": "This koala sleeps 22 hours a day because its body is fighting a chemical war"
-        },
-        {
-          "momentLabel": "Name means no water",
-          "startSec": 26,
-          "endSec": 37,
-          "why": "Koala absorbs moisture from toxic leaves so efficiently it almost never drinks — name literally means 'no water'",
-          "hookRewrite": "This animal never drinks water because its food is poison"
-        }
-      ]
-    },
-    {
-      "videoId": "FpsDSm0tmfs",
-      "title": "Why the Kangaroo Can Pause Her Own Pregnancy #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Always pregnant closer",
-          "startSec": 46,
-          "endSec": 54,
-          "why": "Mind-blowing closer: kangaroo can have a joey in pouch, a paused embryo in womb, and be ready to mate again — always pregnant, always prepared",
-          "hookRewrite": "This animal is always pregnant and ready for anything"
-        },
-        {
-          "momentLabel": "Embryonic diapause explanation",
-          "startSec": 8,
-          "endSec": 22,
-          "why": "Core mechanism: embryo stops at pinhead size and waits months in suspended animation until conditions improve",
-          "hookRewrite": "This embryo hit pause and waited months to be born"
-        }
-      ]
-    },
-    {
-      "videoId": "WJBVgO1_rT8",
-      "title": "Why the Tiger Sees Six Times Better in the Dark #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgzM6W8t_F7BYEmq0ud4AaABAg",
-          "author": "@pierred3632",
-          "text": "They should make cataract lenses for old people like these !",
-          "replyPosted": true,
-          "replyText": "Nature's engineering is way ahead of us! The tapetum lucidum is basically a biological mirror that doubles light input. Researchers are actually studying this structure for next-gen night vision tech. Appreciate you watching and dropping a comment!"
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Cat eye shine explained",
-          "startSec": 21,
-          "endSec": 29,
-          "why": "Relatable connection: the glowing eye shine in cat photos at night is the tapetum reflecting flash — connects everyday experience to biology",
-          "hookRewrite": "Why cat eyes glow in photos and yours don't"
-        },
-        {
-          "momentLabel": "Tiger owns the dark",
-          "startSec": 43,
-          "endSec": 52,
-          "why": "Powerful closer with vertical slit pupil detail — tiger doesn't just survive the dark, it owns it",
-          "hookRewrite": "When the jungle goes dark this predator sees everything"
-        }
-      ]
-    },
-    {
-      "videoId": "Myb4_3AuIec",
-      "title": "Why the Peacock Glows Without Pigment #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Grind to dust and color vanishes",
-          "startSec": 43,
-          "endSec": 51,
-          "why": "Most mind-blowing moment: grinding a peacock feather to dust makes the color disappear — the pigment was never there, only the architecture of light",
-          "hookRewrite": "Grind this feather to dust and the color completely vanishes"
-        },
-        {
-          "momentLabel": "Structural coloration physics",
-          "startSec": 20,
-          "endSec": 35,
-          "why": "Core science: millions of microscopic ridges interfere with light waves, canceling some and amplifying others — same physics as soap bubbles",
-          "hookRewrite": "These colors exist without any pigment at all"
-        }
-      ]
-    },
-    {
-      "videoId": "MKT7UcL0gps",
-      "title": "Why the Flamingo Survives Water That Would Burn You #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Toxic wasteland becomes buffet",
-          "startSec": 46,
-          "endSec": 55,
-          "why": "Surprising reversal: flamingos turned a deadly toxic lake into an all-you-can-eat buffet — a survival superpower",
-          "hookRewrite": "This bird turned poison water into an all-you-can-eat buffet"
-        },
-        {
-          "momentLabel": "pH 10.5 comparison",
-          "startSec": 0,
-          "endSec": 15,
-          "why": "Strong danger hook: flamingo thrives in water closer to bleach than freshwater — pH 10.5 would burn human skin",
-          "hookRewrite": "This bird swims in water that would burn your skin"
-        }
-      ]
+      "clipCandidates": []
     }
   ],
-  "postedReplies": 1
+  "postedReplies": 0
 }
