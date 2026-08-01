@@ -1565,6 +1565,33 @@
         "videoDurationSeconds": 68.1,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-08-01-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "0e00e0363942869cfef0d6f586195577e0eeeeff513003c61a9f89ac4921107b",
+      "status": "uploaded",
+      "startedAt": "2026-08-01T16:02:23.276938-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Ostrich Has Eyes Bigger Than Its Brain #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-08-01T16:09:36.245650-04:00",
+      "uploadedAt": "2026-08-01T16:09:36.245650-04:00",
+      "youtube": {
+        "videoId": "x5DDKVOquoE",
+        "url": "https://www.youtube.com/watch?v=x5DDKVOquoE",
+        "privacyStatus": "public",
+        "publishedAt": "2026-08-01T20:09:30Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-08-01-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "EYES BIGGER THAN ITS BRAIN",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-01-SELFN2/final.mp4",
+        "videoDurationSeconds": 74.1,
+        "stockClips": 6
+      }
     }
   ]
 }
