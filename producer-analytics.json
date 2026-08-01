@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-31T11:07:41.258435-04:00",
-  "fetchedAt": "2026-07-31T11:07:41.258435-04:00",
+  "lastRunAt": "2026-08-01T11:06:24.139196-04:00",
+  "fetchedAt": "2026-08-01T11:06:24.139196-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -27,7 +27,7 @@
         "ratioToBaselineAvgViewDuration": 4.38,
         "note": "avd=116s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -53,7 +53,7 @@
         "ratioToBaselineAvgViewDuration": 2.34,
         "note": "avd=62s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -79,7 +79,7 @@
         "ratioToBaselineAvgViewDuration": 1.02,
         "note": "avd=27s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -105,7 +105,7 @@
         "ratioToBaselineAvgViewDuration": 0.68,
         "note": "avd=18s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -131,7 +131,7 @@
         "ratioToBaselineAvgViewDuration": 0.98,
         "note": "avd=26s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -157,7 +157,7 @@
         "ratioToBaselineAvgViewDuration": 1.06,
         "note": "avd=28s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -183,7 +183,7 @@
         "ratioToBaselineAvgViewDuration": 0.83,
         "note": "avd=22s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "optimize"
     },
     {
@@ -209,7 +209,7 @@
         "ratioToBaselineAvgViewDuration": 1.4,
         "note": "avd=37s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -235,7 +235,7 @@
         "ratioToBaselineAvgViewDuration": 1.06,
         "note": "avd=28s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -261,7 +261,7 @@
         "ratioToBaselineAvgViewDuration": 1.66,
         "note": "avd=44s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -287,7 +287,7 @@
         "ratioToBaselineAvgViewDuration": 0.98,
         "note": "avd=26s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -313,7 +313,7 @@
         "ratioToBaselineAvgViewDuration": 0.94,
         "note": "avd=25s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -339,7 +339,7 @@
         "ratioToBaselineAvgViewDuration": 0.83,
         "note": "avd=22s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -365,7 +365,7 @@
         "ratioToBaselineAvgViewDuration": 1.47,
         "note": "avd=39s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -391,7 +391,7 @@
         "ratioToBaselineAvgViewDuration": 1.25,
         "note": "avd=33s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -417,7 +417,7 @@
         "ratioToBaselineAvgViewDuration": 0.53,
         "note": "avd=14s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": "optimize"
     },
     {
@@ -425,18 +425,21 @@
       "videoId": "36_7wDuALKU",
       "title": "Why the Hippo Sweats Red Like Blood #Shorts",
       "uploadedAt": "2026-07-26T10:17:00.805554-04:00",
-      "ageHoursAtAnalysis": 120.8,
-      "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 54.8,
+      "ageHoursAtAnalysis": 144.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1,
+        "watched": 0,
+        "avgViewDuration": 5,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "videoDurationSeconds": null
+      },
       "retentionPercent": null,
       "performanceLabel": "stable",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 26.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24-48h lag)"
-      },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "comparisonToBaseline": "too few views to evaluate",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -462,7 +465,7 @@
         "ratioToBaselineAvgViewDuration": 1.32,
         "note": "avd=35s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -488,7 +491,7 @@
         "ratioToBaselineAvgViewDuration": 1.89,
         "note": "avd=50s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -514,7 +517,7 @@
         "ratioToBaselineAvgViewDuration": 1.43,
         "note": "avd=38s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -540,7 +543,7 @@
         "ratioToBaselineAvgViewDuration": 0.75,
         "note": "avd=20s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -566,7 +569,7 @@
         "ratioToBaselineAvgViewDuration": 0.94,
         "note": "avd=25s vs baseline 26.5s"
       },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -574,18 +577,21 @@
       "videoId": "FpsDSm0tmfs",
       "title": "Why the Kangaroo Can Pause Her Own Pregnancy #Shorts",
       "uploadedAt": "2026-07-29T10:08:55.692901-04:00",
-      "ageHoursAtAnalysis": 49.0,
-      "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 58.57,
+      "ageHoursAtAnalysis": 73.0,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 2,
+        "watched": 0,
+        "avgViewDuration": 16,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "videoDurationSeconds": null
+      },
       "retentionPercent": null,
       "performanceLabel": "stable",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 26.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24-48h lag)"
-      },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "comparisonToBaseline": "too few views to evaluate",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -593,18 +599,21 @@
       "videoId": "zdZttF3obWc",
       "title": "Why the Koala Eats Poison Every Day #Shorts",
       "uploadedAt": "2026-07-29T16:10:50.478379-04:00",
-      "ageHoursAtAnalysis": 42.9,
-      "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 60.5,
+      "ageHoursAtAnalysis": 66.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1,
+        "watched": 0,
+        "avgViewDuration": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "videoDurationSeconds": null
+      },
       "retentionPercent": null,
       "performanceLabel": "stable",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 26.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24-48h lag)"
-      },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "comparisonToBaseline": "too few views to evaluate",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -612,18 +621,11 @@
       "videoId": "4Gd0lrEAVs4",
       "title": "Why the Alligator Has the Strongest Bite on Earth #Shorts",
       "uploadedAt": "2026-07-30T10:19:34.228424-04:00",
-      "ageHoursAtAnalysis": 24.8,
       "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 72.9,
-      "retentionPercent": null,
-      "performanceLabel": "stable",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 26.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24-48h lag)"
-      },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "metrics": {},
+      "performanceLabel": "pending",
+      "comparisonToBaseline": "analytics lag",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -631,18 +633,11 @@
       "videoId": "idqWVEzP_Ps",
       "title": "Why the Rhino Smells Danger From Miles Away #Shorts",
       "uploadedAt": "2026-07-30T16:09:04.482554-04:00",
-      "ageHoursAtAnalysis": 19.0,
       "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 73.2,
-      "retentionPercent": null,
-      "performanceLabel": "stable",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 26.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24-48h lag)"
-      },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "metrics": {},
+      "performanceLabel": "pending",
+      "comparisonToBaseline": "analytics lag",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -650,19 +645,36 @@
       "videoId": "1XxTz8DJ_0Y",
       "title": "Why the Deer Sees in Every Direction #Shorts",
       "uploadedAt": "2026-07-31T10:17:05.164704-04:00",
-      "ageHoursAtAnalysis": 0.8,
       "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 80.2,
-      "retentionPercent": null,
-      "performanceLabel": "stable",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 26.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24-48h lag)"
-      },
-      "analyzedAt": "2026-07-31T11:07:41.258435-04:00",
+      "metrics": {},
+      "performanceLabel": "pending",
+      "comparisonToBaseline": "analytics lag",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
       "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-07-31-SELFN3",
+      "videoId": "kDNyOJnQMXM",
+      "title": "Why the Monkey Has a Tail That Grabs #Shorts",
+      "uploadedAt": "2026-07-31T16:08:53.046250-04:00",
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "performanceLabel": "pending",
+      "comparisonToBaseline": "analytics lag",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
+      "lastNotifiedLabel": ""
+    },
+    {
+      "productionId": "JV-2026-08-01-SELFN",
+      "videoId": "SqPXwvRa7bk",
+      "title": "Why the Gorilla Is Ten Times Stronger Than You #Shorts",
+      "uploadedAt": "2026-08-01T10:13:26.544796-04:00",
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "performanceLabel": "pending",
+      "comparisonToBaseline": "analytics lag",
+      "analyzedAt": "2026-08-01T11:06:24.139196-04:00",
+      "lastNotifiedLabel": ""
     }
   ],
   "hookFrames": [
