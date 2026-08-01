@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
-    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 33964,
+      "viewCount": 35918,
       "subscriberCount": 57,
-      "videoCount": 65
+      "videoCount": 69
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-02",
-    "endDate": "2026-07-30",
+    "startDate": "2026-07-04",
+    "endDate": "2026-08-01",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 14947,
-    "estimatedMinutesWatched": 4717,
-    "subscribersGained": 41,
-    "subscribersLost": 12,
-    "netSubscribers": 29,
-    "likes": 556,
+    "views": 16912,
+    "estimatedMinutesWatched": 5305,
+    "subscribersGained": 42,
+    "subscribersLost": 9,
+    "likes": 610,
     "comments": 8,
-    "shares": 14
+    "shares": 15,
+    "netSubscribers": 33
   },
   "daily": [
-    {
-      "day": "2026-07-03",
-      "views": 1,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-04",
       "views": 1,
@@ -188,23 +180,39 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 0
+    },
+    {
+      "day": "2026-07-28",
+      "views": 1001,
+      "watched": 329,
+      "subsGained": 3,
+      "subsLost": 0,
+      "likes": 44
+    },
+    {
+      "day": "2026-07-29",
+      "views": 965,
+      "watched": 259,
+      "subsGained": 1,
+      "subsLost": 2,
+      "likes": 20
     }
   ],
   "topVideos": [
     {
       "videoId": "M95zB-4aYAQ",
-      "title": "",
+      "title": null,
       "views": 2070,
       "watched": 989,
       "likes": 51,
       "comments": 2,
       "avgViewDuration": 44,
       "flag": "winner",
-      "note": "Top views and above-median retention"
+      "note": "Top combined views \u00d7 avgViewDuration"
     },
     {
       "videoId": "D2elbK2vCRE",
-      "title": "",
+      "title": "What Do Penguins Do for 2 Months in the Dark at \u221240? #Shorts",
       "views": 1337,
       "watched": 279,
       "likes": 35,
@@ -215,7 +223,7 @@
     },
     {
       "videoId": "0jZSeW-87Gw",
-      "title": "",
+      "title": null,
       "views": 1301,
       "watched": 530,
       "likes": 61,
@@ -226,8 +234,8 @@
     },
     {
       "videoId": "RZ6qtnTpTiA",
-      "title": "",
-      "views": 1296,
+      "title": null,
+      "views": 1297,
       "watched": 406,
       "likes": 51,
       "comments": 1,
@@ -237,7 +245,7 @@
     },
     {
       "videoId": "g6Nmh2WuHDo",
-      "title": "",
+      "title": null,
       "views": 1215,
       "watched": 313,
       "likes": 59,
@@ -248,19 +256,19 @@
     },
     {
       "videoId": "C5rhgXKTkO4",
-      "title": "",
+      "title": null,
       "views": 1118,
       "watched": 273,
       "likes": 40,
       "comments": 0,
       "avgViewDuration": 22,
-      "flag": "optimize",
-      "note": "Above-average views but below-median avg view duration"
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "9Il9e4WfzXw",
-      "title": "",
-      "views": 1076,
+      "title": null,
+      "views": 1077,
       "watched": 296,
       "likes": 43,
       "comments": 0,
@@ -270,7 +278,7 @@
     },
     {
       "videoId": "4WUNKscls30",
-      "title": "",
+      "title": null,
       "views": 1076,
       "watched": 322,
       "likes": 47,
@@ -281,7 +289,7 @@
     },
     {
       "videoId": "uEWo-Q5jST8",
-      "title": "",
+      "title": null,
       "views": 1050,
       "watched": 246,
       "likes": 16,
@@ -292,7 +300,7 @@
     },
     {
       "videoId": "FLK0SMOCaaU",
-      "title": "",
+      "title": null,
       "views": 1030,
       "watched": 263,
       "likes": 49,
@@ -302,12 +310,12 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-07-30T09:04:00-04:00",
+  "fetchedAt": "2026-08-01T09:14:14.920307-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-07-30T09:04:00-04:00",
+      "fetchedAt": "2026-08-01T09:14:14.920307-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
@@ -316,16 +324,16 @@
         "percent": 5.7
       },
       "watchHours12mo": {
-        "current": 128.1,
+        "current": 137.9,
         "threshold": 4000,
-        "percent": 3.2,
+        "percent": 3.45,
         "window": "Last 12 months",
-        "minutesWatched": 7686
+        "minutesWatched": 8275
       },
       "shortsViews90d": {
-        "current": 34024,
+        "current": 35990,
         "threshold": 10000000,
-        "percent": 0.34,
+        "percent": 0.36,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
