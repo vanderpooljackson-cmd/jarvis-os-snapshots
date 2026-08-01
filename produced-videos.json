@@ -1538,6 +1538,33 @@
         "videoDurationSeconds": 69.2,
         "stockClips": 6
       }
+    },
+    {
+      "productionId": "JV-2026-08-01-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "e4638e60f7f498571902f5ec2a1ed0e3c6103503b81336d91def1d6cedaf7990",
+      "status": "uploaded",
+      "startedAt": "2026-08-01T10:07:56.357140-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Gorilla Is Ten Times Stronger Than You #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-08-01T10:13:26.544796-04:00",
+      "uploadedAt": "2026-08-01T10:13:26.544796-04:00",
+      "youtube": {
+        "videoId": "SqPXwvRa7bk",
+        "url": "https://www.youtube.com/watch?v=SqPXwvRa7bk",
+        "privacyStatus": "public",
+        "publishedAt": "2026-08-01T14:13:21Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-08-01-SELFN/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "TEN TIMES STRONGER THAN YOU",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-01-SELFN/final.mp4",
+        "videoDurationSeconds": 68.1,
+        "stockClips": 6
+      }
     }
   ]
 }
