@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
       "viewCount": 35918,
       "subscriberCount": 57,
-      "videoCount": 69
+      "videoCount": 71
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-04",
-    "endDate": "2026-08-01",
+    "startDate": "2026-07-05",
+    "endDate": "2026-08-02",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 16912,
+    "views": 16923,
     "estimatedMinutesWatched": 5305,
     "subscribersGained": 42,
     "subscribersLost": 9,
-    "likes": 610,
+    "likes": 609,
     "comments": 8,
     "shares": 15,
     "netSubscribers": 33
   },
   "daily": [
-    {
-      "day": "2026-07-04",
-      "views": 1,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 1
-    },
     {
       "day": "2026-07-05",
       "views": 30,
@@ -196,34 +188,42 @@
       "subsGained": 1,
       "subsLost": 2,
       "likes": 20
+    },
+    {
+      "day": "2026-07-30",
+      "views": 12,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     }
   ],
   "topVideos": [
     {
       "videoId": "M95zB-4aYAQ",
-      "title": null,
+      "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
       "views": 2070,
       "watched": 989,
       "likes": 51,
       "comments": 2,
       "avgViewDuration": 44,
       "flag": "winner",
-      "note": "Top combined views \u00d7 avgViewDuration"
+      "note": "Top combined views and average view duration"
     },
     {
       "videoId": "D2elbK2vCRE",
-      "title": "What Do Penguins Do for 2 Months in the Dark at \u221240? #Shorts",
+      "title": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
       "views": 1337,
       "watched": 279,
       "likes": 35,
       "comments": 0,
       "avgViewDuration": 18,
       "flag": "optimize",
-      "note": "Above-average views but below-median avg view duration"
+      "note": "Above-average views but below-median average view duration"
     },
     {
       "videoId": "0jZSeW-87Gw",
-      "title": null,
+      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
       "views": 1301,
       "watched": 530,
       "likes": 61,
@@ -234,8 +234,8 @@
     },
     {
       "videoId": "RZ6qtnTpTiA",
-      "title": null,
-      "views": 1297,
+      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "views": 1296,
       "watched": 406,
       "likes": 51,
       "comments": 1,
@@ -245,7 +245,7 @@
     },
     {
       "videoId": "g6Nmh2WuHDo",
-      "title": null,
+      "title": "Why the Polar Bear Is Not Actually White #Shorts",
       "views": 1215,
       "watched": 313,
       "likes": 59,
@@ -256,7 +256,7 @@
     },
     {
       "videoId": "C5rhgXKTkO4",
-      "title": null,
+      "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
       "views": 1118,
       "watched": 273,
       "likes": 40,
@@ -267,7 +267,7 @@
     },
     {
       "videoId": "9Il9e4WfzXw",
-      "title": null,
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
       "views": 1077,
       "watched": 296,
       "likes": 43,
@@ -278,7 +278,7 @@
     },
     {
       "videoId": "4WUNKscls30",
-      "title": null,
+      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
       "views": 1076,
       "watched": 322,
       "likes": 47,
@@ -289,7 +289,7 @@
     },
     {
       "videoId": "uEWo-Q5jST8",
-      "title": null,
+      "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
       "views": 1050,
       "watched": 246,
       "likes": 16,
@@ -300,7 +300,7 @@
     },
     {
       "videoId": "FLK0SMOCaaU",
-      "title": null,
+      "title": "Why the Jellyfish Never Actually Dies #Shorts",
       "views": 1030,
       "watched": 263,
       "likes": 49,
@@ -310,12 +310,12 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-01T09:14:14.920307-04:00",
+  "fetchedAt": "2026-08-02T09:04:27-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-01T09:14:14.920307-04:00",
+      "fetchedAt": "2026-08-02T09:04:27-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
@@ -328,10 +328,10 @@
         "threshold": 4000,
         "percent": 3.45,
         "window": "Last 12 months",
-        "minutesWatched": 8275
+        "minutesWatched": 8276
       },
       "shortsViews90d": {
-        "current": 35990,
+        "current": 36002,
         "threshold": 10000000,
         "percent": 0.36,
         "window": "Last 90 days",
