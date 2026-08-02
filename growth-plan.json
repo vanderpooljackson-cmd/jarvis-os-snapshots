@@ -1,312 +1,185 @@
 {
-  "weekOf": "2026-07-27",
+  "weekOf": "2026-08-03",
   "basedOn": {
     "topVideos": [
       {
         "videoId": "M95zB-4aYAQ",
         "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
-        "views": 1856,
-        "avgViewDuration": 46,
-        "source": "pulse-snapshot"
+        "views": 2070,
+        "avgViewDuration": 44,
+        "flag": "winner",
+        "note": "Top combined views and average view duration"
       },
       {
         "videoId": "D2elbK2vCRE",
-        "title": "The Secret That Keeps Penguins Alive in Antarctica\u2019s Winter #Shorts",
-        "views": 1336,
+        "title": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
+        "views": 1337,
         "avgViewDuration": 18,
-        "source": "pulse-snapshot"
+        "flag": "optimize",
+        "note": "Above-average views but below-median average view duration"
       },
       {
         "videoId": "0jZSeW-87Gw",
         "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-        "views": 1299,
+        "views": 1301,
         "avgViewDuration": 37,
-        "source": "pulse-snapshot"
+        "flag": "stable",
+        "note": ""
       }
     ],
     "bestRetention": [
       {
         "videoId": "M95zB-4aYAQ",
         "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
-        "avgViewDuration": 46,
-        "views": 1856,
-        "source": "pulse-snapshot"
+        "views": 2070,
+        "avgViewDuration": 44,
+        "flag": "winner",
+        "note": "Top combined views and average view duration"
       },
       {
         "videoId": "0jZSeW-87Gw",
         "title": "Why the Turtle Breathes Through Its Butt #Shorts",
+        "views": 1301,
         "avgViewDuration": 37,
-        "views": 1299,
-        "source": "pulse-snapshot"
+        "flag": "stable",
+        "note": ""
       },
       {
-        "videoId": "uEWo-Q5jST8",
-        "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
-        "avgViewDuration": 27,
-        "views": 1050,
-        "source": "pulse-snapshot + producer-analytics"
+        "videoId": "RZ6qtnTpTiA",
+        "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
+        "views": 1296,
+        "avgViewDuration": 28,
+        "flag": "stable",
+        "note": ""
       }
     ],
     "titleLessons": [
       {
         "experimentId": "EXP-001",
-        "videoId": "fj4-WKURK24",
-        "lesson": "Use a direct curiosity question framing (e.g., \u2018Why does\u2026?\u2019) over a descriptive label; test was inconclusive due to zero traffic but variant kept as stronger hook wording.",
-        "winner": "Why Does This Fish Have White Blood? #Shorts",
-        "loser": "Antarctic Fish with White Blood #Shorts",
-        "decision": "inconclusive-keep"
+        "baseline": "Antarctic Fish with White Blood #Shorts",
+        "variant": "Why Does This Fish Have White Blood? #Shorts",
+        "result": "inconclusive-keep",
+        "lesson": "No traffic meant no measurable lift or loss; keep the stronger curiosity-gap wording as the better directional bet."
       },
       {
         "experimentId": "EXP-002",
-        "videoId": "D2elbK2vCRE",
-        "lesson": "Avoid overly long, overly specific \u2018extreme detail\u2019 titles if they depress views; shorter baseline beat the long variant.",
-        "winner": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
-        "loser": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
-        "decision": "revert"
+        "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+        "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
+        "result": "reverted",
+        "lesson": "Variant lost against baseline in the evaluation window; avoid this exact framing until a stronger hook is available."
       },
       {
         "experimentId": "EXP-003",
-        "videoId": "D2elbK2vCRE",
-        "lesson": "\u2018The Secret That\u2026\u2019 curiosity-gap framing is worth testing versus straight \u2018Why\u2026\u2019 framing (test currently running).",
-        "winner": null,
-        "loser": null,
-        "decision": "running"
+        "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+        "variant": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
+        "result": "reverted",
+        "lesson": "Variant lost against baseline in the evaluation window; avoid this exact framing until a stronger hook is available."
+      },
+      {
+        "experimentId": "EXP-004",
+        "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+        "variant": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
+        "result": "running",
+        "lesson": "Still collecting signal; do not treat this title as a winner or loser yet."
       }
     ],
     "producerAnalytics": {
-      "available": true,
       "hookFrames": [
         {
           "key": "why_the_[animal]_[x]_#shorts",
           "label": "Why the [animal] [X] #Shorts",
+          "sampleSize": 21,
+          "avgViewDurationMedian": 28.0,
+          "viewsMedian": 971.0,
           "verdict": "promising",
-          "confidence": "medium",
-          "sampleSize": 6,
-          "viewsMedian": 1108.5,
-          "avgViewDurationMedian": 27.5
+          "confidence": "high"
         }
       ],
       "summary": [
         {
-          "pattern": "Recent uploads still pending Analytics lag",
-          "verdict": "wait",
-          "evidence": "Pending (no rows yet): Why the Camel's Hump Is Not Full of Water #Shorts, Why the Turtle Breathes Through Its Butt #Shorts, Why the Shark Can Sense a Heartbeat in the Dark #Shorts, Why the Dolphin Never Fully Falls Asleep #Shorts, Why the Elephant Hears With Its Feet #Shorts"
+          "pattern": "Current top performer (views)",
+          "evidence": "Why the Dolphin Never Fully Falls Asleep #Shorts — 2070 views, 44s avg view duration.",
+          "verdict": "winner"
         }
-      ]
+      ],
+      "available": true
     }
   },
   "ideas": [
     {
-      "id": "JVGP-2026-07-27-01",
-      "title": "Why the Octopus Changes Color in a Split Second #Shorts",
-      "concept": "Explain how octopus skin cells (chromatophores) let it instantly camouflage for hunting and hiding.",
-      "hook": "Watch this octopus vanish\u2026 it\u2019s not magic\u2014it\u2019s living pixels.",
-      "keyVisual": "Close-up stock footage of an octopus on reef rock rapidly shifting from mottled brown to bright/striped patterns while moving.",
+      "id": "GP-2026-08-03-01",
+      "title": "Why the Octopus Has Three Hearts #Shorts",
+      "concept": "Explain that an octopus has three hearts, and two of them stop pumping while it swims.",
+      "hook": "An octopus has three hearts—and swimming makes two of them stop.",
+      "keyVisual": "Real close-up octopus footage crawling over a reef, followed by a clear underwater swimming shot and a simple on-screen three-heart diagram.",
       "hashtagSets": [
         [
-          "#Shorts",
+          "#AnimalFacts",
+          "#OceanLife",
+          "#Shorts"
+        ],
+        [
+          "#Wildlife",
           "#Octopus",
-          "#Ocean"
-        ],
-        [
-          "#Shorts",
-          "#Wildlife",
-          "#NatureFacts"
-        ],
-        [
-          "#Shorts",
-          "#Camouflage",
-          "#Animals"
-        ]
-      ]
-    },
-    {
-      "id": "JVGP-2026-07-27-02",
-      "title": "Why the Hummingbird Can Hover Like a Helicopter #Shorts",
-      "concept": "Break down the unique wingbeat motion that allows hovering and flying backward.",
-      "hook": "This bird can stop midair and even fly backwards\u2014here\u2019s the trick.",
-      "keyVisual": "High-speed style clip of a hummingbird hovering at a flower, then reversing slightly and repositioning.",
-      "hashtagSets": [
-        [
-          "#Shorts",
-          "#Hummingbird",
-          "#Birds"
-        ],
-        [
-          "#Shorts",
           "#Nature",
-          "#Science"
+          "#Shorts"
         ],
         [
-          "#Shorts",
-          "#Wildlife",
-          "#AnimalFacts"
+          "#DidYouKnow",
+          "#MarineBiology",
+          "#Shorts"
         ]
       ]
     },
     {
-      "id": "JVGP-2026-07-27-03",
-      "title": "Why the Crocodile Can Hold Its Breath for Over an Hour #Shorts",
-      "concept": "Teach the simple physiology (slow metabolism + efficient oxygen use) behind long underwater ambushes.",
-      "hook": "A crocodile can wait underwater longer than you can watch this video.",
-      "keyVisual": "Crocodile barely submerged at water surface with only eyes/nose visible, then slow underwater glide toward prey area.",
+      "id": "GP-2026-08-03-02",
+      "title": "Why the Gecko Walks on Glass Without Glue #Shorts",
+      "concept": "Reveal how microscopic toe hairs create enough molecular attraction for a gecko to climb smooth surfaces.",
+      "hook": "This lizard can run up glass without glue, suction, or sticky feet.",
+      "keyVisual": "Real gecko close-up climbing a window or smooth wall, with a macro insert of its toes and a clean graphic showing the toe-pad hairs.",
       "hashtagSets": [
         [
-          "#Shorts",
-          "#Crocodile",
-          "#Reptiles"
+          "#AnimalFacts",
+          "#Reptiles",
+          "#Shorts"
         ],
         [
-          "#Shorts",
           "#Wildlife",
-          "#Predators"
-        ],
-        [
-          "#Shorts",
-          "#NatureFacts",
-          "#Animals"
-        ]
-      ]
-    },
-    {
-      "id": "JVLF-2026-08-02-01",
-      "type": "longform-episode",
-      "title": "5 Animal Superpowers That Sound Made Up",
-      "concept": "Pilot long-form episode. Not a raw compilation \u2014 new narration, cold open, bridges, and pacing built from the week's best Shorts footage. Features dolphin (half-brain sleep), turtle (butt breathing), bear (20-mile smell), lion (5-mile roar), and tiger (6x night vision). All are survival superpowers, not just senses.",
-      "hook": "These animals have abilities that sound completely fake \u2014 but every single one is real.",
-      "keyVisual": "Split-screen composite of 5 animal faces (dolphin, turtle, bear, lion, tiger) with bold 'SUPERPOWERS' text overlay",
-      "hashtagSets": [
-        [
-          "#Wildlife",
+          "#Gecko",
           "#Nature",
-          "#AnimalFacts"
+          "#Shorts"
         ],
         [
-          "#Animals",
+          "#DidYouKnow",
           "#Science",
-          "#Education"
+          "#Shorts"
+        ]
+      ]
+    },
+    {
+      "id": "GP-2026-08-03-03",
+      "title": "Why the Sperm Whale Holds Its Breath for 90 Minutes #Shorts",
+      "concept": "Show how sperm whales prepare for extreme dives by storing oxygen in blood and muscle.",
+      "hook": "A sperm whale can disappear underwater for up to 90 minutes without taking a breath.",
+      "keyVisual": "Real sperm whale surface-and-dive footage with a dramatic tail fluke, underwater descent, and a restrained oxygen-storage diagram.",
+      "hashtagSets": [
+        [
+          "#AnimalFacts",
+          "#Whales",
+          "#Shorts"
         ],
         [
-          "#NatureDocumentary",
-          "#WildlifeFacts",
-          "#JVOutdoors"
+          "#Wildlife",
+          "#OceanLife",
+          "#Nature",
+          "#Shorts"
+        ],
+        [
+          "#DidYouKnow",
+          "#MarineBiology",
+          "#Shorts"
         ]
-      ],
-      "episodeStructure": [
-        {
-          "segment": "cold_open",
-          "duration": "0:00-0:15",
-          "narration": "New hook narration \u2014 'These animals have abilities that sound completely fake, but every single one is real.'"
-        },
-        {
-          "segment": "dolphin",
-          "videoId": "M95zB-4aYAQ",
-          "duration": "0:15-1:20",
-          "title": "Dolphin \u2014 Never Fully Sleeps"
-        },
-        {
-          "segment": "bridge_1",
-          "duration": "1:20-1:30",
-          "narration": "Speaking of impossible survival... what if you could breathe without using your lungs?"
-        },
-        {
-          "segment": "turtle",
-          "videoId": "0jZSeW-87Gw",
-          "duration": "1:30-2:35",
-          "title": "Turtle \u2014 Breathes Through Its Butt"
-        },
-        {
-          "segment": "bridge_2",
-          "duration": "2:35-2:45",
-          "narration": "From underwater breathing to super smell..."
-        },
-        {
-          "segment": "bear",
-          "videoId": "F39DdwKsONc",
-          "duration": "2:45-3:50",
-          "title": "Bear \u2014 Smells Food 20 Miles Away"
-        },
-        {
-          "segment": "bridge_3",
-          "duration": "3:50-4:00",
-          "narration": "If you think that's impressive, wait until you hear this roar..."
-        },
-        {
-          "segment": "lion",
-          "videoId": "9HLUyhN-xt8",
-          "duration": "4:00-5:05",
-          "title": "Lion \u2014 Roar Heard 5 Miles Away"
-        },
-        {
-          "segment": "bridge_4",
-          "duration": "5:05-5:15",
-          "narration": "And when the sun goes down, the jungle belongs to one hunter..."
-        },
-        {
-          "segment": "tiger",
-          "videoId": "WJBVgO1_rT8",
-          "duration": "5:15-6:20",
-          "title": "Tiger \u2014 Sees 6x Better in the Dark"
-        },
-        {
-          "segment": "outro",
-          "duration": "6:20-6:40",
-          "narration": "Recap + subscribe CTA \u2014 '5 real superpowers. Which one amazed you most? Subscribe for weekly wildlife episodes.'"
-        }
       ]
     }
-  ],
-  "longFormPlan": {
-    "enabled": true,
-    "status": "pilot",
-    "concept": "Weekly long-form episode built FROM Shorts assets \u2014 not a raw compilation. Each episode features 5-7 animal segments from the week's best Shorts, but with entirely new narration, cold open, transitions, pacing, and chapter structure. Feels like an original mini-doc, not stitched-together Shorts.",
-    "rationale": "Long-form videos earn watch hours toward YPP (currently 127.8/4000 = 3.2%), reach broader audiences beyond Shorts feed, and rank in YouTube search. Reusing footage from Shorts keeps production cost low while new narration and structure make it original content.",
-    "cadence": "Weekly \u2014 Sunday production, published Sunday evening",
-    "validationStrategy": "Pilot first, automate later. Build one semi-manual episode, track CTR, average view duration, total watch hours, subscribers gained, and whether Shorts viewers cross over to long-form. If retention holds, automate the weekly flow. If weak, pivot to original mini-docs.",
-    "metricsToTrack": [
-      "CTR",
-      "averageViewDuration",
-      "totalWatchHours",
-      "subscribersGained",
-      "shortsToLongFormCrossover"
-    ],
-    "format": {
-      "duration": "6-8 minutes",
-      "structure": "Cold open hook (15s) \u2192 5-7 segments with 5-10s bridging narration between each \u2192 recap + subscribe CTA (20s)",
-      "transformations": [
-        "New cold open narration (not reused from any Short)",
-        "Remove repeated intros/outros from Short segments",
-        "New bridging narration between segments (thematic connective tissue)",
-        "Tighter pacing \u2014 trim weak moments from original Shorts",
-        "Chapter timestamps in description for each animal",
-        "New outro with channel CTA"
-      ],
-      "thumbnail": "Composite of top 3 animal faces with bold text overlay"
-    },
-    "productionFlow": [
-      "1. Read pulse-snapshot.json + producer-analytics.json to select top 5-7 Shorts from past 7 days (prioritize WINNER labels)",
-      "2. Source each Short's footage clips from workspace cache (prerequisite: durable storage)",
-      "3. Write new episode script: cold open + bridges + outro (150-250 words of NEW narration)",
-      "4. Generate TTS for new narration segments only",
-      "5. Assemble with ffmpeg: cold open \u2192 segment 1 \u2192 bridge \u2192 segment 2 \u2192 bridge \u2192 ... \u2192 outro",
-      "6. Add chapter markers and upload as standard video (not Shorts)",
-      "7. Track in produced-videos.json with type 'longform-episode'"
-    ],
-    "firstRun": "2026-08-02 (Sunday) \u2014 pilot episode",
-    "prerequisites": [
-      "Cache Short footage clips to workspace (currently in /tmp which clears between runs)",
-      "New assembly script supporting episode mode (cold open + segments + bridges + outro)",
-      "New TTS script generation for episode narration"
-    ],
-    "yppImpact": {
-      "watchHoursPerWeek": "~1.5-2 hours per episode (6-8 min \u00d7 15-25 views in first week)",
-      "projectedAnnualWatchHours": "~78-104 hours from 52 weekly episodes",
-      "note": "Long-form watch hours compound \u2014 videos keep getting views over months. Real impact likely 2-3x first-week numbers."
-    },
-    "risks": [
-      "YouTube may flag reused Shorts footage as repurposed content \u2014 mitigated by new narration, pacing, and chapter structure",
-      "Retention may be lower than Shorts (viewers accustomed to 60s content) \u2014 mitigated by strong cold open and tight pacing",
-      "Production complexity higher than Shorts \u2014 mitigated by starting with semi-manual pilot before automating"
-    ]
-  }
+  ]
 }
