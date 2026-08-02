@@ -1620,6 +1620,34 @@
         "stockClips": 6,
         "assemblyNote": "manual concat+mux after disk-full failure"
       }
+    },
+    {
+      "productionId": "JV-2026-08-02-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "e3182e04e74e2e2ede0501b6f3777cdffc070a39160530a02fe1dd40be7d5866",
+      "status": "uploaded",
+      "startedAt": "2026-08-02T16:03:33.415488-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
+      "sourceType": "selfgen",
+      "renderedAt": "2026-08-02T16:09:23.011230-04:00",
+      "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
+      "youtube": {
+        "videoId": "OMvgN3EM4yo",
+        "url": "https://www.youtube.com/watch?v=OMvgN3EM4yo",
+        "privacyStatus": "public",
+        "publishedAt": "2026-08-02T20:09:16Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-08-02-SELFN2/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "HOLDS BREATH FOR TWO HOURS",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-02-SELFN2/final.mp4",
+        "videoDurationSeconds": 61.8,
+        "stockClips": 6,
+        "qualityNote": "5/6 valid seal clips (scene 2 returned turtles), shorter script per improvement plan"
+      }
     }
   ]
 }
