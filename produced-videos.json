@@ -1597,11 +1597,29 @@
       "productionId": "JV-2026-08-02-SELFN",
       "ideaId": "SELFN",
       "sourceHash": "579a40bbbb32663456ba79fb67279c9ce40b1ccd0286164f769e2594f8c70d4b",
-      "status": "rendering",
+      "status": "uploaded",
       "startedAt": "2026-08-02T10:04:32.578646-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
-      "sourceType": "selfgen"
+      "sourceType": "selfgen",
+      "renderedAt": "2026-08-02T10:14:47.950656-04:00",
+      "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
+      "youtube": {
+        "videoId": "7uqPQXoOdtE",
+        "url": "https://www.youtube.com/watch?v=7uqPQXoOdtE",
+        "privacyStatus": "public",
+        "publishedAt": "2026-08-02T14:14:42Z"
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-08-02-SELFN/script.txt",
+        "narration": "charon TTS",
+        "hookCard": "IMMUNE TO DEADLY VENOM",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-02-SELFN/final.mp4",
+        "videoDurationSeconds": 75.4,
+        "stockClips": 6,
+        "assemblyNote": "manual concat+mux after disk-full failure"
+      }
     }
   ]
 }
