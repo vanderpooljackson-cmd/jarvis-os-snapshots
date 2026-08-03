@@ -1648,6 +1648,62 @@
         "stockClips": 6,
         "qualityNote": "5/6 valid seal clips (scene 2 returned turtles), shorter script per improvement plan"
       }
+    },
+    {
+      "productionId": "JV-2026-08-03-SELFN3",
+      "ideaId": "SELFN3",
+      "sourceHash": "84c91697fba6b7911268ce5763938599ef39e2a3a4b617881535f57b207a77cf",
+      "title": "Why the Ghost Crab Sees in Every Direction at Once #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-03T10:16:34.188555-04:00",
+      "mode": "stock-footage+captions",
+      "uploadedAt": "2026-08-03T10:27:58.682009-04:00",
+      "youtube": {
+        "videoId": "-Muut2BoMeE",
+        "title": "Why the Ghost Crab Sees in Every Direction at Once #Shorts",
+        "privacyStatus": "public"
+      },
+      "durationSec": 52.37,
+      "assetManifest": {
+        "clips": [
+          {
+            "scene": 1,
+            "query": "ghost crab close up",
+            "providerId": "36852909",
+            "sourceUrl": "https://www.pexels.com/video/crab-walking-on-sandy-beach-with-ripples-36852909/"
+          },
+          {
+            "scene": 2,
+            "query": "crab eyes stalks close up",
+            "providerId": "34617338",
+            "sourceUrl": "https://www.pexels.com/video/crab-hiding-in-rocky-coastal-crevice-34617338/"
+          },
+          {
+            "scene": 3,
+            "query": "seagull flying over beach",
+            "providerId": "36030410",
+            "sourceUrl": "https://www.pexels.com/video/seagulls-soaring-over-ocean-waves-at-beachfront-36030410/"
+          },
+          {
+            "scene": 4,
+            "query": "waves crashing beach shore",
+            "providerId": "17949238",
+            "sourceUrl": "https://www.pexels.com/video/sao-conrado-rj-17949238/"
+          },
+          {
+            "scene": 5,
+            "query": "ghost crab running sand",
+            "providerId": "34366128",
+            "sourceUrl": "https://www.pexels.com/video/crab-scuttling-across-sandy-beach-at-dawn-34366128/"
+          },
+          {
+            "scene": 6,
+            "query": "crab burrow sand hole",
+            "providerId": "34617336",
+            "sourceUrl": "https://www.pexels.com/video/crab-camouflage-in-tidal-pool-34617336/"
+          }
+        ]
+      }
     }
   ]
 }
