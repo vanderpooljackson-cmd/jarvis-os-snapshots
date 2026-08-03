@@ -24,7 +24,7 @@
       "status": "kept",
       "evaluatedAt": "2026-07-08T18:25:00-04:00",
       "decision": "inconclusive-keep",
-      "evalNotes": "Resolved manually after evaluator escalation. The video had ZERO traffic in both the pre-test baseline (2026-06-15 to 2026-07-03: 0 views every day except 3 views on 2026-06-16) and the variant period (2026-07-04 to 2026-07-06: 0 views). With no traffic either before or after the title change, the test is inconclusive \u2014 there is no signal to measure the variant's effect. Decision: KEEP the variant title (do not revert). Rationale: (1) no evidence the variant hurt since there was no traffic to lose; (2) the variant framing 'Why Does This Fish Have White Blood?' is a stronger curiosity-gap hook than the baseline 'Antarctic Fish with White Blood', so it is the better bet when traffic returns; (3) reverting would be churn with no supporting data. The evaluator cron's 'empty rows' was this zero-traffic case (a 0-view video returns no row on a dimension=video query), not an API/auth failure. Evaluator cron updated to treat zero-traffic variant periods as inconclusive/keep instead of escalating."
+      "evalNotes": "Resolved manually after evaluator escalation. The video had ZERO traffic in both the pre-test baseline (2026-06-15 to 2026-07-03: 0 views every day except 3 views on 2026-06-16) and the variant period (2026-07-04 to 2026-07-06: 0 views). With no traffic either before or after the title change, the test is inconclusive — there is no signal to measure the variant's effect. Decision: KEEP the variant title (do not revert). Rationale: (1) no evidence the variant hurt since there was no traffic to lose; (2) the variant framing 'Why Does This Fish Have White Blood?' is a stronger curiosity-gap hook than the baseline 'Antarctic Fish with White Blood', so it is the better bet when traffic returns; (3) reverting would be churn with no supporting data. The evaluator cron's 'empty rows' was this zero-traffic case (a 0-view video returns no row on a dimension=video query), not an API/auth failure. Evaluator cron updated to treat zero-traffic variant periods as inconclusive/keep instead of escalating."
     },
     {
       "id": "EXP-002",
@@ -34,13 +34,13 @@
       "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
       "appliedVia": "youtube_data_api-update-video-details",
       "launchedAt": "2026-07-22T09:17:37.226640-04:00",
-      "launchedBy": "agent (manual launch \u2014 Pulse cron 8c24d1c2 failed to auto-launch on 2026-07-22 due to lifetime-views eligibility gap; launched interactively per fully-automatic policy autoLaunchTitleTests=true)",
+      "launchedBy": "agent (manual launch — Pulse cron 8c24d1c2 failed to auto-launch on 2026-07-22 due to lifetime-views eligibility gap; launched interactively per fully-automatic policy autoLaunchTitleTests=true)",
       "baselineMetrics": {
         "windowDays": 28,
         "views": 1253,
         "avgViewDurationSec": 18,
         "flag": "optimize",
-        "note": "High views (1253, well above 200 threshold) but below-median retention (18s vs ~27s channel median) \u2014 viewers click but bounce"
+        "note": "High views (1253, well above 200 threshold) but below-median retention (18s vs ~27s channel median) — viewers click but bounce"
       },
       "baselineDailyAverages": {
         "views": 45,
@@ -50,14 +50,14 @@
       "evalWindowHours": 72,
       "evaluatedAt": "2026-07-25T10:00:00-04:00",
       "decision": "revert",
-      "evalNotes": "Variant-period (2026-07-22 to 2026-07-25 inclusive window end per evaluator run): 26 views, 5 est. minutes watched, 1 like, avgViewDuration 17s. Daily breakdown shows only one active day (2026-07-22: 26 views; other days implicitly 0 / no rows). Baseline daily averages from experiment record: 45 views/day, avgViewDuration 18s. Computed variant daily averages over 4 days: 6.5 views/day (\u221285.6% vs baseline 45/day), avgViewDuration 17s (\u22121s vs baseline 18s). Decision: REVERT per policy (views drop >15% and retention down). Action taken: updated YouTube title back to baseline string via youtube_data_api-update-video-details."
+      "evalNotes": "Variant-period (2026-07-22 to 2026-07-25 inclusive window end per evaluator run): 26 views, 5 est. minutes watched, 1 like, avgViewDuration 17s. Daily breakdown shows only one active day (2026-07-22: 26 views; other days implicitly 0 / no rows). Baseline daily averages from experiment record: 45 views/day, avgViewDuration 18s. Computed variant daily averages over 4 days: 6.5 views/day (−85.6% vs baseline 45/day), avgViewDuration 17s (−1s vs baseline 18s). Decision: REVERT per policy (views drop >15% and retention down). Action taken: updated YouTube title back to baseline string via youtube_data_api-update-video-details."
     },
     {
       "id": "EXP-003",
       "videoId": "D2elbK2vCRE",
       "field": "title",
       "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
-      "variant": "The Secret That Keeps Penguins Alive in Antarctica\u2019s Winter #Shorts",
+      "variant": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
       "appliedVia": "youtube_data_api-update-video-details",
       "launchedAt": "2026-07-26T09:04:09-04:00",
       "baselineMetrics": {
@@ -83,7 +83,7 @@
       "videoId": "D2elbK2vCRE",
       "field": "title",
       "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
-      "variant": "What Do Penguins Do for 2 Months in the Dark at \u221240? #Shorts",
+      "variant": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
       "appliedVia": "youtube_data_api-update-video-details",
       "launchedAt": "2026-08-01T09:14:46.248022-04:00",
       "baselineMetrics": {
@@ -98,7 +98,10 @@
         "watched": 9.964285714285714,
         "avgViewDuration": 18
       },
-      "status": "running"
+      "status": "reverted",
+      "evaluatedAt": "2026-08-03T10:30:31-04:00",
+      "decision": "revert",
+      "evalNotes": "Variant-period analytics (2026-08-01 to 2026-08-03 inclusive) returned NO rows for both dimension=video and dimension=day, indicating zero traffic in the test window (0 total views, 0 estimated minutes watched, 0 likes; averageViewDuration N/A). Per zero-traffic handling, a pre-test baseline query was run for 2026-07-18 to 2026-07-31 (14 days): 1,337 total views, 278 estimated minutes watched, and 35 likes across returned days, so the video had real pre-test traffic. Treating the zero-traffic variant period as a sharp drop, REVERT per policy. Baseline daily averages from the experiment record: 47.75 views/day and 18s averageViewDuration; variant daily averages over 3 days: 0.0 views/day and averageViewDuration N/A. Action taken: updated YouTube title back to baseline string via youtube_data_api-update-video-details. Watch-page verification showed the baseline title: \"Why the Penguin Survives the Coldest Winter on Earth #Shorts\"."
     }
   ],
   "policy": {
