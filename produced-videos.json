@@ -1704,6 +1704,64 @@
           }
         ]
       }
+    },
+    {
+      "productionId": "JV-2026-08-03-SELFN4",
+      "ideaId": "SELFN4",
+      "sourceHash": "90777b0ec9257f31115a56de197beff59b45875213da31f17b4fc430669fa792",
+      "title": "Why the Iguana Dissolves Its Own Bones to Survive #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-03T16:04:11.334396-04:00",
+      "mode": "stock-footage+captions",
+      "uploadedAt": "2026-08-03T16:10:30.501526-04:00",
+      "youtube": {
+        "videoId": "xwB-Gbv6bAE",
+        "title": "Why the Iguana Dissolves Its Own Bones to Survive #Shorts",
+        "privacyStatus": "public"
+      },
+      "durationSec": 56.6,
+      "assetManifest": {
+        "clips": [
+          {
+            "scene": 1,
+            "query": "iguana close up",
+            "providerId": "36543012",
+            "sourceUrl": "https://www.pexels.com/video/close-up-of-two-iguanas-on-branch-36543012/"
+          },
+          {
+            "scene": 2,
+            "query": "iguana on rocks",
+            "providerId": "36543008",
+            "sourceUrl": "https://www.pexels.com/video/close-up-video-of-a-green-iguana-in-jungle-36543008/"
+          },
+          {
+            "scene": 3,
+            "query": "iguana in water",
+            "providerId": "36543012",
+            "sourceUrl": "https://www.pexels.com/video/close-up-of-two-iguanas-on-branch-36543012/",
+            "note": "duplicate of scene 1 - limited portrait iguana footage on Pexels"
+          },
+          {
+            "scene": 4,
+            "query": "iguana on branch jungle",
+            "providerId": "36543009",
+            "sourceUrl": "https://www.pexels.com/video/vibrant-iguana-resting-on-a-branch-36543009/",
+            "note": "duplicate of scene 5 - limited portrait iguana footage on Pexels"
+          },
+          {
+            "scene": 5,
+            "query": "iguana resting still",
+            "providerId": "36543009",
+            "sourceUrl": "https://www.pexels.com/video/vibrant-iguana-resting-on-a-branch-36543009/"
+          },
+          {
+            "scene": 6,
+            "query": "iguana on beach ocean",
+            "providerId": "35499144",
+            "sourceUrl": "https://www.pexels.com/video/iguana-on-rocky-beach-in-tropical-setting-35499144/"
+          }
+        ]
+      }
     }
   ]
 }
