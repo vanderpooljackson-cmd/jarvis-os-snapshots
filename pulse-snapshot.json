@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
-    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
+    "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 35918,
-      "subscriberCount": 57,
-      "videoCount": 71
+      "viewCount": "35918",
+      "subscriberCount": "57",
+      "videoCount": "73"
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-05",
-    "endDate": "2026-08-02",
+    "startDate": "2026-07-06",
+    "endDate": "2026-08-03",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 16923,
+    "views": 16909,
     "estimatedMinutesWatched": 5305,
     "subscribersGained": 42,
     "subscribersLost": 9,
-    "likes": 609,
+    "netSubscribers": 33,
+    "likes": 608,
     "comments": 8,
-    "shares": 15,
-    "netSubscribers": 33
+    "shares": 15
   },
   "daily": [
-    {
-      "day": "2026-07-05",
-      "views": 30,
-      "watched": 5,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 3
-    },
     {
       "day": "2026-07-06",
       "views": 1,
@@ -175,7 +167,7 @@
     },
     {
       "day": "2026-07-28",
-      "views": 1001,
+      "views": 998,
       "watched": 329,
       "subsGained": 3,
       "subsLost": 0,
@@ -196,6 +188,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 0
+    },
+    {
+      "day": "2026-07-31",
+      "views": 19,
+      "watched": 5,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 2
     }
   ],
   "topVideos": [
@@ -208,18 +208,18 @@
       "comments": 2,
       "avgViewDuration": 44,
       "flag": "winner",
-      "note": "Top combined views and average view duration"
+      "note": "Above-average views (2070) with above-median retention (44s vs 26.5s median)"
     },
     {
       "videoId": "D2elbK2vCRE",
-      "title": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
+      "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
       "views": 1337,
       "watched": 279,
       "likes": 35,
       "comments": 0,
       "avgViewDuration": 18,
       "flag": "optimize",
-      "note": "Above-average views but below-median average view duration"
+      "note": "Above-average views (1337) but below-median retention (18s vs 26.5s median) \u2014 viewers click but bounce"
     },
     {
       "videoId": "0jZSeW-87Gw",
@@ -229,8 +229,8 @@
       "likes": 61,
       "comments": 1,
       "avgViewDuration": 37,
-      "flag": "stable",
-      "note": ""
+      "flag": "winner",
+      "note": "Above-average views (1301) with above-median retention (37s vs 26.5s median)"
     },
     {
       "videoId": "RZ6qtnTpTiA",
@@ -240,8 +240,8 @@
       "likes": 51,
       "comments": 1,
       "avgViewDuration": 28,
-      "flag": "stable",
-      "note": ""
+      "flag": "winner",
+      "note": "Above-average views (1296) with above-median retention (28s vs 26.5s median)"
     },
     {
       "videoId": "g6Nmh2WuHDo",
@@ -252,7 +252,7 @@
       "comments": 0,
       "avgViewDuration": 26,
       "flag": "stable",
-      "note": ""
+      "note": "Below-average views (1215), retention 26s"
     },
     {
       "videoId": "C5rhgXKTkO4",
@@ -263,7 +263,7 @@
       "comments": 0,
       "avgViewDuration": 22,
       "flag": "stable",
-      "note": ""
+      "note": "Below-average views (1118), retention 22s"
     },
     {
       "videoId": "9Il9e4WfzXw",
@@ -274,7 +274,7 @@
       "comments": 0,
       "avgViewDuration": 26,
       "flag": "stable",
-      "note": ""
+      "note": "Below-average views (1077), retention 26s"
     },
     {
       "videoId": "4WUNKscls30",
@@ -285,7 +285,7 @@
       "comments": 1,
       "avgViewDuration": 28,
       "flag": "stable",
-      "note": ""
+      "note": "Below-average views (1076), retention 28s"
     },
     {
       "videoId": "uEWo-Q5jST8",
@@ -296,7 +296,7 @@
       "comments": 1,
       "avgViewDuration": 27,
       "flag": "stable",
-      "note": ""
+      "note": "Below-average views (1050), retention 27s"
     },
     {
       "videoId": "FLK0SMOCaaU",
@@ -307,15 +307,13 @@
       "comments": 0,
       "avgViewDuration": 25,
       "flag": "stable",
-      "note": ""
+      "note": "Below-average views (1030), retention 25s"
     }
   ],
-  "fetchedAt": "2026-08-02T09:04:27-04:00",
-  "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-02T09:04:27-04:00",
+      "fetchedAt": "2026-08-03T09:35:47.956444-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
@@ -324,19 +322,21 @@
         "percent": 5.7
       },
       "watchHours12mo": {
-        "current": 137.9,
+        "current": 138.0,
         "threshold": 4000,
         "percent": 3.45,
         "window": "Last 12 months",
-        "minutesWatched": 8276
+        "minutesWatched": 8282
       },
       "shortsViews90d": {
-        "current": 36002,
+        "current": 36007,
         "threshold": 10000000,
         "percent": 0.36,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
     }
-  }
+  },
+  "fetchedAt": "2026-08-03T09:35:47.956444-04:00",
+  "source": "YouTube Analytics API"
 }
