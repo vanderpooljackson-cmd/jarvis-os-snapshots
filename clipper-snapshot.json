@@ -1,55 +1,66 @@
 {
-  "fetchedAt": "2026-07-31T17:37:00-04:00",
+  "fetchedAt": "2026-08-03T17:34:04.506138-04:00",
   "videos": [
     {
-      "videoId": "kDNyOJnQMXM",
-      "title": "Why the Monkey Has a Tail That Grabs #Shorts",
+      "videoId": "xwB-Gbv6bAE",
+      "title": "Why the Iguana Dissolves Its Own Bones to Survive #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [],
+      "notes": "Bot wall blocked comment access; Shorts do not support transcript"
     },
     {
-      "videoId": "1XxTz8DJ_0Y",
-      "title": "Why the Deer Sees in Every Direction #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "idqWVEzP_Ps",
-      "title": "Why the Rhino Smells Danger From Miles Away #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "4Gd0lrEAVs4",
-      "title": "Why the Alligator Has the Strongest Bite on Earth #Shorts",
+      "videoId": "-Muut2BoMeE",
+      "title": "Why the Ghost Crab Sees in Every Direction at Once #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Human can hold jaws shut",
-          "startSec": 23,
-          "endSec": 37,
-          "why": "Surprising paradox: 3,000 PSI bite force but a human can hold the mouth shut with bare hands — one-way weapon with massive closing muscles and tiny opening muscles",
-          "hookRewrite": "This animal has the strongest bite but you can hold its mouth shut"
+          "momentLabel": "360-degree vision hook",
+          "startSec": 0,
+          "endSec": 6,
+          "why": "Strong curiosity gap opening \u2014 'Why can a ghost crab see every direction at once without ever turning its head?' \u2014 immediately establishes the impossible-sounding premise",
+          "hookRewrite": "This crab has zero blind spots \u2014 here's how"
         },
         {
-          "momentLabel": "3,000 teeth conveyor belt",
-          "startSec": 43,
-          "endSec": 58,
-          "why": "Mind-blowing fact: alligator goes through 3,000 teeth in a lifetime, each replaced like a conveyor belt — design perfected over 80 million years",
-          "hookRewrite": "This animal grows 3,000 teeth in a lifetime on a conveyor belt"
+          "momentLabel": "Predator detection from all angles",
+          "startSec": 14,
+          "endSec": 23,
+          "why": "Action-packed segment listing specific predators (gull, fox, wave) the crab detects simultaneously \u2014 high visual potential",
+          "hookRewrite": "No predator can sneak up on this crab. Literally none."
+        },
+        {
+          "momentLabel": "Sprint and vanish",
+          "startSec": 37,
+          "endSec": 46,
+          "why": "Dynamic action close \u2014 sprint, dodge, vanish down burrow \u2014 creates urgency and payoffs the superpower setup",
+          "hookRewrite": "Watch this crab vanish before your eyes"
         }
       ]
     },
     {
-      "videoId": "zdZttF3obWc",
-      "title": "Why the Koala Eats Poison Every Day #Shorts",
+      "videoId": "OMvgN3EM4yo",
+      "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [],
+      "notes": "Shorts do not support transcript; 0 comments confirmed"
+    },
+    {
+      "videoId": "7uqPQXoOdtE",
+      "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": [],
+      "notes": "Shorts do not support transcript; 0 comments confirmed"
+    },
+    {
+      "videoId": "x5DDKVOquoE",
+      "title": "Why the Ostrich Has Eyes Bigger Than Its Brain #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": [],
+      "notes": "Shorts do not support transcript; 0 comments confirmed"
     }
   ],
   "postedReplies": 0
