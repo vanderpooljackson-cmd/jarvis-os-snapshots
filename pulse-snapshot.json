@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": "35918",
-      "subscriberCount": "57",
-      "videoCount": "73"
+      "viewCount": 35952,
+      "subscriberCount": 57,
+      "videoCount": 75
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-06",
-    "endDate": "2026-08-03",
+    "startDate": "2026-07-07",
+    "endDate": "2026-08-04",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 16909,
-    "estimatedMinutesWatched": 5305,
+    "views": 16918,
+    "estimatedMinutesWatched": 5306,
     "subscribersGained": 42,
     "subscribersLost": 9,
-    "netSubscribers": 33,
     "likes": 608,
     "comments": 8,
-    "shares": 15
+    "shares": 15,
+    "netSubscribers": 33
   },
   "daily": [
-    {
-      "day": "2026-07-06",
-      "views": 1,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-07",
       "views": 2,
@@ -196,6 +188,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 2
+    },
+    {
+      "day": "2026-08-01",
+      "views": 10,
+      "watched": 1,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     }
   ],
   "topVideos": [
@@ -208,18 +208,18 @@
       "comments": 2,
       "avgViewDuration": 44,
       "flag": "winner",
-      "note": "Above-average views (2070) with above-median retention (44s vs 26.5s median)"
+      "note": "Top combined views and average view duration"
     },
     {
       "videoId": "D2elbK2vCRE",
-      "title": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
-      "views": 1337,
+      "title": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
+      "views": 1338,
       "watched": 279,
       "likes": 35,
       "comments": 0,
       "avgViewDuration": 18,
       "flag": "optimize",
-      "note": "Above-average views (1337) but below-median retention (18s vs 26.5s median) \u2014 viewers click but bounce"
+      "note": "Above-average views (1338) but below-median retention (18s vs 26.5s median) — viewers click but bounce"
     },
     {
       "videoId": "0jZSeW-87Gw",
@@ -229,19 +229,19 @@
       "likes": 61,
       "comments": 1,
       "avgViewDuration": 37,
-      "flag": "winner",
-      "note": "Above-average views (1301) with above-median retention (37s vs 26.5s median)"
+      "flag": "stable",
+      "note": "Above-average views (1301), retention 37s"
     },
     {
       "videoId": "RZ6qtnTpTiA",
       "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
-      "views": 1296,
+      "views": 1297,
       "watched": 406,
       "likes": 51,
       "comments": 1,
       "avgViewDuration": 28,
-      "flag": "winner",
-      "note": "Above-average views (1296) with above-median retention (28s vs 26.5s median)"
+      "flag": "stable",
+      "note": "Above-average views (1297), retention 28s"
     },
     {
       "videoId": "g6Nmh2WuHDo",
@@ -310,10 +310,12 @@
       "note": "Below-average views (1030), retention 25s"
     }
   ],
+  "fetchedAt": "2026-08-04T09:11:31-04:00",
+  "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-03T09:35:47.956444-04:00",
+      "fetchedAt": "2026-08-04T09:11:31-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
@@ -322,21 +324,19 @@
         "percent": 5.7
       },
       "watchHours12mo": {
-        "current": 138.0,
+        "current": 138.1,
         "threshold": 4000,
         "percent": 3.45,
         "window": "Last 12 months",
-        "minutesWatched": 8282
+        "minutesWatched": 8283
       },
       "shortsViews90d": {
-        "current": 36007,
+        "current": 36017,
         "threshold": 10000000,
         "percent": 0.36,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
     }
-  },
-  "fetchedAt": "2026-08-03T09:35:47.956444-04:00",
-  "source": "YouTube Analytics API"
+  }
 }

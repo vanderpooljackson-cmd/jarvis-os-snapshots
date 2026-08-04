@@ -102,6 +102,30 @@
       "evaluatedAt": "2026-08-03T10:30:31-04:00",
       "decision": "revert",
       "evalNotes": "Variant-period analytics (2026-08-01 to 2026-08-03 inclusive) returned NO rows for both dimension=video and dimension=day, indicating zero traffic in the test window (0 total views, 0 estimated minutes watched, 0 likes; averageViewDuration N/A). Per zero-traffic handling, a pre-test baseline query was run for 2026-07-18 to 2026-07-31 (14 days): 1,337 total views, 278 estimated minutes watched, and 35 likes across returned days, so the video had real pre-test traffic. Treating the zero-traffic variant period as a sharp drop, REVERT per policy. Baseline daily averages from the experiment record: 47.75 views/day and 18s averageViewDuration; variant daily averages over 3 days: 0.0 views/day and averageViewDuration N/A. Action taken: updated YouTube title back to baseline string via youtube_data_api-update-video-details. Watch-page verification showed the baseline title: \"Why the Penguin Survives the Coldest Winter on Earth #Shorts\"."
+    },
+    {
+      "id": "EXP-005",
+      "videoId": "D2elbK2vCRE",
+      "field": "title",
+      "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+      "variant": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-08-04T09:13:04-04:00",
+      "baselineMetrics": {
+        "windowDays": 28,
+        "views": 1338,
+        "watched": 279,
+        "likes": 35,
+        "comments": 0,
+        "shares": 1,
+        "avgViewDurationSec": 18
+      },
+      "baselineDailyAverages": {
+        "views": 47.785714285714285,
+        "watched": 9.964285714285714,
+        "avgViewDuration": 18
+      },
+      "status": "running"
     }
   ],
   "policy": {
