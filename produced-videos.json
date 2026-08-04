@@ -1762,6 +1762,73 @@
           }
         ]
       }
+    },
+    {
+      "productionId": "JV-2026-08-04-SELFN",
+      "ideaId": "SELFN",
+      "sourceHash": "017e56bc88de3dfd5d278435169f36012013131972a38c72f3a494b4420a1ec2",
+      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
+      "status": "render-failed",
+      "startedAt": "2026-08-04T10:11:05.083026-04:00",
+      "mode": "stock-footage+captions",
+      "error": "insufficient sloth footage on Pexels: only 1/6 real sloth clips found across multiple query attempts. Pexels sloth search returns birds, monkeys, koalas, humans, and sloth bears.",
+      "failedAt": "2026-08-04T10:13:11.528964-04:00"
+    },
+    {
+      "productionId": "JV-2026-08-04-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "9a6612a024e6059d3f939fd3687734c6abc53edaac189bf7c8b53cf2f8701390",
+      "title": "Why the Hawk Sees a Mouse From Two Miles Away #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-04T10:13:19.267900-04:00",
+      "mode": "stock-footage+captions",
+      "uploadedAt": "2026-08-04T10:17:43.064565-04:00",
+      "youtube": {
+        "videoId": "Dh5e0VP8y5g",
+        "title": "Why the Hawk Sees a Mouse From Two Miles Away #Shorts",
+        "privacyStatus": "public"
+      },
+      "durationSec": 47.57,
+      "assetManifest": {
+        "clips": [
+          {
+            "scene": 1,
+            "query": "hawk close up",
+            "providerId": "35375231",
+            "sourceUrl": "https://www.pexels.com/video/majestic-eagle-resting-on-a-forest-branch-35375231/"
+          },
+          {
+            "scene": 2,
+            "query": "hawk soaring sky",
+            "providerId": "28152274",
+            "sourceUrl": "https://www.pexels.com/video/a-bird-flying-in-the-sky-with-clouds-28152274/"
+          },
+          {
+            "scene": 3,
+            "query": "hawk perched tree",
+            "providerId": "37654248",
+            "sourceUrl": "https://www.pexels.com/video/bird-soaring-against-dramatic-cloudy-sky-37654248/"
+          },
+          {
+            "scene": 4,
+            "query": "hawk flying overhead",
+            "providerId": "31834293",
+            "sourceUrl": "https://www.pexels.com/video/eagle-soaring-over-snowy-mountains-in-norway-31834293/"
+          },
+          {
+            "scene": 5,
+            "query": "hawk diving swooping",
+            "providerId": "33034683",
+            "sourceUrl": "https://www.pexels.com/video/birds-soaring-in-a-clear-blue-sky-33034683/"
+          },
+          {
+            "scene": 6,
+            "query": "hawk flying sunset",
+            "providerId": "36108683",
+            "sourceUrl": "https://www.pexels.com/video/serene-boat-at-sunset-with-soaring-bird-36108683/"
+          }
+        ]
+      }
     }
   ]
 }
