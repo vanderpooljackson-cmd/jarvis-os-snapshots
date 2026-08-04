@@ -1829,6 +1829,26 @@
           }
         ]
       }
+    },
+    {
+      "productionId": "JV-2026-08-04-SELFN3",
+      "ideaId": "SELFN3",
+      "sourceHash": "fcb89d8681e6c524c473254d3776f1e8ae8d67eaa1139816093a0eed41ee75b8",
+      "title": "Why the Raccoon Sees Better With Its Hands Than Its Eyes #Shorts",
+      "status": "render-failed",
+      "startedAt": "2026-08-04T16:03:55.517621-04:00",
+      "mode": "stock-footage+captions",
+      "error": "insufficient raccoon footage on Pexels: 0/6 real raccoon clips across two query batches. Search returns coatis, squirrels, dogs, cats, beavers, city skylines, and human faces.",
+      "failedAt": "2026-08-04T16:05:11.864510-04:00"
+    },
+    {
+      "productionId": "JV-2026-08-04-SELFN4",
+      "ideaId": "SELFN4",
+      "sourceHash": "be340182b82c193edf44bbba50afbcbf07a6ac8d4572511af17c22d0d1ef3c65",
+      "title": "Why the Parrot Has Colors You Cannot See #Shorts",
+      "status": "rendering",
+      "startedAt": "2026-08-04T16:05:16.861343-04:00",
+      "mode": "stock-footage+captions"
     }
   ]
 }
