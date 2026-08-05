@@ -1846,9 +1846,75 @@
       "ideaId": "SELFN4",
       "sourceHash": "be340182b82c193edf44bbba50afbcbf07a6ac8d4572511af17c22d0d1ef3c65",
       "title": "Why the Parrot Has Colors You Cannot See #Shorts",
-      "status": "rendering",
+      "status": "render-failed",
       "startedAt": "2026-08-04T16:05:16.861343-04:00",
-      "mode": "stock-footage+captions"
+      "mode": "stock-footage+captions",
+      "error": "abandoned: footage source transition (Pexels\u2192Coverr/Wikimedia). TTS generated but footage never fetched.",
+      "renderedAt": null
+    },
+    {
+      "productionId": "JV-2026-08-05-SELFN1",
+      "ideaId": "SELFN1",
+      "sourceHash": "db42e0f133a3e6f5e1f5ee05405557e0a7286f56aa7da4b8cf834d429de9748c",
+      "status": "uploaded",
+      "mode": "stock-footage+captions",
+      "title": "Why the Cheetah Outruns a Sports Car From a Standstill #Shorts",
+      "concept": "Cheetah speed superpower \u2014 0-60 mph in 3 seconds, spring-like spine, non-retractable claws, rudder tail, 30-second sprint limit due to overheating.",
+      "startedAt": "2026-08-05T10:06:50.298724-04:00",
+      "renderedAt": "2026-08-05T10:13:16.063954-04:00",
+      "uploadedAt": "2026-08-05T10:13:16.063954-04:00",
+      "youtube": {
+        "videoId": "5i_2Sgugvpc",
+        "url": "https://www.youtube.com/watch?v=5i_2Sgugvpc",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-05-SELFN1/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-05-SELFN1/narration.mp3",
+        "footage": [
+          {
+            "scene": 1,
+            "source": "pexels",
+            "query": "cheetah standing",
+            "providerId": "30333087"
+          },
+          {
+            "scene": 2,
+            "source": "pexels",
+            "query": "cheetah running",
+            "providerId": "34656700"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "query": "cheetah running",
+            "title": "Rozi the cheetah running at the Cincinnati Zoo"
+          },
+          {
+            "scene": 4,
+            "source": "pexels",
+            "query": "cheetah walking (returned leopard)",
+            "providerId": "30260143",
+            "note": "leopard footage, not cheetah"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "query": "cheetah",
+            "title": "Cheetah, Madikwe"
+          },
+          {
+            "scene": 6,
+            "source": "pexels",
+            "query": "cheetah resting (returned leopard)",
+            "providerId": "36832668",
+            "note": "leopard footage, not cheetah"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-05-SELFN1/final.mp4"
+      },
+      "duration": 52.4,
+      "error": null
     }
   ]
 }
