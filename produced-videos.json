@@ -1915,6 +1915,32 @@
       },
       "duration": 52.4,
       "error": null
+    },
+    {
+      "productionId": "JV-2026-08-05-SELFN2",
+      "ideaId": "SELFN2",
+      "sourceHash": "72c0ca90080d82f9c68b73b2b5f6291c512b447c14739794d6df3418c822723d",
+      "status": "uploaded",
+      "mode": "stock-footage+captions",
+      "title": "Why the Starfish Regrows Its Whole Body From a Single Arm #Shorts",
+      "concept": "Starfish regeneration superpower \u2014 can regrow entire body from one arm, no brain, nerve net, external stomach digestion.",
+      "startedAt": "2026-08-05T16:04:56.602868-04:00",
+      "renderedAt": "2026-08-05T16:11:41.515684-04:00",
+      "uploadedAt": "2026-08-05T16:11:41.515684-04:00",
+      "youtube": {
+        "videoId": "_0zHLNM__vk",
+        "url": "https://www.youtube.com/watch?v=_0zHLNM__vk",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-05-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-05-SELFN2/narration.mp3",
+        "footage": "Pexels (3 unique starfish clips, duplicated to fill 6 scenes \u2014 Pexels returned non-starfish content for most queries)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-05-SELFN2/final.mp4"
+      },
+      "duration": 47.2,
+      "error": null,
+      "note": "Pexels footage quality issue: only 1/6 original clips were actual starfish. Re-fetched with sea star queries: got 3 unique starfish clips. Duplicated to fill 6 scenes. Wikimedia Commons had 4 real starfish videos but rate-limited (429)."
     }
   ]
 }
