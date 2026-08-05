@@ -1,13 +1,93 @@
 {
-  "fetchedAt": "2026-08-03T17:34:04.506138-04:00",
+  "fetchedAt": "2026-08-05T17:34:59.183091-04:00",
   "videos": [
+    {
+      "videoId": "_0zHLNM__vk",
+      "title": "Why the Starfish Regrows Its Whole Body From a Single Arm #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Regeneration from single arm",
+          "startSec": 22,
+          "endSec": 34,
+          "why": "Most surprising fact \u2014 entire body regrows from one arm with central disc piece",
+          "hookRewrite": "This starfish is growing a whole new body from just one severed arm"
+        },
+        {
+          "momentLabel": "External stomach digestion",
+          "startSec": 34,
+          "endSec": 44,
+          "why": "Shocking and viscerally memorable \u2014 pushing stomach through mouth",
+          "hookRewrite": "This animal pushes its stomach through its mouth to eat"
+        }
+      ]
+    },
+    {
+      "videoId": "5i_2Sgugvpc",
+      "title": "Why the Cheetah Outruns a Sports Car From a Standstill #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Non-retractable claws like cleats",
+          "startSec": 18,
+          "endSec": 25,
+          "why": "Unique feature \u2014 only cat with non-retractable claws, track cleat comparison",
+          "hookRewrite": "This is the only cat whose claws never retract \u2014 they work like track spikes"
+        },
+        {
+          "momentLabel": "30-second sprint limit before brain damage",
+          "startSec": 42,
+          "endSec": 51,
+          "why": "Surprising limitation \u2014 fastest animal can only run 30 seconds or risks brain damage",
+          "hookRewrite": "The fastest animal on Earth can only sprint for 30 seconds before brain damage"
+        }
+      ]
+    },
+    {
+      "videoId": "Dh5e0VP8y5g",
+      "title": "Why the Hawk Sees a Mouse From Two Miles Away #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "UV vision reveals glowing mouse trails",
+          "startSec": 21,
+          "endSec": 30,
+          "why": "Most surprising sensory fact \u2014 rodent urine glows under UV, hawks see the path not just the prey",
+          "hookRewrite": "A hawk doesn't see the mouse \u2014 it sees the glowing trail of where it walked last night"
+        },
+        {
+          "momentLabel": "Neon runway to prey",
+          "startSec": 38,
+          "endSec": 45,
+          "why": "Vivid visual metaphor \u2014 every footprint lit up like a neon runway",
+          "hookRewrite": "To a hawk, every mouse footprint glows like a neon runway straight to dinner"
+        }
+      ]
+    },
     {
       "videoId": "xwB-Gbv6bAE",
       "title": "Why the Iguana Dissolves Its Own Bones to Survive #Shorts",
-      "transcriptStatus": "failed",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": [],
-      "notes": "Bot wall blocked comment access; Shorts do not support transcript"
+      "clipCandidates": [
+        {
+          "momentLabel": "Absorbing 20% of skeleton as emergency rations",
+          "startSec": 9,
+          "endSec": 25,
+          "why": "Most extreme survival fact \u2014 dissolving own bones, no other vertebrate can do this",
+          "hookRewrite": "This lizard dissolves 20% of its own skeleton to avoid starving to death"
+        },
+        {
+          "momentLabel": "60-minute breath hold, 4 BPM heart",
+          "startSec": 31,
+          "endSec": 46,
+          "why": "Multiple stacked superpowers \u2014 breath hold, deep dive, extreme heart slowdown",
+          "hookRewrite": "This lizard dives 30 meters and slows its heart to just 4 beats per minute"
+        }
+      ]
     },
     {
       "videoId": "-Muut2BoMeE",
@@ -16,51 +96,20 @@
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "360-degree vision hook",
+          "momentLabel": "360-degree compound eyes on stalks",
           "startSec": 0,
-          "endSec": 6,
-          "why": "Strong curiosity gap opening \u2014 'Why can a ghost crab see every direction at once without ever turning its head?' \u2014 immediately establishes the impossible-sounding premise",
-          "hookRewrite": "This crab has zero blind spots \u2014 here's how"
+          "endSec": 14,
+          "why": "Core hook \u2014 360 vision with zero blind spots, thousands of tiny lenses",
+          "hookRewrite": "This crab has 360-degree vision with literally zero blind spots"
         },
         {
-          "momentLabel": "Predator detection from all angles",
-          "startSec": 14,
-          "endSec": 23,
-          "why": "Action-packed segment listing specific predators (gull, fox, wave) the crab detects simultaneously \u2014 high visual potential",
-          "hookRewrite": "No predator can sneak up on this crab. Literally none."
-        },
-        {
-          "momentLabel": "Sprint and vanish",
+          "momentLabel": "Sprint and vanish before you see it move",
           "startSec": 37,
           "endSec": 46,
-          "why": "Dynamic action close \u2014 sprint, dodge, vanish down burrow \u2014 creates urgency and payoffs the superpower setup",
-          "hookRewrite": "Watch this crab vanish before your eyes"
+          "why": "Action payoff \u2014 total awareness enables instant escape, vivid imagery",
+          "hookRewrite": "This crab vanishes down its burrow before your brain even registers it moved"
         }
       ]
-    },
-    {
-      "videoId": "OMvgN3EM4yo",
-      "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "notes": "Shorts do not support transcript; 0 comments confirmed"
-    },
-    {
-      "videoId": "7uqPQXoOdtE",
-      "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "notes": "Shorts do not support transcript; 0 comments confirmed"
-    },
-    {
-      "videoId": "x5DDKVOquoE",
-      "title": "Why the Ostrich Has Eyes Bigger Than Its Brain #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "notes": "Shorts do not support transcript; 0 comments confirmed"
     }
   ],
   "postedReplies": 0
