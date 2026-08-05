@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s240-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 35952,
+      "viewCount": 35955,
       "subscriberCount": 57,
-      "videoCount": 75
+      "videoCount": 76
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-07",
-    "endDate": "2026-08-04",
+    "startDate": "2026-07-08",
+    "endDate": "2026-08-05",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 16918,
+    "views": 16922,
     "estimatedMinutesWatched": 5306,
     "subscribersGained": 42,
     "subscribersLost": 9,
+    "netSubscribers": 33,
     "likes": 608,
     "comments": 8,
-    "shares": 15,
-    "netSubscribers": 33
+    "shares": 15
   },
   "daily": [
-    {
-      "day": "2026-07-07",
-      "views": 2,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-08",
       "views": 946,
@@ -196,6 +188,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 0
+    },
+    {
+      "day": "2026-08-02",
+      "views": 6,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     }
   ],
   "topVideos": [
@@ -266,6 +266,17 @@
       "note": "Below-average views (1118), retention 22s"
     },
     {
+      "videoId": "4WUNKscls30",
+      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
+      "views": 1077,
+      "watched": 322,
+      "likes": 47,
+      "comments": 1,
+      "avgViewDuration": 28,
+      "flag": "stable",
+      "note": "Below-average views (1077), retention 28s"
+    },
+    {
       "videoId": "9Il9e4WfzXw",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
       "views": 1077,
@@ -275,17 +286,6 @@
       "avgViewDuration": 26,
       "flag": "stable",
       "note": "Below-average views (1077), retention 26s"
-    },
-    {
-      "videoId": "4WUNKscls30",
-      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
-      "views": 1076,
-      "watched": 322,
-      "likes": 47,
-      "comments": 1,
-      "avgViewDuration": 28,
-      "flag": "stable",
-      "note": "Below-average views (1076), retention 28s"
     },
     {
       "videoId": "uEWo-Q5jST8",
@@ -310,12 +310,12 @@
       "note": "Below-average views (1030), retention 25s"
     }
   ],
-  "fetchedAt": "2026-08-04T09:11:31-04:00",
+  "fetchedAt": "2026-08-05T09:08:45-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-04T09:11:31-04:00",
+      "fetchedAt": "2026-08-05T09:08:45-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
@@ -331,7 +331,7 @@
         "minutesWatched": 8283
       },
       "shortsViews90d": {
-        "current": 36017,
+        "current": 36023,
         "threshold": 10000000,
         "percent": 0.36,
         "window": "Last 90 days",
