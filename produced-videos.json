@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-07-22T16:07:16.232570-04:00",
+  "lastRunAt": "2026-08-06T10:19:43.871281-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -1941,6 +1941,72 @@
       "duration": 47.2,
       "error": null,
       "note": "Pexels footage quality issue: only 1/6 original clips were actual starfish. Re-fetched with sea star queries: got 3 unique starfish clips. Duplicated to fill 6 scenes. Wikimedia Commons had 4 real starfish videos but rate-limited (429)."
+    },
+    {
+      "productionId": "JV-2026-08-06-SELFN",
+      "ideaId": "selfgen-2026-08-06",
+      "sourceHash": "cddffe04c064cd918ac8b777fae9efc96b603df4265a517be78d9f07397374ae",
+      "status": "uploaded",
+      "startedAt": "2026-08-06T10:19:43.871281-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Spider Can Jump 50 Times Its Body Length #Shorts",
+      "concept": "Jumping spiders use hydraulic leg pressure (no extensor muscles) + 8 eyes with 360-degree vision to calculate and execute precise jumps up to 50x body length. Self-generated from remaining filmable animals.",
+      "error": null,
+      "renderedAt": "2026-08-06T14:24:00-04:00",
+      "uploadedAt": "2026-08-06T14:24:43-04:00",
+      "youtube": {
+        "videoId": "ImwMgP_Ysag",
+        "url": "https://www.youtube.com/watch?v=ImwMgP_Ysag",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-06-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-06-SELFN/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "coverr",
+            "title": "Spider boat",
+            "url": "https://cdn.coverr.co/videos/coverr-spider-boat-692/1080p.mp4"
+          },
+          {
+            "scene": 2,
+            "source": "coverr",
+            "title": "Huge spider web",
+            "url": "https://cdn.coverr.co/videos/coverr-huge-spider-web-1399/1080p.mp4"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Garden spider and its chelicerae",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Garden_spider_and_its_chelicerae.webm"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "SPIDER in Ohio",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/SPIDER_in_Ohio_(November_15,_2015).webm"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "title": "Bee in a spider's web 03",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bee_in_a_spider's_web_03.webm"
+          },
+          {
+            "scene": 6,
+            "source": "wikimedia",
+            "title": "CrabSpider thd3",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/CrabSpider_thd3.webm"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-06-SELFN/final.mp4"
+      },
+      "duration": 47.17,
+      "footageSources": [
+        "coverr",
+        "wikimedia"
+      ]
     }
   ]
 }
