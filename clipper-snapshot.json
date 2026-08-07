@@ -1,6 +1,87 @@
 {
-  "fetchedAt": "2026-08-05T17:34:59.183091-04:00",
+  "fetchedAt": "2026-08-07T17:37:34.359342-04:00",
   "videos": [
+    {
+      "videoId": "L--6Wp8DivU",
+      "title": "Why the Lemur Wins Fights With Its Smell #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "UgxIMJM_7DowP74rf-d4AaABAg",
+          "author": "@brianmcclenahan617",
+          "text": "Did you forget about skunks?",
+          "replyPosted": true,
+          "replyText": "Great point! Skunks definitely weaponize scent too, but they spray predators in self-defense. Lemurs are the only ones known to use body odor in combat with their OWN kind to settle territorial disputes. Both are amazing examples of chemical warfare in nature."
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook: stink fight curiosity gap",
+          "startSec": 0,
+          "endSec": 7,
+          "why": "Opens with a bizarre question about lemurs wafting body odor \u2014 instant curiosity gap",
+          "hookRewrite": "This animal fights with its own smell instead of teeth"
+        },
+        {
+          "momentLabel": "Stink fight mechanism description",
+          "startSec": 15,
+          "endSec": 23,
+          "why": "Visual description of lemurs rubbing tails with musk and flinging scent \u2014 highly engaging and surprising",
+          "hookRewrite": "Watch two lemurs fling their own musk at each other to win"
+        }
+      ]
+    },
+    {
+      "videoId": "zCiVupoWOVk",
+      "title": "Why the Sea Lion Hunts in Total Darkness #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook: hunting in total darkness",
+          "startSec": 0,
+          "endSec": 9,
+          "why": "Strong curiosity gap \u2014 how does any animal hunt in pitch black water without eyes?",
+          "hookRewrite": "This animal finds food in water so dark it can't see anything"
+        },
+        {
+          "momentLabel": "Whisker mode radar dish",
+          "startSec": 27,
+          "endSec": 36,
+          "why": "Vivid metaphor of sea lion sweeping face like a radar dish \u2014 visual and memorable",
+          "hookRewrite": "A sea lion's face works like a living radar in total darkness"
+        }
+      ]
+    },
+    {
+      "videoId": "YwMwXnf9u7I",
+      "title": "Why the Manatee Feels With Its Entire Body #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "ImwMgP_Ysag",
+      "title": "Why the Spider Can Jump 50 Times Its Body Length #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Hook: 50x body length jump",
+          "startSec": 0,
+          "endSec": 8,
+          "why": "Jaw-dropping stat \u2014 a spider jumping 50 times its body length is like a human leaping across a football field",
+          "hookRewrite": "This spider jumps 50 times its body length using no muscles"
+        },
+        {
+          "momentLabel": "360-degree vision calculation",
+          "startSec": 18,
+          "endSec": 26,
+          "why": "Eight eyes calculating distance, angle, and wind before jumping \u2014 remarkable sensory superpower",
+          "hookRewrite": "With 8 eyes this spider calculates wind before it jumps"
+        }
+      ]
+    },
     {
       "videoId": "_0zHLNM__vk",
       "title": "Why the Starfish Regrows Its Whole Body From a Single Arm #Shorts",
@@ -8,109 +89,21 @@
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Regeneration from single arm",
-          "startSec": 22,
-          "endSec": 34,
-          "why": "Most surprising fact \u2014 entire body regrows from one arm with central disc piece",
-          "hookRewrite": "This starfish is growing a whole new body from just one severed arm"
-        },
-        {
-          "momentLabel": "External stomach digestion",
-          "startSec": 34,
-          "endSec": 44,
-          "why": "Shocking and viscerally memorable \u2014 pushing stomach through mouth",
-          "hookRewrite": "This animal pushes its stomach through its mouth to eat"
-        }
-      ]
-    },
-    {
-      "videoId": "5i_2Sgugvpc",
-      "title": "Why the Cheetah Outruns a Sports Car From a Standstill #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Non-retractable claws like cleats",
-          "startSec": 18,
-          "endSec": 25,
-          "why": "Unique feature \u2014 only cat with non-retractable claws, track cleat comparison",
-          "hookRewrite": "This is the only cat whose claws never retract \u2014 they work like track spikes"
-        },
-        {
-          "momentLabel": "30-second sprint limit before brain damage",
-          "startSec": 42,
-          "endSec": 51,
-          "why": "Surprising limitation \u2014 fastest animal can only run 30 seconds or risks brain damage",
-          "hookRewrite": "The fastest animal on Earth can only sprint for 30 seconds before brain damage"
-        }
-      ]
-    },
-    {
-      "videoId": "Dh5e0VP8y5g",
-      "title": "Why the Hawk Sees a Mouse From Two Miles Away #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "UV vision reveals glowing mouse trails",
-          "startSec": 21,
-          "endSec": 30,
-          "why": "Most surprising sensory fact \u2014 rodent urine glows under UV, hawks see the path not just the prey",
-          "hookRewrite": "A hawk doesn't see the mouse \u2014 it sees the glowing trail of where it walked last night"
-        },
-        {
-          "momentLabel": "Neon runway to prey",
-          "startSec": 38,
-          "endSec": 45,
-          "why": "Vivid visual metaphor \u2014 every footprint lit up like a neon runway",
-          "hookRewrite": "To a hawk, every mouse footprint glows like a neon runway straight to dinner"
-        }
-      ]
-    },
-    {
-      "videoId": "xwB-Gbv6bAE",
-      "title": "Why the Iguana Dissolves Its Own Bones to Survive #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Absorbing 20% of skeleton as emergency rations",
-          "startSec": 9,
-          "endSec": 25,
-          "why": "Most extreme survival fact \u2014 dissolving own bones, no other vertebrate can do this",
-          "hookRewrite": "This lizard dissolves 20% of its own skeleton to avoid starving to death"
-        },
-        {
-          "momentLabel": "60-minute breath hold, 4 BPM heart",
-          "startSec": 31,
-          "endSec": 46,
-          "why": "Multiple stacked superpowers \u2014 breath hold, deep dive, extreme heart slowdown",
-          "hookRewrite": "This lizard dives 30 meters and slows its heart to just 4 beats per minute"
-        }
-      ]
-    },
-    {
-      "videoId": "-Muut2BoMeE",
-      "title": "Why the Ghost Crab Sees in Every Direction at Once #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "360-degree compound eyes on stalks",
+          "momentLabel": "Hook: regrow whole body from one arm",
           "startSec": 0,
-          "endSec": 14,
-          "why": "Core hook \u2014 360 vision with zero blind spots, thousands of tiny lenses",
-          "hookRewrite": "This crab has 360-degree vision with literally zero blind spots"
+          "endSec": 7,
+          "why": "Mind-bending premise \u2014 one arm becoming a whole new animal",
+          "hookRewrite": "Cut this animal apart and each piece grows a new body"
         },
         {
-          "momentLabel": "Sprint and vanish before you see it move",
-          "startSec": 37,
-          "endSec": 46,
-          "why": "Action payoff \u2014 total awareness enables instant escape, vivid imagery",
-          "hookRewrite": "This crab vanishes down its burrow before your brain even registers it moved"
+          "momentLabel": "No brain to die",
+          "startSec": 23,
+          "endSec": 31,
+          "why": "'Starfish have no brain to die' is a shocking, memorable line that reframs how we think about life",
+          "hookRewrite": "This animal has no brain, so you can't kill it by cutting it apart"
         }
       ]
     }
   ],
-  "postedReplies": 0
+  "postedReplies": 1
 }
