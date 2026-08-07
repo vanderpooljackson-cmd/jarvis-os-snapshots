@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-07T10:11:13.600846-04:00",
+  "lastRunAt": "2026-08-07T16:05:53.874609-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2136,6 +2136,66 @@
         "finalVideo": "/tmp/jvshorts/JV-2026-08-07-SELFN2/final.mp4"
       },
       "duration": 54.2,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-07-SELFN3",
+      "ideaId": "selfgen-2026-08-07-3",
+      "sourceHash": "8df9e03a9294fd6474abdc1e51ef0c7d897f84f84af2d63527fe0eb8be403e97",
+      "status": "uploaded",
+      "startedAt": "2026-08-07T16:05:53.874609-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Lemur Wins Fights With Its Smell #Shorts",
+      "concept": "Ring-tailed lemurs have stink fights \u2014 they rub their tails with wrist/shoulder musk and fling scent at rivals. The strongest smell wins without physical combat. Self-generated from remaining filmable animals.",
+      "error": null,
+      "renderedAt": "2026-08-07T20:11:00-04:00",
+      "uploadedAt": "2026-08-07T20:12:01-04:00",
+      "youtube": {
+        "videoId": "L--6Wp8DivU",
+        "url": "https://www.youtube.com/watch?v=L--6Wp8DivU",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-07-SELFN3/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-07-SELFN3/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Ring-tailed lemurs (Lemur catta)"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Lemur catta at Tiergarten Sch\u00f6nbrunn"
+          },
+          {
+            "scene": 3,
+            "source": "pexels",
+            "title": "Pexels 13517661"
+          },
+          {
+            "scene": 4,
+            "source": "pexels",
+            "title": "Pexels 38278958"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "title": "Blue-eyed black lemur (Eulemur flavifrons)"
+          },
+          {
+            "scene": 6,
+            "source": "wikimedia",
+            "title": "Lunching Lemurs"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-07-SELFN3/final.mp4"
+      },
+      "duration": 50.4,
       "footageSources": [
         "wikimedia",
         "pexels"
