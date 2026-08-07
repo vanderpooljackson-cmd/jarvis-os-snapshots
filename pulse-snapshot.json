@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 35965,
+      "viewCount": 35973,
       "subscriberCount": 57,
-      "videoCount": 78
+      "videoCount": 80
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-09",
-    "endDate": "2026-08-06",
+    "startDate": "2026-07-10",
+    "endDate": "2026-08-07",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 15978,
-    "estimatedMinutesWatched": 5083,
-    "subscribersGained": 42,
+    "views": 15879,
+    "estimatedMinutesWatched": 5061,
+    "subscribersGained": 41,
     "subscribersLost": 9,
-    "netSubscribers": 33,
-    "likes": 594,
+    "netSubscribers": 32,
+    "likes": 592,
     "comments": 7,
     "shares": 15
   },
   "daily": [
-    {
-      "day": "2026-07-09",
-      "views": 99,
-      "watched": 22,
-      "subsGained": 1,
-      "subsLost": 0,
-      "likes": 2
-    },
     {
       "day": "2026-07-10",
       "views": 3,
@@ -151,7 +143,7 @@
     },
     {
       "day": "2026-07-29",
-      "views": 965,
+      "views": 961,
       "watched": 259,
       "subsGained": 1,
       "subsLost": 2,
@@ -192,6 +184,14 @@
     {
       "day": "2026-08-03",
       "views": 2,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-08-04",
+      "views": 4,
       "watched": 0,
       "subsGained": 0,
       "subsLost": 0,
@@ -266,6 +266,17 @@
       "note": "Below-average views (1118), retention 22s"
     },
     {
+      "videoId": "9Il9e4WfzXw",
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
+      "views": 1078,
+      "watched": 297,
+      "likes": 43,
+      "comments": 0,
+      "avgViewDuration": 26,
+      "flag": "stable",
+      "note": "Below-average views (1078), retention 26s"
+    },
+    {
       "videoId": "4WUNKscls30",
       "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
       "views": 1077,
@@ -275,17 +286,6 @@
       "avgViewDuration": 28,
       "flag": "stable",
       "note": "Below-average views (1077), retention 28s"
-    },
-    {
-      "videoId": "9Il9e4WfzXw",
-      "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 1077,
-      "watched": 296,
-      "likes": 43,
-      "comments": 0,
-      "avgViewDuration": 26,
-      "flag": "stable",
-      "note": "Below-average views (1077), retention 26s"
     },
     {
       "videoId": "FLK0SMOCaaU",
@@ -310,12 +310,12 @@
       "note": "Below-average views (977), retention 33s"
     }
   ],
-  "fetchedAt": "2026-08-06T09:05:40-04:00",
+  "fetchedAt": "2026-08-07T09:12:06-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-06T09:05:40-04:00",
+      "fetchedAt": "2026-08-07T09:12:06-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
