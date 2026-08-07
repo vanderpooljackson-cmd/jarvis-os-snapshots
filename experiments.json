@@ -125,7 +125,10 @@
         "watched": 9.964285714285714,
         "avgViewDuration": 18
       },
-      "status": "running"
+      "status": "reverted",
+      "evaluatedAt": "2026-08-07T10:22:26-04:00",
+      "decision": "revert",
+      "evalNotes": "Variant-period analytics for 2026-08-04 to 2026-08-07 inclusive returned NO rows for both dimension=video and dimension=day, indicating zero traffic in the queried test window (0 total views, 0 estimated minutes watched, 0 likes; averageViewDuration N/A). Per zero-traffic handling, a pre-test baseline query was run for 2026-07-21 to 2026-08-03 (14 days): 68 total views, 17 estimated minutes watched, and 2 likes across 5 returned days (2026-07-21: 39 views; 2026-07-22: 26; 2026-07-23: 1; 2026-07-27: 1; 2026-08-01: 1), so the video had real pre-test traffic (>=50 views). Treating the zero-traffic variant period as a sharp drop, REVERT per policy. Baseline daily averages from the experiment record: 47.7857 views/day, 9.9643 estimated minutes watched/day, and 18s averageViewDuration; variant daily averages over the 4-day queried window: 0.0 views/day, 0.0 estimated minutes watched/day, 0 likes/day, and averageViewDuration N/A. Action taken: updated YouTube title back to baseline via youtube_data_api-update-video-details. Watch-page verification showed the baseline title: \"Why the Penguin Survives the Coldest Winter on Earth #Shorts\"."
     }
   ],
   "policy": {
