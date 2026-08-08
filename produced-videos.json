@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-07T16:05:53.874609-04:00",
+  "lastRunAt": "2026-08-08T10:06:06.357312-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2199,6 +2199,65 @@
       "footageSources": [
         "wikimedia",
         "pexels"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-08-SELFN",
+      "ideaId": "selfgen-2026-08-08",
+      "sourceHash": "9ef51a415d3ea5c5d1890bc67ff6d68316f5b0038df546567f7de8b47a094c5c",
+      "status": "uploaded",
+      "startedAt": "2026-08-08T10:06:06.357312-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Parrot Sees Colors We Can't Imagine #Shorts",
+      "concept": "Parrots have tetrachromatic vision with a fourth cone for UV light, revealing hidden feather patterns. Self-generated from remaining filmable animals.",
+      "error": null,
+      "renderedAt": "2026-08-08T14:11:00-04:00",
+      "uploadedAt": "2026-08-08T14:12:00-04:00",
+      "youtube": {
+        "videoId": "CJuSSHjWmJY",
+        "url": "https://www.youtube.com/watch?v=CJuSSHjWmJY",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-08-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-08-SELFN/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Lord Krishna upbringing the Parrot"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "PR Parrot Release 2016 Maricao"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Parrot remained trained to dance"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "Parrots fight"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "title": "Puerto Rican Parrot"
+          },
+          {
+            "scene": 6,
+            "source": "wikimedia",
+            "title": "Vernal hanging parrot feeding"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-08-SELFN/final.mp4"
+      },
+      "duration": 54.2,
+      "footageSources": [
+        "wikimedia"
       ]
     }
   ]
