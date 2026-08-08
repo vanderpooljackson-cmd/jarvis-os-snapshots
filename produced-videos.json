@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-08T10:06:06.357312-04:00",
+  "lastRunAt": "2026-08-08T16:03:37.416144-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2258,6 +2258,66 @@
       "duration": 54.2,
       "footageSources": [
         "wikimedia"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-08-SELFN2",
+      "ideaId": "selfgen-2026-08-08-2",
+      "sourceHash": "bb049130ee84c075838a4255634191cc02d70cf76ec1a28cdac44c85e5343b19",
+      "status": "uploaded",
+      "startedAt": "2026-08-08T16:03:37.416144-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Chameleon Fires Its Tongue at 60 MPH #Shorts",
+      "concept": "Chameleon tongue is a biological slingshot \u2014 bone spring fires at 60 mph in 1/100th second, with 360-degree independent eye vision. Self-generated from filmableWithQuery animals.",
+      "error": null,
+      "renderedAt": "2026-08-08T20:09:00-04:00",
+      "uploadedAt": "2026-08-08T20:10:30-04:00",
+      "youtube": {
+        "videoId": "HjuldQdvlqw",
+        "url": "https://www.youtube.com/watch?v=HjuldQdvlqw",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-08-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-08-SELFN2/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Chameleon 01"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Chameleon 02"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Chameleon eyes"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "Chameleon in Malawi 2018"
+          },
+          {
+            "scene": 5,
+            "source": "pexels",
+            "title": "Pexels 34649798 (chameleon eating)"
+          },
+          {
+            "scene": 6,
+            "source": "pexels",
+            "title": "Pexels 17729296 (chameleon walking)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-08-SELFN2/final.mp4"
+      },
+      "duration": 52.2,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
       ]
     }
   ]
