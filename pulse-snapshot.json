@@ -3,23 +3,23 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me.\n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 35973,
-      "subscriberCount": 57,
-      "videoCount": 80
+      "viewCount": 35982,
+      "subscriberCount": 60,
+      "videoCount": 82
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-10",
-    "endDate": "2026-08-07",
+    "startDate": "2026-07-11",
+    "endDate": "2026-08-08",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 15879,
+    "views": 15885,
     "estimatedMinutesWatched": 5061,
     "subscribersGained": 41,
     "subscribersLost": 9,
@@ -29,14 +29,6 @@
     "shares": 15
   },
   "daily": [
-    {
-      "day": "2026-07-10",
-      "views": 3,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-12",
       "views": 3,
@@ -196,6 +188,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 0
+    },
+    {
+      "day": "2026-08-05",
+      "views": 9,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     }
   ],
   "topVideos": [
@@ -212,25 +212,25 @@
     },
     {
       "videoId": "D2elbK2vCRE",
-      "title": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
-      "views": 1338,
+      "title": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts",
+      "views": 1339,
       "watched": 279,
       "likes": 35,
       "comments": 0,
       "avgViewDuration": 18,
       "flag": "optimize",
-      "note": "Above-average views (1338) but below-median retention (18s vs 27s median) — viewers click but bounce"
+      "note": "Above-average views (1339) but below-median retention (18s vs 27s median) — viewers click but bounce"
     },
     {
       "videoId": "0jZSeW-87Gw",
       "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-      "views": 1301,
+      "views": 1302,
       "watched": 530,
       "likes": 61,
       "comments": 1,
       "avgViewDuration": 37,
       "flag": "stable",
-      "note": "Above-average views (1301), retention 37s"
+      "note": "Above-average views (1302), retention 37s"
     },
     {
       "videoId": "RZ6qtnTpTiA",
@@ -310,28 +310,28 @@
       "note": "Below-average views (977), retention 33s"
     }
   ],
-  "fetchedAt": "2026-08-07T09:12:06-04:00",
+  "fetchedAt": "2026-08-08T09:08:28-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-07T09:12:06-04:00",
+      "fetchedAt": "2026-08-08T09:08:28-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 57,
+        "current": 60,
         "threshold": 1000,
-        "percent": 5.7
+        "percent": 6.0
       },
       "watchHours12mo": {
         "current": 138.1,
         "threshold": 4000,
         "percent": 3.45,
         "window": "Last 12 months",
-        "minutesWatched": 8283
+        "minutesWatched": 8284
       },
       "shortsViews90d": {
-        "current": 36025,
+        "current": 36034,
         "threshold": 10000000,
         "percent": 0.36,
         "window": "Last 90 days",
