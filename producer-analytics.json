@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-08T11:02:51.724040-04:00",
-  "fetchedAt": "2026-08-08T11:02:51.724040-04:00",
+  "lastRunAt": "2026-08-09T11:05:04.032122-04:00",
+  "fetchedAt": "2026-08-09T11:05:04.032122-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -711,7 +711,7 @@
       "videoId": "kDNyOJnQMXM",
       "title": "Why the Monkey Has a Tail That Grabs #Shorts",
       "uploadedAt": "2026-07-31T16:08:53.046250-04:00",
-      "ageHoursAtAnalysis": 186.9,
+      "ageHoursAtAnalysis": 210.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 69.2,
@@ -720,9 +720,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": ""
     },
     {
@@ -782,7 +782,7 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 144.8,
+      "ageHoursAtAnalysis": 168.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
@@ -791,9 +791,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -801,7 +801,7 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 138.9,
+      "ageHoursAtAnalysis": 162.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
@@ -810,9 +810,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -898,18 +898,25 @@
       "videoId": "5i_2Sgugvpc",
       "title": "Why the Cheetah Outruns a Sports Car From a Standstill #Shorts",
       "uploadedAt": "2026-08-05T10:13:16.063954-04:00",
-      "ageHoursAtAnalysis": 72.8,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 96.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1,
+        "estimatedMinutesWatched": 0,
+        "averageViewDuration": 5.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
       "videoDurationSeconds": 52.4,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 9.5,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 0.19,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -917,18 +924,25 @@
       "videoId": "_0zHLNM__vk",
       "title": "Why the Starfish Regrows Its Whole Body From a Single Arm #Shorts",
       "uploadedAt": "2026-08-05T16:11:41.515684-04:00",
-      "ageHoursAtAnalysis": 66.9,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 90.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 2,
+        "estimatedMinutesWatched": 0,
+        "averageViewDuration": 3.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
       "videoDurationSeconds": 47.2,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 6.4,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 0.11,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -936,18 +950,25 @@
       "videoId": "ImwMgP_Ysag",
       "title": "Why the Spider Can Jump 50 Times Its Body Length #Shorts",
       "uploadedAt": "2026-08-06T14:24:43-04:00",
-      "ageHoursAtAnalysis": 44.6,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 68.7,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 4,
+        "estimatedMinutesWatched": 0,
+        "averageViewDuration": 14.0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0
+      },
       "videoDurationSeconds": 47.17,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 29.7,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 0.52,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -955,7 +976,7 @@
       "videoId": "YwMwXnf9u7I",
       "title": "Why the Manatee Feels With Its Entire Body #Shorts",
       "uploadedAt": "2026-08-06T20:10:29-04:00",
-      "ageHoursAtAnalysis": 38.9,
+      "ageHoursAtAnalysis": 62.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 58.93,
@@ -964,9 +985,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -974,7 +995,7 @@
       "videoId": "zCiVupoWOVk",
       "title": "Why the Sea Lion Hunts in Total Darkness #Shorts",
       "uploadedAt": "2026-08-07T14:19:57-04:00",
-      "ageHoursAtAnalysis": 20.7,
+      "ageHoursAtAnalysis": 44.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 54.2,
@@ -983,9 +1004,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -993,7 +1014,7 @@
       "videoId": "L--6Wp8DivU",
       "title": "Why the Lemur Wins Fights With Its Smell #Shorts",
       "uploadedAt": "2026-08-07T20:12:01-04:00",
-      "ageHoursAtAnalysis": 14.8,
+      "ageHoursAtAnalysis": 38.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 50.4,
@@ -1002,9 +1023,9 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1012,7 +1033,7 @@
       "videoId": "CJuSSHjWmJY",
       "title": "Why the Parrot Sees Colors We Can't Imagine #Shorts",
       "uploadedAt": "2026-08-08T14:12:00-04:00",
-      "ageHoursAtAnalysis": -3.2,
+      "ageHoursAtAnalysis": 20.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 54.2,
@@ -1021,55 +1042,129 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 27.0,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (24\u201348h aggregation lag)."
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-08T11:02:51.724040-04:00",
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-08-08-SELFN2",
+      "videoId": "HjuldQdvlqw",
+      "title": "Why the Chameleon Fires Its Tongue at 60 MPH #Shorts",
+      "uploadedAt": "2026-08-08T20:10:30-04:00",
+      "ageHoursAtAnalysis": 14.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 52.2,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 27.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-08-09-SELFN",
+      "videoId": "85tlS2R1wJk",
+      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "uploadedAt": "2026-08-09T14:14:55-04:00",
+      "ageHoursAtAnalysis": -3.2,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 45.4,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 27.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-08-09T11:05:04.032122-04:00",
       "lastNotifiedLabel": null
     }
   ],
   "hookFrames": [
     {
-      "key": "why_the_[animal]_[x]_#shorts",
-      "label": "Why the [animal] [X] #Shorts",
+      "key": "sensory_surprise",
+      "label": "Why the [animal] [sensory surprise] #Shorts",
       "videos": [
         "KwGyJHy9ZMQ",
         "eD5uslCyTt4",
+        "RZ6qtnTpTiA",
+        "9Il9e4WfzXw",
+        "SDOouEXJgQw",
+        "F39DdwKsONc",
+        "MbGo7OdtqW8",
+        "WJBVgO1_rT8",
+        "idqWVEzP_Ps",
+        "1XxTz8DJ_0Y",
+        "-Muut2BoMeE",
+        "Dh5e0VP8y5g"
+      ],
+      "sampleSize": 12,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 108.5,
+      "verdict": "avoid",
+      "confidence": "high"
+    },
+    {
+      "key": "extreme_survival",
+      "label": "Why the [animal] survives the impossible #Shorts",
+      "videos": [
         "uEWo-Q5jST8",
         "D2elbK2vCRE",
         "g6Nmh2WuHDo",
-        "RZ6qtnTpTiA",
+        "M95zB-4aYAQ",
+        "FLK0SMOCaaU",
+        "36_7wDuALKU",
+        "MKT7UcL0gps",
+        "FpsDSm0tmfs",
+        "xwB-Gbv6bAE"
+      ],
+      "sampleSize": 9,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 1030.0,
+      "verdict": "promising",
+      "confidence": "medium"
+    },
+    {
+      "key": "body_ability",
+      "label": "Why the [animal] has an impossible body ability #Shorts",
+      "videos": [
         "C5rhgXKTkO4",
         "0jZSeW-87Gw",
-        "4WUNKscls30",
-        "M95zB-4aYAQ",
-        "9Il9e4WfzXw",
-        "FLK0SMOCaaU",
-        "SDOouEXJgQw",
-        "9HLUyhN-xt8",
-        "F39DdwKsONc",
-        "MbGo7OdtqW8",
-        "36_7wDuALKU",
-        "U7HFrqyEAyQ",
         "Nudk8CPNgCI",
-        "MKT7UcL0gps",
-        "Myb4_3AuIec",
-        "WJBVgO1_rT8",
-        "FpsDSm0tmfs",
-        "zdZttF3obWc",
         "4Gd0lrEAVs4",
-        "idqWVEzP_Ps",
-        "1XxTz8DJ_0Y",
         "SqPXwvRa7bk",
         "x5DDKVOquoE",
-        "-Muut2BoMeE",
-        "xwB-Gbv6bAE",
-        "Dh5e0VP8y5g"
+        "_0zHLNM__vk"
       ],
-      "sampleSize": 32,
-      "avgViewDurationMedian": 25.5,
-      "viewsMedian": 247.5,
-      "verdict": "promising",
-      "confidence": "high"
+      "sampleSize": 7,
+      "avgViewDurationMedian": 16.0,
+      "viewsMedian": 36.0,
+      "verdict": "avoid",
+      "confidence": "medium"
+    },
+    {
+      "key": "animal_ability",
+      "label": "Why the [animal] can do the unexpected #Shorts",
+      "videos": [
+        "4WUNKscls30",
+        "9HLUyhN-xt8",
+        "U7HFrqyEAyQ",
+        "Myb4_3AuIec",
+        "zdZttF3obWc",
+        "5i_2Sgugvpc",
+        "ImwMgP_Ysag"
+      ],
+      "sampleSize": 7,
+      "avgViewDurationMedian": 18.0,
+      "viewsMedian": 4.0,
+      "verdict": "avoid",
+      "confidence": "medium"
     }
   ],
   "topics": [],
@@ -1109,35 +1204,38 @@
         "x5DDKVOquoE",
         "-Muut2BoMeE",
         "xwB-Gbv6bAE",
-        "Dh5e0VP8y5g"
+        "Dh5e0VP8y5g",
+        "5i_2Sgugvpc",
+        "_0zHLNM__vk",
+        "ImwMgP_Ysag"
       ],
-      "sampleSize": 32,
-      "avgViewDurationMedian": 25.5,
-      "viewsMedian": 247.5,
+      "sampleSize": 35,
+      "avgViewDurationMedian": 22.0,
+      "viewsMedian": 178.0,
       "verdict": "promising",
       "confidence": "high"
     }
   ],
   "summary": [
     {
-      "pattern": "Why the [animal] [X] #Shorts",
-      "evidence": "32 available videos; median 247.5 views and 25.5s average view duration (baseline 27.0s).",
+      "pattern": "Why the [animal] [sensory surprise] #Shorts",
+      "evidence": "12 available videos; median 108.5 views and 26.0s average view duration versus 27.0s channel baseline.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Why the [animal] survives the impossible #Shorts",
+      "evidence": "9 available videos; median 1030.0 views and 25.0s average view duration versus 27.0s channel baseline.",
       "verdict": "promising"
     },
     {
-      "pattern": "Top combined reach and watch time",
-      "evidence": "Why the Dolphin Never Fully Falls Asleep #Shorts \u2014 2070 views and 44.0s average view duration.",
-      "verdict": "winner"
+      "pattern": "Why the [animal] has an impossible body ability #Shorts",
+      "evidence": "7 available videos; median 36.0 views and 16.0s average view duration versus 27.0s channel baseline.",
+      "verdict": "avoid"
     },
     {
-      "pattern": "Top combined reach and watch time",
-      "evidence": "Why the Turtle Breathes Through Its Butt #Shorts \u2014 1302 views and 37.0s average view duration.",
-      "verdict": "winner"
-    },
-    {
-      "pattern": "Top combined reach and watch time",
-      "evidence": "Why the Fox Hunts With a Built-in Compass #Shorts \u2014 1297 views and 28.0s average view duration.",
-      "verdict": "stable"
+      "pattern": "Why the [animal] can do the unexpected #Shorts",
+      "evidence": "7 available videos; median 4.0 views and 18.0s average view duration versus 27.0s channel baseline.",
+      "verdict": "avoid"
     }
   ]
 }
