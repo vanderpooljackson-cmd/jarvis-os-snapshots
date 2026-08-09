@@ -1,5 +1,5 @@
 {
-  "weekOf": "2026-08-03",
+  "weekOf": "2026-08-10",
   "basedOn": {
     "topVideos": [
       {
@@ -12,16 +12,16 @@
       },
       {
         "videoId": "D2elbK2vCRE",
-        "title": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
-        "views": 1337,
+        "title": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts",
+        "views": 1339,
         "avgViewDuration": 18,
         "flag": "optimize",
-        "note": "Above-average views but below-median average view duration"
+        "note": "Above-average views (1339) but below-median retention (18s vs 27s median)"
       },
       {
         "videoId": "0jZSeW-87Gw",
         "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-        "views": 1301,
+        "views": 1302,
         "avgViewDuration": 37,
         "flag": "stable",
         "note": ""
@@ -39,16 +39,16 @@
       {
         "videoId": "0jZSeW-87Gw",
         "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-        "views": 1301,
+        "views": 1302,
         "avgViewDuration": 37,
         "flag": "stable",
         "note": ""
       },
       {
-        "videoId": "RZ6qtnTpTiA",
-        "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
-        "views": 1296,
-        "avgViewDuration": 28,
+        "videoId": "F39DdwKsONc",
+        "title": "Why the Bear Smells Food From Twenty Miles Away #Shorts",
+        "views": 977,
+        "avgViewDuration": 33,
         "flag": "stable",
         "note": ""
       }
@@ -59,26 +59,40 @@
         "baseline": "Antarctic Fish with White Blood #Shorts",
         "variant": "Why Does This Fish Have White Blood? #Shorts",
         "result": "inconclusive-keep",
-        "lesson": "No traffic meant no measurable lift or loss; keep the stronger curiosity-gap wording as the better directional bet."
+        "lesson": "Inconclusive because both periods had no traffic; keep the curiosity-gap variant as a directional bet, not a proven winner."
       },
       {
         "experimentId": "EXP-002",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost against baseline in the evaluation window; avoid this exact framing until a stronger hook is available."
+        "lesson": "Variant lost or received zero traffic while the baseline had real traffic; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-003",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost against baseline in the evaluation window; avoid this exact framing until a stronger hook is available."
+        "lesson": "Variant lost or received zero traffic while the baseline had real traffic; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-004",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
+        "result": "reverted",
+        "lesson": "Variant lost or received zero traffic while the baseline had real traffic; avoid repeating this exact framing."
+      },
+      {
+        "experimentId": "EXP-005",
+        "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+        "variant": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
+        "result": "reverted",
+        "lesson": "Variant lost or received zero traffic while the baseline had real traffic; avoid repeating this exact framing."
+      },
+      {
+        "experimentId": "EXP-006",
+        "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
+        "variant": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts",
         "result": "running",
         "lesson": "Still collecting signal; do not treat this title as a winner or loser yet."
       }
@@ -88,18 +102,33 @@
         {
           "key": "why_the_[animal]_[x]_#shorts",
           "label": "Why the [animal] [X] #Shorts",
-          "sampleSize": 21,
-          "avgViewDurationMedian": 28.0,
-          "viewsMedian": 971.0,
+          "sampleSize": 32,
+          "avgViewDurationMedian": 25.5,
+          "viewsMedian": 247.5,
           "verdict": "promising",
           "confidence": "high"
         }
       ],
       "summary": [
         {
-          "pattern": "Current top performer (views)",
-          "evidence": "Why the Dolphin Never Fully Falls Asleep #Shorts — 2070 views, 44s avg view duration.",
+          "pattern": "Why the [animal] [X] #Shorts",
+          "evidence": "32 available videos; median 247.5 views and 25.5s average view duration (baseline 27.0s).",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Top combined reach and watch time",
+          "evidence": "Why the Dolphin Never Fully Falls Asleep #Shorts — 2070 views and 44.0s average view duration.",
           "verdict": "winner"
+        },
+        {
+          "pattern": "Top combined reach and watch time",
+          "evidence": "Why the Turtle Breathes Through Its Butt #Shorts — 1302 views and 37.0s average view duration.",
+          "verdict": "winner"
+        },
+        {
+          "pattern": "Top combined reach and watch time",
+          "evidence": "Why the Fox Hunts With a Built-in Compass #Shorts — 1297 views and 28.0s average view duration.",
+          "verdict": "stable"
         }
       ],
       "available": true
@@ -107,61 +136,11 @@
   },
   "ideas": [
     {
-      "id": "GP-2026-08-03-01",
-      "title": "Why the Octopus Has Three Hearts #Shorts",
-      "concept": "Explain that an octopus has three hearts, and two of them stop pumping while it swims.",
-      "hook": "An octopus has three hearts—and swimming makes two of them stop.",
-      "keyVisual": "Real close-up octopus footage crawling over a reef, followed by a clear underwater swimming shot and a simple on-screen three-heart diagram.",
-      "hashtagSets": [
-        [
-          "#AnimalFacts",
-          "#OceanLife",
-          "#Shorts"
-        ],
-        [
-          "#Wildlife",
-          "#Octopus",
-          "#Nature",
-          "#Shorts"
-        ],
-        [
-          "#DidYouKnow",
-          "#MarineBiology",
-          "#Shorts"
-        ]
-      ]
-    },
-    {
-      "id": "GP-2026-08-03-02",
-      "title": "Why the Gecko Walks on Glass Without Glue #Shorts",
-      "concept": "Reveal how microscopic toe hairs create enough molecular attraction for a gecko to climb smooth surfaces.",
-      "hook": "This lizard can run up glass without glue, suction, or sticky feet.",
-      "keyVisual": "Real gecko close-up climbing a window or smooth wall, with a macro insert of its toes and a clean graphic showing the toe-pad hairs.",
-      "hashtagSets": [
-        [
-          "#AnimalFacts",
-          "#Reptiles",
-          "#Shorts"
-        ],
-        [
-          "#Wildlife",
-          "#Gecko",
-          "#Nature",
-          "#Shorts"
-        ],
-        [
-          "#DidYouKnow",
-          "#Science",
-          "#Shorts"
-        ]
-      ]
-    },
-    {
-      "id": "GP-2026-08-03-03",
-      "title": "Why the Sperm Whale Holds Its Breath for 90 Minutes #Shorts",
-      "concept": "Show how sperm whales prepare for extreme dives by storing oxygen in blood and muscle.",
-      "hook": "A sperm whale can disappear underwater for up to 90 minutes without taking a breath.",
-      "keyVisual": "Real sperm whale surface-and-dive footage with a dramatic tail fluke, underwater descent, and a restrained oxygen-storage diagram.",
+      "id": "GP-2026-08-10-01",
+      "title": "Why the Humpback Whale Hunts With a Bubble Net #Shorts",
+      "concept": "Show how humpback whales blow a rising wall of bubbles to trap a school of fish before surging upward through the center.",
+      "hook": "This whale does not chase fish—it traps them inside a net made of bubbles.",
+      "keyVisual": "Real humpback whale bubble-net feeding footage: wide surface shot, tightening bubble spiral, then the whale lunging through the fish.",
       "hashtagSets": [
         [
           "#AnimalFacts",
@@ -177,6 +156,56 @@
         [
           "#DidYouKnow",
           "#MarineBiology",
+          "#Shorts"
+        ]
+      ]
+    },
+    {
+      "id": "GP-2026-08-10-02",
+      "title": "Why the Wombat Poops Perfect Cubes #Shorts",
+      "concept": "Explain how different elasticity in the wombat intestine helps form cube-shaped droppings that do not roll away from its territory.",
+      "hook": "This animal makes cube-shaped poop—and the reason is stranger than you think.",
+      "keyVisual": "Real wombat walking and close-up habitat footage, with a brief clean macro or illustrated cutaway of the intestine and cube-shaped droppings.",
+      "hashtagSets": [
+        [
+          "#AnimalFacts",
+          "#Wombat",
+          "#Shorts"
+        ],
+        [
+          "#Wildlife",
+          "#Nature",
+          "#DidYouKnow",
+          "#Shorts"
+        ],
+        [
+          "#ScienceFacts",
+          "#Mammals",
+          "#Shorts"
+        ]
+      ]
+    },
+    {
+      "id": "GP-2026-08-10-03",
+      "title": "Why the Chameleon Shoots Its Tongue Like a Spring #Shorts",
+      "concept": "Reveal how elastic collagen tissue lets a chameleon launch its tongue faster than muscle alone could manage.",
+      "hook": "A chameleon can fire its tongue faster than you can blink—and it does not rely on muscle power alone.",
+      "keyVisual": "Real chameleon close-up locking onto prey, slow-motion tongue strike, and a simple side graphic showing the elastic tissue release.",
+      "hashtagSets": [
+        [
+          "#AnimalFacts",
+          "#Reptiles",
+          "#Shorts"
+        ],
+        [
+          "#Wildlife",
+          "#Chameleon",
+          "#Nature",
+          "#Shorts"
+        ],
+        [
+          "#DidYouKnow",
+          "#Science",
           "#Shorts"
         ]
       ]
