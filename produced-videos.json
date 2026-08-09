@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-08T16:03:37.416144-04:00",
+  "lastRunAt": "2026-08-09T10:08:31.694669-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2318,6 +2318,65 @@
       "footageSources": [
         "wikimedia",
         "pexels"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-09-SELFN",
+      "ideaId": "selfgen-2026-08-09",
+      "sourceHash": "8d9679c47b0c6d0ad83ba3006547795a43e4df29f256a29072203812600b188d",
+      "status": "uploaded",
+      "startedAt": "2026-08-09T10:08:31.694669-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "concept": "Eagle vision: 1M photoreceptors/mm\u00b2 (5x human), two fovea per eye, UV vision for tracking mouse urine trails. Self-generated from filmableWithQuery animals.",
+      "error": null,
+      "renderedAt": "2026-08-09T14:14:00-04:00",
+      "uploadedAt": "2026-08-09T14:14:55-04:00",
+      "youtube": {
+        "videoId": "85tlS2R1wJk",
+        "url": "https://www.youtube.com/watch?v=85tlS2R1wJk",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-09-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-09-SELFN/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Juvenile bald eagles Keeney Cove"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Bald eagle South Meadows"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Bald Eagle immature in California"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "Bald Eagle in USA"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "title": "Bald eagle chased by smaller bird"
+          },
+          {
+            "scene": 6,
+            "source": "wikimedia",
+            "title": "Bald eagle in California"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-09-SELFN/final.mp4"
+      },
+      "duration": 45.4,
+      "footageSources": [
+        "wikimedia"
       ]
     }
   ]
