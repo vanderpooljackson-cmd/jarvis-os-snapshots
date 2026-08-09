@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-09T10:08:31.694669-04:00",
+  "lastRunAt": "2026-08-09T16:01:43.737145-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2377,6 +2377,66 @@
       "duration": 45.4,
       "footageSources": [
         "wikimedia"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-09-SELFN2",
+      "ideaId": "selfgen-2026-08-09-2",
+      "sourceHash": "285ec6f285ccd99663b7793a1a1e50e45d039eee96db107ff9d4306a0065956c",
+      "status": "uploaded",
+      "startedAt": "2026-08-09T16:01:43.737145-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Axolotl Can Regrow Its Own Brain #Shorts",
+      "concept": "Axolotls can regenerate limbs, spinal cord, heart tissue, and brain portions without scarring. They're neotenic (never metamorphose). Self-generated from filmableWithQuery animals.",
+      "error": null,
+      "renderedAt": "2026-08-09T20:08:00-04:00",
+      "uploadedAt": "2026-08-09T20:08:51-04:00",
+      "youtube": {
+        "videoId": "pTjck2syNi8",
+        "url": "https://www.youtube.com/watch?v=pTjck2syNi8",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-09-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-09-SELFN2/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Axolotl (Ambystoma mexicanum)"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Axolotl (Tierpark Zittau)"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Time lapse embryonic development of axolotl egg"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "WCC module 6 - Talk Axolotl"
+          },
+          {
+            "scene": 5,
+            "source": "pexels",
+            "title": "Pexels 8838030"
+          },
+          {
+            "scene": 6,
+            "source": "pexels",
+            "title": "Pexels 33032826"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-09-SELFN2/final.mp4"
+      },
+      "duration": 53.57,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
       ]
     }
   ]
