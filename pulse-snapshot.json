@@ -7,20 +7,20 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 35982,
+      "viewCount": 38058,
       "subscriberCount": 60,
-      "videoCount": 82
+      "videoCount": 84
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-11",
-    "endDate": "2026-08-08",
+    "startDate": "2026-07-12",
+    "endDate": "2026-08-09",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 15885,
-    "estimatedMinutesWatched": 5061,
+    "views": 15896,
+    "estimatedMinutesWatched": 5063,
     "subscribersGained": 41,
     "subscribersLost": 9,
     "netSubscribers": 32,
@@ -40,6 +40,38 @@
     {
       "day": "2026-07-13",
       "views": 1,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-14",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-15",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-16",
+      "views": 0,
+      "watched": 0,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
+    },
+    {
+      "day": "2026-07-17",
+      "views": 0,
       "watched": 0,
       "subsGained": 0,
       "subsLost": 0,
@@ -196,6 +228,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 0
+    },
+    {
+      "day": "2026-08-06",
+      "views": 11,
+      "watched": 2,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     }
   ],
   "topVideos": [
@@ -219,7 +259,7 @@
       "comments": 0,
       "avgViewDuration": 18,
       "flag": "optimize",
-      "note": "Above-average views (1339) but below-median retention (18s vs 27s median) — viewers click but bounce"
+      "note": "Above-average views (1339) but below-median retention (18s vs 27s median)"
     },
     {
       "videoId": "0jZSeW-87Gw",
@@ -230,7 +270,7 @@
       "comments": 1,
       "avgViewDuration": 37,
       "flag": "stable",
-      "note": "Above-average views (1302), retention 37s"
+      "note": ""
     },
     {
       "videoId": "RZ6qtnTpTiA",
@@ -241,7 +281,7 @@
       "comments": 1,
       "avgViewDuration": 28,
       "flag": "stable",
-      "note": "Above-average views (1297), retention 28s"
+      "note": ""
     },
     {
       "videoId": "g6Nmh2WuHDo",
@@ -252,7 +292,7 @@
       "comments": 0,
       "avgViewDuration": 26,
       "flag": "stable",
-      "note": "Below-average views (1215), retention 26s"
+      "note": ""
     },
     {
       "videoId": "C5rhgXKTkO4",
@@ -263,7 +303,7 @@
       "comments": 0,
       "avgViewDuration": 22,
       "flag": "stable",
-      "note": "Below-average views (1118), retention 22s"
+      "note": ""
     },
     {
       "videoId": "9Il9e4WfzXw",
@@ -274,7 +314,7 @@
       "comments": 0,
       "avgViewDuration": 26,
       "flag": "stable",
-      "note": "Below-average views (1078), retention 26s"
+      "note": ""
     },
     {
       "videoId": "4WUNKscls30",
@@ -285,7 +325,7 @@
       "comments": 1,
       "avgViewDuration": 28,
       "flag": "stable",
-      "note": "Below-average views (1077), retention 28s"
+      "note": ""
     },
     {
       "videoId": "FLK0SMOCaaU",
@@ -296,7 +336,7 @@
       "comments": 0,
       "avgViewDuration": 25,
       "flag": "stable",
-      "note": "Below-average views (1030), retention 25s"
+      "note": ""
     },
     {
       "videoId": "F39DdwKsONc",
@@ -307,15 +347,15 @@
       "comments": 1,
       "avgViewDuration": 33,
       "flag": "stable",
-      "note": "Below-average views (977), retention 33s"
+      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-08T09:08:28-04:00",
+  "fetchedAt": "2026-08-09T09:04:39.695493-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-08T09:08:28-04:00",
+      "fetchedAt": "2026-08-09T09:04:39.695493-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
@@ -328,10 +368,10 @@
         "threshold": 4000,
         "percent": 3.45,
         "window": "Last 12 months",
-        "minutesWatched": 8284
+        "minutesWatched": 8286
       },
       "shortsViews90d": {
-        "current": 36034,
+        "current": 36045,
         "threshold": 10000000,
         "percent": 0.36,
         "window": "Last 90 days",
