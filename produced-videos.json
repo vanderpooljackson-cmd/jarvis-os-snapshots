@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-09T16:01:43.737145-04:00",
+  "lastRunAt": "2026-08-10T10:15:05.994065-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2437,6 +2437,66 @@
       "footageSources": [
         "wikimedia",
         "pexels"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-10-SELFN",
+      "ideaId": "selfgen-2026-08-10",
+      "sourceHash": "d9df91d26fb16494dfa84e9a2d78b8821f6a97d8a485f6b84562cc979dec0e47",
+      "status": "uploaded",
+      "startedAt": "2026-08-10T10:15:05.994065-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Raccoon Sees With Its Hands Underwater #Shorts",
+      "concept": "Raccoons have 4x more touch receptors than humans; water softens paw pads to unlock tactile vision \u2014 they 'see' objects underwater by touch alone.",
+      "error": null,
+      "renderedAt": "2026-08-10T14:20:30-04:00",
+      "uploadedAt": "2026-08-10T14:21:02-04:00",
+      "youtube": {
+        "videoId": "b5Zj7XZSXeQ",
+        "url": "https://www.youtube.com/watch?v=b5Zj7XZSXeQ",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-10-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-10-SELFN/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "pexels",
+            "title": "Pexels 4856378 (raccoon climbing)"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Otter vs. Raccoon"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Raccoon investigating a crevice"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "Raccoon standing, eating"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "title": "Raccoon on Seedskadee NWR"
+          },
+          {
+            "scene": 6,
+            "source": "wikimedia",
+            "title": "Raccoon on Seedskadee NWR (2)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-10-SELFN/final.mp4"
+      },
+      "duration": 51.17,
+      "footageSources": [
+        "pexels",
+        "wikimedia"
       ]
     }
   ]
