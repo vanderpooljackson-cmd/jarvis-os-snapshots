@@ -1,109 +1,72 @@
 {
-  "fetchedAt": "2026-08-07T17:37:34.359342-04:00",
+  "fetchedAt": "2026-08-10T17:36:03.655246-04:00",
   "videos": [
     {
-      "videoId": "L--6Wp8DivU",
-      "title": "Why the Lemur Wins Fights With Its Smell #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgxIMJM_7DowP74rf-d4AaABAg",
-          "author": "@brianmcclenahan617",
-          "text": "Did you forget about skunks?",
-          "replyPosted": true,
-          "replyText": "Great point! Skunks definitely weaponize scent too, but they spray predators in self-defense. Lemurs are the only ones known to use body odor in combat with their OWN kind to settle territorial disputes. Both are amazing examples of chemical warfare in nature."
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Hook: stink fight curiosity gap",
-          "startSec": 0,
-          "endSec": 7,
-          "why": "Opens with a bizarre question about lemurs wafting body odor \u2014 instant curiosity gap",
-          "hookRewrite": "This animal fights with its own smell instead of teeth"
-        },
-        {
-          "momentLabel": "Stink fight mechanism description",
-          "startSec": 15,
-          "endSec": 23,
-          "why": "Visual description of lemurs rubbing tails with musk and flinging scent \u2014 highly engaging and surprising",
-          "hookRewrite": "Watch two lemurs fling their own musk at each other to win"
-        }
-      ]
-    },
-    {
-      "videoId": "zCiVupoWOVk",
-      "title": "Why the Sea Lion Hunts in Total Darkness #Shorts",
+      "videoId": "n97u1jh58-0",
+      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Hook: hunting in total darkness",
+          "momentLabel": "Sloth outbreathes a dolphin",
           "startSec": 0,
-          "endSec": 9,
-          "why": "Strong curiosity gap \u2014 how does any animal hunt in pitch black water without eyes?",
-          "hookRewrite": "This animal finds food in water so dark it can't see anything"
+          "endSec": 8,
+          "why": "Opening curiosity gap comparing sloth to dolphin breath-hold \u2014 strongest hook in the script",
+          "hookRewrite": "This animal outbreathes a dolphin \u2014 and it barely moves"
         },
         {
-          "momentLabel": "Whisker mode radar dish",
-          "startSec": 27,
-          "endSec": 36,
-          "why": "Vivid metaphor of sea lion sweeping face like a radar dish \u2014 visual and memorable",
-          "hookRewrite": "A sea lion's face works like a living radar in total darkness"
+          "momentLabel": "Sloth farms algae for camouflage",
+          "startSec": 30,
+          "endSec": 42,
+          "why": "Surprising twist that sloths actively farm algae in their fur using moths and beetles \u2014 unexpected superpower angle",
+          "hookRewrite": "This animal grows a garden in its fur on purpose"
         }
       ]
     },
     {
-      "videoId": "YwMwXnf9u7I",
-      "title": "Why the Manatee Feels With Its Entire Body #Shorts",
+      "videoId": "b5Zj7XZSXeQ",
+      "title": "Why the Raccoon Sees With Its Hands Underwater #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [
+        {
+          "id": "UgygG6IWKQcKxjzNKtZ4AaABAg",
+          "author": "@user-pinckneysux",
+          "text": "Did they tell you that? \ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d",
+          "replyPosted": true,
+          "replyText": "Ha, fair question! It's actually backed by science \u2014 raccoons have four times more touch receptors in their paws than we do in our hands. The water really does soften their paw pads and boost sensitivity. Nature is wild!"
+        }
+      ],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "pTjck2syNi8",
+      "title": "Why the Axolotl Can Regrow Its Own Brain #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": []
     },
     {
-      "videoId": "ImwMgP_Ysag",
-      "title": "Why the Spider Can Jump 50 Times Its Body Length #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "85tlS2R1wJk",
+      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Hook: 50x body length jump",
-          "startSec": 0,
-          "endSec": 8,
-          "why": "Jaw-dropping stat \u2014 a spider jumping 50 times its body length is like a human leaping across a football field",
-          "hookRewrite": "This spider jumps 50 times its body length using no muscles"
-        },
-        {
-          "momentLabel": "360-degree vision calculation",
-          "startSec": 18,
-          "endSec": 26,
-          "why": "Eight eyes calculating distance, angle, and wind before jumping \u2014 remarkable sensory superpower",
-          "hookRewrite": "With 8 eyes this spider calculates wind before it jumps"
-        }
-      ]
+      "clipCandidates": []
     },
     {
-      "videoId": "_0zHLNM__vk",
-      "title": "Why the Starfish Regrows Its Whole Body From a Single Arm #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
+      "videoId": "HjuldQdvlqw",
+      "title": "Why the Chameleon Fires Its Tongue at 60 MPH #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [
         {
-          "momentLabel": "Hook: regrow whole body from one arm",
-          "startSec": 0,
-          "endSec": 7,
-          "why": "Mind-bending premise \u2014 one arm becoming a whole new animal",
-          "hookRewrite": "Cut this animal apart and each piece grows a new body"
-        },
-        {
-          "momentLabel": "No brain to die",
-          "startSec": 23,
-          "endSec": 31,
-          "why": "'Starfish have no brain to die' is a shocking, memorable line that reframs how we think about life",
-          "hookRewrite": "This animal has no brain, so you can't kill it by cutting it apart"
+          "id": "UgxRWK9N1YOfHkzk0U14AaABAg",
+          "author": "@sunithakaggal7671",
+          "text": "Amazing facts, but why cant you just show it hunt, stop yapping and show it do something other than walking.",
+          "replyPosted": true,
+          "replyText": "Really appreciate the feedback! You're right \u2014 we want to show more action shots too. Chameleon hunting footage is tough to source, but we're actively working on getting better action clips for future videos. Thanks for watching and helping us improve!"
         }
-      ]
+      ],
+      "clipCandidates": []
     }
   ],
-  "postedReplies": 1
+  "postedReplies": 2
 }
