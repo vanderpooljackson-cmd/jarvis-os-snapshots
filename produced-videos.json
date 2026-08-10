@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-10T10:15:05.994065-04:00",
+  "lastRunAt": "2026-08-10T16:03:43.108304-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2497,6 +2497,66 @@
       "footageSources": [
         "pexels",
         "wikimedia"
+      ]
+    },
+    {
+      "productionId": "JV-2026-08-10-SELFN2",
+      "ideaId": "selfgen-2026-08-10-2",
+      "sourceHash": "5ed1844b00cad4e2def7f91224d26a996bc6734bf38b7c46dbbd68c680794b0b",
+      "status": "uploaded",
+      "startedAt": "2026-08-10T16:03:43.108304-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
+      "concept": "Sloths can hold breath for 40 min (longer than dolphins) by slowing heart rate to 1/3. Lowest metabolism of any non-hibernating mammal. Algae in fur = camouflage.",
+      "error": null,
+      "renderedAt": "2026-08-10T20:09:30-04:00",
+      "uploadedAt": "2026-08-10T20:10:05-04:00",
+      "youtube": {
+        "videoId": "n97u1jh58-0",
+        "url": "https://www.youtube.com/watch?v=n97u1jh58-0",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-10-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-10-SELFN2/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Hoffman's Two-toed Sloth"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Two-toed sloth rail walking"
+          },
+          {
+            "scene": 3,
+            "source": "pexels",
+            "title": "Pexels 36618215 (sloth in tree)"
+          },
+          {
+            "scene": 4,
+            "source": "pexels",
+            "title": "Pexels 38758131 (sloth eating leaves)"
+          },
+          {
+            "scene": 5,
+            "source": "pexels",
+            "title": "Pexels 38776224 (sloth close up)"
+          },
+          {
+            "scene": 6,
+            "source": "pexels",
+            "title": "Pexels 36618206 (sloth moving slow)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-10-SELFN2/final.mp4"
+      },
+      "duration": 53.37,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
       ]
     }
   ]
