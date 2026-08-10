@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 38058,
-      "subscriberCount": 60,
-      "videoCount": 84
+      "viewCount": 39601,
+      "subscriberCount": 61,
+      "videoCount": 86
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-12",
-    "endDate": "2026-08-09",
+    "startDate": "2026-07-13",
+    "endDate": "2026-08-10",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 15896,
-    "estimatedMinutesWatched": 5063,
-    "subscribersGained": 41,
+    "views": 17949,
+    "estimatedMinutesWatched": 5492,
+    "subscribersGained": 44,
     "subscribersLost": 9,
-    "netSubscribers": 32,
-    "likes": 592,
-    "comments": 7,
-    "shares": 15
+    "netSubscribers": 35,
+    "likes": 640,
+    "comments": 9,
+    "shares": 16
   },
   "daily": [
-    {
-      "day": "2026-07-12",
-      "views": 3,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-13",
       "views": 1,
@@ -236,6 +228,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 0
+    },
+    {
+      "day": "2026-08-07",
+      "views": 2056,
+      "watched": 429,
+      "subsGained": 3,
+      "subsLost": 0,
+      "likes": 48
     }
   ],
   "topVideos": [
@@ -341,8 +341,8 @@
     {
       "videoId": "F39DdwKsONc",
       "title": "Why the Bear Smells Food From Twenty Miles Away #Shorts",
-      "views": 977,
-      "watched": 348,
+      "views": 979,
+      "watched": 349,
       "likes": 30,
       "comments": 1,
       "avgViewDuration": 33,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-09T09:04:39.695493-04:00",
+  "fetchedAt": "2026-08-10T09:20:43.443054-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-09T09:04:39.695493-04:00",
+      "fetchedAt": "2026-08-10T09:20:43.443054-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 60,
+        "current": 61,
         "threshold": 1000,
-        "percent": 6.0
+        "percent": 6.1
       },
       "watchHours12mo": {
-        "current": 138.1,
+        "current": 145.2,
         "threshold": 4000,
-        "percent": 3.45,
+        "percent": 3.63,
         "window": "Last 12 months",
-        "minutesWatched": 8286
+        "minutesWatched": 8715
       },
       "shortsViews90d": {
-        "current": 36045,
+        "current": 38101,
         "threshold": 10000000,
-        "percent": 0.36,
+        "percent": 0.381,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
