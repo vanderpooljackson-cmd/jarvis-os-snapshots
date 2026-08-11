@@ -2624,12 +2624,31 @@
       "productionId": "JV-2026-08-11-SELFN2",
       "ideaId": "selfgen-2026-08-11-2",
       "sourceHash": "95f85ac2f7f0141d277085ca5b4e812a835643ee086fa2b081f66269368cf4b5",
-      "status": "rendering",
+      "status": "uploaded",
       "startedAt": "2026-08-11T16:03:53.150940-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Sea Turtle Stays Warm in Freezing Water #Shorts",
       "concept": "Second-angle turtle story: leatherback sea turtles are essentially warm-blooded via counter-current heat exchange, maintaining body temp 32F above water temp at 4000ft depths. First angle was butt-breathing.",
-      "error": null
+      "error": null,
+      "renderedAt": "2026-08-11T20:10:00-04:00",
+      "uploadedAt": "2026-08-11T20:11:06-04:00",
+      "youtube": {
+        "videoId": "6_LwoDgA6AI",
+        "url": "https://www.youtube.com/watch?v=6_LwoDgA6AI",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-11-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-11-SELFN2/narration.mp3",
+        "clips": "6 clips from Pexels",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-11-SELFN2/final.mp4"
+      },
+      "duration": 51.17,
+      "footageSources": [
+        "pexels"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Turtle Breathes Through Its Butt #Shorts"
     }
   ]
 }
