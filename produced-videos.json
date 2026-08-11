@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-11T10:10:08.608127-04:00",
+  "lastRunAt": "2026-08-11T16:03:53.150940-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2619,6 +2619,17 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Dolphin Never Fully Falls Asleep #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-11-SELFN2",
+      "ideaId": "selfgen-2026-08-11-2",
+      "sourceHash": "95f85ac2f7f0141d277085ca5b4e812a835643ee086fa2b081f66269368cf4b5",
+      "status": "rendering",
+      "startedAt": "2026-08-11T16:03:53.150940-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sea Turtle Stays Warm in Freezing Water #Shorts",
+      "concept": "Second-angle turtle story: leatherback sea turtles are essentially warm-blooded via counter-current heat exchange, maintaining body temp 32F above water temp at 4000ft depths. First angle was butt-breathing.",
+      "error": null
     }
   ]
 }
