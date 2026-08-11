@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 39601,
-      "subscriberCount": 61,
-      "videoCount": 86
+      "viewCount": 41630,
+      "subscriberCount": 70,
+      "videoCount": 88
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-13",
-    "endDate": "2026-08-10",
+    "startDate": "2026-07-14",
+    "endDate": "2026-08-11",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 17949,
-    "estimatedMinutesWatched": 5492,
-    "subscribersGained": 44,
-    "subscribersLost": 9,
+    "views": 19490,
+    "estimatedMinutesWatched": 5836,
+    "subscribersGained": 45,
+    "subscribersLost": 10,
     "netSubscribers": 35,
-    "likes": 640,
-    "comments": 9,
-    "shares": 16
+    "likes": 697,
+    "comments": 10,
+    "shares": 17
   },
   "daily": [
-    {
-      "day": "2026-07-13",
-      "views": 1,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-14",
       "views": 0,
@@ -236,6 +228,14 @@
       "subsGained": 3,
       "subsLost": 0,
       "likes": 48
+    },
+    {
+      "day": "2026-08-08",
+      "views": 1542,
+      "watched": 344,
+      "subsGained": 1,
+      "subsLost": 1,
+      "likes": 57
     }
   ],
   "topVideos": [
@@ -286,7 +286,7 @@
     {
       "videoId": "g6Nmh2WuHDo",
       "title": "Why the Polar Bear Is Not Actually White #Shorts",
-      "views": 1215,
+      "views": 1216,
       "watched": 313,
       "likes": 59,
       "comments": 0,
@@ -297,7 +297,7 @@
     {
       "videoId": "C5rhgXKTkO4",
       "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
-      "views": 1118,
+      "views": 1119,
       "watched": 273,
       "likes": 40,
       "comments": 0,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-10T09:20:43.443054-04:00",
+  "fetchedAt": "2026-08-11T09:08:10.085114-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-10T09:20:43.443054-04:00",
+      "fetchedAt": "2026-08-11T09:08:10.085114-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 61,
+        "current": 70,
         "threshold": 1000,
-        "percent": 6.1
+        "percent": 7.0
       },
       "watchHours12mo": {
-        "current": 145.2,
+        "current": 151.0,
         "threshold": 4000,
-        "percent": 3.63,
+        "percent": 3.77,
         "window": "Last 12 months",
-        "minutesWatched": 8715
+        "minutesWatched": 9059
       },
       "shortsViews90d": {
-        "current": 38101,
+        "current": 39643,
         "threshold": 10000000,
-        "percent": 0.381,
+        "percent": 0.396,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
