@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-10T16:03:43.108304-04:00",
+  "lastRunAt": "2026-08-11T10:10:08.608127-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2558,6 +2558,67 @@
         "wikimedia",
         "pexels"
       ]
+    },
+    {
+      "productionId": "JV-2026-08-11-SELFN",
+      "ideaId": "selfgen-2026-08-11",
+      "sourceHash": "9a76ecc74e3424a39bb7e166cef637b8330fc88c2842e1600ec7031c1d6e9670",
+      "status": "uploaded",
+      "startedAt": "2026-08-11T10:10:08.608127-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Dolphin Has Its Own Name #Shorts",
+      "concept": "Second-angle dolphin story: dolphins develop unique signature whistles (names) in their first year, remember other dolphins' names for 20+ years, and mothers teach names in the womb. Top performer follow-up.",
+      "error": null,
+      "renderedAt": "2026-08-11T14:15:00-04:00",
+      "uploadedAt": "2026-08-11T14:16:04-04:00",
+      "youtube": {
+        "videoId": "vgLv0nyKWt4",
+        "url": "https://www.youtube.com/watch?v=vgLv0nyKWt4",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-11-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-11-SELFN/narration.mp3",
+        "clips": [
+          {
+            "scene": 1,
+            "source": "wikimedia",
+            "title": "Back Dolphin Underwater"
+          },
+          {
+            "scene": 2,
+            "source": "wikimedia",
+            "title": "Pod of Spinner dolphins swimming in the Indian ocean"
+          },
+          {
+            "scene": 3,
+            "source": "wikimedia",
+            "title": "Scientists Try to Crack Dolphins' Language"
+          },
+          {
+            "scene": 4,
+            "source": "wikimedia",
+            "title": "Dolphin Underwater"
+          },
+          {
+            "scene": 5,
+            "source": "wikimedia",
+            "title": "Typhoon Dolphin Crosses the Ogasawara Islands (labels)"
+          },
+          {
+            "scene": 6,
+            "source": "wikimedia",
+            "title": "Typhoon Dolphin Crosses the Ogasawara Islands (nolabels)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-11-SELFN/final.mp4"
+      },
+      "duration": 56.2,
+      "footageSources": [
+        "wikimedia"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Dolphin Never Fully Falls Asleep #Shorts"
     }
   ]
 }
