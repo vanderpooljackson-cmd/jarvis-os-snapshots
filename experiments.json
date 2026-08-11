@@ -153,7 +153,10 @@
         "watched": 9.964285714285714,
         "avgViewDuration": 18
       },
-      "status": "running"
+      "status": "kept",
+      "evaluatedAt": "2026-08-11T10:05:46-04:00",
+      "decision": "inconclusive-keep",
+      "evalNotes": "Variant-period analytics for 2026-08-08 to 2026-08-11 inclusive returned NO rows for both dimension=video and dimension=day, indicating zero traffic in the test window (0 total views, 0 estimated minutes watched, 0 likes; averageViewDuration N/A; variant daily averages over 4 calendar days: 0.0 views/day, 0.0 estimated minutes watched/day, 0.0 likes/day, averageViewDuration N/A). Per zero-traffic handling, a pre-test baseline query was run for 2026-07-25 to 2026-08-07 (14 days): 3 total views, 0 estimated minutes watched, 0 likes across returned days (2026-07-27: 1 view; 2026-08-01: 1 view; 2026-08-05: 1 view; 2026-08-07: 0 views), which is below the ~5-view threshold for a zero-traffic baseline. The test is INCONCLUSIVE: there is no evidence the variant hurt because there was no meaningful traffic to lose. KEEP the variant (do not revert) to avoid churn; the variant was selected as a stronger hook. Baseline daily averages from the experiment record: 47.8214 views/day and 18s averageViewDuration."
     }
   ],
   "policy": {
