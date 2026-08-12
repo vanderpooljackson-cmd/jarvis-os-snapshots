@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-11T16:03:53.150940-04:00",
+  "lastRunAt": "2026-08-12T10:12:01.529432-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2649,6 +2649,36 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Turtle Breathes Through Its Butt #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-12-SELFN",
+      "ideaId": "selfgen-2026-08-12",
+      "sourceHash": "d9316aa3b135624841e0899c14a15b2e6c87ecf6ed1c43d9ceb0a4b49d3dd771",
+      "status": "uploaded",
+      "startedAt": "2026-08-12T10:12:01.529432-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Fox Climbs Trees Like a Cat #Shorts",
+      "concept": "Second-angle fox story: foxes have retractable curved claws and rotating ankles that let them climb trees \u2014 the only canid that routinely does. First angle was magnetic compass hunting.",
+      "error": null,
+      "renderedAt": "2026-08-12T14:19:00-04:00",
+      "uploadedAt": "2026-08-12T14:19:54-04:00",
+      "youtube": {
+        "videoId": "zgwDGPy32lg",
+        "url": "https://www.youtube.com/watch?v=zgwDGPy32lg",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-12-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-12-SELFN/narration.mp3",
+        "clips": "6 clips from Pexels (fox climbing tree, fox in tree, fox close up, fox sleeping, fox in woods)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-12-SELFN/final.mp4"
+      },
+      "duration": 50.2,
+      "footageSources": [
+        "pexels"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Fox Hunts With a Built-in Compass #Shorts"
     }
   ]
 }
