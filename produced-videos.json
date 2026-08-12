@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-12T10:12:01.529432-04:00",
+  "lastRunAt": "2026-08-12T16:02:38.641397-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2679,6 +2679,37 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Fox Hunts With a Built-in Compass #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-12-SELFN2",
+      "ideaId": "selfgen-2026-08-12-2",
+      "sourceHash": "3882da872e9a9603b3ca096fbf86902b24f8529f2486c7bb47a510908fdd4bfc",
+      "status": "uploaded",
+      "startedAt": "2026-08-12T16:02:38.641397-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
+      "concept": "Second-angle polar bear story: marine mammal classification, 12-inch webbed paws, hollow fur for buoyancy, 400+ mile swims, 3-minute dives. First angle was 'not actually white'.",
+      "error": null,
+      "renderedAt": "2026-08-12T20:08:00-04:00",
+      "uploadedAt": "2026-08-12T20:08:35-04:00",
+      "youtube": {
+        "videoId": "LF75Mu00CIQ",
+        "url": "https://www.youtube.com/watch?v=LF75Mu00CIQ",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-12-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-12-SELFN2/narration.mp3",
+        "clips": "6 clips: 3 Pexels (swimming, paw, diving) + 3 Wikimedia (Tallinn Zoo, Polar Bear Swim 2024/2025)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-12-SELFN2/final.mp4"
+      },
+      "duration": 46.93,
+      "footageSources": [
+        "pexels",
+        "wikimedia"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Polar Bear Is Not Actually White #Shorts"
     }
   ]
 }
