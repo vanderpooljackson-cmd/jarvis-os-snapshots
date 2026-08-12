@@ -1,72 +1,74 @@
 {
-  "fetchedAt": "2026-08-10T17:36:03.655246-04:00",
+  "fetchedAt": "2026-08-12T17:36:32.283593-04:00",
   "videos": [
     {
-      "videoId": "n97u1jh58-0",
-      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
+      "videoId": "LF75Mu00CIQ",
+      "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Sloth outbreathes a dolphin",
-          "startSec": 0,
-          "endSec": 8,
-          "why": "Opening curiosity gap comparing sloth to dolphin breath-hold \u2014 strongest hook in the script",
-          "hookRewrite": "This animal outbreathes a dolphin \u2014 and it barely moves"
+          "momentLabel": "400-mile swim stat",
+          "startSec": 23,
+          "endSec": 35,
+          "why": "Most surprising fact: polar bears tracked swimming 400+ miles in open ocean, holding breath 3 minutes, diving 20 feet. High curiosity density.",
+          "hookRewrite": "A polar bear can swim 400 miles without stopping \u2014 and hold its breath for 3 minutes underwater"
         },
         {
-          "momentLabel": "Sloth farms algae for camouflage",
+          "momentLabel": "Marine mammal reveal",
           "startSec": 30,
-          "endSec": 42,
-          "why": "Surprising twist that sloths actively farm algae in their fur using moths and beetles \u2014 unexpected superpower angle",
-          "hookRewrite": "This animal grows a garden in its fur on purpose"
+          "endSec": 47,
+          "why": "The reveal that polar bears are technically marine mammals, not land ones \u2014 challenges viewer's mental model. Good cold-open material.",
+          "hookRewrite": "Polar bears aren't land animals \u2014 they're technically classified as marine mammals"
         }
       ]
     },
     {
-      "videoId": "b5Zj7XZSXeQ",
-      "title": "Why the Raccoon Sees With Its Hands Underwater #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [
-        {
-          "id": "UgygG6IWKQcKxjzNKtZ4AaABAg",
-          "author": "@user-pinckneysux",
-          "text": "Did they tell you that? \ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d\ud83e\udd9d",
-          "replyPosted": true,
-          "replyText": "Ha, fair question! It's actually backed by science \u2014 raccoons have four times more touch receptors in their paws than we do in our hands. The water really does soften their paw pads and boost sensitivity. Nature is wild!"
-        }
-      ],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "pTjck2syNi8",
-      "title": "Why the Axolotl Can Regrow Its Own Brain #Shorts",
+      "videoId": "zgwDGPy32lg",
+      "title": "Why the Fox Climbs Trees Like a Cat #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [],
+      "notes": "No transcript available \u2014 'Show transcript' button opened panel but no segments loaded"
     },
     {
-      "videoId": "85tlS2R1wJk",
-      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "videoId": "6_LwoDgA6AI",
+      "title": "Why the Sea Turtle Stays Warm in Freezing Water #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [],
+      "notes": "Bot-blocked by YouTube (HTTP 429 / CAPTCHA)"
     },
     {
-      "videoId": "HjuldQdvlqw",
-      "title": "Why the Chameleon Fires Its Tongue at 60 MPH #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [
+      "videoId": "vgLv0nyKWt4",
+      "title": "Why the Dolphin Has Its Own Name #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
         {
-          "id": "UgxRWK9N1YOfHkzk0U14AaABAg",
-          "author": "@sunithakaggal7671",
-          "text": "Amazing facts, but why cant you just show it hunt, stop yapping and show it do something other than walking.",
-          "replyPosted": true,
-          "replyText": "Really appreciate the feedback! You're right \u2014 we want to show more action shots too. Chameleon hunting footage is tough to source, but we're actively working on getting better action clips for future videos. Thanks for watching and helping us improve!"
+          "momentLabel": "Mothers whistle name in womb",
+          "startSec": 27,
+          "endSec": 42,
+          "why": "Most emotionally surprising fact: mothers whistle their calf's signature name before birth, teaching it in the womb. High curiosity + emotional resonance.",
+          "hookRewrite": "Dolphin mothers whistle their baby's name to them before they're even born \u2014 in the womb"
+        },
+        {
+          "momentLabel": "20-year social memory",
+          "startSec": 12,
+          "endSec": 27,
+          "why": "Dolphins remember another dolphin's name for 20 years \u2014 longest social memory of any non-human animal. Strong stat-driven hook.",
+          "hookRewrite": "A dolphin can remember another dolphin's name for 20 years \u2014 the longest social memory of any animal"
         }
-      ],
-      "clipCandidates": []
+      ]
+    },
+    {
+      "videoId": "n97u1jh58-0",
+      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": [],
+      "notes": "VIDEO REMOVED FROM YOUTUBE \u2014 InnerTube API returned 'This video isn't available anymore'. Video was uploaded Aug 10 4PM and is now gone."
     }
   ],
-  "postedReplies": 2
+  "postedReplies": 0
 }
