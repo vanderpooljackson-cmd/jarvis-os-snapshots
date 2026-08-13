@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-13T10:11:57.960150-04:00",
+  "lastRunAt": "2026-08-13T16:03:09.022205-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2743,6 +2743,36 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "How Do Penguins Survive Months of Darkness at \u221240\u00b0C? #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-13-SELFN2",
+      "ideaId": "selfgen-2026-08-13-2",
+      "sourceHash": "2705f524dd257e0d1d1e34fe48d7922e5d4bcc318130b0d3745d7ebb3a172cc1",
+      "status": "uploaded",
+      "startedAt": "2026-08-13T16:03:09.022205-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Eagle's Grip Is 10x Stronger Than Yours #Shorts",
+      "concept": "Second-angle eagle story: 400 PSI grip, 10x stronger than human, ratcheting talon lock mechanism, carries fish 6x body weight. First angle was vision (spots rabbit from 2 miles).",
+      "error": null,
+      "renderedAt": "2026-08-13T20:08:00-04:00",
+      "uploadedAt": "2026-08-13T20:08:42-04:00",
+      "youtube": {
+        "videoId": "ZSqAZJUOFC0",
+        "url": "https://www.youtube.com/watch?v=ZSqAZJUOFC0",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-13-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-13-SELFN2/narration.mp3",
+        "clips": "6 clips all from Wikimedia (juvenile bald eagles, bald eagle in California, bald eagle being chased by smaller bird, bald eagle in USA)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-13-SELFN2/final.mp4"
+      },
+      "duration": 51.6,
+      "footageSources": [
+        "wikimedia"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts"
     }
   ]
 }
