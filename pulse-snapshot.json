@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 43151,
-      "subscriberCount": 70,
-      "videoCount": 90
+      "viewCount": 44370,
+      "subscriberCount": 71,
+      "videoCount": 92
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-15",
-    "endDate": "2026-08-12",
+    "startDate": "2026-07-16",
+    "endDate": "2026-08-13",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 21368,
-    "estimatedMinutesWatched": 6376,
-    "subscribersGained": 46,
-    "subscribersLost": 10,
-    "likes": 777,
-    "comments": 10,
-    "shares": 17,
-    "netSubscribers": 36
+    "views": 23039,
+    "estimatedMinutesWatched": 6853,
+    "subscribersGained": 56,
+    "subscribersLost": 11,
+    "netSubscribers": 45,
+    "likes": 889,
+    "comments": 11,
+    "shares": 17
   },
   "daily": [
-    {
-      "day": "2026-07-15",
-      "views": 0,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-16",
       "views": 0,
@@ -236,6 +228,14 @@
       "subsGained": 1,
       "subsLost": 0,
       "likes": 80
+    },
+    {
+      "day": "2026-08-10",
+      "views": 1671,
+      "watched": 477,
+      "subsGained": 10,
+      "subsLost": 1,
+      "likes": 112
     }
   ],
   "topVideos": [
@@ -295,6 +295,17 @@
       "note": ""
     },
     {
+      "videoId": "85tlS2R1wJk",
+      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "views": 1189,
+      "watched": 387,
+      "likes": 38,
+      "comments": 0,
+      "avgViewDuration": 33,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "C5rhgXKTkO4",
       "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
       "views": 1119,
@@ -337,43 +348,32 @@
       "avgViewDuration": 25,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "85tlS2R1wJk",
-      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-      "views": 1005,
-      "watched": 321,
-      "likes": 35,
-      "comments": 0,
-      "avgViewDuration": 33,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-12T09:06:47-04:00",
+  "fetchedAt": "2026-08-13T09:08:53.226162-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-12T09:06:47-04:00",
+      "fetchedAt": "2026-08-13T09:08:53.226162-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 70,
+        "current": 71,
         "threshold": 1000,
-        "percent": 7.0
+        "percent": 7.1
       },
       "watchHours12mo": {
-        "current": 160.0,
+        "current": 167.9,
         "threshold": 4000,
-        "percent": 4.0,
+        "percent": 4.2,
         "window": "Last 12 months",
-        "minutesWatched": 9600
+        "minutesWatched": 10077
       },
       "shortsViews90d": {
-        "current": 41521,
+        "current": 43192,
         "threshold": 10000000,
-        "percent": 0.415,
+        "percent": 0.432,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
