@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-12T16:02:38.641397-04:00",
+  "lastRunAt": "2026-08-13T10:11:57.960150-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2503,7 +2503,7 @@
       "productionId": "JV-2026-08-10-SELFN2",
       "ideaId": "selfgen-2026-08-10-2",
       "sourceHash": "5ed1844b00cad4e2def7f91224d26a996bc6734bf38b7c46dbbd68c680794b0b",
-      "status": "uploaded",
+      "status": "removed",
       "startedAt": "2026-08-10T16:03:43.108304-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
@@ -2557,7 +2557,9 @@
       "footageSources": [
         "wikimedia",
         "pexels"
-      ]
+      ],
+      "removedAt": "2026-08-13T10:18:20.032482-04:00",
+      "removalNote": "Video no longer available on YouTube as of Aug 12 concierge sweep. Cause unknown."
     },
     {
       "productionId": "JV-2026-08-11-SELFN",
@@ -2710,6 +2712,37 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Polar Bear Is Not Actually White #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-13-SELFN",
+      "ideaId": "selfgen-2026-08-13",
+      "sourceHash": "d26a93217c45a39f83ea7b761d7ed33293f606586a9d42c497d2ce807de1c86c",
+      "status": "uploaded",
+      "startedAt": "2026-08-13T10:11:57.960150-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Penguin Holds Its Breath for 22 Minutes #Shorts",
+      "concept": "Second-angle penguin story: 1,800ft dives, 22-minute breath holds, lung collapse, heart rate to 6bpm, myoglobin oxygen storage. First angle was surviving coldest winter.",
+      "error": null,
+      "renderedAt": "2026-08-13T14:18:00-04:00",
+      "uploadedAt": "2026-08-13T14:18:14-04:00",
+      "youtube": {
+        "videoId": "Gk_HcgWxyIM",
+        "url": "https://www.youtube.com/watch?v=Gk_HcgWxyIM",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-13-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-13-SELFN/narration.mp3",
+        "clips": "6 clips: 1 Coverr (penguin) + 5 Wikimedia (Galapagos penguin, emperor penguin encounters, penguin hurricane, emperor penguin Coulman Island, penguin grooming Boulders Beach)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-13-SELFN/final.mp4"
+      },
+      "duration": 52.2,
+      "footageSources": [
+        "coverr",
+        "wikimedia"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "How Do Penguins Survive Months of Darkness at \u221240\u00b0C? #Shorts"
     }
   ]
 }
