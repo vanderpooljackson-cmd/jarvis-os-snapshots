@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 44370,
-      "subscriberCount": 71,
-      "videoCount": 92
+      "viewCount": 48396,
+      "subscriberCount": 78,
+      "videoCount": 94
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-16",
-    "endDate": "2026-08-13",
+    "startDate": "2026-07-17",
+    "endDate": "2026-08-14",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 23039,
-    "estimatedMinutesWatched": 6853,
+    "views": 24277,
+    "estimatedMinutesWatched": 7158,
     "subscribersGained": 56,
     "subscribersLost": 11,
     "netSubscribers": 45,
-    "likes": 889,
-    "comments": 11,
+    "likes": 927,
+    "comments": 12,
     "shares": 17
   },
   "daily": [
-    {
-      "day": "2026-07-16",
-      "views": 0,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-17",
       "views": 0,
@@ -236,6 +228,14 @@
       "subsGained": 10,
       "subsLost": 1,
       "likes": 112
+    },
+    {
+      "day": "2026-08-11",
+      "views": 1238,
+      "watched": 305,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 38
     }
   ],
   "topVideos": [
@@ -284,6 +284,17 @@
       "note": ""
     },
     {
+      "videoId": "85tlS2R1wJk",
+      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "views": 1239,
+      "watched": 418,
+      "likes": 39,
+      "comments": 0,
+      "avgViewDuration": 35,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "g6Nmh2WuHDo",
       "title": "Why the Polar Bear Is Not Actually White #Shorts",
       "views": 1216,
@@ -291,17 +302,6 @@
       "likes": 59,
       "comments": 0,
       "avgViewDuration": 26,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "85tlS2R1wJk",
-      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-      "views": 1189,
-      "watched": 387,
-      "likes": 38,
-      "comments": 0,
-      "avgViewDuration": 33,
       "flag": "stable",
       "note": ""
     },
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-13T09:08:53.226162-04:00",
+  "fetchedAt": "2026-08-14T09:14:08-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-13T09:08:53.226162-04:00",
+      "fetchedAt": "2026-08-14T09:14:08-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 71,
+        "current": 78,
         "threshold": 1000,
-        "percent": 7.1
+        "percent": 7.8
       },
       "watchHours12mo": {
-        "current": 167.9,
+        "current": 173.1,
         "threshold": 4000,
-        "percent": 4.2,
+        "percent": 4.33,
         "window": "Last 12 months",
-        "minutesWatched": 10077
+        "minutesWatched": 10383
       },
       "shortsViews90d": {
-        "current": 43192,
+        "current": 44430,
         "threshold": 10000000,
-        "percent": 0.432,
+        "percent": 0.444,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
