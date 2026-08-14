@@ -1,74 +1,116 @@
 {
-  "fetchedAt": "2026-08-12T17:36:32.283593-04:00",
+  "fetchedAt": "2026-08-14T17:36:05.838982-04:00",
   "videos": [
+    {
+      "videoId": "EQW2nGlieuo",
+      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "40,000 vs 600 muscle comparison",
+          "startSec": 0,
+          "endSec": 15,
+          "why": "Opening hook with the staggering stat: 40,000 muscles vs human body's 600. Strongest curiosity gap in the video.",
+          "hookRewrite": "An elephant's trunk has 40,000 muscles \u2014 the entire human body only has 600"
+        },
+        {
+          "momentLabel": "Snorkel periscope",
+          "startSec": 22,
+          "endSec": 40,
+          "why": "Elephants can walk across rivers on the bottom with their trunk above water like a periscope. Visual and surprising.",
+          "hookRewrite": "An elephant can snorkel across a river by walking on the bottom with its trunk raised like a periscope"
+        }
+      ]
+    },
+    {
+      "videoId": "5SV1p64SDnE",
+      "title": "Why the Camel Drinks 30 Gallons in 13 Minutes #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Oval blood cells discovery",
+          "startSec": 9,
+          "endSec": 27,
+          "why": "The key reveal: camel RBCs are oval and swell to 240% without bursting. Every other mammal's round cells would explode. Strong science surprise.",
+          "hookRewrite": "Camel blood cells are oval so they can drink 30 gallons without exploding \u2014 round cells would burst"
+        },
+        {
+          "momentLabel": "Syrup-thick urine survival",
+          "startSec": 27,
+          "endSec": 44,
+          "why": "Camels survive 40% body weight water loss with kidneys so efficient their urine is thick as syrup. Extreme survival angle.",
+          "hookRewrite": "A camel's kidneys are so efficient its urine comes out thick as syrup \u2014 they can lose 40% of their body weight in water"
+        }
+      ]
+    },
+    {
+      "videoId": "ZSqAZJUOFC0",
+      "title": "Why the Eagle's Grip Is 10x Stronger Than Yours #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "400 PSI grip stat",
+          "startSec": 0,
+          "endSec": 17,
+          "why": "Opening with 400 PSI vs human 40 PSI \u2014 10x stronger. Direct comparison makes it visceral.",
+          "hookRewrite": "An eagle's grip is 400 PSI \u2014 ten times stronger than a human hand, enough to crush bone"
+        },
+        {
+          "momentLabel": "Ratcheting lock mechanism",
+          "startSec": 17,
+          "endSec": 33,
+          "why": "Talons lock without muscle effort \u2014 eagle can't let go until it consciously opens them. Counterintuitive and surprising.",
+          "hookRewrite": "Once an eagle grabs you, it physically can't let go \u2014 its talons lock automatically without using any muscle"
+        }
+      ]
+    },
+    {
+      "videoId": "Gk_HcgWxyIM",
+      "title": "Why the Penguin Holds Its Breath for 22 Minutes #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Lung collapse + 6 bpm heart rate",
+          "startSec": 0,
+          "endSec": 22,
+          "why": "Penguins collapse their own lungs and drop heart rate to 6 bpm. Most extreme physiological feat in the video.",
+          "hookRewrite": "A penguin collapses its own lungs and drops its heart to 6 beats per minute to dive 1,800 feet deep"
+        },
+        {
+          "momentLabel": "Myoglobin biological scuba tank",
+          "startSec": 22,
+          "endSec": 39,
+          "why": "Oxygen stored in blood/muscle via myoglobin, not lungs \u2014 biological scuba tank. Science-driven curiosity.",
+          "hookRewrite": "Penguins store oxygen in their muscles like a biological scuba tank \u2014 not in their lungs"
+        }
+      ]
+    },
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
+      "transcriptStatus": "failed",
+      "comments": [
         {
-          "momentLabel": "400-mile swim stat",
-          "startSec": 23,
-          "endSec": 35,
-          "why": "Most surprising fact: polar bears tracked swimming 400+ miles in open ocean, holding breath 3 minutes, diving 20 feet. High curiosity density.",
-          "hookRewrite": "A polar bear can swim 400 miles without stopping \u2014 and hold its breath for 3 minutes underwater"
+          "id": "UgxDprqMg1ImNhm_NGd4AaABAg",
+          "author": "@CarolZeh-i2s",
+          "text": "Bears all can swim but Polar Bears are the experts",
+          "replyPosted": true,
+          "replyText": "Absolutely! Polar bears are in a league of their own \u2014 they're technically classified as marine mammals because they spend so much of their lives on sea ice and in the ocean. Thanks for watching!"
         },
         {
-          "momentLabel": "Marine mammal reveal",
-          "startSec": 30,
-          "endSec": 47,
-          "why": "The reveal that polar bears are technically marine mammals, not land ones \u2014 challenges viewer's mental model. Good cold-open material.",
-          "hookRewrite": "Polar bears aren't land animals \u2014 they're technically classified as marine mammals"
+          "id": "Ugw8OlaLAillVipxbB94AaABAg",
+          "author": "@MFM230",
+          "text": "Like moose, which spend most of their time in bogs or streams.",
+          "replyPosted": true,
+          "replyText": "Great comparison! Moose are actually incredible swimmers too \u2014 they can dive up to 20 feet underwater to feed on aquatic plants. Nature keeps finding ways to surprise us!"
         }
-      ]
-    },
-    {
-      "videoId": "zgwDGPy32lg",
-      "title": "Why the Fox Climbs Trees Like a Cat #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "notes": "No transcript available \u2014 'Show transcript' button opened panel but no segments loaded"
-    },
-    {
-      "videoId": "6_LwoDgA6AI",
-      "title": "Why the Sea Turtle Stays Warm in Freezing Water #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "notes": "Bot-blocked by YouTube (HTTP 429 / CAPTCHA)"
-    },
-    {
-      "videoId": "vgLv0nyKWt4",
-      "title": "Why the Dolphin Has Its Own Name #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Mothers whistle name in womb",
-          "startSec": 27,
-          "endSec": 42,
-          "why": "Most emotionally surprising fact: mothers whistle their calf's signature name before birth, teaching it in the womb. High curiosity + emotional resonance.",
-          "hookRewrite": "Dolphin mothers whistle their baby's name to them before they're even born \u2014 in the womb"
-        },
-        {
-          "momentLabel": "20-year social memory",
-          "startSec": 12,
-          "endSec": 27,
-          "why": "Dolphins remember another dolphin's name for 20 years \u2014 longest social memory of any non-human animal. Strong stat-driven hook.",
-          "hookRewrite": "A dolphin can remember another dolphin's name for 20 years \u2014 the longest social memory of any animal"
-        }
-      ]
-    },
-    {
-      "videoId": "n97u1jh58-0",
-      "title": "Why the Sloth Holds Its Breath Longer Than a Dolphin #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": [],
-      "notes": "VIDEO REMOVED FROM YOUTUBE \u2014 InnerTube API returned 'This video isn't available anymore'. Video was uploaded Aug 10 4PM and is now gone."
+      ],
+      "clipCandidates": []
     }
   ],
-  "postedReplies": 0
+  "postedReplies": 2
 }
