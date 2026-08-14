@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-13T16:03:09.022205-04:00",
+  "lastRunAt": "2026-08-14T10:22:57.223901-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2773,6 +2773,36 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-14-SELFN",
+      "ideaId": "selfgen-2026-08-14",
+      "sourceHash": "e27a23eb5eb25c410568e2600a3392c5b19e29d55c4764c9dda08122a795eaf3",
+      "status": "uploaded",
+      "startedAt": "2026-08-14T10:22:57.223901-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Camel Drinks 30 Gallons in 13 Minutes #Shorts",
+      "concept": "Second-angle camel story: 30 gallons in 13 min, oval red blood cells expand 240% without bursting, survive 40% body weight water loss, syrup-thick urine. First angle was 'hump not full of water'.",
+      "error": null,
+      "renderedAt": "2026-08-14T14:37:00-04:00",
+      "uploadedAt": "2026-08-14T14:37:52-04:00",
+      "youtube": {
+        "videoId": "5SV1p64SDnE",
+        "url": "https://www.youtube.com/watch?v=5SV1p64SDnE",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-14-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-14-SELFN/narration.mp3",
+        "clips": "6 clips from multi-source fetcher (all valid)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-14-SELFN/final.mp4"
+      },
+      "duration": 48.6,
+      "footageSources": [
+        "multi-source"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Camel's Hump Is Not Full of Water #Shorts"
     }
   ]
 }
