@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-14T10:22:57.223901-04:00",
+  "lastRunAt": "2026-08-14T16:02:41.837106-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2803,6 +2803,37 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Camel's Hump Is Not Full of Water #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-14-SELFN2",
+      "ideaId": "selfgen-2026-08-14-2",
+      "sourceHash": "e821a250ba6299414d768537e4ae4b9d37e432fb3f765af5e0c97ef27934075d",
+      "status": "uploaded",
+      "startedAt": "2026-08-14T16:02:41.837106-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
+      "concept": "Second-angle elephant story: 40,000 muscles in trunk, lift 600 lbs or pick up a grain of rice, snorkel across rivers. First angle was hearing with feet.",
+      "error": null,
+      "renderedAt": "2026-08-14T20:08:00-04:00",
+      "uploadedAt": "2026-08-14T20:08:08-04:00",
+      "youtube": {
+        "videoId": "EQW2nGlieuo",
+        "url": "https://www.youtube.com/watch?v=EQW2nGlieuo",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-14-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-14-SELFN2/narration.mp3",
+        "clips": "6 clips: 1 Coverr + 5 Wikimedia (African elephant feeding, Indian elephant Kaziranga, Pinnawala orphanage, bathing elephant, elephant shed)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-14-SELFN2/final.mp4"
+      },
+      "duration": 44.17,
+      "footageSources": [
+        "coverr",
+        "wikimedia"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Elephant Hears With Its Feet #Shorts"
     }
   ]
 }
