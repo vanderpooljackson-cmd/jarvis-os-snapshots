@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-15T10:02:46.536230-04:00",
+  "lastRunAt": "2026-08-15T10:10:07.383369-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2846,6 +2846,37 @@
       "concept": "Second-angle shark story: dermal denticles (skin made of teeth), drag reduction copied by Speedo, naturally antibacterial. First angle was ampullae of Lorenzini.",
       "error": "insufficient real shark footage: 3/6 (scene 2 was 1915 cartoon, scene 3 was cownose rays, scene 4 was man fishing)",
       "failedAt": "2026-08-15T10:09:58.013842-04:00"
+    },
+    {
+      "productionId": "JV-2026-08-15-SELFN2",
+      "ideaId": "selfgen-2026-08-15-2",
+      "sourceHash": "ee72244ac615d1aa4092531f95e33696f8bc4845e10a7aa169922f3f0f939461",
+      "status": "uploaded",
+      "startedAt": "2026-08-15T10:10:07.383369-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
+      "concept": "Second-angle jellyfish story: box jellyfish has 24 eyes with lenses/corneas/retinas but no brain, hunts actively at 4 knots. First angle was immortality through transdifferentiation.",
+      "error": null,
+      "renderedAt": "2026-08-15T14:15:00-04:00",
+      "uploadedAt": "2026-08-15T14:15:51-04:00",
+      "youtube": {
+        "videoId": "CYrW38_aFRg",
+        "url": "https://www.youtube.com/watch?v=CYrW38_aFRg",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-15-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-15-SELFN2/narration.mp3",
+        "clips": "6 clips: 3 Wikimedia (phantom jellyfish, Monterey Bay Aquarium 2017 + 2024) + 3 Pexels (ocean blue, tentacles, glowing)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-15-SELFN2/final.mp4"
+      },
+      "duration": 52.33,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Jellyfish Never Actually Dies #Shorts"
     }
   ]
 }
