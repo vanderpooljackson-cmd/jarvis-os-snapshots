@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-15T10:10:07.383369-04:00",
+  "lastRunAt": "2026-08-15T16:02:46.439406-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2877,6 +2877,36 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Jellyfish Never Actually Dies #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-15-SELFN3",
+      "ideaId": "selfgen-2026-08-15-3",
+      "sourceHash": "8bbec8d31f60e83c563dc3fdb66c71f7e8cb3afccd6dd1efaa0abef538d2eaae",
+      "status": "uploaded",
+      "startedAt": "2026-08-15T16:02:46.439406-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
+      "concept": "Second-angle shark story (retry 2): dermal denticles, drag reduction, Speedo copy, antibacterial. First angle was ampullae of Lorenzini.",
+      "error": null,
+      "renderedAt": "2026-08-15T20:08:00-04:00",
+      "uploadedAt": "2026-08-15T20:08:28-04:00",
+      "youtube": {
+        "videoId": "tMrTS480uqE",
+        "url": "https://www.youtube.com/watch?v=tMrTS480uqE",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-15-SELFN3/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-15-SELFN3/narration.mp3",
+        "clips": "6 clips: 5 real shark (cage diving great whites x2, bull shark, hammerhead hunting x2) + 1 cownose rays (Shark Reef Aquarium false match)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-15-SELFN3/final.mp4"
+      },
+      "duration": 43.87,
+      "footageSources": [
+        "wikimedia"
+      ],
+      "secondAngle": true,
+      "firstAngleTitle": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts"
     }
   ]
 }
