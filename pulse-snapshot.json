@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 48396,
-      "subscriberCount": 78,
-      "videoCount": 94
+      "viewCount": 56129,
+      "subscriberCount": 84,
+      "videoCount": 96
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-17",
-    "endDate": "2026-08-14",
+    "startDate": "2026-07-18",
+    "endDate": "2026-08-15",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 24277,
-    "estimatedMinutesWatched": 7158,
-    "subscribersGained": 56,
-    "subscribersLost": 11,
+    "views": 26578,
+    "estimatedMinutesWatched": 8103,
+    "subscribersGained": 58,
+    "subscribersLost": 13,
     "netSubscribers": 45,
-    "likes": 927,
+    "likes": 1000,
     "comments": 12,
-    "shares": 17
+    "shares": 18
   },
   "daily": [
-    {
-      "day": "2026-07-17",
-      "views": 0,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-18",
       "views": 1213,
@@ -236,6 +228,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 38
+    },
+    {
+      "day": "2026-08-12",
+      "views": 2301,
+      "watched": 945,
+      "subsGained": 2,
+      "subsLost": 2,
+      "likes": 73
     }
   ],
   "topVideos": [
@@ -248,23 +248,34 @@
       "comments": 2,
       "avgViewDuration": 44,
       "flag": "winner",
-      "note": "Top views and retention (avg 44s vs 27s top-10 median)"
+      "note": "Top views and retention"
+    },
+    {
+      "videoId": "LF75Mu00CIQ",
+      "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
+      "views": 1660,
+      "watched": 714,
+      "likes": 54,
+      "comments": 0,
+      "avgViewDuration": 40,
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "D2elbK2vCRE",
       "title": "What Keeps Emperor Penguins Alive Through 2 Months of Darkness at −40°C? #Shorts",
-      "views": 1339,
+      "views": 1340,
       "watched": 279,
       "likes": 35,
       "comments": 0,
       "avgViewDuration": 18,
-      "flag": "optimize",
-      "note": "Above-average views (1339) but below-median retention (18s vs 27s median)"
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "0jZSeW-87Gw",
       "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-      "views": 1302,
+      "views": 1303,
       "watched": 530,
       "likes": 61,
       "comments": 1,
@@ -275,7 +286,7 @@
     {
       "videoId": "RZ6qtnTpTiA",
       "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
-      "views": 1297,
+      "views": 1298,
       "watched": 406,
       "likes": 51,
       "comments": 1,
@@ -286,11 +297,11 @@
     {
       "videoId": "85tlS2R1wJk",
       "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-      "views": 1239,
-      "watched": 418,
-      "likes": 39,
+      "views": 1278,
+      "watched": 505,
+      "likes": 41,
       "comments": 0,
-      "avgViewDuration": 35,
+      "avgViewDuration": 41,
       "flag": "stable",
       "note": ""
     },
@@ -308,7 +319,7 @@
     {
       "videoId": "C5rhgXKTkO4",
       "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
-      "views": 1119,
+      "views": 1121,
       "watched": 273,
       "likes": 40,
       "comments": 0,
@@ -319,7 +330,7 @@
     {
       "videoId": "9Il9e4WfzXw",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 1078,
+      "views": 1080,
       "watched": 297,
       "likes": 43,
       "comments": 0,
@@ -330,50 +341,39 @@
     {
       "videoId": "4WUNKscls30",
       "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
-      "views": 1077,
+      "views": 1078,
       "watched": 322,
       "likes": 47,
       "comments": 1,
       "avgViewDuration": 28,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "FLK0SMOCaaU",
-      "title": "Why the Jellyfish Never Actually Dies #Shorts",
-      "views": 1030,
-      "watched": 263,
-      "likes": 49,
-      "comments": 0,
-      "avgViewDuration": 25,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-14T09:14:08-04:00",
+  "fetchedAt": "2026-08-15T09:08:44-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-14T09:14:08-04:00",
+      "fetchedAt": "2026-08-15T09:08:44-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 78,
+        "current": 84,
         "threshold": 1000,
-        "percent": 7.8
+        "percent": 8.4
       },
       "watchHours12mo": {
-        "current": 173.1,
+        "current": 188.8,
         "threshold": 4000,
-        "percent": 4.33,
+        "percent": 4.72,
         "window": "Last 12 months",
-        "minutesWatched": 10383
+        "minutesWatched": 11328
       },
       "shortsViews90d": {
-        "current": 44430,
+        "current": 46731,
         "threshold": 10000000,
-        "percent": 0.444,
+        "percent": 0.467,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
