@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-16T10:08:16.851075-04:00",
+  "lastRunAt": "2026-08-16T16:02:14.508025-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2938,6 +2938,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Polar Bear Is Not Actually White #Shorts",
       "secondAngleTitle": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-16-SELFN2",
+      "ideaId": "selfgen-2026-08-16-2",
+      "sourceHash": "9b7dba9076071f0c55dc4c48a17149f50a6255e8994b708d0fe86c96d6f88c51",
+      "status": "uploaded",
+      "startedAt": "2026-08-16T16:02:14.508025-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
+      "concept": "Third-angle dolphin story: echolocation, 120dB clicks, see through sand, distinguish brass from copper, detect heartbeat from 100ft. First: unihemispheric sleep. Second: signature whistles.",
+      "error": null,
+      "renderedAt": "2026-08-16T20:08:00-04:00",
+      "uploadedAt": "2026-08-16T20:08:01-04:00",
+      "youtube": {
+        "videoId": "KYufoqBM3JY",
+        "url": "https://www.youtube.com/watch?v=KYufoqBM3JY",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-16-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-16-SELFN2/narration.mp3",
+        "clips": "6 clips: 4 real dolphin (Back Dolphin Underwater, Dolphin Underwater, Pod of Spinner dolphins, Pexels) + 2 likely typhoon satellite footage named Dolphin (Wikimedia false matches)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-16-SELFN2/final.mp4"
+      },
+      "duration": 49.4,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Dolphin Never Fully Falls Asleep #Shorts",
+      "secondAngleTitle": "Why the Dolphin Has Its Own Name #Shorts"
     }
   ]
 }
