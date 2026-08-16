@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-15T16:02:46.439406-04:00",
+  "lastRunAt": "2026-08-16T10:08:16.851075-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2907,6 +2907,37 @@
       ],
       "secondAngle": true,
       "firstAngleTitle": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-16-SELFN",
+      "ideaId": "selfgen-2026-08-16",
+      "sourceHash": "9f3061d37ac016efaf68b28eee0d2e4c9b18c458a61079b20307a08f474f808d",
+      "status": "uploaded",
+      "startedAt": "2026-08-16T10:08:16.851075-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Polar Bear Smells a Seal From 20 Miles Away #Shorts",
+      "concept": "Third-angle polar bear story: 100x more olfactory receptors, smell seal from 20 miles through 3ft of ice, stalk upwind to breathing holes. First: not actually white. Second: swims 400 miles.",
+      "error": null,
+      "renderedAt": "2026-08-16T14:14:00-04:00",
+      "uploadedAt": "2026-08-16T14:14:32-04:00",
+      "youtube": {
+        "videoId": "JutAKR5ZODg",
+        "url": "https://www.youtube.com/watch?v=JutAKR5ZODg",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-16-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-16-SELFN/narration.mp3",
+        "clips": "6 clips all Wikimedia: 5 Polar Bear Swim event clips + 1 Wuppertal Zoo polar bear",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-16-SELFN/final.mp4"
+      },
+      "duration": 53.0,
+      "footageSources": [
+        "wikimedia"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Polar Bear Is Not Actually White #Shorts",
+      "secondAngleTitle": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts"
     }
   ]
 }
