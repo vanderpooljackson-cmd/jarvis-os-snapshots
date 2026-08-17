@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-16T16:02:14.508025-04:00",
+  "lastRunAt": "2026-08-17T10:02:59.477022-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -2970,6 +2970,37 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Dolphin Never Fully Falls Asleep #Shorts",
       "secondAngleTitle": "Why the Dolphin Has Its Own Name #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-17-SELFN",
+      "ideaId": "selfgen-2026-08-17",
+      "sourceHash": "d50142d62fa8e6f5ab9fa1afc428693d5ea4947743ec844ae8f576f863cf5626",
+      "status": "uploaded",
+      "startedAt": "2026-08-17T10:02:59.477022-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
+      "concept": "Third-angle turtle story: magnetite crystals in brain, magnetic map navigation, return to birth beach after 30 years. First: cloacal respiration. Second: countercurrent heat exchange.",
+      "error": null,
+      "renderedAt": "2026-08-17T14:09:00-04:00",
+      "uploadedAt": "2026-08-17T14:09:14-04:00",
+      "youtube": {
+        "videoId": "uack1HYnRco",
+        "url": "https://www.youtube.com/watch?v=uack1HYnRco",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-17-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-17-SELFN/narration.mp3",
+        "clips": "6 clips all Wikimedia: green sea turtle aerial, sea turtle North Sulawesi, turtle returning to ocean after laying eggs, close up Moalboal Cebu, green sea turtles Hawaii, leatherback baby turtle running to sea",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-17-SELFN/final.mp4"
+      },
+      "duration": 42.57,
+      "footageSources": [
+        "wikimedia"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Turtle Breathes Through Its Butt #Shorts",
+      "secondAngleTitle": "Why the Sea Turtle Stays Warm in Freezing Water #Shorts"
     }
   ]
 }
