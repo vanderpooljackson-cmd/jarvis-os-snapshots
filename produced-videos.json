@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-17T10:02:59.477022-04:00",
+  "lastRunAt": "2026-08-17T16:03:02.311167-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -3001,6 +3001,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Turtle Breathes Through Its Butt #Shorts",
       "secondAngleTitle": "Why the Sea Turtle Stays Warm in Freezing Water #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-17-SELFN2",
+      "ideaId": "selfgen-2026-08-17-2",
+      "sourceHash": "03d9413bedab1b172ac875619b60298ae54edd456e1e6d8cd7e023d1c6f1b2c0",
+      "status": "uploaded",
+      "startedAt": "2026-08-17T16:03:02.311167-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Eagle Sees a Glow You Can't #Shorts",
+      "concept": "Third-angle eagle story: UV vision, see mouse urine glowing, 4 color receptors vs 3. First: 2-mile vision. Second: talon grip strength.",
+      "error": null,
+      "renderedAt": "2026-08-17T20:07:00-04:00",
+      "uploadedAt": "2026-08-17T20:07:14-04:00",
+      "youtube": {
+        "videoId": "u1C7OUZ2odk",
+        "url": "https://www.youtube.com/watch?v=u1C7OUZ2odk",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-17-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-17-SELFN2/narration.mp3",
+        "clips": "6 clips: 1 Wikimedia (juvenile bald eagles Keeney Cove) + 5 Pexels (bald eagle close up, perched, soaring, diving, in wild)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-17-SELFN2/final.mp4"
+      },
+      "duration": 44.13,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
+      "secondAngleTitle": "Why the Eagle's Grip Is 10x Stronger Than Yours #Shorts"
     }
   ]
 }
