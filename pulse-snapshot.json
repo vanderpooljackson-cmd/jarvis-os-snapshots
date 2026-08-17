@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 60479,
-      "subscriberCount": 90,
-      "videoCount": 98
+      "viewCount": 67152,
+      "subscriberCount": 93,
+      "videoCount": 100
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-19",
-    "endDate": "2026-08-16",
+    "startDate": "2026-07-20",
+    "endDate": "2026-08-17",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 31871,
-    "estimatedMinutesWatched": 10888,
-    "subscribersGained": 63,
+    "views": 36457,
+    "estimatedMinutesWatched": 12790,
+    "subscribersGained": 62,
     "subscribersLost": 11,
-    "netSubscribers": 52,
-    "likes": 1186,
-    "comments": 16,
+    "netSubscribers": 51,
+    "likes": 1269,
+    "comments": 15,
     "shares": 21
   },
   "daily": [
-    {
-      "day": "2026-07-19",
-      "views": 2488,
-      "watched": 722,
-      "subsGained": 8,
-      "subsLost": 2,
-      "likes": 109
-    },
     {
       "day": "2026-07-20",
       "views": 2002,
@@ -207,23 +199,23 @@
     },
     {
       "day": "2026-08-10",
-      "views": 1671,
-      "watched": 477,
+      "views": 1659,
+      "watched": 474,
       "subsGained": 10,
       "subsLost": 1,
       "likes": 112
     },
     {
       "day": "2026-08-11",
-      "views": 1238,
-      "watched": 305,
+      "views": 1208,
+      "watched": 302,
       "subsGained": 0,
       "subsLost": 0,
       "likes": 38
     },
     {
       "day": "2026-08-12",
-      "views": 2301,
+      "views": 2299,
       "watched": 945,
       "subsGained": 2,
       "subsLost": 2,
@@ -236,17 +228,25 @@
       "subsGained": 8,
       "subsLost": 0,
       "likes": 219
+    },
+    {
+      "day": "2026-08-14",
+      "views": 7118,
+      "watched": 2630,
+      "subsGained": 7,
+      "subsLost": 2,
+      "likes": 192
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 6821,
-      "watched": 3300,
-      "likes": 199,
+      "views": 11835,
+      "watched": 5442,
+      "likes": 327,
       "comments": 4,
-      "avgViewDuration": 47,
+      "avgViewDuration": 44,
       "flag": "winner",
       "note": "Top combined views and retention"
     },
@@ -273,17 +273,6 @@
       "note": ""
     },
     {
-      "videoId": "RZ6qtnTpTiA",
-      "title": "Why the Fox Hunts With a Built-in Compass #Shorts",
-      "views": 1299,
-      "watched": 406,
-      "likes": 51,
-      "comments": 1,
-      "avgViewDuration": 28,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "85tlS2R1wJk",
       "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
       "views": 1272,
@@ -295,17 +284,6 @@
       "note": ""
     },
     {
-      "videoId": "g6Nmh2WuHDo",
-      "title": "Why the Polar Bear Is Not Actually White #Shorts",
-      "views": 1217,
-      "watched": 313,
-      "likes": 59,
-      "comments": 0,
-      "avgViewDuration": 26,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "C5rhgXKTkO4",
       "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
       "views": 1121,
@@ -313,6 +291,17 @@
       "likes": 40,
       "comments": 0,
       "avgViewDuration": 22,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "EQW2nGlieuo",
+      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
+      "views": 1093,
+      "watched": 224,
+      "likes": 46,
+      "comments": 0,
+      "avgViewDuration": 23,
       "flag": "stable",
       "note": ""
     },
@@ -348,32 +337,43 @@
       "avgViewDuration": 25,
       "flag": "stable",
       "note": ""
+    },
+    {
+      "videoId": "F39DdwKsONc",
+      "title": "Why the Bear Smells Food From Twenty Miles Away #Shorts",
+      "views": 979,
+      "watched": 349,
+      "likes": 30,
+      "comments": 1,
+      "avgViewDuration": 33,
+      "flag": "stable",
+      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-16T09:06:27-04:00",
+  "fetchedAt": "2026-08-17T09:20:55.128342-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-16T09:06:27-04:00",
+      "fetchedAt": "2026-08-17T09:20:55.128342-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 90,
+        "current": 93,
         "threshold": 1000,
-        "percent": 9.0
+        "percent": 9.3
       },
       "watchHours12mo": {
-        "current": 239.4,
+        "current": 283.1,
         "threshold": 4000,
-        "percent": 5.99,
+        "percent": 7.08,
         "window": "Last 12 months",
-        "minutesWatched": 14364
+        "minutesWatched": 16989
       },
       "shortsViews90d": {
-        "current": 53237,
+        "current": 60311,
         "threshold": 10000000,
-        "percent": 0.532,
+        "percent": 0.603,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
