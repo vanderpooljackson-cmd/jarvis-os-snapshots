@@ -1,116 +1,49 @@
 {
-  "fetchedAt": "2026-08-14T17:36:05.838982-04:00",
+  "fetchedAt": "2026-08-17T17:39:57.401730-04:00",
   "videos": [
     {
-      "videoId": "EQW2nGlieuo",
-      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "u1C7OUZ2odk",
+      "title": "Why the Eagle Sees a Glow You Can't #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "40,000 vs 600 muscle comparison",
-          "startSec": 0,
-          "endSec": 15,
-          "why": "Opening hook with the staggering stat: 40,000 muscles vs human body's 600. Strongest curiosity gap in the video.",
-          "hookRewrite": "An elephant's trunk has 40,000 muscles \u2014 the entire human body only has 600"
-        },
-        {
-          "momentLabel": "Snorkel periscope",
-          "startSec": 22,
-          "endSec": 40,
-          "why": "Elephants can walk across rivers on the bottom with their trunk above water like a periscope. Visual and surprising.",
-          "hookRewrite": "An elephant can snorkel across a river by walking on the bottom with its trunk raised like a periscope"
-        }
-      ]
+      "clipCandidates": []
     },
     {
-      "videoId": "5SV1p64SDnE",
-      "title": "Why the Camel Drinks 30 Gallons in 13 Minutes #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "uack1HYnRco",
+      "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Oval blood cells discovery",
-          "startSec": 9,
-          "endSec": 27,
-          "why": "The key reveal: camel RBCs are oval and swell to 240% without bursting. Every other mammal's round cells would explode. Strong science surprise.",
-          "hookRewrite": "Camel blood cells are oval so they can drink 30 gallons without exploding \u2014 round cells would burst"
-        },
-        {
-          "momentLabel": "Syrup-thick urine survival",
-          "startSec": 27,
-          "endSec": 44,
-          "why": "Camels survive 40% body weight water loss with kidneys so efficient their urine is thick as syrup. Extreme survival angle.",
-          "hookRewrite": "A camel's kidneys are so efficient its urine comes out thick as syrup \u2014 they can lose 40% of their body weight in water"
-        }
-      ]
+      "clipCandidates": []
     },
     {
-      "videoId": "ZSqAZJUOFC0",
-      "title": "Why the Eagle's Grip Is 10x Stronger Than Yours #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "KYufoqBM3JY",
+      "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "400 PSI grip stat",
-          "startSec": 0,
-          "endSec": 17,
-          "why": "Opening with 400 PSI vs human 40 PSI \u2014 10x stronger. Direct comparison makes it visceral.",
-          "hookRewrite": "An eagle's grip is 400 PSI \u2014 ten times stronger than a human hand, enough to crush bone"
-        },
-        {
-          "momentLabel": "Ratcheting lock mechanism",
-          "startSec": 17,
-          "endSec": 33,
-          "why": "Talons lock without muscle effort \u2014 eagle can't let go until it consciously opens them. Counterintuitive and surprising.",
-          "hookRewrite": "Once an eagle grabs you, it physically can't let go \u2014 its talons lock automatically without using any muscle"
-        }
-      ]
+      "clipCandidates": []
     },
     {
-      "videoId": "Gk_HcgWxyIM",
-      "title": "Why the Penguin Holds Its Breath for 22 Minutes #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Lung collapse + 6 bpm heart rate",
-          "startSec": 0,
-          "endSec": 22,
-          "why": "Penguins collapse their own lungs and drop heart rate to 6 bpm. Most extreme physiological feat in the video.",
-          "hookRewrite": "A penguin collapses its own lungs and drops its heart to 6 beats per minute to dive 1,800 feet deep"
-        },
-        {
-          "momentLabel": "Myoglobin biological scuba tank",
-          "startSec": 22,
-          "endSec": 39,
-          "why": "Oxygen stored in blood/muscle via myoglobin, not lungs \u2014 biological scuba tank. Science-driven curiosity.",
-          "hookRewrite": "Penguins store oxygen in their muscles like a biological scuba tank \u2014 not in their lungs"
-        }
-      ]
-    },
-    {
-      "videoId": "LF75Mu00CIQ",
-      "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
+      "videoId": "JutAKR5ZODg",
+      "title": "Why the Polar Bear Smells a Seal From 20 Miles Away #Shorts",
       "transcriptStatus": "failed",
       "comments": [
         {
-          "id": "UgxDprqMg1ImNhm_NGd4AaABAg",
-          "author": "@CarolZeh-i2s",
-          "text": "Bears all can swim but Polar Bears are the experts",
+          "id": "UgxkktBa0XxQorfUaRN4AaABAg",
+          "author": "@singin7250",
+          "text": "I KNOW THAT WATER IS COLD AS HELL",
           "replyPosted": true,
-          "replyText": "Absolutely! Polar bears are in a league of their own \u2014 they're technically classified as marine mammals because they spend so much of their lives on sea ice and in the ocean. Thanks for watching!"
-        },
-        {
-          "id": "Ugw8OlaLAillVipxbB94AaABAg",
-          "author": "@MFM230",
-          "text": "Like moose, which spend most of their time in bogs or streams.",
-          "replyPosted": true,
-          "replyText": "Great comparison! Moose are actually incredible swimmers too \u2014 they can dive up to 20 feet underwater to feed on aquatic plants. Nature keeps finding ways to surprise us!"
+          "replyText": "You're right \u2014 that Arctic water can drop below 28\u00b0F! Polar bears have a 4-inch layer of blubber and hollow fur that traps heat so well they actually overheat more easily than they freeze. Thanks for watching!"
         }
       ],
       "clipCandidates": []
+    },
+    {
+      "videoId": "tMrTS480uqE",
+      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
     }
   ],
-  "postedReplies": 2
+  "postedReplies": 1
 }
