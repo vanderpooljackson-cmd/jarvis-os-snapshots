@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-17T16:03:02.311167-04:00",
+  "lastRunAt": "2026-08-18T10:08:39.395757-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -3033,6 +3033,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
       "secondAngleTitle": "Why the Eagle's Grip Is 10x Stronger Than Yours #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-18-SELFN",
+      "ideaId": "selfgen-2026-08-18",
+      "sourceHash": "95ba7856eb6393d3c1db7c59a552eae822546ab865db19412f494f3c4bbdaa46",
+      "status": "uploaded",
+      "startedAt": "2026-08-18T10:08:39.395757-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Camel Can Chew Through Cactus Spines #Shorts",
+      "concept": "Third-angle camel story: keratinized papillae in mouth, eat cactus spines, leathery cheek lining. First: hump stores fat. Second: drinks 30 gallons.",
+      "error": null,
+      "renderedAt": "2026-08-18T14:13:00-04:00",
+      "uploadedAt": "2026-08-18T14:13:41-04:00",
+      "youtube": {
+        "videoId": "zVxbp_9-30c",
+        "url": "https://www.youtube.com/watch?v=zVxbp_9-30c",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-18-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-18-SELFN/narration.mp3",
+        "clips": "6 clips: 3 Wikimedia (camel riding Morocco, Alice Springs Camel Cup, story camel jackal) + 2 Coverr (desert California x2) + 1 false match (Apache Camel software talk). 4+ usable.",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-18-SELFN/final.mp4"
+      },
+      "duration": 48.4,
+      "footageSources": [
+        "wikimedia",
+        "coverr"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Camel's Hump Is Not Full of Water #Shorts",
+      "secondAngleTitle": "Why the Camel Drinks 30 Gallons in 13 Minutes #Shorts"
     }
   ]
 }
