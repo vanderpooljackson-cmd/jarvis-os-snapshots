@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-18T10:08:39.395757-04:00",
+  "lastRunAt": "2026-08-18T16:01:30.060607-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -3065,6 +3065,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Camel's Hump Is Not Full of Water #Shorts",
       "secondAngleTitle": "Why the Camel Drinks 30 Gallons in 13 Minutes #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-18-SELFN2",
+      "ideaId": "selfgen-2026-08-18-2",
+      "sourceHash": "f3cb7044f22ecb7067226a53924c9d4822b328bb47fe1a217cc11d64a393d678",
+      "status": "uploaded",
+      "startedAt": "2026-08-18T16:01:30.060607-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
+      "concept": "Third-angle shark story: 15 rows of backup teeth, conveyor belt replacement, 30,000-50,000 teeth lifetime. First: electroreception. Second: dermal denticles.",
+      "error": null,
+      "renderedAt": "2026-08-18T20:06:00-04:00",
+      "uploadedAt": "2026-08-18T20:06:17-04:00",
+      "youtube": {
+        "videoId": "oOvJedn-abs",
+        "url": "https://www.youtube.com/watch?v=oOvJedn-abs",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-18-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-18-SELFN2/narration.mp3",
+        "clips": "6 clips all real sharks: 4 Wikimedia (great white cage diving x2, bull shark Coast Guard, pelagic thresher shark) + 2 Pexels (shark teeth, shark hunting)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-18-SELFN2/final.mp4"
+      },
+      "duration": 40.2,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
+      "secondAngleTitle": "Why the Shark's Skin Is Made of Teeth #Shorts"
     }
   ]
 }
