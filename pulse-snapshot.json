@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 67152,
-      "subscriberCount": 93,
-      "videoCount": 100
+      "viewCount": 73481,
+      "subscriberCount": 99,
+      "videoCount": 102
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-20",
-    "endDate": "2026-08-17",
+    "startDate": "2026-07-21",
+    "endDate": "2026-08-18",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 36457,
-    "estimatedMinutesWatched": 12790,
-    "subscribersGained": 62,
-    "subscribersLost": 11,
+    "views": 39250,
+    "estimatedMinutesWatched": 13616,
+    "subscribersGained": 60,
+    "subscribersLost": 9,
     "netSubscribers": 51,
-    "likes": 1269,
-    "comments": 15,
+    "likes": 1346,
+    "comments": 16,
     "shares": 21
   },
   "daily": [
-    {
-      "day": "2026-07-20",
-      "views": 2002,
-      "watched": 663,
-      "subsGained": 7,
-      "subsLost": 2,
-      "likes": 88
-    },
     {
       "day": "2026-07-21",
       "views": 2703,
@@ -183,8 +175,8 @@
     },
     {
       "day": "2026-08-08",
-      "views": 1542,
-      "watched": 344,
+      "views": 1539,
+      "watched": 343,
       "subsGained": 1,
       "subsLost": 1,
       "likes": 57
@@ -223,7 +215,7 @@
     },
     {
       "day": "2026-08-13",
-      "views": 6514,
+      "views": 6511,
       "watched": 3038,
       "subsGained": 8,
       "subsLost": 0,
@@ -236,19 +228,38 @@
       "subsGained": 7,
       "subsLost": 2,
       "likes": 192
+    },
+    {
+      "day": "2026-08-15",
+      "views": 4801,
+      "watched": 1490,
+      "subsGained": 5,
+      "subsLost": 0,
+      "likes": 165
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 11835,
-      "watched": 5442,
-      "likes": 327,
+      "views": 12441,
+      "watched": 5643,
+      "likes": 348,
       "comments": 4,
-      "avgViewDuration": 44,
+      "avgViewDuration": 43,
       "flag": "winner",
       "note": "Top combined views and retention"
+    },
+    {
+      "videoId": "tMrTS480uqE",
+      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
+      "views": 2353,
+      "watched": 700,
+      "likes": 77,
+      "comments": 0,
+      "avgViewDuration": 28,
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "M95zB-4aYAQ",
@@ -262,20 +273,20 @@
       "note": ""
     },
     {
-      "videoId": "0jZSeW-87Gw",
-      "title": "Why the Turtle Breathes Through Its Butt #Shorts",
-      "views": 1303,
-      "watched": 530,
-      "likes": 61,
+      "videoId": "CYrW38_aFRg",
+      "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
+      "views": 1613,
+      "watched": 433,
+      "likes": 59,
       "comments": 1,
-      "avgViewDuration": 37,
+      "avgViewDuration": 27,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "85tlS2R1wJk",
       "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-      "views": 1272,
+      "views": 1273,
       "watched": 502,
       "likes": 41,
       "comments": 0,
@@ -284,22 +295,11 @@
       "note": ""
     },
     {
-      "videoId": "C5rhgXKTkO4",
-      "title": "Why the Camel's Hump Is Not Full of Water #Shorts",
-      "views": 1121,
-      "watched": 273,
-      "likes": 40,
-      "comments": 0,
-      "avgViewDuration": 22,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "EQW2nGlieuo",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1093,
-      "watched": 224,
-      "likes": 46,
+      "views": 1151,
+      "watched": 238,
+      "likes": 47,
       "comments": 0,
       "avgViewDuration": 23,
       "flag": "stable",
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-17T09:20:55.128342-04:00",
+  "fetchedAt": "2026-08-18T09:10:12.079894-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-17T09:20:55.128342-04:00",
+      "fetchedAt": "2026-08-18T09:10:12.079894-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 93,
+        "current": 99,
         "threshold": 1000,
-        "percent": 9.3
+        "percent": 9.9
       },
       "watchHours12mo": {
-        "current": 283.1,
+        "current": 308.0,
         "threshold": 4000,
-        "percent": 7.08,
+        "percent": 7.7,
         "window": "Last 12 months",
-        "minutesWatched": 16989
+        "minutesWatched": 18479
       },
       "shortsViews90d": {
-        "current": 60311,
+        "current": 65106,
         "threshold": 10000000,
-        "percent": 0.603,
+        "percent": 0.651,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
