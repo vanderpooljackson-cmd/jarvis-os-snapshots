@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 73481,
-      "subscriberCount": 99,
-      "videoCount": 102
+      "viewCount": 77396,
+      "subscriberCount": 106,
+      "videoCount": 104
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-21",
-    "endDate": "2026-08-18",
+    "startDate": "2026-07-22",
+    "endDate": "2026-08-19",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 39250,
-    "estimatedMinutesWatched": 13616,
-    "subscribersGained": 60,
-    "subscribersLost": 9,
-    "netSubscribers": 51,
-    "likes": 1346,
-    "comments": 16,
-    "shares": 21
+    "views": 44028,
+    "estimatedMinutesWatched": 15093,
+    "subscribersGained": 58,
+    "subscribersLost": 10,
+    "netSubscribers": 48,
+    "likes": 1425,
+    "comments": 15,
+    "shares": 28
   },
   "daily": [
-    {
-      "day": "2026-07-21",
-      "views": 2703,
-      "watched": 1087,
-      "subsGained": 8,
-      "subsLost": 0,
-      "likes": 92
-    },
     {
       "day": "2026-07-22",
       "views": 2599,
@@ -223,7 +215,7 @@
     },
     {
       "day": "2026-08-14",
-      "views": 7118,
+      "views": 7116,
       "watched": 2630,
       "subsGained": 7,
       "subsLost": 2,
@@ -236,50 +228,58 @@
       "subsGained": 5,
       "subsLost": 0,
       "likes": 165
+    },
+    {
+      "day": "2026-08-16",
+      "views": 7483,
+      "watched": 2564,
+      "subsGained": 6,
+      "subsLost": 1,
+      "likes": 171
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 12441,
-      "watched": 5643,
-      "likes": 348,
+      "views": 12880,
+      "watched": 5762,
+      "likes": 361,
       "comments": 4,
-      "avgViewDuration": 43,
+      "avgViewDuration": 42,
       "flag": "winner",
       "note": "Top combined views and retention"
     },
     {
-      "videoId": "tMrTS480uqE",
-      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 2353,
-      "watched": 700,
-      "likes": 77,
-      "comments": 0,
-      "avgViewDuration": 28,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "M95zB-4aYAQ",
-      "title": "Why the Dolphin Never Fully Falls Asleep #Shorts",
-      "views": 2071,
-      "watched": 989,
-      "likes": 51,
-      "comments": 2,
-      "avgViewDuration": 44,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "CYrW38_aFRg",
       "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 1613,
-      "watched": 433,
-      "likes": 59,
-      "comments": 1,
-      "avgViewDuration": 27,
+      "views": 4331,
+      "watched": 1593,
+      "likes": 155,
+      "comments": 2,
+      "avgViewDuration": 36,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "tMrTS480uqE",
+      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
+      "views": 4193,
+      "watched": 1482,
+      "likes": 97,
+      "comments": 0,
+      "avgViewDuration": 34,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "KYufoqBM3JY",
+      "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
+      "views": 1393,
+      "watched": 297,
+      "likes": 28,
+      "comments": 0,
+      "avgViewDuration": 17,
       "flag": "stable",
       "note": ""
     },
@@ -297,8 +297,8 @@
     {
       "videoId": "EQW2nGlieuo",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1151,
-      "watched": 238,
+      "views": 1193,
+      "watched": 244,
       "likes": 47,
       "comments": 0,
       "avgViewDuration": 23,
@@ -317,17 +317,6 @@
       "note": ""
     },
     {
-      "videoId": "4WUNKscls30",
-      "title": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
-      "views": 1079,
-      "watched": 323,
-      "likes": 47,
-      "comments": 1,
-      "avgViewDuration": 28,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "FLK0SMOCaaU",
       "title": "Why the Jellyfish Never Actually Dies #Shorts",
       "views": 1031,
@@ -335,6 +324,17 @@
       "likes": 49,
       "comments": 0,
       "avgViewDuration": 25,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "JutAKR5ZODg",
+      "title": "Why the Polar Bear Smells a Seal From 20 Miles Away #Shorts",
+      "views": 992,
+      "watched": 180,
+      "likes": 13,
+      "comments": 1,
+      "avgViewDuration": 18,
       "flag": "stable",
       "note": ""
     },
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-18T09:10:12.079894-04:00",
+  "fetchedAt": "2026-08-19T09:13:00.960809-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-18T09:10:12.079894-04:00",
+      "fetchedAt": "2026-08-19T09:13:00.960809-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 99,
+        "current": 106,
         "threshold": 1000,
-        "percent": 9.9
+        "percent": 10.6
       },
       "watchHours12mo": {
-        "current": 308.0,
+        "current": 350.7,
         "threshold": 4000,
-        "percent": 7.7,
+        "percent": 8.77,
         "window": "Last 12 months",
-        "minutesWatched": 18479
+        "minutesWatched": 21044
       },
       "shortsViews90d": {
-        "current": 65106,
+        "current": 72587,
         "threshold": 10000000,
-        "percent": 0.651,
+        "percent": 0.726,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
