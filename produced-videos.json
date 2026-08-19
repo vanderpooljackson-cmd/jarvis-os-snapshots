@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-19T10:10:57.478826-04:00",
+  "lastRunAt": "2026-08-19T16:01:36.100977-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -3129,6 +3129,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Jellyfish Never Actually Dies #Shorts",
       "secondAngleTitle": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-19-SELFN2",
+      "ideaId": "selfgen-2026-08-19-2",
+      "sourceHash": "48ce7d6df783af3f7ebd56673a12cd2ce04ebc95887b0855b346d03a0af5782b",
+      "status": "uploaded",
+      "startedAt": "2026-08-19T16:01:36.100977-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Breathes Underwater Through Its Trunk #Shorts",
+      "concept": "Third-angle elephant story: trunk as snorkel, swim underwater for miles, 7-foot airtight breathing tube. First: seismic hearing through feet. Second: 40,000 muscles in trunk.",
+      "error": null,
+      "renderedAt": "2026-08-19T20:08:00-04:00",
+      "uploadedAt": "2026-08-19T20:08:33-04:00",
+      "youtube": {
+        "videoId": "sJaqLr8I_9w",
+        "url": "https://www.youtube.com/watch?v=sJaqLr8I_9w",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-19-SELFN2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-19-SELFN2/narration.mp3",
+        "clips": "6 clips: 1 Coverr (pink elephant CGI \u2014 scene 1 only) + 5 Wikimedia (Indian elephant Kaziranga, bathing elephant, Pinnawala orphanage, Dharmasthala elephant shed x2)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-19-SELFN2/final.mp4"
+      },
+      "duration": 49.2,
+      "footageSources": [
+        "coverr",
+        "wikimedia"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Elephant Hears With Its Feet #Shorts",
+      "secondAngleTitle": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts"
     }
   ]
 }
