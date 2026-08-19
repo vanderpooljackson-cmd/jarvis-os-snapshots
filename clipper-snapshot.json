@@ -1,49 +1,49 @@
 {
-  "fetchedAt": "2026-08-17T17:39:57.401730-04:00",
+  "fetchedAt": "2026-08-19T17:38:14.321700-04:00",
   "videos": [
+    {
+      "videoId": "sJaqLr8I_9w",
+      "title": "Why the Elephant Breathes Underwater Through Its Trunk #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [
+        {
+          "id": "Ugxs1Ul4gYH6HK5VymV4AaABAg",
+          "author": "@CONNIECARLSEN-t4s",
+          "text": "Amazing creatures!!!!",
+          "replyPosted": false,
+          "replyText": null
+        }
+      ],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "3aONQLcQSKs",
+      "title": "Why the Jellyfish Glows in the Dark #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "oOvJedn-abs",
+      "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "zVxbp_9-30c",
+      "title": "Why the Camel Can Chew Through Cactus Spines #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
     {
       "videoId": "u1C7OUZ2odk",
       "title": "Why the Eagle Sees a Glow You Can't #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": []
-    },
-    {
-      "videoId": "uack1HYnRco",
-      "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "KYufoqBM3JY",
-      "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "JutAKR5ZODg",
-      "title": "Why the Polar Bear Smells a Seal From 20 Miles Away #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [
-        {
-          "id": "UgxkktBa0XxQorfUaRN4AaABAg",
-          "author": "@singin7250",
-          "text": "I KNOW THAT WATER IS COLD AS HELL",
-          "replyPosted": true,
-          "replyText": "You're right \u2014 that Arctic water can drop below 28\u00b0F! Polar bears have a 4-inch layer of blubber and hollow fur that traps heat so well they actually overheat more easily than they freeze. Thanks for watching!"
-        }
-      ],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "tMrTS480uqE",
-      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
     }
   ],
-  "postedReplies": 1
+  "postedReplies": 0
 }
