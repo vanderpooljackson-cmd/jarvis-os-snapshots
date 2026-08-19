@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-18T16:01:30.060607-04:00",
+  "lastRunAt": "2026-08-19T10:10:57.478826-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -3097,6 +3097,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Shark Can Sense a Heartbeat in the Dark #Shorts",
       "secondAngleTitle": "Why the Shark's Skin Is Made of Teeth #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-19-SELFN",
+      "ideaId": "selfgen-2026-08-19",
+      "sourceHash": "fd399ec07044234908d775be5b3f7180bc01d54978dd2813f60ea8ee66eebc39",
+      "status": "uploaded",
+      "startedAt": "2026-08-19T10:10:57.478826-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Jellyfish Glows in the Dark #Shorts",
+      "concept": "Third-angle jellyfish story: bioluminescence, luciferin+oxygen reaction, 76% of deep-sea jellyfish glow, blue/green light. First: immortality. Second: 24 eyes.",
+      "error": null,
+      "renderedAt": "2026-08-19T14:17:00-04:00",
+      "uploadedAt": "2026-08-19T14:17:17-04:00",
+      "youtube": {
+        "videoId": "3aONQLcQSKs",
+        "url": "https://www.youtube.com/watch?v=3aONQLcQSKs",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-19-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-19-SELFN/narration.mp3",
+        "clips": "6 clips all real jellyfish: 1 Wikimedia (Deepwater Exploration of the Marianas) + 5 Pexels (glowing, close up, bioluminescent, deep sea, swimming)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-19-SELFN/final.mp4"
+      },
+      "duration": 44.53,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Jellyfish Never Actually Dies #Shorts",
+      "secondAngleTitle": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts"
     }
   ]
 }
