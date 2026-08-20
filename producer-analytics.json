@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-20T11:31:28-04:00",
-  "fetchedAt": "2026-08-20T11:31:28-04:00",
+  "lastRunAt": "2026-08-20T11:32:05-04:00",
+  "fetchedAt": "2026-08-20T11:32:05-04:00",
   "videos": [
     {
       "productionId": "JV-2026-08-10-SELFN2",
@@ -819,7 +819,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -838,7 +838,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1540,7 +1540,7 @@
         "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Views are above the available-video median, but AVD is below baseline; tighten hook/pacing."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": "optimize"
     },
     {
@@ -1566,7 +1566,7 @@
         "ratioToBaselineAvgViewDuration": 1.0,
         "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -1585,7 +1585,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1604,7 +1604,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1623,7 +1623,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1642,7 +1642,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1661,7 +1661,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1680,7 +1680,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-20T11:31:28-04:00",
+      "analyzedAt": "2026-08-20T11:32:05-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -1883,8 +1883,8 @@
       "confidence": "low"
     },
     {
-      "key": "polar",
-      "label": "Polar",
+      "key": "polar_bear",
+      "label": "Polar Bear",
       "videos": [
         "g6Nmh2WuHDo",
         "LF75Mu00CIQ",
@@ -1893,19 +1893,6 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 26.0,
       "viewsMedian": 1215.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "sea",
-      "label": "Sea",
-      "videos": [
-        "zCiVupoWOVk",
-        "6_LwoDgA6AI"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 21.0,
-      "viewsMedian": 589.5,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -2064,13 +2051,8 @@
       "verdict": "promising"
     },
     {
-      "pattern": "Polar topic",
+      "pattern": "Polar Bear topic",
       "evidence": "3 available videos; median 1215.0 views and 26.0s average view duration versus 33.0s channel baseline; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Sea topic",
-      "evidence": "2 available videos; median 589.5 views and 21.0s average view duration versus 33.0s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
