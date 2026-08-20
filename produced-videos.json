@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-19T16:01:36.100977-04:00",
+  "lastRunAt": "2026-08-20T10:08:19.596604-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -3161,6 +3161,38 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Elephant Hears With Its Feet #Shorts",
       "secondAngleTitle": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts"
+    },
+    {
+      "productionId": "JV-2026-08-20-SELFN",
+      "ideaId": "selfgen-2026-08-20",
+      "sourceHash": "9b7f7ae964ffd907d539fb1dbb63df101600d2036e40b7debadbd0de2cf182ec",
+      "status": "uploaded",
+      "startedAt": "2026-08-20T10:08:19.596604-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Fox Hears a Mouse Under Two Feet of Snow #Shorts",
+      "concept": "Third-angle fox story: directional hearing, 65kHz frequency range, magnetic field alignment for hunting. First: built-in compass. Second: tree climbing.",
+      "error": null,
+      "renderedAt": "2026-08-20T14:15:00-04:00",
+      "uploadedAt": "2026-08-20T14:15:24-04:00",
+      "youtube": {
+        "videoId": "H6x-o_inlJY",
+        "url": "https://www.youtube.com/watch?v=H6x-o_inlJY",
+        "privacyStatus": "public"
+      },
+      "assetManifest": {
+        "script": "/tmp/jvshorts/JV-2026-08-20-SELFN/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-08-20-SELFN/narration.mp3",
+        "clips": "6 clips all real fox: 3 Wikimedia (Czech fur farms fox, Fox Family Cam, foxes on field in Belarus snow) + 3 Pexels (fox hunting snow, red fox forest, fox pouncing)",
+        "finalVideo": "/tmp/jvshorts/JV-2026-08-20-SELFN/final.mp4"
+      },
+      "duration": 50.17,
+      "footageSources": [
+        "wikimedia",
+        "pexels"
+      ],
+      "thirdAngle": true,
+      "firstAngleTitle": "Why the Fox Hunts With a Built-in Compass #Shorts",
+      "secondAngleTitle": "Why the Fox Climbs Trees Like a Cat #Shorts"
     }
   ]
 }
