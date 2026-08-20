@@ -3271,6 +3271,32 @@
       ],
       "episodeType": "compilation",
       "note": "First long-form episode. 5 animals selected from top-performing Shorts by views+retention. Used cached clips for dolphin+turtle, fresh Pexels footage for jellyfish+shark+flamingo."
+    },
+    {
+      "productionId": "JV-2026-08-20-SELF2",
+      "ideaId": "selfgen-owl-270",
+      "sourceHash": "16488230c081041d158c321ef7166897b2667bb6aac63e9a8a7b5196ea25d0e1",
+      "title": "Why the Owl Turns Its Head 270 Degrees #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-20T16:03:25.463897-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on owl \u2014 270 degree head rotation superpower. Owl only has 1 angle (hunts in silence).",
+      "renderedAt": "2026-08-20T16:07:53.686516-04:00",
+      "uploadedAt": "2026-08-20T16:07:53.686516-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "f0dpKtBpIlw",
+        "url": "https://www.youtube.com/watch?v=f0dpKtBpIlw"
+      },
+      "duration": 50.8,
+      "resolution": "1080x1920",
+      "script": "Why can an owl spin its head almost completely backwards without dying? You'd snap your neck. An owl turns its head 270 degrees and survives. The secret is blood. Owls have enlarged cavities in their neck vertebrae that store a reservoir of blood. When rotation pinches off vessels, that reservoir keeps the brain fed. Special air-filled cushions in their arteries prevent strokes when vessels compress. A human rotating that far would cut off all blood flow and pass out in seconds. The owl's neck evolved for this because owl eyes are fixed in their sockets. They can't roll, can't track, can't look sideways. The head does all the work, spinning three-quarters of a full circle to see what's behind.",
+      "hookOverlay": "SPINS ITS HEAD 270 DEGREES",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "owl",
+      "angle": "2nd (head rotation 270 degrees)",
+      "note": "Second angle on owl (first: hunts in silence). Self-generated from winning title pattern. 6/6 Pexels clips."
     }
   ]
 }
