@@ -3193,6 +3193,84 @@
       "thirdAngle": true,
       "firstAngleTitle": "Why the Fox Hunts With a Built-in Compass #Shorts",
       "secondAngleTitle": "Why the Fox Climbs Trees Like a Cat #Shorts"
+    },
+    {
+      "productionId": "EP-001",
+      "ideaId": "longform-pilot",
+      "sourceHash": "sha256:EP-001-5-animal-superpowers",
+      "title": "5 Animal Superpowers That Sound Made Up",
+      "concept": "Long-form compilation episode featuring 5 proven wildlife facts from top-performing Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-20T11:26:55.560700-04:00",
+      "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
+      "mode": "longform-episode",
+      "format": "longform",
+      "duration": 301.9,
+      "resolution": "1920x1080",
+      "youtube": {
+        "videoId": "C1n3GyrwoFs",
+        "url": "https://www.youtube.com/watch?v=C1n3GyrwoFs"
+      },
+      "segments": [
+        {
+          "type": "cold_open",
+          "title": "5 Animal Superpowers That Sound Made Up",
+          "duration": 14.4
+        },
+        {
+          "type": "animal",
+          "title": "Jellyfish \u2014 24 Eyes, No Brain",
+          "duration": 51.5,
+          "clipsSource": "fresh-fetch"
+        },
+        {
+          "type": "bridge",
+          "duration": 5
+        },
+        {
+          "type": "animal",
+          "title": "Shark \u2014 Skin Made of Teeth",
+          "duration": 60.0,
+          "clipsSource": "fresh-fetch"
+        },
+        {
+          "type": "bridge",
+          "duration": 5
+        },
+        {
+          "type": "animal",
+          "title": "Dolphin \u2014 Never Fully Sleeps",
+          "duration": 55.4,
+          "clipsSource": "cached-M95zB-4aYAQ"
+        },
+        {
+          "type": "bridge",
+          "duration": 5
+        },
+        {
+          "type": "animal",
+          "title": "Turtle \u2014 Breathes Through Its Butt",
+          "duration": 32.8,
+          "clipsSource": "cached-0jZSeW-87Gw"
+        },
+        {
+          "type": "bridge",
+          "duration": 5
+        },
+        {
+          "type": "animal",
+          "title": "Flamingo \u2014 Survives Toxic Boiling Water",
+          "duration": 56.6,
+          "clipsSource": "fresh-fetch"
+        },
+        {
+          "type": "outro",
+          "title": "Subscribe for More",
+          "duration": 12.8
+        }
+      ],
+      "episodeType": "compilation",
+      "note": "First long-form episode. 5 animals selected from top-performing Shorts by views+retention. Used cached clips for dolphin+turtle, fresh Pexels footage for jellyfish+shark+flamingo."
     }
   ]
 }
