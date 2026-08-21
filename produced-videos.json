@@ -3297,6 +3297,31 @@
       "animal": "owl",
       "angle": "2nd (head rotation 270 degrees)",
       "note": "Second angle on owl (first: hunts in silence). Self-generated from winning title pattern. 6/6 Pexels clips."
+    },
+    {
+      "productionId": "JV-2026-08-21-SELFN",
+      "ideaId": "selfgen-tiger-stripes-skin",
+      "sourceHash": "ca63096cf8849d4e7b09c56ab8e9dc0da8757b86485e6ec1bfb535d70ba8d031",
+      "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-21T10:12:46.853274-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on tiger. Paradox reveal: tiger stripes go through the skin, not just fur.",
+      "renderedAt": "2026-08-21T10:25:35.407654-04:00",
+      "uploadedAt": "2026-08-21T10:25:35.407654-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "kZfSFw7Rk9o",
+        "url": "https://www.youtube.com/watch?v=kZfSFw7Rk9o"
+      },
+      "duration": 50.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "STRIPES GO THROUGH THE SKIN",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "tiger",
+      "angle": "2nd (stripes through skin)",
+      "note": "Second angle on tiger. Paradox reveal pattern matching top performers. 6/6 Pexels clips, 2 re-fetches needed (scene 1 was human face, scene 5 was lioness)."
     }
   ]
 }
