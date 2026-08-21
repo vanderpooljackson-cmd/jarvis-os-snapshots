@@ -3322,6 +3322,31 @@
       "animal": "tiger",
       "angle": "2nd (stripes through skin)",
       "note": "Second angle on tiger. Paradox reveal pattern matching top performers. 6/6 Pexels clips, 2 re-fetches needed (scene 1 was human face, scene 5 was lioness)."
+    },
+    {
+      "productionId": "JV-2026-08-21-SELF2",
+      "ideaId": "selfgen-hippo-underwater-run",
+      "sourceHash": "7082d6340ec95d9eac39812ee211dd3e5070ebeaace61d9cb1adb65de668069a",
+      "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-21T16:02:49.993355-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on hippo. Paradox: hippos can't swim, they sink and run on river bottoms at 8 mph.",
+      "renderedAt": "2026-08-21T16:11:22.443732-04:00",
+      "uploadedAt": "2026-08-21T16:11:22.443732-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "yKKvd4LWCcE",
+        "url": "https://www.youtube.com/watch?v=yKKvd4LWCcE"
+      },
+      "duration": 53.73,
+      "resolution": "1080x1920",
+      "hookOverlay": "RUNS UNDERWATER INSTEAD OF SWIMMING",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "hippo",
+      "angle": "2nd (runs underwater instead of swimming)",
+      "note": "Second angle on hippo. Paradox: water animal that can't swim, sinks and runs on riverbed. 6/6 Pexels clips, no re-fetches needed."
     }
   ]
 }
