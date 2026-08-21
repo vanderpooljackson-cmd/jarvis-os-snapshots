@@ -1,49 +1,49 @@
 {
-  "fetchedAt": "2026-08-19T17:38:14.321700-04:00",
+  "fetchedAt": "2026-08-21T17:47:49.630144-04:00",
   "videos": [
     {
-      "videoId": "sJaqLr8I_9w",
-      "title": "Why the Elephant Breathes Underwater Through Its Trunk #Shorts",
+      "videoId": "yKKvd4LWCcE",
+      "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "kZfSFw7Rk9o",
+      "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "f0dpKtBpIlw",
+      "title": "Why the Owl Turns Its Head 270 Degrees #Shorts",
       "transcriptStatus": "failed",
       "comments": [
         {
-          "id": "Ugxs1Ul4gYH6HK5VymV4AaABAg",
-          "author": "@CONNIECARLSEN-t4s",
-          "text": "Amazing creatures!!!!",
-          "replyPosted": false,
-          "replyText": null
+          "id": "UgzHEk3wXQd_5uFxsox4AaABAg",
+          "author": "@jackieanderson74",
+          "text": "They fascinate me",
+          "replyPosted": true,
+          "replyText": "They really are amazing creatures! That 270-degree head rotation is just one of their many incredible adaptations. Thanks for watching!"
         }
       ],
       "clipCandidates": []
     },
     {
-      "videoId": "3aONQLcQSKs",
-      "title": "Why the Jellyfish Glows in the Dark #Shorts",
+      "videoId": "C1n3GyrwoFs",
+      "title": "5 Animal Superpowers That Sound Made Up",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": []
     },
     {
-      "videoId": "oOvJedn-abs",
-      "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "zVxbp_9-30c",
-      "title": "Why the Camel Can Chew Through Cactus Spines #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "u1C7OUZ2odk",
-      "title": "Why the Eagle Sees a Glow You Can't #Shorts",
+      "videoId": "H6x-o_inlJY",
+      "title": "Why the Fox Hears a Mouse Under Two Feet of Snow #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": []
     }
   ],
-  "postedReplies": 0
+  "postedReplies": 1
 }
