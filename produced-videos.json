@@ -3347,6 +3347,31 @@
       "animal": "hippo",
       "angle": "2nd (runs underwater instead of swimming)",
       "note": "Second angle on hippo. Paradox: water animal that can't swim, sinks and runs on riverbed. 6/6 Pexels clips, no re-fetches needed."
+    },
+    {
+      "productionId": "JV-2026-08-22-SELFN",
+      "ideaId": "selfgen-jellyfish-immortal",
+      "sourceHash": "e0d05c43c64dd112be88b3653e126957e50736ac15a3313044fffb7aac20af6c",
+      "title": "Why the Jellyfish Never Dies of Old Age #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-22T10:05:27.817843-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on jellyfish. Paradox: Turritopsis dohrnii can revert to polyp stage, making it biologically immortal.",
+      "renderedAt": "2026-08-22T10:12:19.543850-04:00",
+      "uploadedAt": "2026-08-22T10:12:19.543850-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "fRzQth2pGnA",
+        "url": "https://www.youtube.com/watch?v=fRzQth2pGnA"
+      },
+      "duration": 50.17,
+      "resolution": "1080x1920",
+      "hookOverlay": "NEVER DIES OF OLD AGE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "jellyfish",
+      "angle": "2nd (biologically immortal)",
+      "note": "Second angle on jellyfish (first: 24 Eyes But No Brain, 6.2K views). Superpower angle: Turritopsis dohrnii reverts to polyp stage. 6/6 Pexels clips, no re-fetches needed."
     }
   ]
 }
