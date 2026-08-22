@@ -3372,6 +3372,31 @@
       "animal": "jellyfish",
       "angle": "2nd (biologically immortal)",
       "note": "Second angle on jellyfish (first: 24 Eyes But No Brain, 6.2K views). Superpower angle: Turritopsis dohrnii reverts to polyp stage. 6/6 Pexels clips, no re-fetches needed."
+    },
+    {
+      "productionId": "JV-2026-08-22-SELF2",
+      "ideaId": "selfgen-alligator-climbs-trees",
+      "sourceHash": "0e598ca879d12a39eea3d487780ae528da10e028f593d5aa2e2affb3c17eb1e4",
+      "title": "Why the Alligator Can Climb Trees #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-22T16:01:29.679942-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on alligator. Paradox: heavy land predators that climb trees to bask and survey territory.",
+      "renderedAt": "2026-08-22T16:09:29.874037-04:00",
+      "uploadedAt": "2026-08-22T16:09:29.874037-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "ZeoTS-47w40",
+        "url": "https://www.youtube.com/watch?v=ZeoTS-47w40"
+      },
+      "duration": 53.17,
+      "resolution": "1080x1920",
+      "hookOverlay": "CLIMBS TREES LIKE A CAT",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "alligator",
+      "angle": "2nd (climbs trees)",
+      "note": "Second angle on alligator (first: Strongest Bite on Earth). Paradox: heavy reptile climbs trees. 6/6 Pexels clips, 4 re-fetches needed (person in costume, turtles, river, human face). Some duplicate clips used."
     }
   ]
 }
