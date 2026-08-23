@@ -3422,6 +3422,31 @@
       "animal": "crocodile",
       "angle": "2nd (heart beats 3 BPM)",
       "note": "Second angle on crocodile (first: Holds Breath for Over an Hour). Paradox: heart slows to 3 BPM during dives via Foramen of Panizza. 6/6 Pexels clips, 2 re-fetches (river, turtles). Disk cleanup needed before upload."
+    },
+    {
+      "productionId": "JV-2026-08-23-SELF2",
+      "ideaId": "selfgen-starfish-no-blood",
+      "sourceHash": "d210d371215785adbb23d6be60af31f1b8c603f0552e398553c0245a8ad38f66",
+      "title": "Why the Starfish Has No Blood #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-23T16:02:23.019241-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on starfish. Paradox: starfish have no blood \u2014 they pump seawater through a water vascular system instead.",
+      "renderedAt": "2026-08-23T16:07:46.571146-04:00",
+      "uploadedAt": "2026-08-23T16:07:46.571146-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "60-lx8gRkxU",
+        "url": "https://www.youtube.com/watch?v=60-lx8gRkxU"
+      },
+      "duration": 52.57,
+      "resolution": "1080x1920",
+      "hookOverlay": "HAS NO BLOOD AT ALL",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "starfish",
+      "angle": "2nd (no blood, pumps seawater)",
+      "note": "Second angle on starfish (first: Regrows Whole Body From Single Arm). Paradox: no blood, uses seawater vascular system. Growth plan ideas all unfilmable/unlisted, so self-generated. 6/6 Pexels clips, 4 re-fetches needed."
     }
   ]
 }
