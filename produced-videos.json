@@ -3397,6 +3397,31 @@
       "animal": "alligator",
       "angle": "2nd (climbs trees)",
       "note": "Second angle on alligator (first: Strongest Bite on Earth). Paradox: heavy reptile climbs trees. 6/6 Pexels clips, 4 re-fetches needed (person in costume, turtles, river, human face). Some duplicate clips used."
+    },
+    {
+      "productionId": "JV-2026-08-23-SELFN",
+      "ideaId": "selfgen-crocodile-slow-heart",
+      "sourceHash": "d0c2a7e882e0642d8b0d9d68e9dea1c67f7d6c6b599ed781846fb2e5170a7474",
+      "title": "Why the Crocodile's Heart Beats Only Three Times a Minute #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-23T10:03:40.157003-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on crocodile. Paradox: crocodile heart can slow to 3 BPM during dives, one of the lowest heart rates in the animal kingdom.",
+      "renderedAt": "2026-08-23T10:10:39.256065-04:00",
+      "uploadedAt": "2026-08-23T10:10:39.256065-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "8PLTeqmgngM",
+        "url": "https://www.youtube.com/watch?v=8PLTeqmgngM"
+      },
+      "duration": 54.21,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEART BEATS THREE TIMES A MINUTE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "crocodile",
+      "angle": "2nd (heart beats 3 BPM)",
+      "note": "Second angle on crocodile (first: Holds Breath for Over an Hour). Paradox: heart slows to 3 BPM during dives via Foramen of Panizza. 6/6 Pexels clips, 2 re-fetches (river, turtles). Disk cleanup needed before upload."
     }
   ]
 }
