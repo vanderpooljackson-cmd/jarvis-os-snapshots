@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 89510,
-      "subscriberCount": 116,
-      "videoCount": 113
+      "viewCount": 91893,
+      "subscriberCount": 119,
+      "videoCount": 115
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-26",
-    "endDate": "2026-08-23",
+    "startDate": "2026-07-27",
+    "endDate": "2026-08-24",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 52237,
-    "estimatedMinutesWatched": 17400,
-    "subscribersGained": 66,
-    "subscribersLost": 11,
-    "netSubscribers": 55,
-    "likes": 1727,
+    "views": 55395,
+    "estimatedMinutesWatched": 18424,
+    "subscribersGained": 72,
+    "subscribersLost": 12,
+    "netSubscribers": 60,
+    "likes": 1869,
     "comments": 17,
-    "shares": 27
+    "shares": 31
   },
   "daily": [
-    {
-      "day": "2026-07-26",
-      "views": 7,
-      "watched": 1,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-27",
       "views": 14,
@@ -236,15 +228,23 @@
       "subsGained": 5,
       "subsLost": 1,
       "likes": 138
+    },
+    {
+      "day": "2026-08-21",
+      "views": 3165,
+      "watched": 1025,
+      "subsGained": 6,
+      "subsLost": 1,
+      "likes": 142
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13265,
-      "watched": 5808,
-      "likes": 361,
+      "views": 13316,
+      "watched": 5816,
+      "likes": 362,
       "comments": 4,
       "avgViewDuration": 42,
       "flag": "winner",
@@ -253,7 +253,7 @@
     {
       "videoId": "CYrW38_aFRg",
       "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 6204,
+      "views": 6203,
       "watched": 2489,
       "likes": 208,
       "comments": 3,
@@ -264,7 +264,7 @@
     {
       "videoId": "tMrTS480uqE",
       "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 4543,
+      "views": 4545,
       "watched": 1605,
       "likes": 103,
       "comments": 0,
@@ -275,8 +275,8 @@
     {
       "videoId": "oOvJedn-abs",
       "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2264,
-      "watched": 633,
+      "views": 2266,
+      "watched": 634,
       "likes": 68,
       "comments": 0,
       "avgViewDuration": 25,
@@ -286,9 +286,9 @@
     {
       "videoId": "u1C7OUZ2odk",
       "title": "Why the Eagle Sees a Glow You Can't #Shorts",
-      "views": 1769,
-      "watched": 580,
-      "likes": 71,
+      "views": 1827,
+      "watched": 602,
+      "likes": 74,
       "comments": 0,
       "avgViewDuration": 34,
       "flag": "stable",
@@ -297,18 +297,29 @@
     {
       "videoId": "uack1HYnRco",
       "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
-      "views": 1618,
-      "watched": 394,
+      "views": 1637,
+      "watched": 403,
       "likes": 89,
       "comments": 0,
-      "avgViewDuration": 24,
+      "avgViewDuration": 25,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "yKKvd4LWCcE",
+      "title": "Why the Snake Can See Heat in Total Darkness #Shorts",
+      "views": 1581,
+      "watched": 574,
+      "likes": 57,
+      "comments": 0,
+      "avgViewDuration": 36,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "KYufoqBM3JY",
       "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1558,
+      "views": 1563,
       "watched": 356,
       "likes": 33,
       "comments": 0,
@@ -319,7 +330,7 @@
     {
       "videoId": "EQW2nGlieuo",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1286,
+      "views": 1288,
       "watched": 264,
       "likes": 49,
       "comments": 0,
@@ -337,43 +348,32 @@
       "avgViewDuration": 40,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "H6x-o_inlJY",
-      "title": "Why the Fox Hears a Mouse Under Two Feet of Snow #Shorts",
-      "views": 1232,
-      "watched": 312,
-      "likes": 66,
-      "comments": 0,
-      "avgViewDuration": 22,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-23T09:14:24.090664-04:00",
+  "fetchedAt": "2026-08-24T09:23:36.106056-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-23T09:14:24.090664-04:00",
+      "fetchedAt": "2026-08-24T09:23:36.106056-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 116,
+        "current": 119,
         "threshold": 1000,
-        "percent": 11.6
+        "percent": 11.9
       },
       "watchHours12mo": {
-        "current": 418.0,
+        "current": 435.1,
         "threshold": 4000,
-        "percent": 10.45,
+        "percent": 10.88,
         "window": "Last 12 months",
-        "minutesWatched": 25082
+        "minutesWatched": 26107
       },
       "shortsViews90d": {
-        "current": 86228,
+        "current": 89393,
         "threshold": 10000000,
-        "percent": 0.862,
+        "percent": 0.894,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
