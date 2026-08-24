@@ -3447,6 +3447,31 @@
       "animal": "starfish",
       "angle": "2nd (no blood, pumps seawater)",
       "note": "Second angle on starfish (first: Regrows Whole Body From Single Arm). Paradox: no blood, uses seawater vascular system. Growth plan ideas all unfilmable/unlisted, so self-generated. 6/6 Pexels clips, 4 re-fetches needed."
+    },
+    {
+      "productionId": "JV-2026-08-24-SELFN",
+      "ideaId": "selfgen-flamingo-not-pink",
+      "sourceHash": "d5b2fd2354bfad71bc871f576d402e3f78c9476fb241e0416735386a4d379fa1",
+      "title": "Why the Flamingo Is Not Actually Pink #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-24T10:05:35.361687-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on flamingo. Paradox: flamingos are actually white \u2014 the pink comes from beta-carotene in their diet.",
+      "renderedAt": "2026-08-24T10:13:20.802618-04:00",
+      "uploadedAt": "2026-08-24T10:13:20.802618-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "F32twk3TlBI",
+        "url": "https://www.youtube.com/watch?v=F32twk3TlBI"
+      },
+      "duration": 54.17,
+      "resolution": "1080x1920",
+      "hookOverlay": "NOT ACTUALLY PINK",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "flamingo",
+      "angle": "2nd (not pink, diet-based color)",
+      "note": "Second angle on flamingo (first: Survives Water That Would Burn You). Paradox: born white, pink comes from carotenoids in diet. 6/6 Pexels clips, zero re-fetches needed."
     }
   ]
 }
