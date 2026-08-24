@@ -3472,6 +3472,31 @@
       "animal": "flamingo",
       "angle": "2nd (not pink, diet-based color)",
       "note": "Second angle on flamingo (first: Survives Water That Would Burn You). Paradox: born white, pink comes from carotenoids in diet. 6/6 Pexels clips, zero re-fetches needed."
+    },
+    {
+      "productionId": "JV-2026-08-24-SELF2",
+      "ideaId": "selfgen-peacock-infrasound",
+      "sourceHash": "572b555878128690da4c16084ebf822fd8b34e1fc4efbf4421683b4d648c0dba",
+      "title": "Why the Peacock Makes a Sound You Can't Hear #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-24T16:02:16.548086-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on peacock. Paradox: peacocks vibrate their tail feathers to produce infrasound below human hearing range.",
+      "renderedAt": "2026-08-24T16:07:08.553854-04:00",
+      "uploadedAt": "2026-08-24T16:07:08.553854-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "h5fQjWuF_gU",
+        "url": "https://www.youtube.com/watch?v=h5fQjWuF_gU"
+      },
+      "duration": 56.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "SOUND YOU CAN'T HEAR",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "peacock",
+      "angle": "2nd (infrasound, secret call)",
+      "note": "Second angle on peacock (first: Glows Without Pigment). Paradox: tail feathers vibrate below 20Hz, broadcasting a secret infrasound call only peahens can hear. 6/6 Pexels clips, zero re-fetches."
     }
   ]
 }
