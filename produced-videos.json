@@ -3522,6 +3522,31 @@
       "animal": "cheetah",
       "angle": "2nd (can't roar, purrs like house cat)",
       "note": "Second angle on cheetah (first: Outruns a Sports Car). Paradox: fastest land animal can't roar \u2014 purrs and meows like a domestic cat due to ossified hyoid bone. 6/6 Pexels clips, 3 re-fetches (zebras, human face, dog). Scene 5 is leopard footage (visually similar spotted cat)."
+    },
+    {
+      "productionId": "JV-2026-08-25-SELF2",
+      "ideaId": "selfgen-ostrich-kick",
+      "sourceHash": "dd4a5176237ee3f84fb892f038034fd5ba891baa43d8ac9de5f5689ee98ccd6f",
+      "title": "Why the Ostrich Can Kill a Lion With One Kick #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-25T16:02:18.800402-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on ostrich. Paradox: ostrich kick generates 2,000 lbs of force \u2014 enough to kill a lion.",
+      "renderedAt": "2026-08-25T16:06:29.826613-04:00",
+      "uploadedAt": "2026-08-25T16:06:29.826613-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "Xf8qcSWhvj8",
+        "url": "https://www.youtube.com/watch?v=Xf8qcSWhvj8"
+      },
+      "duration": 49.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "KILLS A LION WITH ONE KICK",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "ostrich",
+      "angle": "2nd (kick kills lion, 2000 lbs force)",
+      "note": "Second angle on ostrich (first: Eyes Bigger Than Its Brain). Paradox: 2000 lb kick force, 4-inch claw, can shatter a lion's skull. 6/6 Pexels clips, zero re-fetches. Scene 5 is rhea footage (close relative, visually similar)."
     }
   ]
 }
