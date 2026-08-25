@@ -3497,6 +3497,31 @@
       "animal": "peacock",
       "angle": "2nd (infrasound, secret call)",
       "note": "Second angle on peacock (first: Glows Without Pigment). Paradox: tail feathers vibrate below 20Hz, broadcasting a secret infrasound call only peahens can hear. 6/6 Pexels clips, zero re-fetches."
+    },
+    {
+      "productionId": "JV-2026-08-25-SELFN",
+      "ideaId": "selfgen-cheetah-purrs",
+      "sourceHash": "fd5862871d1ee45e1faf018fa383eb1f9d1834db1085444078773a4b4810619b",
+      "title": "Why the Cheetah Purrs Like a House Cat #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-25T10:06:12.325084-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on cheetah. Paradox: the fastest land animal can't roar \u2014 it purrs and meows like a house cat.",
+      "renderedAt": "2026-08-25T10:11:59.883025-04:00",
+      "uploadedAt": "2026-08-25T10:11:59.883025-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "5grxfhqa-fg",
+        "url": "https://www.youtube.com/watch?v=5grxfhqa-fg"
+      },
+      "duration": 54.93,
+      "resolution": "1080x1920",
+      "hookOverlay": "PURRS LIKE A HOUSE CAT",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "cheetah",
+      "angle": "2nd (can't roar, purrs like house cat)",
+      "note": "Second angle on cheetah (first: Outruns a Sports Car). Paradox: fastest land animal can't roar \u2014 purrs and meows like a domestic cat due to ossified hyoid bone. 6/6 Pexels clips, 3 re-fetches (zebras, human face, dog). Scene 5 is leopard footage (visually similar spotted cat)."
     }
   ]
 }
