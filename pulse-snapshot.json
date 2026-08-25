@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 91893,
-      "subscriberCount": 119,
-      "videoCount": 115
+      "viewCount": 94412,
+      "subscriberCount": 124,
+      "videoCount": 117
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-27",
-    "endDate": "2026-08-24",
+    "startDate": "2026-07-28",
+    "endDate": "2026-08-25",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 55395,
-    "estimatedMinutesWatched": 18424,
-    "subscribersGained": 72,
+    "views": 57847,
+    "estimatedMinutesWatched": 19189,
+    "subscribersGained": 73,
     "subscribersLost": 12,
-    "netSubscribers": 60,
-    "likes": 1869,
-    "comments": 17,
-    "shares": 31
+    "likes": 1944,
+    "comments": 20,
+    "shares": 35,
+    "netSubscribers": 61
   },
   "daily": [
-    {
-      "day": "2026-07-27",
-      "views": 14,
-      "watched": 15,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-28",
       "views": 998,
@@ -215,7 +207,7 @@
     },
     {
       "day": "2026-08-19",
-      "views": 2782,
+      "views": 2779,
       "watched": 741,
       "subsGained": 2,
       "subsLost": 1,
@@ -223,8 +215,8 @@
     },
     {
       "day": "2026-08-20",
-      "views": 2718,
-      "watched": 755,
+      "views": 2702,
+      "watched": 753,
       "subsGained": 5,
       "subsLost": 1,
       "likes": 138
@@ -236,24 +228,32 @@
       "subsGained": 6,
       "subsLost": 1,
       "likes": 142
+    },
+    {
+      "day": "2026-08-22",
+      "views": 2485,
+      "watched": 782,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 75
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13316,
-      "watched": 5816,
-      "likes": 362,
+      "views": 13383,
+      "watched": 5822,
+      "likes": 363,
       "comments": 4,
-      "avgViewDuration": 42,
+      "avgViewDuration": 41,
       "flag": "winner",
       "note": "Top combined views and retention"
     },
     {
       "videoId": "CYrW38_aFRg",
       "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 6203,
+      "views": 6207,
       "watched": 2489,
       "likes": 208,
       "comments": 3,
@@ -264,7 +264,7 @@
     {
       "videoId": "tMrTS480uqE",
       "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 4545,
+      "views": 4544,
       "watched": 1605,
       "likes": 103,
       "comments": 0,
@@ -275,8 +275,8 @@
     {
       "videoId": "oOvJedn-abs",
       "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2266,
-      "watched": 634,
+      "views": 2272,
+      "watched": 635,
       "likes": 68,
       "comments": 0,
       "avgViewDuration": 25,
@@ -286,11 +286,22 @@
     {
       "videoId": "u1C7OUZ2odk",
       "title": "Why the Eagle Sees a Glow You Can't #Shorts",
-      "views": 1827,
-      "watched": 602,
+      "views": 1830,
+      "watched": 603,
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 34,
+      "flag": "stable",
+      "note": ""
+    },
+    {
+      "videoId": "yKKvd4LWCcE",
+      "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
+      "views": 1699,
+      "watched": 619,
+      "likes": 58,
+      "comments": 0,
+      "avgViewDuration": 36,
       "flag": "stable",
       "note": ""
     },
@@ -306,20 +317,9 @@
       "note": ""
     },
     {
-      "videoId": "yKKvd4LWCcE",
-      "title": "Why the Snake Can See Heat in Total Darkness #Shorts",
-      "views": 1581,
-      "watched": 574,
-      "likes": 57,
-      "comments": 0,
-      "avgViewDuration": 36,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "KYufoqBM3JY",
       "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1563,
+      "views": 1558,
       "watched": 356,
       "likes": 33,
       "comments": 0,
@@ -328,52 +328,52 @@
       "note": ""
     },
     {
+      "videoId": "kZfSFw7Rk9o",
+      "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
+      "views": 1391,
+      "watched": 413,
+      "likes": 80,
+      "comments": 0,
+      "avgViewDuration": 26,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "EQW2nGlieuo",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1288,
+      "views": 1287,
       "watched": 264,
       "likes": 49,
       "comments": 0,
       "avgViewDuration": 24,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "85tlS2R1wJk",
-      "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-      "views": 1273,
-      "watched": 502,
-      "likes": 41,
-      "comments": 0,
-      "avgViewDuration": 40,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-24T09:23:36.106056-04:00",
+  "fetchedAt": "2026-08-25T09:10:47.637840-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-24T09:23:36.106056-04:00",
+      "fetchedAt": "2026-08-25T09:10:47.637840-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 119,
+        "current": 124,
         "threshold": 1000,
-        "percent": 11.9
+        "percent": 12.4
       },
       "watchHours12mo": {
-        "current": 435.1,
+        "current": 448.1,
         "threshold": 4000,
-        "percent": 10.88,
+        "percent": 11.2,
         "window": "Last 12 months",
-        "minutesWatched": 26107
+        "minutesWatched": 26889
       },
       "shortsViews90d": {
-        "current": 89393,
+        "current": 91859,
         "threshold": 10000000,
-        "percent": 0.894,
+        "percent": 0.919,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
