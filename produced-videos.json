@@ -3547,6 +3547,31 @@
       "animal": "ostrich",
       "angle": "2nd (kick kills lion, 2000 lbs force)",
       "note": "Second angle on ostrich (first: Eyes Bigger Than Its Brain). Paradox: 2000 lb kick force, 4-inch claw, can shatter a lion's skull. 6/6 Pexels clips, zero re-fetches. Scene 5 is rhea footage (close relative, visually similar)."
+    },
+    {
+      "productionId": "JV-2026-08-26-SELFN",
+      "ideaId": "selfgen-parrot-smarter-toddler",
+      "sourceHash": "67d83426c5a3fbc539c9457c8f8414992b0ef67012f3f52e25cb76f3c834e08a",
+      "title": "Why the Parrot Is Smarter Than a Toddler #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-26T10:09:43.560326-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on parrot. Paradox: African grey parrot Alex demonstrated cognitive abilities beyond a human toddler \u2014 counting, naming colors, understanding zero.",
+      "renderedAt": "2026-08-26T10:14:23.378872-04:00",
+      "uploadedAt": "2026-08-26T10:14:23.378872-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "dkhln2VoTNk",
+        "url": "https://www.youtube.com/watch?v=dkhln2VoTNk"
+      },
+      "duration": 61.77,
+      "resolution": "1080x1920",
+      "hookOverlay": "SMARTER THAN A TODDLER",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "parrot",
+      "angle": "2nd (cognitive superpower, Alex the African grey)",
+      "note": "Second angle on parrot (first: Sees Colors We Can't Imagine). Paradox: African grey parrot Alex could count, name 50 objects, understand zero \u2014 beyond a human toddler. 6/6 Pexels clips, zero re-fetches. Assembly returned ok:false but file validated fine (H.264+AAC, decode test passed)."
     }
   ]
 }
