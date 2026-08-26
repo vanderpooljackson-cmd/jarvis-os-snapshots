@@ -3572,6 +3572,31 @@
       "animal": "parrot",
       "angle": "2nd (cognitive superpower, Alex the African grey)",
       "note": "Second angle on parrot (first: Sees Colors We Can't Imagine). Paradox: African grey parrot Alex could count, name 50 objects, understand zero \u2014 beyond a human toddler. 6/6 Pexels clips, zero re-fetches. Assembly returned ok:false but file validated fine (H.264+AAC, decode test passed)."
+    },
+    {
+      "productionId": "JV-2026-08-26-SELF2",
+      "ideaId": "selfgen-giraffe-sleep",
+      "sourceHash": "7475d5074e6cfdc104021f01c98b0529e59b548e0135e63e64da755f0317df33",
+      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-26T16:04:12.287433-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on giraffe. Paradox: wild giraffes sleep only 30 minutes a day in 5-10 minute naps, because lying down makes them vulnerable to predators.",
+      "renderedAt": "2026-08-26T16:10:56.821585-04:00",
+      "uploadedAt": "2026-08-26T16:10:56.821585-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "JedGHLLl0pY",
+        "url": "https://www.youtube.com/watch?v=JedGHLLl0pY"
+      },
+      "duration": 57.33,
+      "resolution": "1080x1920",
+      "hookOverlay": "SLEEPS 30 MINUTES A DAY",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "giraffe",
+      "angle": "2nd (sleeps 30 min/day, micro-naps standing)",
+      "note": "Second angle on giraffe (first: Blood Pressure That Would Kill You). Paradox: wild giraffes sleep only 30 min/day in 5-min standing naps. Heart pumps blood 15ft up, lying down is dangerous. One hemisphere sleep. 6/6 Pexels clips, zero re-fetches. Disk full on first assembly attempt, cleaned 27 old clip dirs to free 6GB, retry succeeded."
     }
   ]
 }
