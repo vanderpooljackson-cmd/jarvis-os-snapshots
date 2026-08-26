@@ -1,79 +1,102 @@
 {
-  "fetchedAt": "2026-08-24T17:35:37.418359-04:00",
+  "fetchedAt": "2026-08-26T17:34:22.785925-04:00",
   "videos": [
+    {
+      "videoId": "JedGHLLl0pY",
+      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "dkhln2VoTNk",
+      "title": "Why the Parrot Is Smarter Than a Toddler #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "Ugxp_OAmiHTZh4tZOgl4AaABAg",
+          "author": "@BillyMills-uv4mq",
+          "text": "Smart bird",
+          "replyPosted": false,
+          "replyText": null
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Parrot smarter than toddler hook",
+          "startSec": 0,
+          "endSec": 9,
+          "why": "Highest curiosity density \u2014 a bird outsmarting a human child is immediately surprising and counterintuitive",
+          "hookRewrite": "This bird can count and understand zero \u2014 can your toddler do that?"
+        },
+        {
+          "momentLabel": "Parrot invents own word for apple",
+          "startSec": 34,
+          "endSec": 50,
+          "why": "The 'banerry' story is a delightful, shareable detail showcasing creative intelligence no one expects from a bird",
+          "hookRewrite": "This bird invented its own word for apple"
+        }
+      ]
+    },
+    {
+      "videoId": "Xf8qcSWhvj8",
+      "title": "Why the Ostrich Can Kill a Lion With One Kick #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Ostrich kills lion hook",
+          "startSec": 0,
+          "endSec": 9,
+          "why": "Shock value \u2014 a bird killing a lion with one kick is a powerful, immediate paradox",
+          "hookRewrite": "This bird can kill a lion with one kick"
+        },
+        {
+          "momentLabel": "Lions fear ostriches",
+          "startSec": 25,
+          "endSec": 42,
+          "why": "Reversal of predator-prey dynamics \u2014 lions actively avoiding a bird is surprising and memorable",
+          "hookRewrite": "Lions are actually scared of this bird"
+        }
+      ]
+    },
+    {
+      "videoId": "5grxfhqa-fg",
+      "title": "Why the Cheetah Purrs Like a House Cat #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
     {
       "videoId": "h5fQjWuF_gU",
       "title": "Why the Peacock Makes a Sound You Can't Hear #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "F32twk3TlBI",
-      "title": "Why the Flamingo Is Not Actually Pink #Shorts",
-      "transcriptStatus": "failed",
+      "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": "Ugw7sf0lno9Gnlawc-B4AaABAg",
-          "author": "@Heirbear777",
-          "text": "It's still pink bro",
+          "id": "Ugx-EDTLSPIkfqyW2SJ4AaABAg",
+          "author": "@ministerdeenielsen7404",
+          "text": "Matting call...",
           "replyPosted": true,
-          "replyText": "Ha, fair point! They definitely look pink \u2014 but it's all from their diet. The brighter the pink, the healthier the bird. Thanks for watching!"
+          "replyText": "Exactly right! It's part of how males communicate with peahens during courtship. Those infrasound vibrations help females locate and assess the male \u2014 nature's own secret frequency. Thanks for watching and for the great observation!"
         }
       ],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "60-lx8gRkxU",
-      "title": "Why the Starfish Has No Blood #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "8PLTeqmgngM",
-      "title": "Why the Crocodile's Heart Beats Only Three Times a Minute #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [
+      "clipCandidates": [
         {
-          "id": "Ugy6CK1Bm0e5g1ofTX14AaABAg",
-          "author": "@ReddRooster88",
-          "text": "That's awesome knowledge. \ud83e\udd17\ud83d\udc0a\ud83e\udd19",
-          "replyPosted": false,
-          "replyText": null
-        }
-      ],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "ZeoTS-47w40",
-      "title": "Why the Alligator Can Climb Trees #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [
-        {
-          "id": "Ugw1k85rhg2hByy8ke94AaABAg",
-          "author": "@AmeliaRuacho",
-          "text": "Okay, let us see this amazing true story.",
-          "replyPosted": false,
-          "replyText": null
+          "momentLabel": "Peacock secret conversation hook",
+          "startSec": 0,
+          "endSec": 5,
+          "why": "Short, punchy paradox \u2014 a bird talking to you that you can't hear demands immediate attention",
+          "hookRewrite": "This bird is talking to you right now \u2014 you just can't hear it"
         },
         {
-          "id": "Ugwooiot6SbIjoVyMz14AaABAg",
-          "author": "@osmanjaan49",
-          "text": "In Ohio",
-          "replyPosted": false,
-          "replyText": null
-        },
-        {
-          "id": "Ugynktm-h4x_Fw1bol14AaABAg",
-          "author": "@CentrelRole",
-          "text": "No. They cannot climb trees. This is false. Tell me how an animal like that can climb a tree.",
-          "replyPosted": true,
-          "replyText": "Actually, it's true! Researchers from the University of Tennessee documented alligators climbing trees up to 6 feet high. They use their powerful tails for balance and sharp claws to grip bark. It's mostly younger, lighter gators that do it \u2014 they climb to bask in the sun and survey their territory. Nature is wild!"
+          "momentLabel": "Feathers as radio antennas",
+          "startSec": 29,
+          "endSec": 44,
+          "why": "The antenna metaphor is vivid and makes the invisible infrasound concept tangible and shareable",
+          "hookRewrite": "Peacock feathers are actually radio antennas"
         }
-      ],
-      "clipCandidates": []
+      ]
     }
   ],
-  "postedReplies": 2
+  "postedReplies": 1
 }
