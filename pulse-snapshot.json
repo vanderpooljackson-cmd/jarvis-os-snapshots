@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 94412,
-      "subscriberCount": 124,
-      "videoCount": 117
+      "viewCount": 97129,
+      "subscriberCount": 127,
+      "videoCount": 119
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-28",
-    "endDate": "2026-08-25",
+    "startDate": "2026-07-29",
+    "endDate": "2026-08-26",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 57847,
-    "estimatedMinutesWatched": 19189,
+    "views": 59377,
+    "estimatedMinutesWatched": 19581,
     "subscribersGained": 73,
     "subscribersLost": 12,
-    "likes": 1944,
-    "comments": 20,
-    "shares": 35,
+    "likes": 1980,
+    "comments": 21,
+    "shares": 36,
     "netSubscribers": 61
   },
   "daily": [
-    {
-      "day": "2026-07-28",
-      "views": 998,
-      "watched": 329,
-      "subsGained": 3,
-      "subsLost": 0,
-      "likes": 44
-    },
     {
       "day": "2026-07-29",
       "views": 961,
@@ -236,14 +228,22 @@
       "subsGained": 1,
       "subsLost": 0,
       "likes": 75
+    },
+    {
+      "day": "2026-08-23",
+      "views": 2528,
+      "watched": 721,
+      "subsGained": 3,
+      "subsLost": 0,
+      "likes": 80
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13383,
-      "watched": 5822,
+      "views": 13414,
+      "watched": 5826,
       "likes": 363,
       "comments": 4,
       "avgViewDuration": 41,
@@ -264,7 +264,7 @@
     {
       "videoId": "tMrTS480uqE",
       "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 4544,
+      "views": 4546,
       "watched": 1605,
       "likes": 103,
       "comments": 0,
@@ -275,7 +275,7 @@
     {
       "videoId": "oOvJedn-abs",
       "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2272,
+      "views": 2270,
       "watched": 635,
       "likes": 68,
       "comments": 0,
@@ -297,9 +297,9 @@
     {
       "videoId": "yKKvd4LWCcE",
       "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
-      "views": 1699,
-      "watched": 619,
-      "likes": 58,
+      "views": 1720,
+      "watched": 626,
+      "likes": 60,
       "comments": 0,
       "avgViewDuration": 36,
       "flag": "stable",
@@ -308,7 +308,7 @@
     {
       "videoId": "uack1HYnRco",
       "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
-      "views": 1637,
+      "views": 1638,
       "watched": 403,
       "likes": 89,
       "comments": 0,
@@ -319,7 +319,7 @@
     {
       "videoId": "KYufoqBM3JY",
       "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1558,
+      "views": 1563,
       "watched": 356,
       "likes": 33,
       "comments": 0,
@@ -330,50 +330,50 @@
     {
       "videoId": "kZfSFw7Rk9o",
       "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
-      "views": 1391,
-      "watched": 413,
-      "likes": 80,
+      "views": 1463,
+      "watched": 435,
+      "likes": 82,
       "comments": 0,
       "avgViewDuration": 26,
       "flag": "stable",
       "note": ""
     },
     {
-      "videoId": "EQW2nGlieuo",
-      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1287,
-      "watched": 264,
-      "likes": 49,
+      "videoId": "60-lx8gRkxU",
+      "title": "Why the Starfish Has No Blood #Shorts",
+      "views": 1317,
+      "watched": 360,
+      "likes": 48,
       "comments": 0,
-      "avgViewDuration": 24,
+      "avgViewDuration": 26,
       "flag": "stable",
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-25T09:10:47.637840-04:00",
+  "fetchedAt": "2026-08-26T09:03:12.369328-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-25T09:10:47.637840-04:00",
+      "fetchedAt": "2026-08-26T09:03:12.369328-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 124,
+        "current": 127,
         "threshold": 1000,
-        "percent": 12.4
+        "percent": 12.7
       },
       "watchHours12mo": {
-        "current": 448.1,
+        "current": 460.2,
         "threshold": 4000,
-        "percent": 11.2,
+        "percent": 11.5,
         "window": "Last 12 months",
-        "minutesWatched": 26889
+        "minutesWatched": 27610
       },
       "shortsViews90d": {
-        "current": 91859,
+        "current": 94387,
         "threshold": 10000000,
-        "percent": 0.919,
+        "percent": 0.944,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
