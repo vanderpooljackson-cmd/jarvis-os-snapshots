@@ -3597,6 +3597,31 @@
       "animal": "giraffe",
       "angle": "2nd (sleeps 30 min/day, micro-naps standing)",
       "note": "Second angle on giraffe (first: Blood Pressure That Would Kill You). Paradox: wild giraffes sleep only 30 min/day in 5-min standing naps. Heart pumps blood 15ft up, lying down is dangerous. One hemisphere sleep. 6/6 Pexels clips, zero re-fetches. Disk full on first assembly attempt, cleaned 27 old clip dirs to free 6GB, retry succeeded."
+    },
+    {
+      "productionId": "JV-2026-08-27-SELFN",
+      "ideaId": "selfgen-koala-fingerprints",
+      "sourceHash": "429ccc6ffd929dee48d18948a167be7b1e6f74a9dccedab84580bcaa281a2417",
+      "title": "Why the Koala Has Human Fingerprints #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-27T10:07:13.665848-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on koala. Paradox: koalas have fingerprints nearly identical to humans, so similar that forensic experts can't tell them apart. Convergent evolution.",
+      "renderedAt": "2026-08-27T10:13:20.839924-04:00",
+      "uploadedAt": "2026-08-27T10:13:20.839924-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "5skOplVQqVk",
+        "url": "https://www.youtube.com/watch?v=5skOplVQqVk"
+      },
+      "duration": 69.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "HAS HUMAN FINGERPRINTS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "koala",
+      "angle": "2nd (human fingerprints, convergent evolution)",
+      "note": "Second angle on koala (first: Eats Poison Every Day). Paradox: koalas are only non-primate with fingerprints, indistinguishable from humans under microscope. Convergent evolution for grip. 6/6 Pexels clips, zero re-fetches. Assembly returned ok:false but file validated fine (H.264+AAC, decode test passed)."
     }
   ]
 }
