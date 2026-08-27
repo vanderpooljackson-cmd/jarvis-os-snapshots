@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me.\n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 97129,
-      "subscriberCount": 127,
-      "videoCount": 119
+      "viewCount": 99664,
+      "subscriberCount": 132,
+      "videoCount": 121
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-29",
-    "endDate": "2026-08-26",
+    "startDate": "2026-07-30",
+    "endDate": "2026-08-27",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 59377,
-    "estimatedMinutesWatched": 19581,
-    "subscribersGained": 73,
-    "subscribersLost": 12,
-    "likes": 1980,
-    "comments": 21,
-    "shares": 36,
-    "netSubscribers": 61
+    "views": 60953,
+    "estimatedMinutesWatched": 20045,
+    "subscribersGained": 77,
+    "subscribersLost": 10,
+    "likes": 2118,
+    "comments": 27,
+    "shares": 39,
+    "netSubscribers": 67
   },
   "daily": [
-    {
-      "day": "2026-07-29",
-      "views": 961,
-      "watched": 259,
-      "subsGained": 1,
-      "subsLost": 2,
-      "likes": 20
-    },
     {
       "day": "2026-07-30",
       "views": 12,
@@ -236,6 +228,14 @@
       "subsGained": 3,
       "subsLost": 0,
       "likes": 80
+    },
+    {
+      "day": "2026-08-24",
+      "views": 2537,
+      "watched": 723,
+      "subsGained": 5,
+      "subsLost": 0,
+      "likes": 158
     }
   ],
   "topVideos": [
@@ -253,8 +253,8 @@
     {
       "videoId": "CYrW38_aFRg",
       "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 6207,
-      "watched": 2489,
+      "views": 6209,
+      "watched": 2490,
       "likes": 208,
       "comments": 3,
       "avgViewDuration": 39,
@@ -264,7 +264,7 @@
     {
       "videoId": "tMrTS480uqE",
       "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 4546,
+      "views": 4544,
       "watched": 1605,
       "likes": 103,
       "comments": 0,
@@ -275,7 +275,7 @@
     {
       "videoId": "oOvJedn-abs",
       "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2270,
+      "views": 2271,
       "watched": 635,
       "likes": 68,
       "comments": 0,
@@ -297,9 +297,9 @@
     {
       "videoId": "yKKvd4LWCcE",
       "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
-      "views": 1720,
-      "watched": 626,
-      "likes": 60,
+      "views": 1724,
+      "watched": 627,
+      "likes": 61,
       "comments": 0,
       "avgViewDuration": 36,
       "flag": "stable",
@@ -317,9 +317,20 @@
       "note": ""
     },
     {
+      "videoId": "60-lx8gRkxU",
+      "title": "Why the Starfish Has No Blood #Shorts",
+      "views": 1637,
+      "watched": 466,
+      "likes": 61,
+      "comments": 0,
+      "avgViewDuration": 27,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "KYufoqBM3JY",
       "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1563,
+      "views": 1558,
       "watched": 356,
       "likes": 33,
       "comments": 0,
@@ -330,50 +341,39 @@
     {
       "videoId": "kZfSFw7Rk9o",
       "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
-      "views": 1463,
-      "watched": 435,
-      "likes": 82,
-      "comments": 0,
-      "avgViewDuration": 26,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "60-lx8gRkxU",
-      "title": "Why the Starfish Has No Blood #Shorts",
-      "views": 1317,
-      "watched": 360,
-      "likes": 48,
+      "views": 1527,
+      "watched": 459,
+      "likes": 85,
       "comments": 0,
       "avgViewDuration": 26,
       "flag": "stable",
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-26T09:03:12.369328-04:00",
+  "fetchedAt": "2026-08-27T09:07:45.357179-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-26T09:03:12.369328-04:00",
+      "fetchedAt": "2026-08-27T09:07:45.357179-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 127,
+        "current": 132,
         "threshold": 1000,
-        "percent": 12.7
+        "percent": 13.2
       },
       "watchHours12mo": {
-        "current": 460.2,
+        "current": 472.2,
         "threshold": 4000,
-        "percent": 11.5,
+        "percent": 11.8,
         "window": "Last 12 months",
-        "minutesWatched": 27610
+        "minutesWatched": 28331
       },
       "shortsViews90d": {
-        "current": 94387,
+        "current": 95835,
         "threshold": 10000000,
-        "percent": 0.944,
+        "percent": 0.958,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
