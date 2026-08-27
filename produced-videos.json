@@ -3622,6 +3622,31 @@
       "animal": "koala",
       "angle": "2nd (human fingerprints, convergent evolution)",
       "note": "Second angle on koala (first: Eats Poison Every Day). Paradox: koalas are only non-primate with fingerprints, indistinguishable from humans under microscope. Convergent evolution for grip. 6/6 Pexels clips, zero re-fetches. Assembly returned ok:false but file validated fine (H.264+AAC, decode test passed)."
+    },
+    {
+      "productionId": "JV-2026-08-27-SELF2",
+      "ideaId": "selfgen-kangaroo-five-legs",
+      "sourceHash": "1f4c9146d9b8c1496bb0162e14cfae6ac12b86662523483c9462ec148de04d88",
+      "title": "Why the Kangaroo Walks on Five Legs #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-27T16:03:40.388717-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on kangaroo. Paradox: kangaroos walk on five legs \u2014 their tail functions as a separate limb, supporting body weight during slow movement (pentapedal locomotion).",
+      "renderedAt": "2026-08-27T16:07:25.881186-04:00",
+      "uploadedAt": "2026-08-27T16:07:25.881186-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "1TEFE-OBbO4",
+        "url": "https://www.youtube.com/watch?v=1TEFE-OBbO4"
+      },
+      "duration": 53.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "WALKS ON FIVE LEGS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "kangaroo",
+      "angle": "2nd (pentapedal locomotion, tail as fifth leg)",
+      "note": "Second angle on kangaroo (first: Can Pause Her Own Pregnancy). Paradox: kangaroos walk on five legs using tail as crutch (pentapedal locomotion). Tendons act as rubber bands \u2014 faster = more efficient. 6/6 Pexels clips (2 wallaby clips, close relatives), zero re-fetches."
     }
   ]
 }
