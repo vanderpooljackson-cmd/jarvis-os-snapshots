@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 99664,
-      "subscriberCount": 132,
-      "videoCount": 121
+      "viewCount": 102534,
+      "subscriberCount": 139,
+      "videoCount": 123
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-30",
-    "endDate": "2026-08-27",
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-28",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 60953,
-    "estimatedMinutesWatched": 20045,
-    "subscribersGained": 77,
-    "subscribersLost": 10,
-    "likes": 2118,
+    "views": 63784,
+    "estimatedMinutesWatched": 21012,
+    "subscribersGained": 81,
+    "subscribersLost": 11,
+    "netSubscribers": 70,
+    "likes": 2224,
     "comments": 27,
-    "shares": 39,
-    "netSubscribers": 67
+    "shares": 41
   },
   "daily": [
-    {
-      "day": "2026-07-30",
-      "views": 12,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-07-31",
       "views": 19,
@@ -207,7 +199,7 @@
     },
     {
       "day": "2026-08-21",
-      "views": 3165,
+      "views": 3164,
       "watched": 1025,
       "subsGained": 6,
       "subsLost": 1,
@@ -223,7 +215,7 @@
     },
     {
       "day": "2026-08-23",
-      "views": 2528,
+      "views": 2529,
       "watched": 721,
       "subsGained": 3,
       "subsLost": 0,
@@ -236,6 +228,14 @@
       "subsGained": 5,
       "subsLost": 0,
       "likes": 158
+    },
+    {
+      "day": "2026-08-25",
+      "views": 2843,
+      "watched": 967,
+      "subsGained": 4,
+      "subsLost": 1,
+      "likes": 106
     }
   ],
   "topVideos": [
@@ -275,7 +275,7 @@
     {
       "videoId": "oOvJedn-abs",
       "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2271,
+      "views": 2272,
       "watched": 635,
       "likes": 68,
       "comments": 0,
@@ -284,9 +284,20 @@
       "note": ""
     },
     {
+      "videoId": "60-lx8gRkxU",
+      "title": "Why the Starfish Has No Blood #Shorts",
+      "views": 2260,
+      "watched": 741,
+      "likes": 78,
+      "comments": 0,
+      "avgViewDuration": 31,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "u1C7OUZ2odk",
       "title": "Why the Eagle Sees a Glow You Can't #Shorts",
-      "views": 1830,
+      "views": 1831,
       "watched": 603,
       "likes": 74,
       "comments": 0,
@@ -297,8 +308,8 @@
     {
       "videoId": "yKKvd4LWCcE",
       "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
-      "views": 1724,
-      "watched": 627,
+      "views": 1726,
+      "watched": 628,
       "likes": 61,
       "comments": 0,
       "avgViewDuration": 36,
@@ -308,22 +319,11 @@
     {
       "videoId": "uack1HYnRco",
       "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
-      "views": 1638,
+      "views": 1639,
       "watched": 403,
       "likes": 89,
       "comments": 0,
       "avgViewDuration": 25,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "60-lx8gRkxU",
-      "title": "Why the Starfish Has No Blood #Shorts",
-      "views": 1637,
-      "watched": 466,
-      "likes": 61,
-      "comments": 0,
-      "avgViewDuration": 27,
       "flag": "stable",
       "note": ""
     },
@@ -341,8 +341,8 @@
     {
       "videoId": "kZfSFw7Rk9o",
       "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
-      "views": 1527,
-      "watched": 459,
+      "views": 1544,
+      "watched": 463,
       "likes": 85,
       "comments": 0,
       "avgViewDuration": 26,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-27T09:07:45.357179-04:00",
+  "fetchedAt": "2026-08-28T09:07:27.536114-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-27T09:07:45.357179-04:00",
+      "fetchedAt": "2026-08-28T09:07:27.536114-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 132,
+        "current": 139,
         "threshold": 1000,
-        "percent": 13.2
+        "percent": 13.9
       },
       "watchHours12mo": {
-        "current": 472.2,
+        "current": 488.4,
         "threshold": 4000,
-        "percent": 11.8,
+        "percent": 12.21,
         "window": "Last 12 months",
-        "minutesWatched": 28331
+        "minutesWatched": 29301
       },
       "shortsViews90d": {
-        "current": 95835,
+        "current": 97802,
         "threshold": 10000000,
-        "percent": 0.958,
+        "percent": 0.978,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
