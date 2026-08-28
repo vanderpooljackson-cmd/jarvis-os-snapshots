@@ -3672,6 +3672,31 @@
       "animal": "butterfly",
       "angle": "2nd (magnetic compass navigation, 3000 mile migration)",
       "note": "Second angle on butterfly (first: Tastes With Its Feet). Paradox: monarchs navigate 3000 miles to a forest they've never seen using magnetite + sun compass in antennae. 6/6 Pexels clips (scene 6 was bird footage not butterfly, but 5/6 valid). Zero re-fetches."
+    },
+    {
+      "productionId": "JV-2026-08-28-SELF2",
+      "ideaId": "selfgen-gorilla-sings",
+      "sourceHash": "ad90c324baefa294ece89201f1b8f3cca3b004f453c95e71bf01f42ddd6a4243",
+      "title": "Why the Gorilla Sings While It Eats #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-28T16:05:46.724997-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on gorilla. Paradox: gorillas hum and sing while they eat, each family group with its own distinct melody. Communication superpower.",
+      "renderedAt": "2026-08-28T16:13:27.853787-04:00",
+      "uploadedAt": "2026-08-28T16:13:27.853787-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "NrsllcvY400",
+        "url": "https://www.youtube.com/watch?v=NrsllcvY400"
+      },
+      "duration": 58.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "SINGS WHILE IT EATS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "gorilla",
+      "angle": "2nd (sings/hums during meals, family-specific melodies)",
+      "note": "Second angle on gorilla (first: Ten Times Stronger Than You). Paradox: gorillas hum complex melodies during meals, each family with distinct song. Silverback sings loudest, silence signals danger. 6/6 Pexels clips (5 gorilla + 1 monkey closing), zero re-fetches. NOTE: call_external_tool no longer available; used pplx connector call. Original 32MB file hit 413 payload limit; compressed to 9.3MB (CRF 32) before successful upload."
     }
   ]
 }
