@@ -3647,6 +3647,31 @@
       "animal": "kangaroo",
       "angle": "2nd (pentapedal locomotion, tail as fifth leg)",
       "note": "Second angle on kangaroo (first: Can Pause Her Own Pregnancy). Paradox: kangaroos walk on five legs using tail as crutch (pentapedal locomotion). Tendons act as rubber bands \u2014 faster = more efficient. 6/6 Pexels clips (2 wallaby clips, close relatives), zero re-fetches."
+    },
+    {
+      "productionId": "JV-2026-08-28-SELFN",
+      "ideaId": "selfgen-butterfly-navigation",
+      "sourceHash": "800c66ab212717596a77d5900fb3bb443387d49134bd98f8af5bc076b2aa3863",
+      "title": "Why the Butterfly Navigates 3000 Miles Without a Map #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-28T10:12:34.887039-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on butterfly. Paradox: monarch butterflies navigate 3,000 miles to a forest they've never seen using a magnetic compass in their antennae.",
+      "renderedAt": "2026-08-28T10:18:36.722958-04:00",
+      "uploadedAt": "2026-08-28T10:18:36.722958-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "2_8g59HuiH4",
+        "url": "https://www.youtube.com/watch?v=2_8g59HuiH4"
+      },
+      "duration": 54.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "HAS A BUILT IN GPS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "butterfly",
+      "angle": "2nd (magnetic compass navigation, 3000 mile migration)",
+      "note": "Second angle on butterfly (first: Tastes With Its Feet). Paradox: monarchs navigate 3000 miles to a forest they've never seen using magnetite + sun compass in antennae. 6/6 Pexels clips (scene 6 was bird footage not butterfly, but 5/6 valid). Zero re-fetches."
     }
   ]
 }
