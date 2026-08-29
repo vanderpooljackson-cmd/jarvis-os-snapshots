@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 102534,
-      "subscriberCount": 139,
-      "videoCount": 123
+      "viewCount": 107477,
+      "subscriberCount": 144,
+      "videoCount": 125
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-07-31",
-    "endDate": "2026-08-28",
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-29",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 63784,
-    "estimatedMinutesWatched": 21012,
-    "subscribersGained": 81,
+    "views": 66263,
+    "estimatedMinutesWatched": 21926,
+    "subscribersGained": 86,
     "subscribersLost": 11,
-    "netSubscribers": 70,
-    "likes": 2224,
-    "comments": 27,
-    "shares": 41
+    "likes": 2370,
+    "comments": 28,
+    "shares": 45,
+    "netSubscribers": 75
   },
   "daily": [
-    {
-      "day": "2026-07-31",
-      "views": 19,
-      "watched": 5,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 2
-    },
     {
       "day": "2026-08-01",
       "views": 10,
@@ -236,6 +228,14 @@
       "subsGained": 4,
       "subsLost": 1,
       "likes": 106
+    },
+    {
+      "day": "2026-08-26",
+      "views": 2498,
+      "watched": 919,
+      "subsGained": 5,
+      "subsLost": 0,
+      "likes": 148
     }
   ],
   "topVideos": [
@@ -273,24 +273,24 @@
       "note": ""
     },
     {
-      "videoId": "oOvJedn-abs",
-      "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2272,
-      "watched": 635,
-      "likes": 68,
+      "videoId": "60-lx8gRkxU",
+      "title": "Why the Starfish Has No Blood #Shorts",
+      "views": 2337,
+      "watched": 815,
+      "likes": 78,
       "comments": 0,
-      "avgViewDuration": 25,
+      "avgViewDuration": 33,
       "flag": "stable",
       "note": ""
     },
     {
-      "videoId": "60-lx8gRkxU",
-      "title": "Why the Starfish Has No Blood #Shorts",
-      "views": 2260,
-      "watched": 741,
-      "likes": 78,
+      "videoId": "oOvJedn-abs",
+      "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
+      "views": 2275,
+      "watched": 635,
+      "likes": 67,
       "comments": 0,
-      "avgViewDuration": 31,
+      "avgViewDuration": 25,
       "flag": "stable",
       "note": ""
     },
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-28T09:07:27.536114-04:00",
+  "fetchedAt": "2026-08-29T09:10:46.439457-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-28T09:07:27.536114-04:00",
+      "fetchedAt": "2026-08-29T09:10:46.439457-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 139,
+        "current": 144,
         "threshold": 1000,
-        "percent": 13.9
+        "percent": 14.4
       },
       "watchHours12mo": {
-        "current": 488.4,
+        "current": 503.7,
         "threshold": 4000,
-        "percent": 12.21,
+        "percent": 12.59,
         "window": "Last 12 months",
-        "minutesWatched": 29301
+        "minutesWatched": 30221
       },
       "shortsViews90d": {
-        "current": 97802,
+        "current": 99404,
         "threshold": 10000000,
-        "percent": 0.978,
+        "percent": 0.994,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
