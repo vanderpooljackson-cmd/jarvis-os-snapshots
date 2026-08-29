@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-29T11:04:48-04:00",
-  "fetchedAt": "2026-08-29T11:04:48-04:00",
+  "lastRunAt": "2026-08-29T11:05:30-04:00",
+  "fetchedAt": "2026-08-29T11:05:30-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -789,18 +789,18 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 624.9,
+      "ageHoursAtAnalysis": 648.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 32.5,
+        "baselineAvgViewDuration": 33.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-28T11:07:49-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -808,18 +808,18 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 619.0,
+      "ageHoursAtAnalysis": 642.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 32.5,
+        "baselineAvgViewDuration": 33.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-28T11:07:49-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1997,7 +1997,7 @@
       "videoId": "dkhln2VoTNk",
       "title": "Why the Parrot Is Smarter Than a Toddler #Shorts",
       "uploadedAt": "2026-08-26T10:14:23.378872-04:00",
-      "ageHoursAtAnalysis": 72.8,
+      "ageHoursAtAnalysis": 72.9,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1032,
@@ -2015,7 +2015,7 @@
         "ratioToBaselineAvgViewDuration": 1.13,
         "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -2041,7 +2041,7 @@
         "ratioToBaselineAvgViewDuration": 0.99,
         "note": "Views are above the available-video median, but average view duration is below baseline; tighten hook or pacing."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": "optimize"
     },
     {
@@ -2060,7 +2060,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2079,7 +2079,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2098,7 +2098,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2117,7 +2117,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2136,7 +2136,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:04:48-04:00",
+      "analyzedAt": "2026-08-29T11:05:30-04:00",
       "lastNotifiedLabel": null
     },
     {
