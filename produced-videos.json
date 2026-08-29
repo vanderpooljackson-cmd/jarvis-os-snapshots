@@ -3697,6 +3697,31 @@
       "animal": "gorilla",
       "angle": "2nd (sings/hums during meals, family-specific melodies)",
       "note": "Second angle on gorilla (first: Ten Times Stronger Than You). Paradox: gorillas hum complex melodies during meals, each family with distinct song. Silverback sings loudest, silence signals danger. 6/6 Pexels clips (5 gorilla + 1 monkey closing), zero re-fetches. NOTE: call_external_tool no longer available; used pplx connector call. Original 32MB file hit 413 payload limit; compressed to 9.3MB (CRF 32) before successful upload."
+    },
+    {
+      "productionId": "JV-2026-08-29-SELFN",
+      "ideaId": "selfgen-bear-no-pee-hibernation",
+      "sourceHash": "7efebd92c84b290f3feddede50ebfc2377bb51533206d9d076eaf7c96234092f",
+      "title": "Why the Bear Doesn't Pee for Six Months #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-29T10:01:50.030354-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on bear. Paradox: bears don't urinate or defecate for 6 months during hibernation, recycling urea back into protein to maintain muscle mass. Extreme survival superpower.",
+      "renderedAt": "2026-08-29T10:09:48.215394-04:00",
+      "uploadedAt": "2026-08-29T10:09:48.215394-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "Kx882HdkE_4",
+        "url": "https://www.youtube.com/watch?v=Kx882HdkE_4"
+      },
+      "duration": 57.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "NO PEE FOR SIX MONTHS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "bear",
+      "angle": "2nd (no urination for 6 months during hibernation, urea recycling)",
+      "note": "Second angle on bear (first: Smells Food From Twenty Miles Away). Paradox: bears don't pee for 6 months during hibernation, recycling urea back into protein. 6/6 Pexels clips (mix of brown, polar, black bears), zero re-fetches. Compressed 32MB->9.8MB for connector upload."
     }
   ]
 }
