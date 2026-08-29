@@ -3722,6 +3722,31 @@
       "animal": "bear",
       "angle": "2nd (no urination for 6 months during hibernation, urea recycling)",
       "note": "Second angle on bear (first: Smells Food From Twenty Miles Away). Paradox: bears don't pee for 6 months during hibernation, recycling urea back into protein. 6/6 Pexels clips (mix of brown, polar, black bears), zero re-fetches. Compressed 32MB->9.8MB for connector upload."
+    },
+    {
+      "productionId": "JV-2026-08-29-SELF2",
+      "ideaId": "selfgen-seal-lung-collapse",
+      "sourceHash": "b35994428108a9d461d6e6d48f9c87c6b875f84fca6b016e8719d4f845466a7b",
+      "title": "Why the Seal Survives 5000 Feet Underwater #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-29T16:02:45.453685-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on seal. Paradox: elephant seals dive to 5000 feet \u2014 lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells on demand. Extreme survival superpower.",
+      "renderedAt": "2026-08-29T16:09:35.504091-04:00",
+      "uploadedAt": "2026-08-29T16:09:35.504091-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "YLO6Feao4Ug",
+        "url": "https://www.youtube.com/watch?v=YLO6Feao4Ug"
+      },
+      "duration": 63.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "LUNGS COLLAPSE ON PURPOSE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "seal",
+      "angle": "2nd (dives 5000ft, lungs collapse on purpose, spleen releases oxygen, heart rate drops to 4bpm)",
+      "note": "Second angle on seal (first: Holds Its Breath for 100 Minutes). Paradox: elephant seals dive 5000ft, lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells, heart rate drops from 90 to 4 bpm. 6/6 Pexels clips (5 seal + 1 underwater diving), zero re-fetches. Assembly ok:false false negative \u2014 validated with ffprobe+decode test (H.264+AAC, 1080x1920, 63.8s, clean decode). Compressed 60.8MB->7MB (CRF 38) for connector upload."
     }
   ]
 }
