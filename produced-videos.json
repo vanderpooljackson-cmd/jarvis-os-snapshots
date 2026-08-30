@@ -3753,10 +3753,25 @@
       "ideaId": "selfgen-iguana-third-eye",
       "sourceHash": "c26aca6f5ce9551d2e4e026f593de4785a18e1242c73920b6a72f9c629c7bb3e",
       "title": "Why the Iguana Has a Third Eye #Shorts",
-      "status": "rendering",
+      "status": "uploaded",
       "startedAt": "2026-08-30T10:04:42.957770-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on iguana. Paradox: iguanas have a parietal eye (third eye) on top of their head that detects light/shadow changes, warning of overhead predators. Sensory superpower."
+      "concept": "Second angle on iguana. Paradox: iguanas have a parietal eye (third eye) on top of their head that detects light/shadow changes, warning of overhead predators. Sensory superpower.",
+      "renderedAt": "2026-08-30T10:10:10.214321-04:00",
+      "uploadedAt": "2026-08-30T10:10:10.214321-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "MpzZGF77bkM",
+        "url": "https://www.youtube.com/watch?v=MpzZGF77bkM"
+      },
+      "duration": 56.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "HAS A THIRD EYE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "iguana",
+      "angle": "2nd (parietal eye / third eye on top of head detects light/shadow, early warning system for predators)",
+      "note": "Second angle on iguana (first: Dissolves Its Own Bones to Survive). Paradox: iguanas have a parietal eye on top of their head that detects light/shadow changes, triggering a reflex to flee from overhead predators before the brain processes the threat. 6/6 Pexels clips (all iguana), zero re-fetches. Compressed 36.5MB->6.7MB (CRF 36) for connector upload."
     }
   ]
 }
