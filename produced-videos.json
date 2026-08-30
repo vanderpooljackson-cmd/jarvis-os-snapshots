@@ -3772,6 +3772,31 @@
       "animal": "iguana",
       "angle": "2nd (parietal eye / third eye on top of head detects light/shadow, early warning system for predators)",
       "note": "Second angle on iguana (first: Dissolves Its Own Bones to Survive). Paradox: iguanas have a parietal eye on top of their head that detects light/shadow changes, triggering a reflex to flee from overhead predators before the brain processes the threat. 6/6 Pexels clips (all iguana), zero re-fetches. Compressed 36.5MB->6.7MB (CRF 36) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-08-30-SELF2",
+      "ideaId": "selfgen-ostrich-outruns-horse",
+      "sourceHash": "a471dea6fc66e57585b3db96bf94e9c8ddc6da7ec2d47705a3a493b64bc0522c",
+      "title": "Why the Ostrich Outruns a Horse #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-30T16:03:16.478514-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on ostrich. Paradox: ostriches run 43 mph and sustain 30 mph for 30 minutes \u2014 faster than a horse can sustain. Fastest two-legged animal on Earth. Speed superpower.",
+      "renderedAt": "2026-08-30T16:11:10.038545-04:00",
+      "uploadedAt": "2026-08-30T16:11:10.038545-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "UdjDO5vUKoc",
+        "url": "https://www.youtube.com/watch?v=UdjDO5vUKoc"
+      },
+      "duration": 55.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "RUNS FASTER THAN A HORSE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "ostrich",
+      "angle": "2nd (runs 43mph, sustains 30mph for 30min, fastest two-legged animal, tendon recoil + wing rudders)",
+      "note": "Second angle on ostrich (first: Has Eyes Bigger Than Its Brain). Speed superpower: 43mph sprint, 30mph sustained for 30 min, two-toed feet with claw, tendon energy storage, wings as rudders. 6/6 Pexels clips (all ostrich including running/sprinting), zero re-fetches. Compressed 76.6MB->8.9MB (CRF 39) for connector upload."
     }
   ]
 }
