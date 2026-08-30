@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 107477,
-      "subscriberCount": 144,
-      "videoCount": 125
+      "viewCount": 109227,
+      "subscriberCount": 148,
+      "videoCount": 127
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-01",
-    "endDate": "2026-08-29",
+    "startDate": "2026-08-02",
+    "endDate": "2026-08-30",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 66263,
-    "estimatedMinutesWatched": 21926,
-    "subscribersGained": 86,
-    "subscribersLost": 11,
-    "likes": 2370,
-    "comments": 28,
-    "shares": 45,
-    "netSubscribers": 75
+    "views": 70509,
+    "estimatedMinutesWatched": 23823,
+    "subscribersGained": 93,
+    "subscribersLost": 12,
+    "netSubscribers": 81,
+    "likes": 2561,
+    "comments": 33,
+    "shares": 51
   },
   "daily": [
-    {
-      "day": "2026-08-01",
-      "views": 10,
-      "watched": 1,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-08-02",
       "views": 6,
@@ -215,8 +207,8 @@
     },
     {
       "day": "2026-08-24",
-      "views": 2537,
-      "watched": 723,
+      "views": 2477,
+      "watched": 719,
       "subsGained": 5,
       "subsLost": 0,
       "likes": 158
@@ -236,13 +228,21 @@
       "subsGained": 5,
       "subsLost": 0,
       "likes": 148
+    },
+    {
+      "day": "2026-08-27",
+      "views": 4316,
+      "watched": 1902,
+      "subsGained": 7,
+      "subsLost": 1,
+      "likes": 191
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13414,
+      "views": 13415,
       "watched": 5826,
       "likes": 363,
       "comments": 4,
@@ -253,7 +253,7 @@
     {
       "videoId": "CYrW38_aFRg",
       "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 6209,
+      "views": 6210,
       "watched": 2490,
       "likes": 208,
       "comments": 3,
@@ -273,11 +273,22 @@
       "note": ""
     },
     {
+      "videoId": "JedGHLLl0pY",
+      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
+      "views": 3440,
+      "watched": 1560,
+      "likes": 158,
+      "comments": 2,
+      "avgViewDuration": 44,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "60-lx8gRkxU",
       "title": "Why the Starfish Has No Blood #Shorts",
-      "views": 2337,
-      "watched": 815,
-      "likes": 78,
+      "views": 2339,
+      "watched": 819,
+      "likes": 79,
       "comments": 0,
       "avgViewDuration": 33,
       "flag": "stable",
@@ -286,7 +297,7 @@
     {
       "videoId": "oOvJedn-abs",
       "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
-      "views": 2275,
+      "views": 2276,
       "watched": 635,
       "likes": 67,
       "comments": 0,
@@ -308,7 +319,7 @@
     {
       "videoId": "yKKvd4LWCcE",
       "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
-      "views": 1726,
+      "views": 1727,
       "watched": 628,
       "likes": 61,
       "comments": 0,
@@ -337,43 +348,32 @@
       "avgViewDuration": 19,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "kZfSFw7Rk9o",
-      "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
-      "views": 1544,
-      "watched": 463,
-      "likes": 85,
-      "comments": 0,
-      "avgViewDuration": 26,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-08-29T09:10:46.439457-04:00",
+  "fetchedAt": "2026-08-30T09:09:41.932209-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-29T09:10:46.439457-04:00",
+      "fetchedAt": "2026-08-30T09:09:41.932209-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 144,
+        "current": 148,
         "threshold": 1000,
-        "percent": 14.4
+        "percent": 14.8
       },
       "watchHours12mo": {
-        "current": 503.7,
+        "current": 535.3,
         "threshold": 4000,
-        "percent": 12.59,
+        "percent": 13.38,
         "window": "Last 12 months",
-        "minutesWatched": 30221
+        "minutesWatched": 32119
       },
       "shortsViews90d": {
-        "current": 99404,
+        "current": 103542,
         "threshold": 10000000,
-        "percent": 0.994,
+        "percent": 1.035,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
