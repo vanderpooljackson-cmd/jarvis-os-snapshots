@@ -3747,6 +3747,16 @@
       "animal": "seal",
       "angle": "2nd (dives 5000ft, lungs collapse on purpose, spleen releases oxygen, heart rate drops to 4bpm)",
       "note": "Second angle on seal (first: Holds Its Breath for 100 Minutes). Paradox: elephant seals dive 5000ft, lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells, heart rate drops from 90 to 4 bpm. 6/6 Pexels clips (5 seal + 1 underwater diving), zero re-fetches. Assembly ok:false false negative \u2014 validated with ffprobe+decode test (H.264+AAC, 1080x1920, 63.8s, clean decode). Compressed 60.8MB->7MB (CRF 38) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-08-30-SELFN",
+      "ideaId": "selfgen-iguana-third-eye",
+      "sourceHash": "c26aca6f5ce9551d2e4e026f593de4785a18e1242c73920b6a72f9c629c7bb3e",
+      "title": "Why the Iguana Has a Third Eye #Shorts",
+      "status": "rendering",
+      "startedAt": "2026-08-30T10:04:42.957770-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on iguana. Paradox: iguanas have a parietal eye (third eye) on top of their head that detects light/shadow changes, warning of overhead predators. Sensory superpower."
     }
   ]
 }

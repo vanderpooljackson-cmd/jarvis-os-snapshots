@@ -1,19 +1,19 @@
 {
-  "weekOf": "2026-08-24",
+  "weekOf": "2026-08-31",
   "basedOn": {
     "topVideos": [
       {
         "videoId": "LF75Mu00CIQ",
         "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-        "views": 13265,
-        "avgViewDuration": 42,
+        "views": 13415,
+        "avgViewDuration": 41,
         "flag": "winner",
         "note": "Top combined views and retention"
       },
       {
         "videoId": "CYrW38_aFRg",
         "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-        "views": 6204,
+        "views": 6210,
         "avgViewDuration": 39,
         "flag": "stable",
         "note": ""
@@ -21,7 +21,7 @@
       {
         "videoId": "tMrTS480uqE",
         "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-        "views": 4543,
+        "views": 4544,
         "avgViewDuration": 34,
         "flag": "stable",
         "note": ""
@@ -29,25 +29,25 @@
     ],
     "bestRetention": [
       {
-        "videoId": "LF75Mu00CIQ",
-        "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-        "views": 13265,
-        "avgViewDuration": 42,
-        "flag": "winner",
-        "note": "Top combined views and retention"
-      },
-      {
-        "videoId": "85tlS2R1wJk",
-        "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-        "views": 1273,
-        "avgViewDuration": 40,
+        "videoId": "JedGHLLl0pY",
+        "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
+        "views": 3440,
+        "avgViewDuration": 44,
         "flag": "stable",
         "note": ""
       },
       {
+        "videoId": "LF75Mu00CIQ",
+        "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
+        "views": 13415,
+        "avgViewDuration": 41,
+        "flag": "winner",
+        "note": "Top combined views and retention"
+      },
+      {
         "videoId": "CYrW38_aFRg",
         "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-        "views": 6204,
+        "views": 6210,
         "avgViewDuration": 39,
         "flag": "stable",
         "note": ""
@@ -65,28 +65,28 @@
         "experimentId": "EXP-002",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
-        "result": "reverted",
+        "result": "revert",
         "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-003",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
-        "result": "reverted",
+        "result": "revert",
         "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-004",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
-        "result": "reverted",
+        "result": "revert",
         "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-005",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
-        "result": "reverted",
+        "result": "revert",
         "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
@@ -100,7 +100,7 @@
         "experimentId": "EXP-007",
         "baseline": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts",
         "variant": "What Keeps Emperor Penguins Alive Through 2 Months of Darkness at −40°C? #Shorts",
-        "result": "reverted",
+        "result": "revert",
         "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       }
     ],
@@ -109,36 +109,36 @@
         {
           "key": "animal_ability",
           "label": "Why the [animal] can do the unexpected #Shorts",
-          "sampleSize": 14,
-          "avgViewDurationMedian": 21.0,
-          "viewsMedian": 584.0,
+          "sampleSize": 21,
+          "avgViewDurationMedian": 24.0,
+          "viewsMedian": 766.0,
           "verdict": "promising",
           "confidence": "high"
         },
         {
           "key": "body_ability",
           "label": "Why the [animal] has an impossible body ability #Shorts",
-          "sampleSize": 15,
+          "sampleSize": 18,
           "avgViewDurationMedian": 28.0,
-          "viewsMedian": 790.0,
+          "viewsMedian": 1041.5,
           "verdict": "promising",
           "confidence": "high"
         },
         {
           "key": "extreme_survival",
           "label": "Why the [animal] survives the impossible #Shorts",
-          "sampleSize": 12,
-          "avgViewDurationMedian": 25.5,
-          "viewsMedian": 1040.0,
+          "sampleSize": 13,
+          "avgViewDurationMedian": 26.0,
+          "viewsMedian": 1035.0,
           "verdict": "promising",
           "confidence": "high"
         },
         {
           "key": "sensory_surprise",
           "label": "Why the [animal] [sensory surprise] #Shorts",
-          "sampleSize": 21,
-          "avgViewDurationMedian": 23.0,
-          "viewsMedian": 602.0,
+          "sampleSize": 24,
+          "avgViewDurationMedian": 24.0,
+          "viewsMedian": 690.0,
           "verdict": "promising",
           "confidence": "high"
         }
@@ -146,93 +146,138 @@
       "summary": [
         {
           "pattern": "Why the [animal] can do the unexpected #Shorts",
-          "evidence": "14 available videos; median 584.0 views and 21.0s average view duration versus 29.0s channel baseline; confidence high.",
+          "evidence": "21 available videos; median 766.0 views and 24.0s average view duration versus 33.5s channel baseline; confidence high.",
           "verdict": "promising"
         },
         {
           "pattern": "Why the [animal] has an impossible body ability #Shorts",
-          "evidence": "15 available videos; median 790.0 views and 28.0s average view duration versus 29.0s channel baseline; confidence high.",
+          "evidence": "18 available videos; median 1041.5 views and 28.0s average view duration versus 33.5s channel baseline; confidence high.",
           "verdict": "promising"
         },
         {
           "pattern": "Why the [animal] survives the impossible #Shorts",
-          "evidence": "12 available videos; median 1040.0 views and 25.5s average view duration versus 29.0s channel baseline; confidence high.",
+          "evidence": "13 available videos; median 1035.0 views and 26.0s average view duration versus 33.5s channel baseline; confidence high.",
           "verdict": "promising"
         },
         {
           "pattern": "Why the [animal] [sensory surprise] #Shorts",
-          "evidence": "21 available videos; median 602.0 views and 23.0s average view duration versus 29.0s channel baseline; confidence high.",
+          "evidence": "24 available videos; median 690.0 views and 24.0s average view duration versus 33.5s channel baseline; confidence high.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Alligator topic",
+          "evidence": "2 available videos; median 583.5 views and 25.0s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Camel topic",
-          "evidence": "3 available videos; median 875.0 views and 21.0s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "3 available videos; median 875.0 views and 21.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Cheetah topic",
+          "evidence": "2 available videos; median 498.0 views and 17.5s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Crocodile topic",
+          "evidence": "2 available videos; median 496.0 views and 30.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Dolphin topic",
-          "evidence": "3 available videos; median 1393.0 views and 18.0s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "3 available videos; median 1393.0 views and 18.0s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Eagle topic",
-          "evidence": "3 available videos; median 1005.0 views and 33.0s average view duration versus 29.0s channel baseline; confidence low.",
-          "verdict": "prioritize"
+          "evidence": "3 available videos; median 1005.0 views and 33.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
         },
         {
           "pattern": "Elephant topic",
-          "evidence": "3 available videos; median 1078.0 views and 26.0s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "3 available videos; median 1078.0 views and 26.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Flamingo topic",
+          "evidence": "2 available videos; median 800.5 views and 32.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Fox topic",
-          "evidence": "2 available videos; median 908.5 views and 24.5s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "3 available videos; median 1251.0 views and 22.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Giraffe topic",
+          "evidence": "2 available videos; median 748.5 views and 34.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Hippo topic",
+          "evidence": "2 available videos; median 791.0 views and 20.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Jellyfish topic",
-          "evidence": "3 available videos; median 1030.0 views and 25.0s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "4 available videos; median 1032.5 views and 27.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Ostrich topic",
+          "evidence": "2 available videos; median 538.0 views and 17.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Owl topic",
+          "evidence": "2 available videos; median 544.0 views and 45.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "prioritize"
+        },
+        {
+          "pattern": "Parrot topic",
+          "evidence": "2 available videos; median 893.0 views and 30.5s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Peacock topic",
+          "evidence": "2 available videos; median 849.5 views and 25.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Penguin topic",
-          "evidence": "2 available videos; median 929.0 views and 26.5s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "2 available videos; median 929.0 views and 26.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Polar Bear topic",
-          "evidence": "3 available videos; median 1215.0 views and 26.0s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "3 available videos; median 1215.0 views and 26.0s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Shark topic",
-          "evidence": "3 available videos; median 1716.0 views and 28.0s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "3 available videos; median 1716.0 views and 28.0s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Starfish topic",
+          "evidence": "2 available videos; median 659.5 views and 14.5s average view duration versus 33.5s channel baseline; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Tiger topic",
+          "evidence": "2 available videos; median 932.5 views and 25.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Turtle topic",
-          "evidence": "2 available videos; median 1263.5 views and 30.5s average view duration versus 29.0s channel baseline; confidence low.",
+          "evidence": "2 available videos; median 1263.5 views and 30.5s average view duration versus 33.5s channel baseline; confidence low.",
           "verdict": "promising"
         },
         {
           "pattern": "Why the [animal] [X] #Shorts",
-          "evidence": "62 available videos; median 625.0 views and 23.5s average view duration versus 29.0s channel baseline; confidence high.",
+          "evidence": "76 available videos; median 827.5 views and 25.5s average view duration versus 33.5s channel baseline; confidence high.",
           "verdict": "promising"
-        },
-        {
-          "pattern": "Top combined reach and watch time",
-          "evidence": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts — 4331 views and 36.0s average view duration.",
-          "verdict": "winner"
-        },
-        {
-          "pattern": "Top combined reach and watch time",
-          "evidence": "Why the Shark's Skin Is Made of Teeth #Shorts — 4193 views and 34.0s average view duration.",
-          "verdict": "winner"
-        },
-        {
-          "pattern": "Top combined reach and watch time",
-          "evidence": "Why the Dolphin Never Fully Falls Asleep #Shorts — 2070 views and 44.0s average view duration.",
-          "verdict": "winner"
         }
       ],
       "available": true
@@ -240,15 +285,15 @@
   },
   "ideas": [
     {
-      "id": "GP-2026-08-24-01",
-      "title": "Why the Humpback Whale's Song Travels for Miles #Shorts",
-      "concept": "Show how a humpback whale uses patterned, low-frequency song to communicate through the ocean over long distances.",
-      "hook": "A whale can send a song farther than your eyes can see.",
-      "keyVisual": "Real humpback whale underwater and at the surface, followed by a close-up of its blow and a wide ocean shot that sells the scale of the call.",
+      "id": "GP-2026-08-31-01",
+      "title": "Why the Octopus Tastes With Its Arms #Shorts",
+      "concept": "Explain how chemoreceptors in an octopus’s suckers help it sense the chemistry of food while it explores and handles prey.",
+      "hook": "An octopus does not just touch its food—it tastes it with its arms.",
+      "keyVisual": "Real octopus underwater extending an arm across the seafloor, macro footage of the suckers gripping a shell, and a clear feeding or probing shot.",
       "hashtagSets": [
         [
           "#AnimalFacts",
-          "#HumpbackWhale",
+          "#Octopus",
           "#Shorts"
         ],
         [
@@ -265,15 +310,15 @@
       ]
     },
     {
-      "id": "GP-2026-08-24-02",
-      "title": "Why the Gecko Walks on Glass Without Glue #Shorts",
-      "concept": "Explain how millions of microscopic hairs on a gecko foot create enough contact to grip smooth surfaces without glue or suction.",
-      "hook": "This lizard climbs glass without glue, claws, or suction cups.",
-      "keyVisual": "Real gecko close-up walking up a glass pane, macro footage of its toes, then a side view showing the animal moving upside down or vertically.",
+      "id": "GP-2026-08-31-02",
+      "title": "Why the Chameleon Changes Color Without Changing Its Skin #Shorts",
+      "concept": "Show how specialized skin cells alter reflected light so a chameleon can shift color for communication, temperature, and camouflage.",
+      "hook": "This lizard can change its color without shedding or painting its skin.",
+      "keyVisual": "Real chameleon close-up moving across a branch, visible color shift across its body, and macro footage of the eyes and patterned skin.",
       "hashtagSets": [
         [
           "#AnimalFacts",
-          "#Gecko",
+          "#Chameleon",
           "#Shorts"
         ],
         [
@@ -284,32 +329,32 @@
         ],
         [
           "#DidYouKnow",
-          "#Biology",
+          "#AnimalAbilities",
           "#Shorts"
         ]
       ]
     },
     {
-      "id": "GP-2026-08-24-03",
-      "title": "Why the Mountain Goat Climbs Cliffs That Look Vertical #Shorts",
-      "concept": "Reveal how split hooves, flexible toes, and grippy hoof pads let mountain goats move across near-vertical rock.",
-      "hook": "That cliff looks vertical—this goat sees a staircase.",
-      "keyVisual": "Real mountain goat traversing a steep rocky ledge, tight shots of split hooves finding tiny footholds, and a wide view revealing the drop below.",
+      "id": "GP-2026-08-31-03",
+      "title": "Why the Sea Otter Survives Icy Water Without Blubber #Shorts",
+      "concept": "Reveal how a sea otter’s exceptionally dense fur, constant grooming, and high metabolism keep it warm even though it has no insulating blubber.",
+      "hook": "This marine mammal has no blubber—so how does it survive freezing water?",
+      "keyVisual": "Real sea otter floating and diving in cold coastal water, close-up grooming its fur, and a wide shot of the animal in a chilly kelp forest.",
       "hashtagSets": [
         [
           "#AnimalFacts",
-          "#MountainGoat",
+          "#SeaOtter",
           "#Shorts"
         ],
         [
           "#Wildlife",
+          "#OceanLife",
           "#Nature",
-          "#MountainLife",
           "#Shorts"
         ],
         [
           "#DidYouKnow",
-          "#AnimalAbilities",
+          "#AnimalAdaptations",
           "#Shorts"
         ]
       ]
