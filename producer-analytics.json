@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-29T11:05:30-04:00",
-  "fetchedAt": "2026-08-29T11:05:30-04:00",
+  "lastRunAt": "2026-08-30T11:05:13-04:00",
+  "fetchedAt": "2026-08-30T11:05:13-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -789,18 +789,18 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 648.8,
+      "ageHoursAtAnalysis": 672.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
+        "baselineAvgViewDuration": 34.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -808,18 +808,18 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 642.9,
+      "ageHoursAtAnalysis": 666.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
+        "baselineAvgViewDuration": 34.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2049,56 +2049,70 @@
       "videoId": "5skOplVQqVk",
       "title": "Why the Koala Has Human Fingerprints #Shorts",
       "uploadedAt": "2026-08-27T10:13:20.839924-04:00",
-      "ageHoursAtAnalysis": 48.9,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 69.4,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 72.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1117,
+        "estimatedMinutesWatched": 451,
+        "averageViewDuration": 39.0,
+        "likes": 54,
+        "comments": 3,
+        "shares": 3
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 69.4,
+      "retentionPercent": 56.2,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 34.0,
+        "ratioToBaselineAvgViewDuration": 1.15,
+        "note": "Within normal range or not enough view volume for a strong call."
+      },
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-08-27-SELF2",
       "videoId": "1TEFE-OBbO4",
       "title": "Why the Kangaroo Walks on Five Legs #Shorts",
       "uploadedAt": "2026-08-27T16:07:25.881186-04:00",
-      "ageHoursAtAnalysis": 43.0,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 53.6,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 67.0,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1001,
+        "estimatedMinutesWatched": 343,
+        "averageViewDuration": 32.0,
+        "likes": 52,
+        "comments": 0,
+        "shares": 0
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 53.6,
+      "retentionPercent": 59.7,
+      "performanceLabel": "optimize",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 34.0,
+        "ratioToBaselineAvgViewDuration": 0.94,
+        "note": "Views are above the available-video median, but average view duration is below baseline; tighten hook or pacing."
+      },
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "lastNotifiedLabel": "optimize"
     },
     {
       "productionId": "JV-2026-08-28-SELFN",
       "videoId": "2_8g59HuiH4",
       "title": "Why the Butterfly Navigates 3000 Miles Without a Map #Shorts",
       "uploadedAt": "2026-08-28T10:18:36.722958-04:00",
-      "ageHoursAtAnalysis": 24.8,
+      "ageHoursAtAnalysis": 48.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 54.2,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
+        "baselineAvgViewDuration": 34.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2106,18 +2120,18 @@
       "videoId": "NrsllcvY400",
       "title": "Why the Gorilla Sings While It Eats #Shorts",
       "uploadedAt": "2026-08-28T16:13:27.853787-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 58.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
+        "baselineAvgViewDuration": 34.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2125,18 +2139,56 @@
       "videoId": "Kx882HdkE_4",
       "title": "Why the Bear Doesn't Pee for Six Months #Shorts",
       "uploadedAt": "2026-08-29T10:09:48.215394-04:00",
-      "ageHoursAtAnalysis": 0.9,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 57.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
+        "baselineAvgViewDuration": 34.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-29T11:05:30-04:00",
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-08-29-SELF2",
+      "videoId": "YLO6Feao4Ug",
+      "title": "Why the Seal Survives 5000 Feet Underwater #Shorts",
+      "uploadedAt": "2026-08-29T16:09:35.504091-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 63.8,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 34.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-08-30-SELFN",
+      "videoId": "MpzZGF77bkM",
+      "title": "Why the Iguana Has a Third Eye #Shorts",
+      "uploadedAt": "2026-08-30T10:10:10.214321-04:00",
+      "ageHoursAtAnalysis": 0.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 56.0,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 34.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-08-30T11:05:13-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2184,11 +2236,12 @@
         "F32twk3TlBI",
         "5grxfhqa-fg",
         "dkhln2VoTNk",
-        "JedGHLLl0pY"
+        "JedGHLLl0pY",
+        "5skOplVQqVk"
       ],
-      "sampleSize": 21,
-      "avgViewDurationMedian": 24.0,
-      "viewsMedian": 766.0,
+      "sampleSize": 22,
+      "avgViewDurationMedian": 24.5,
+      "viewsMedian": 791.5,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -2213,11 +2266,12 @@
         "sJaqLr8I_9w",
         "f0dpKtBpIlw",
         "60-lx8gRkxU",
-        "Xf8qcSWhvj8"
+        "Xf8qcSWhvj8",
+        "1TEFE-OBbO4"
       ],
-      "sampleSize": 18,
+      "sampleSize": 19,
       "avgViewDurationMedian": 28.0,
-      "viewsMedian": 1041.5,
+      "viewsMedian": 1018.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -2446,6 +2500,32 @@
       "confidence": "low"
     },
     {
+      "key": "kangaroo",
+      "label": "Kangaroo",
+      "videos": [
+        "FpsDSm0tmfs",
+        "1TEFE-OBbO4"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 24.0,
+      "viewsMedian": 501.5,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "koala",
+      "label": "Koala",
+      "videos": [
+        "zdZttF3obWc",
+        "5skOplVQqVk"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 19.5,
+      "viewsMedian": 560.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
       "key": "ostrich",
       "label": "Ostrich",
       "videos": [
@@ -2658,11 +2738,13 @@
         "5grxfhqa-fg",
         "Xf8qcSWhvj8",
         "dkhln2VoTNk",
-        "JedGHLLl0pY"
+        "JedGHLLl0pY",
+        "5skOplVQqVk",
+        "1TEFE-OBbO4"
       ],
-      "sampleSize": 76,
-      "avgViewDurationMedian": 25.5,
-      "viewsMedian": 827.5,
+      "sampleSize": 78,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 856.5,
       "verdict": "promising",
       "confidence": "high"
     }
@@ -2670,137 +2752,147 @@
   "summary": [
     {
       "pattern": "Why the [animal] can do the unexpected #Shorts",
-      "evidence": "21 available videos; median 766.0 views and 24.0s average view duration versus 33.5s channel baseline; confidence high.",
+      "evidence": "22 available videos; median 791.5 views and 24.5s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] has an impossible body ability #Shorts",
-      "evidence": "18 available videos; median 1041.5 views and 28.0s average view duration versus 33.5s channel baseline; confidence high.",
+      "evidence": "19 available videos; median 1018.0 views and 28.0s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] survives the impossible #Shorts",
-      "evidence": "13 available videos; median 1035.0 views and 26.0s average view duration versus 33.5s channel baseline; confidence high.",
+      "evidence": "13 available videos; median 1035.0 views and 26.0s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [sensory surprise] #Shorts",
-      "evidence": "24 available videos; median 690.0 views and 24.0s average view duration versus 33.5s channel baseline; confidence high.",
+      "evidence": "24 available videos; median 690.0 views and 24.0s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Alligator topic",
-      "evidence": "2 available videos; median 583.5 views and 25.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 583.5 views and 25.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Camel topic",
-      "evidence": "3 available videos; median 875.0 views and 21.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 875.0 views and 21.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Cheetah topic",
-      "evidence": "2 available videos; median 498.0 views and 17.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 498.0 views and 17.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Crocodile topic",
-      "evidence": "2 available videos; median 496.0 views and 30.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 496.0 views and 30.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Dolphin topic",
-      "evidence": "3 available videos; median 1393.0 views and 18.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 1393.0 views and 18.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Eagle topic",
-      "evidence": "3 available videos; median 1005.0 views and 33.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 1005.0 views and 33.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Elephant topic",
-      "evidence": "3 available videos; median 1078.0 views and 26.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 1078.0 views and 26.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Flamingo topic",
-      "evidence": "2 available videos; median 800.5 views and 32.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 800.5 views and 32.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Fox topic",
-      "evidence": "3 available videos; median 1251.0 views and 22.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 1251.0 views and 22.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Giraffe topic",
-      "evidence": "2 available videos; median 748.5 views and 34.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 748.5 views and 34.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Hippo topic",
-      "evidence": "2 available videos; median 791.0 views and 20.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 791.0 views and 20.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Jellyfish topic",
-      "evidence": "4 available videos; median 1032.5 views and 27.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "4 available videos; median 1032.5 views and 27.0s average view duration versus 34s channel baseline; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Kangaroo topic",
+      "evidence": "2 available videos; median 501.5 views and 24.0s average view duration versus 34s channel baseline; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Koala topic",
+      "evidence": "2 available videos; median 560.0 views and 19.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Ostrich topic",
-      "evidence": "2 available videos; median 538.0 views and 17.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 538.0 views and 17.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Owl topic",
-      "evidence": "2 available videos; median 544.0 views and 45.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 544.0 views and 45.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "prioritize"
     },
     {
       "pattern": "Parrot topic",
-      "evidence": "2 available videos; median 893.0 views and 30.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 893.0 views and 30.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Peacock topic",
-      "evidence": "2 available videos; median 849.5 views and 25.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 849.5 views and 25.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Penguin topic",
-      "evidence": "2 available videos; median 929.0 views and 26.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 929.0 views and 26.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Polar Bear topic",
-      "evidence": "3 available videos; median 1215.0 views and 26.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 1215.0 views and 26.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Shark topic",
-      "evidence": "3 available videos; median 1716.0 views and 28.0s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "3 available videos; median 1716.0 views and 28.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Starfish topic",
-      "evidence": "2 available videos; median 659.5 views and 14.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 659.5 views and 14.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Tiger topic",
-      "evidence": "2 available videos; median 932.5 views and 25.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 932.5 views and 25.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Turtle topic",
-      "evidence": "2 available videos; median 1263.5 views and 30.5s average view duration versus 33.5s channel baseline; confidence low.",
+      "evidence": "2 available videos; median 1263.5 views and 30.5s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [X] #Shorts",
-      "evidence": "76 available videos; median 827.5 views and 25.5s average view duration versus 33.5s channel baseline; confidence high.",
+      "evidence": "78 available videos; median 856.5 views and 26.0s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     }
   ]
