@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-30T11:05:13-04:00",
-  "fetchedAt": "2026-08-30T11:05:13-04:00",
+  "lastRunAt": "2026-08-31T11:06:32-04:00",
+  "fetchedAt": "2026-08-31T11:06:32-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -789,7 +789,7 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 672.8,
+      "ageHoursAtAnalysis": 696.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
@@ -800,7 +800,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -808,7 +808,7 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 666.9,
+      "ageHoursAtAnalysis": 691.0,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
@@ -819,7 +819,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2101,45 +2101,59 @@
       "videoId": "2_8g59HuiH4",
       "title": "Why the Butterfly Navigates 3000 Miles Without a Map #Shorts",
       "uploadedAt": "2026-08-28T10:18:36.722958-04:00",
-      "ageHoursAtAnalysis": 48.8,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 72.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 78,
+        "estimatedMinutesWatched": 14,
+        "averageViewDuration": 27.0,
+        "likes": 6,
+        "comments": 0,
+        "shares": 0
+      },
       "videoDurationSeconds": 54.2,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 49.8,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 34.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 0.79,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-08-28-SELF2",
       "videoId": "NrsllcvY400",
       "title": "Why the Gorilla Sings While It Eats #Shorts",
       "uploadedAt": "2026-08-28T16:13:27.853787-04:00",
-      "ageHoursAtAnalysis": 42.9,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 66.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1120,
+        "estimatedMinutesWatched": 322,
+        "averageViewDuration": 26.0,
+        "likes": 68,
+        "comments": 0,
+        "shares": 3
+      },
       "videoDurationSeconds": 58.4,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 44.5,
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 34.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 0.76,
+        "note": "Views are above the available-video median, but average view duration is below baseline; tighten hook or pacing."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
+      "lastNotifiedLabel": "optimize"
     },
     {
       "productionId": "JV-2026-08-29-SELFN",
       "videoId": "Kx882HdkE_4",
       "title": "Why the Bear Doesn't Pee for Six Months #Shorts",
       "uploadedAt": "2026-08-29T10:09:48.215394-04:00",
-      "ageHoursAtAnalysis": 24.9,
+      "ageHoursAtAnalysis": 48.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 57.4,
@@ -2150,7 +2164,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2158,7 +2172,7 @@
       "videoId": "YLO6Feao4Ug",
       "title": "Why the Seal Survives 5000 Feet Underwater #Shorts",
       "uploadedAt": "2026-08-29T16:09:35.504091-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 63.8,
@@ -2169,7 +2183,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2177,7 +2191,7 @@
       "videoId": "MpzZGF77bkM",
       "title": "Why the Iguana Has a Third Eye #Shorts",
       "uploadedAt": "2026-08-30T10:10:10.214321-04:00",
-      "ageHoursAtAnalysis": 0.9,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 56.0,
@@ -2188,7 +2202,45 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-08-30T11:05:13-04:00",
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-08-30-SELF2",
+      "videoId": "UdjDO5vUKoc",
+      "title": "Why the Ostrich Outruns a Horse #Shorts",
+      "uploadedAt": "2026-08-30T16:11:10.038545-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 55.8,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 34.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-08-31-SELFN",
+      "videoId": "_pavLdIq5ic",
+      "title": "Why the Spider Sees the Moon #Shorts",
+      "uploadedAt": "2026-08-31T10:24:04.973367-04:00",
+      "ageHoursAtAnalysis": 0.7,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 50.2,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 34.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-08-31T11:06:32-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2237,11 +2289,12 @@
         "5grxfhqa-fg",
         "dkhln2VoTNk",
         "JedGHLLl0pY",
-        "5skOplVQqVk"
+        "5skOplVQqVk",
+        "NrsllcvY400"
       ],
-      "sampleSize": 22,
-      "avgViewDurationMedian": 24.5,
-      "viewsMedian": 791.5,
+      "sampleSize": 23,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 817.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -2291,11 +2344,12 @@
         "LF75Mu00CIQ",
         "Gk_HcgWxyIM",
         "uack1HYnRco",
-        "fRzQth2pGnA"
+        "fRzQth2pGnA",
+        "2_8g59HuiH4"
       ],
-      "sampleSize": 13,
-      "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1035.0,
+      "sampleSize": 14,
+      "avgViewDurationMedian": 26.5,
+      "viewsMedian": 1032.5,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -2347,6 +2401,19 @@
       "avgViewDurationMedian": 25.0,
       "viewsMedian": 583.5,
       "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "butterfly",
+      "label": "Butterfly",
+      "videos": [
+        "SDOouEXJgQw",
+        "2_8g59HuiH4"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 24.5,
+      "viewsMedian": 136.0,
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -2468,6 +2535,19 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 34.0,
       "viewsMedian": 748.5,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "gorilla",
+      "label": "Gorilla",
+      "videos": [
+        "SqPXwvRa7bk",
+        "NrsllcvY400"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 31.0,
+      "viewsMedian": 561.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -2740,9 +2820,11 @@
         "dkhln2VoTNk",
         "JedGHLLl0pY",
         "5skOplVQqVk",
-        "1TEFE-OBbO4"
+        "1TEFE-OBbO4",
+        "2_8g59HuiH4",
+        "NrsllcvY400"
       ],
-      "sampleSize": 78,
+      "sampleSize": 80,
       "avgViewDurationMedian": 26.0,
       "viewsMedian": 856.5,
       "verdict": "promising",
@@ -2752,7 +2834,7 @@
   "summary": [
     {
       "pattern": "Why the [animal] can do the unexpected #Shorts",
-      "evidence": "22 available videos; median 791.5 views and 24.5s average view duration versus 34s channel baseline; confidence high.",
+      "evidence": "23 available videos; median 817.0 views and 25.0s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
@@ -2762,7 +2844,7 @@
     },
     {
       "pattern": "Why the [animal] survives the impossible #Shorts",
-      "evidence": "13 available videos; median 1035.0 views and 26.0s average view duration versus 34s channel baseline; confidence high.",
+      "evidence": "14 available videos; median 1032.5 views and 26.5s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
@@ -2774,6 +2856,11 @@
       "pattern": "Alligator topic",
       "evidence": "2 available videos; median 583.5 views and 25.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
+    },
+    {
+      "pattern": "Butterfly topic",
+      "evidence": "2 available videos; median 136.0 views and 24.5s average view duration versus 34s channel baseline; confidence low.",
+      "verdict": "avoid"
     },
     {
       "pattern": "Camel topic",
@@ -2818,6 +2905,11 @@
     {
       "pattern": "Giraffe topic",
       "evidence": "2 available videos; median 748.5 views and 34.0s average view duration versus 34s channel baseline; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Gorilla topic",
+      "evidence": "2 available videos; median 561.0 views and 31.0s average view duration versus 34s channel baseline; confidence low.",
       "verdict": "promising"
     },
     {
@@ -2892,7 +2984,7 @@
     },
     {
       "pattern": "Why the [animal] [X] #Shorts",
-      "evidence": "78 available videos; median 856.5 views and 26.0s average view duration versus 34s channel baseline; confidence high.",
+      "evidence": "80 available videos; median 856.5 views and 26.0s average view duration versus 34s channel baseline; confidence high.",
       "verdict": "promising"
     }
   ]
