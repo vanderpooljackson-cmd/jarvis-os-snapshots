@@ -3822,6 +3822,31 @@
       "animal": "spider",
       "angle": "2nd (jumping spider 360-degree vision, 4-layer retina sees UV+RGB, can distinguish moon from star, brain smaller than poppy seed)",
       "note": "Second angle on spider (first: Can Jump 50 Times Its Body Length). Vision superpower: jumping spiders have sharpest vision of any spider, 4 pairs of eyes, 360-degree view, 4-layer retina sees UV+blue+green+red, can distinguish moon from star. 6/6 Pexels clips (4 genuine spider/insect + 2 horror movie clips that slipped through), zero re-fetches. Compressed 17.3MB->3.8MB (CRF 36) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-08-31-SELF2",
+      "ideaId": "selfgen-deer-ultrasonic-hearing",
+      "sourceHash": "31a5c631fe8b9b41d170e0f5313822637955e09b08031d4d0974535052132f74",
+      "title": "Why the Deer Hears What You Can't #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-31T16:04:38.312421-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on deer. Paradox: deer ears rotate independently 180 degrees like radar dishes, and they hear ultrasonic frequencies above human range. Hearing superpower distinct from first angle (360-degree vision).",
+      "renderedAt": "2026-08-31T16:11:41.374762-04:00",
+      "uploadedAt": "2026-08-31T16:11:41.374762-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "35ObWh3YP74",
+        "url": "https://www.youtube.com/watch?v=35ObWh3YP74"
+      },
+      "duration": 55.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEARS WHAT YOU CAN'T",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "deer",
+      "angle": "2nd (ears rotate independently 180 degrees, 7 muscles per ear, hear ultrasonic up to 30kHz vs human 20kHz, pinpoint sound direction)",
+      "note": "Second angle on deer (first: Sees in Every Direction). Hearing superpower: ears are biological radar dishes, each rotates independently 180 degrees controlled by 7 muscles, hear frequencies up to 30kHz (humans top out at 20kHz), pick up ultrasonic sounds silent to humans. 6/6 Pexels clips (all deer/elk), zero re-fetches. Compressed 39.4MB->6.0MB (CRF 38) for connector upload."
     }
   ]
 }
