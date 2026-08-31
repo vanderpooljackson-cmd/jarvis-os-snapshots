@@ -2,41 +2,33 @@
   "channel": {
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
-    "handle": "@jvoutdoors67",
     "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "handle": "@jvoutdoors67",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 109227,
-      "subscriberCount": 148,
-      "videoCount": 127
+      "viewCount": 112355,
+      "subscriberCount": 150,
+      "videoCount": 129
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-02",
-    "endDate": "2026-08-30",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-31",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 70509,
-    "estimatedMinutesWatched": 23823,
-    "subscribersGained": 93,
-    "subscribersLost": 12,
-    "netSubscribers": 81,
-    "likes": 2561,
-    "comments": 33,
-    "shares": 51
+    "views": 73101,
+    "estimatedMinutesWatched": 24911,
+    "subscribersGained": 100,
+    "subscribersLost": 13,
+    "likes": 2690,
+    "comments": 34,
+    "shares": 61,
+    "netSubscribers": 87
   },
   "daily": [
-    {
-      "day": "2026-08-02",
-      "views": 6,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-08-03",
       "views": 2,
@@ -215,8 +207,8 @@
     },
     {
       "day": "2026-08-25",
-      "views": 2843,
-      "watched": 967,
+      "views": 2827,
+      "watched": 965,
       "subsGained": 4,
       "subsLost": 1,
       "likes": 106
@@ -236,13 +228,21 @@
       "subsGained": 7,
       "subsLost": 1,
       "likes": 191
+    },
+    {
+      "day": "2026-08-28",
+      "views": 2614,
+      "watched": 1090,
+      "subsGained": 7,
+      "subsLost": 1,
+      "likes": 129
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13415,
+      "views": 13416,
       "watched": 5826,
       "likes": 363,
       "comments": 4,
@@ -262,24 +262,24 @@
       "note": ""
     },
     {
-      "videoId": "tMrTS480uqE",
-      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 4544,
-      "watched": 1605,
-      "likes": 103,
-      "comments": 0,
-      "avgViewDuration": 34,
+      "videoId": "JedGHLLl0pY",
+      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
+      "views": 4624,
+      "watched": 2200,
+      "likes": 203,
+      "comments": 2,
+      "avgViewDuration": 47,
       "flag": "stable",
       "note": ""
     },
     {
-      "videoId": "JedGHLLl0pY",
-      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 3440,
-      "watched": 1560,
-      "likes": 158,
-      "comments": 2,
-      "avgViewDuration": 44,
+      "videoId": "tMrTS480uqE",
+      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
+      "views": 4545,
+      "watched": 1605,
+      "likes": 103,
+      "comments": 0,
+      "avgViewDuration": 34,
       "flag": "stable",
       "note": ""
     },
@@ -308,8 +308,8 @@
     {
       "videoId": "u1C7OUZ2odk",
       "title": "Why the Eagle Sees a Glow You Can't #Shorts",
-      "views": 1831,
-      "watched": 603,
+      "views": 1832,
+      "watched": 604,
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 34,
@@ -319,8 +319,8 @@
     {
       "videoId": "yKKvd4LWCcE",
       "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
-      "views": 1727,
-      "watched": 628,
+      "views": 1728,
+      "watched": 629,
       "likes": 61,
       "comments": 0,
       "avgViewDuration": 36,
@@ -330,7 +330,7 @@
     {
       "videoId": "uack1HYnRco",
       "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
-      "views": 1639,
+      "views": 1640,
       "watched": 403,
       "likes": 89,
       "comments": 0,
@@ -341,7 +341,7 @@
     {
       "videoId": "KYufoqBM3JY",
       "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1558,
+      "views": 1559,
       "watched": 356,
       "likes": 33,
       "comments": 0,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-30T09:09:41.932209-04:00",
+  "fetchedAt": "2026-08-31T09:11:04.227588-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-30T09:09:41.932209-04:00",
+      "fetchedAt": "2026-08-31T09:11:04.227588-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 148,
+        "current": 150,
         "threshold": 1000,
-        "percent": 14.8
+        "percent": 15.0
       },
       "watchHours12mo": {
-        "current": 535.3,
+        "current": 553.5,
         "threshold": 4000,
-        "percent": 13.38,
+        "percent": 13.84,
         "window": "Last 12 months",
-        "minutesWatched": 32119
+        "minutesWatched": 33208
       },
       "shortsViews90d": {
-        "current": 103542,
+        "current": 106133,
         "threshold": 10000000,
-        "percent": 1.035,
+        "percent": 1.061,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
