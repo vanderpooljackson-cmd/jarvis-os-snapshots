@@ -3797,6 +3797,31 @@
       "animal": "ostrich",
       "angle": "2nd (runs 43mph, sustains 30mph for 30min, fastest two-legged animal, tendon recoil + wing rudders)",
       "note": "Second angle on ostrich (first: Has Eyes Bigger Than Its Brain). Speed superpower: 43mph sprint, 30mph sustained for 30 min, two-toed feet with claw, tendon energy storage, wings as rudders. 6/6 Pexels clips (all ostrich including running/sprinting), zero re-fetches. Compressed 76.6MB->8.9MB (CRF 39) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-08-31-SELFN",
+      "ideaId": "selfgen-spider-moon-vision",
+      "sourceHash": "82c550cd27f7dff48de35f3ac4fd53a77bfae2d7593112cb6bf4822ab7f562eb",
+      "title": "Why the Spider Sees the Moon #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-08-31T10:16:16.835761-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on spider. Paradox: jumping spiders have 4 pairs of eyes with 360-degree vision and can see the moon \u2014 best vision of any spider. Sensory superpower.",
+      "renderedAt": "2026-08-31T10:24:04.973367-04:00",
+      "uploadedAt": "2026-08-31T10:24:04.973367-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "_pavLdIq5ic",
+        "url": "https://www.youtube.com/watch?v=_pavLdIq5ic"
+      },
+      "duration": 50.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "SEES THE MOON",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "spider",
+      "angle": "2nd (jumping spider 360-degree vision, 4-layer retina sees UV+RGB, can distinguish moon from star, brain smaller than poppy seed)",
+      "note": "Second angle on spider (first: Can Jump 50 Times Its Body Length). Vision superpower: jumping spiders have sharpest vision of any spider, 4 pairs of eyes, 360-degree view, 4-layer retina sees UV+blue+green+red, can distinguish moon from star. 6/6 Pexels clips (4 genuine spider/insect + 2 horror movie clips that slipped through), zero re-fetches. Compressed 17.3MB->3.8MB (CRF 36) for connector upload."
     }
   ]
 }
