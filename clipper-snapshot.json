@@ -1,139 +1,96 @@
 {
-  "fetchedAt": "2026-08-28T17:37:32.996157-04:00",
+  "fetchedAt": "2026-08-31T17:30:00-04:00",
   "videos": [
     {
-      "videoId": "NrsllcvY400",
-      "title": "Why the Gorilla Sings While It Eats #Shorts",
+      "videoId": "35ObWh3YP74",
+      "title": "Why the Deer Hears What You Can't #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Silence as danger signal",
+          "momentLabel": "Ultrasonic hearing reveal",
+          "startSec": 20,
+          "endSec": 34,
+          "why": "The core paradox — deer hear up to 30kHz vs human 20kHz, picking up sounds completely silent to us. Highest curiosity density in the video.",
+          "hookRewrite": "Why a deer can hear sounds that are completely invisible to you"
+        }
+      ]
+    },
+    {
+      "videoId": "_pavLdIq5ic",
+      "title": "Why the Spider Sees the Moon #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "UgzLuCL8pYJLjs97SgN4AaABAg",
+          "author": "@olgarohner7907",
+          "text": "From a universe perspective we are not too much bigger than spiders... We can see stars...",
+          "replyPosted": true,
+          "replyText": "That is such a beautiful way to think about it. We really are not that different when you look at it from a cosmic scale. Both of us looking up at the same moon, just from very different sizes of existence. Really grateful you took something thoughtful from this one."
+        },
+        {
+          "id": "UgxQaMMi85IFNMGGIuV4AaABAg",
+          "author": "@NiVRO90",
+          "text": "How do we know? Also wtf is up with this video?",
+          "replyPosted": true,
+          "replyText": "Great question. Scientists discovered this by studying the jumping spider retina under electron microscopes. They found four distinct layers of photoreceptor cells, each sensitive to different wavelengths of light. Behavioral tests confirmed they can distinguish the moon from stars by having them look at different light sources. As for the video style, it is a new format we are trying with stock footage and narration. Always looking to improve."
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Brain smaller than poppy seed sees the moon",
           "startSec": 35,
-          "endSec": 44,
-          "why": "Highest surprise density \u2014 the idea that gorilla silence during meals is a panic signal is counterintuitive and immediately hooks curiosity",
-          "hookRewrite": "When this gorilla goes silent, every member of its family panics"
-        },
-        {
-          "momentLabel": "Family-specific dinner songs",
-          "startSec": 15,
-          "endSec": 24,
-          "why": "Unique angle \u2014 each gorilla family has its own song passed down through generations, a musical tradition",
-          "hookRewrite": "Every gorilla family has its own original dinner song"
+          "endSec": 43,
+          "why": "The emotional punchline — a creature with a brain smaller than a poppy seed can look up at the night sky and see what we see. Strong curiosity gap and shareable.",
+          "hookRewrite": "How a spider with a brain smaller than a poppy seed can see the moon"
         }
       ]
     },
     {
-      "videoId": "2_8g59HuiH4",
-      "title": "Why the Butterfly Navigates 3000 Miles Without a Map #Shorts",
+      "videoId": "UdjDO5vUKoc",
+      "title": "Why the Ostrich Outruns a Horse #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Great-grandparents' mountain",
-          "startSec": 43,
-          "endSec": 54,
-          "why": "Emotional and paradoxical punch \u2014 a creature weighing less than a gram crossing a continent to a place it's never been",
-          "hookRewrite": "This tiny insect flies 3000 miles to a forest it has never seen"
+          "momentLabel": "30 mph for 30 minutes",
+          "startSec": 6,
+          "endSec": 16,
+          "why": "The speed paradox — an ostrich can sustain 30 mph for half an hour, a pace that would leave a horse gasping. Surprising comparison that challenges expectations.",
+          "hookRewrite": "Why an ostrich can outrun a horse for 30 minutes straight"
         }
       ]
     },
     {
-      "videoId": "1TEFE-OBbO4",
-      "title": "Why the Kangaroo Walks on Five Legs #Shorts",
+      "videoId": "MpzZGF77bkM",
+      "title": "Why the Iguana Has a Third Eye #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Better mileage the faster it runs",
-          "startSec": 42,
-          "endSec": 50,
-          "why": "Counterintuitive paradox \u2014 the only animal that gets more efficient at higher speeds, breaks common sense",
-          "hookRewrite": "This is the only animal that gets MORE efficient the faster it runs"
+          "momentLabel": "Shadow detection reflex",
+          "startSec": 25,
+          "endSec": 41,
+          "why": "The mechanism — parietal eye detects shadow shifts in milliseconds, triggers a reflex to flee before the brain processes the threat. Counterintuitive survival system.",
+          "hookRewrite": "Why an iguana runs from a shadow it never even sees"
         }
       ]
     },
     {
-      "videoId": "5skOplVQqVk",
-      "title": "Why the Koala Has Human Fingerprints #Shorts",
+      "videoId": "YLO6Feao4Ug",
+      "title": "Why the Seal Survives 5000 Feet Underwater #Shorts",
       "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgzwuMkFBcq1FJTxyQ54AaABAg",
-          "author": "@ISpyLexi",
-          "text": "Just imagine getting life in prison because a koala committed murder and they can't tell your fingerprints apart",
-          "replyPosted": true,
-          "replyText": "Ha! That is honestly a legitimate forensic concern. Koala fingerprints are so similar to human ones that Australian police have actually flagged this as a real issue at crime scenes near koala habitats. Truth is wilder than fiction!"
-        },
-        {
-          "id": "UgylAJOpeHNYZPoul8B4AaABAg",
-          "author": "@StephaniGC929",
-          "text": "wow thats amazing id of never thought we share prints with marsupial and not primates....but we share so much with primates",
-          "replyPosted": true,
-          "replyText": "Exactly! It is one of nature coolest surprises. We share 98 percent of our DNA with chimps but NOT fingerprints \u2014 yet koalas, a marsupial on another continent, evolved the exact same pattern independently. It is called convergent evolution, and it is why nature never stops amazing us!"
-        },
-        {
-          "id": "UgwAuiEUUxyd7fZGfcd4AaABAg",
-          "author": "@conniejohns7853",
-          "text": "I just learned something new. Love it. I'd like to know more.",
-          "replyPosted": true,
-          "replyText": "So glad you enjoyed it! Here is a bonus fact: koala fingerprints are so detailed that under a microscope, even the ridge patterns match human categories \u2014 loops, whorls, and arches. Evolution literally printed the same design twice, millions of years apart!"
-        },
-        {
-          "id": "UgydFWD4EFPtGQj0Cnx4AaABAg",
-          "author": "@oifreshmeat",
-          "text": "yeahhh I feel like that animal after reading HAHAHAHAHAHA \ud83d\ude02",
-          "replyPosted": false,
-          "replyText": ""
-        }
-      ],
+      "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Forensic experts can't tell them apart",
-          "startSec": 11,
-          "endSec": 23,
-          "why": "Strongest hook \u2014 trained forensic experts cannot distinguish koala from human fingerprints, immediately relatable and surprising",
-          "hookRewrite": "Police can't tell these fingerprints apart from a human criminal's"
-        },
-        {
-          "momentLabel": "Shared with koalas but not chimps",
-          "startSec": 38,
-          "endSec": 44,
-          "why": "Paradox \u2014 we share fingerprints with koalas but NOT with chimpanzees, our closest relatives",
-          "hookRewrite": "We share fingerprints with this marsupial but NOT with chimpanzees"
-        }
-      ]
-    },
-    {
-      "videoId": "JedGHLLl0pY",
-      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgwVIV4_ifydan98ZgB4AaABAg",
-          "author": "@gsmooth6037",
-          "text": "That's pretty sad.",
-          "replyPosted": true,
-          "replyText": "It really is! But evolution found a beautiful workaround \u2014 giraffes rest one brain hemisphere at a time, so they are never fully unconscious. They survive on micronaps while staying alert for predators. Nature is both brutal and brilliant!"
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Half-brain sleep",
-          "startSec": 37,
-          "endSec": 48,
-          "why": "Fascinating biology \u2014 giraffes rest one brain hemisphere at a time, keeping one eye open, like dolphins",
-          "hookRewrite": "This animal sleeps with half its brain awake at all times"
-        },
-        {
-          "momentLabel": "Lowering head means dying",
-          "startSec": 5,
-          "endSec": 14,
-          "why": "Stakes \u2014 lying down means dying for a giraffe, creates immediate tension",
-          "hookRewrite": "If this animal lies down to sleep, it dies"
+          "momentLabel": "Heart rate drops to 4 bpm",
+          "startSec": 49,
+          "endSec": 57,
+          "why": "The extreme physiological shutdown — heart rate drops from 90 to 4 bpm while running on reserve oxygen a mile underwater. Most shocking stat in the video.",
+          "hookRewrite": "Why a seal's heart beats only 4 times per minute underwater"
         }
       ]
     }
   ],
-  "postedReplies": 4
+  "postedReplies": 2
 }
