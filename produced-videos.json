@@ -3884,6 +3884,31 @@
       "concept": "Second angle on raccoon. Paradox: raccoons remember solutions to complex tasks for up to 3 years, outperform dogs and cats in intelligence tests, and can open locks/latches/jars. Cognitive superpower distinct from first angle (seeing with hands underwater).",
       "error": "insufficient stock footage: 0/6 actual raccoon clips (Pexels returned squirrel, coati, cat, dogs, lemur \u2014 no raccoons despite filmableWithQuery baseQuery 'raccoon climbing tree')",
       "failedAt": "2026-09-01T16:06:38.099171-04:00"
+    },
+    {
+      "productionId": "JV-2026-09-01-SELF3",
+      "ideaId": "selfgen-hawk-3mile-vision",
+      "sourceHash": "1cf0d45a315cc65950f8172da94f1ae4e8734e2d05682c1cc4c6e997fbdd4ce8",
+      "title": "Why the Hawk Spots Prey From 3 Miles Away #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-01T16:06:48.403042-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on hawk. Paradox: hawks have 8x sharper vision than humans \u2014 they can spot a mouse from 3 miles away. Their eyes have 5x more photoreceptors and two foveae for depth perception. Vision superpower distinct from first angle (2-mile mouse detection).",
+      "renderedAt": "2026-09-01T16:12:17.306826-04:00",
+      "uploadedAt": "2026-09-01T16:12:17.306826-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "UJFjPivt6_M",
+        "url": "https://www.youtube.com/watch?v=UJFjPivt6_M"
+      },
+      "duration": 57.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "SEES THREE MILES AWAY",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "hawk",
+      "angle": "2nd (8x sharper vision than humans, 5x more photoreceptors, two foveae for telephoto+wide-angle, process visual info 2x faster = slow motion perception)",
+      "note": "Second angle on hawk (first: Sees a Mouse From Two Miles Away). Vision superpower: 8x sharper vision, 5x more photoreceptors per sq mm, two foveae for dual telephoto+wide-angle, process visual info 2x faster = world in slow motion. 6/6 Pexels clips (2 hawks + 2 eagles + 1 bird + 1 falconry), zero re-fetches. Compressed 24.8MB->5.7MB (CRF 36) for connector upload."
     }
   ]
 }
