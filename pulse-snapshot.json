@@ -2,41 +2,33 @@
   "channel": {
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "handle": "@jvoutdoors67",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 112355,
-      "subscriberCount": 150,
-      "videoCount": 129
+      "viewCount": 114624,
+      "subscriberCount": 155,
+      "videoCount": 131
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-03",
-    "endDate": "2026-08-31",
+    "startDate": "2026-08-04",
+    "endDate": "2026-09-01",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 73101,
-    "estimatedMinutesWatched": 24911,
-    "subscribersGained": 100,
-    "subscribersLost": 13,
-    "likes": 2690,
-    "comments": 34,
-    "shares": 61,
-    "netSubscribers": 87
+    "views": 76056,
+    "estimatedMinutesWatched": 25953,
+    "subscribersGained": 104,
+    "subscribersLost": 14,
+    "netSubscribers": 90,
+    "likes": 2826,
+    "comments": 35,
+    "shares": 61
   },
   "daily": [
-    {
-      "day": "2026-08-03",
-      "views": 2,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-08-04",
       "views": 4,
@@ -223,8 +215,8 @@
     },
     {
       "day": "2026-08-27",
-      "views": 4316,
-      "watched": 1902,
+      "views": 4291,
+      "watched": 1896,
       "subsGained": 7,
       "subsLost": 1,
       "likes": 191
@@ -236,13 +228,21 @@
       "subsGained": 7,
       "subsLost": 1,
       "likes": 129
+    },
+    {
+      "day": "2026-08-29",
+      "views": 2982,
+      "watched": 1048,
+      "subsGained": 4,
+      "subsLost": 1,
+      "likes": 136
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13416,
+      "views": 13418,
       "watched": 5826,
       "likes": 363,
       "comments": 4,
@@ -264,11 +264,11 @@
     {
       "videoId": "JedGHLLl0pY",
       "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 4624,
-      "watched": 2200,
-      "likes": 203,
+      "views": 4721,
+      "watched": 2331,
+      "likes": 207,
       "comments": 2,
-      "avgViewDuration": 47,
+      "avgViewDuration": 48,
       "flag": "stable",
       "note": ""
     },
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-08-31T09:11:04.227588-04:00",
+  "fetchedAt": "2026-09-01T09:11:18.180255-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-08-31T09:11:04.227588-04:00",
+      "fetchedAt": "2026-09-01T09:11:18.180255-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 150,
+        "current": 155,
         "threshold": 1000,
-        "percent": 15.0
+        "percent": 15.5
       },
       "watchHours12mo": {
-        "current": 553.5,
+        "current": 570.9,
         "threshold": 4000,
-        "percent": 13.84,
+        "percent": 14.27,
         "window": "Last 12 months",
-        "minutesWatched": 33208
+        "minutesWatched": 34251
       },
       "shortsViews90d": {
-        "current": 106133,
+        "current": 107953,
         "threshold": 10000000,
-        "percent": 1.061,
+        "percent": 1.08,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
