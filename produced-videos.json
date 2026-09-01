@@ -3847,6 +3847,31 @@
       "animal": "deer",
       "angle": "2nd (ears rotate independently 180 degrees, 7 muscles per ear, hear ultrasonic up to 30kHz vs human 20kHz, pinpoint sound direction)",
       "note": "Second angle on deer (first: Sees in Every Direction). Hearing superpower: ears are biological radar dishes, each rotates independently 180 degrees controlled by 7 muscles, hear frequencies up to 30kHz (humans top out at 20kHz), pick up ultrasonic sounds silent to humans. 6/6 Pexels clips (all deer/elk), zero re-fetches. Compressed 39.4MB->6.0MB (CRF 38) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-09-01-SELFN",
+      "ideaId": "selfgen-sea-lion-voice-memory",
+      "sourceHash": "3a1be325615d889bbda1be2a0fb3136e952d9ac948dbca8d429e26786d5eb941",
+      "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-01T10:11:02.838288-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on sea lion. Paradox: sea lions can remember individual voices for decades \u2014 a mother identifies her pup's call among thousands in a crowded rookery, even after years apart. Hearing/memory superpower distinct from first angle (hunting in darkness).",
+      "renderedAt": "2026-09-01T10:21:15.913642-04:00",
+      "uploadedAt": "2026-09-01T10:21:15.913642-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "0onjfepA3F8",
+        "url": "https://www.youtube.com/watch?v=0onjfepA3F8"
+      },
+      "duration": 63.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "NEVER FORGETS A VOICE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "sea lion",
+      "angle": "2nd (vocal memory \u2014 mothers and pups recognize each other's calls for years, pick out individual voice from thousands in a rookery, rivals dolphins and elephants)",
+      "note": "Second angle on sea lion (first: Hunts in Total Darkness). Hearing/memory superpower: sea lions remember individual voices for years, mothers pick out pup's call from thousands in a crowded rookery in seconds, vocal memory rivals dolphins and elephants. 6/6 Pexels clips (4 genuine sea lion/seal + 1 lion + 1 dolphin that slipped through), zero re-fetches. Assembly ok:false false negative \u2014 validated with ffprobe+decode test (H.264+AAC, 1896 frames, clean decode). Compressed 85.8MB->9.1MB (CRF 40) for connector upload."
     }
   ]
 }
