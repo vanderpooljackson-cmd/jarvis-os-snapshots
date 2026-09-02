@@ -3909,6 +3909,31 @@
       "animal": "hawk",
       "angle": "2nd (8x sharper vision than humans, 5x more photoreceptors, two foveae for telephoto+wide-angle, process visual info 2x faster = slow motion perception)",
       "note": "Second angle on hawk (first: Sees a Mouse From Two Miles Away). Vision superpower: 8x sharper vision, 5x more photoreceptors per sq mm, two foveae for dual telephoto+wide-angle, process visual info 2x faster = world in slow motion. 6/6 Pexels clips (2 hawks + 2 eagles + 1 bird + 1 falconry), zero re-fetches. Compressed 24.8MB->5.7MB (CRF 36) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-09-02-SELFN",
+      "ideaId": "selfgen-monkey-tool-use",
+      "sourceHash": "0dd024625b2b7f7c19267fb62fe6acce1bdf38526fb565150bbaa8d6f7950891",
+      "title": "Why the Monkey Uses Tools Like a Human #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-02T10:04:24.592074-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on monkey. Paradox: capuchin monkeys use stones as hammers and anvils to crack nuts, leaves as sponges, sticks as probes. Most skilled tool users among non-ape primates. Cognitive superpower distinct from first angle (prehensile tail).",
+      "renderedAt": "2026-09-02T10:09:50.907703-04:00",
+      "uploadedAt": "2026-09-02T10:09:50.907703-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "7AqFSgZ_go8",
+        "url": "https://www.youtube.com/watch?v=7AqFSgZ_go8"
+      },
+      "duration": 56.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "USES TOOLS LIKE A HUMAN",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "monkey",
+      "angle": "2nd (capuchin tool use \u2014 stones as hammers/anvils, leaves as sponges, sticks as probes, cultural transmission across generations, most skilled tool user among non-ape primates)",
+      "note": "Second angle on monkey (first: Has a Tail That Grabs). Cognitive superpower: capuchin monkeys are the most skilled tool users among non-ape primates. They select specific stones as hammers and flat rocks as anvils, use leaves as sponges, craft sticks as probes, and choose different stones for different nuts. Young monkeys learn by watching adults for years. 6/6 Pexels clips (all monkeys), zero re-fetches. Compressed 31.2MB->4.7MB (CRF 37) for connector upload."
     }
   ]
 }
