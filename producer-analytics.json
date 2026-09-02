@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-02T11:05:53-04:00",
-  "fetchedAt": "2026-09-02T11:05:53-04:00",
+  "lastRunAt": "2026-09-02T11:06:36-04:00",
+  "fetchedAt": "2026-09-02T11:06:36-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -800,7 +800,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -808,7 +808,7 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 738.9,
+      "ageHoursAtAnalysis": 739.0,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
@@ -819,7 +819,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2223,7 +2223,7 @@
         "ratioToBaselineAvgViewDuration": 0.65,
         "note": "Views are above the available-video median, but average view duration is below baseline; tighten hook or pacing."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": "optimize"
     },
     {
@@ -2249,7 +2249,7 @@
         "ratioToBaselineAvgViewDuration": 1.24,
         "note": "Above baseline AVD with meaningful early views."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -2268,7 +2268,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2287,7 +2287,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2295,7 +2295,7 @@
       "videoId": "0onjfepA3F8",
       "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
       "uploadedAt": "2026-09-01T10:21:15.913642-04:00",
-      "ageHoursAtAnalysis": 24.7,
+      "ageHoursAtAnalysis": 24.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 63.2,
@@ -2306,7 +2306,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2325,7 +2325,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2344,7 +2344,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-02T11:05:53-04:00",
+      "analyzedAt": "2026-09-02T11:06:36-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2386,7 +2386,6 @@
         "zgwDGPy32lg",
         "5SV1p64SDnE",
         "zVxbp_9-30c",
-        "C1n3GyrwoFs",
         "kZfSFw7Rk9o",
         "yKKvd4LWCcE",
         "ZeoTS-47w40",
@@ -2398,9 +2397,9 @@
         "NrsllcvY400",
         "UdjDO5vUKoc"
       ],
-      "sampleSize": 25,
-      "avgViewDurationMedian": 25.0,
-      "viewsMedian": 817.0,
+      "sampleSize": 24,
+      "avgViewDurationMedian": 25.5,
+      "viewsMedian": 846.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -2974,7 +2973,7 @@
   "summary": [
     {
       "pattern": "Why the [animal] can do the unexpected #Shorts",
-      "evidence": "25 available videos; median 817.0 views and 25.0s average view duration versus 34.0s channel baseline; confidence high.",
+      "evidence": "24 available videos; median 846.0 views and 25.5s average view duration versus 34.0s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
