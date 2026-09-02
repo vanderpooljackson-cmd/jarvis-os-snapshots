@@ -1,96 +1,97 @@
 {
-  "fetchedAt": "2026-08-31T17:30:00-04:00",
+  "fetchedAt": "2026-09-02T17:36:50.277452-04:00",
   "videos": [
     {
-      "videoId": "35ObWh3YP74",
-      "title": "Why the Deer Hears What You Can't #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Ultrasonic hearing reveal",
-          "startSec": 20,
-          "endSec": 34,
-          "why": "The core paradox — deer hear up to 30kHz vs human 20kHz, picking up sounds completely silent to us. Highest curiosity density in the video.",
-          "hookRewrite": "Why a deer can hear sounds that are completely invisible to you"
-        }
-      ]
-    },
-    {
-      "videoId": "_pavLdIq5ic",
-      "title": "Why the Spider Sees the Moon #Shorts",
+      "videoId": "-bpS7VaF_EI",
+      "title": "Why the Rhino Charges at 40 MPH #Shorts",
       "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": "UgzLuCL8pYJLjs97SgN4AaABAg",
-          "author": "@olgarohner7907",
-          "text": "From a universe perspective we are not too much bigger than spiders... We can see stars...",
+          "id": "UgyrAsuunuJMSDcXZvt4AaABAg",
+          "author": "@anthonyrobisonar",
+          "text": "Adult rinos have no natural predators",
           "replyPosted": true,
-          "replyText": "That is such a beautiful way to think about it. We really are not that different when you look at it from a cosmic scale. Both of us looking up at the same moon, just from very different sizes of existence. Really grateful you took something thoughtful from this one."
-        },
-        {
-          "id": "UgxQaMMi85IFNMGGIuV4AaABAg",
-          "author": "@NiVRO90",
-          "text": "How do we know? Also wtf is up with this video?",
-          "replyPosted": true,
-          "replyText": "Great question. Scientists discovered this by studying the jumping spider retina under electron microscopes. They found four distinct layers of photoreceptor cells, each sensitive to different wavelengths of light. Behavioral tests confirmed they can distinguish the moon from stars by having them look at different light sources. As for the video style, it is a new format we are trying with stock footage and narration. Always looking to improve."
+          "replyText": "Exactly right. Adult rhinos are basically tanks. Their size, thick skin, and that 40 mph charge speed mean almost nothing messes with them. The only real threat to an adult rhino is humans. Really appreciate you adding that context."
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "Brain smaller than poppy seed sees the moon",
-          "startSec": 35,
-          "endSec": 43,
-          "why": "The emotional punchline — a creature with a brain smaller than a poppy seed can look up at the night sky and see what we see. Strong curiosity gap and shareable.",
-          "hookRewrite": "How a spider with a brain smaller than a poppy seed can see the moon"
+          "momentLabel": "Bones denser than steel + largest muscle attachments",
+          "startSec": 18,
+          "endSec": 30,
+          "why": "Densest bones of any land mammal + largest muscle attachments \u2014 high surprise density in 12s",
+          "hookRewrite": "A rhino's bones are literally denser than steel"
         }
       ]
     },
     {
-      "videoId": "UdjDO5vUKoc",
-      "title": "Why the Ostrich Outruns a Horse #Shorts",
+      "videoId": "7AqFSgZ_go8",
+      "title": "Why the Monkey Uses Tools Like a Human #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "30 mph for 30 minutes",
-          "startSec": 6,
-          "endSec": 16,
-          "why": "The speed paradox — an ostrich can sustain 30 mph for half an hour, a pace that would leave a horse gasping. Surprising comparison that challenges expectations.",
-          "hookRewrite": "Why an ostrich can outrun a horse for 30 minutes straight"
+          "momentLabel": "Cultural transmission across generations",
+          "startSec": 41,
+          "endSec": 50,
+          "why": "Young monkeys learn tool use by watching adults for years \u2014 cultural transmission once thought unique to humans",
+          "hookRewrite": "These monkeys teach their young to use tools for years"
         }
       ]
     },
     {
-      "videoId": "MpzZGF77bkM",
-      "title": "Why the Iguana Has a Third Eye #Shorts",
+      "videoId": "UJFjPivt6_M",
+      "title": "Why the Hawk Spots Prey From 3 Miles Away #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Shadow detection reflex",
-          "startSec": 25,
-          "endSec": 41,
-          "why": "The mechanism — parietal eye detects shadow shifts in milliseconds, triggers a reflex to flee before the brain processes the threat. Counterintuitive survival system.",
-          "hookRewrite": "Why an iguana runs from a shadow it never even sees"
-        }
-      ]
-    },
-    {
-      "videoId": "YLO6Feao4Ug",
-      "title": "Why the Seal Survives 5000 Feet Underwater #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Heart rate drops to 4 bpm",
-          "startSec": 49,
+          "momentLabel": "World appears in slow motion to hawks",
+          "startSec": 48,
           "endSec": 57,
-          "why": "The extreme physiological shutdown — heart rate drops from 90 to 4 bpm while running on reserve oxygen a mile underwater. Most shocking stat in the video.",
-          "hookRewrite": "Why a seal's heart beats only 4 times per minute underwater"
+          "why": "Hawks process visual information 2x faster than humans \u2014 world appears in slow motion",
+          "hookRewrite": "A hawk sees the world in slow motion"
+        }
+      ]
+    },
+    {
+      "videoId": "0onjfepA3F8",
+      "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Vocal memory rivals dolphins and elephants",
+          "startSec": 49,
+          "endSec": 59,
+          "why": "Sea lion vocal memory rivals dolphins and elephants \u2014 high surprise comparison",
+          "hookRewrite": "A sea lion's memory rivals a dolphin's"
+        }
+      ]
+    },
+    {
+      "videoId": "35ObWh3YP74",
+      "title": "Why the Deer Hears What You Can't #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "Ugz0XgwjBqZ5o-1dIht4AaABAg",
+          "author": "@SLook-f4h",
+          "text": "Fascinating!",
+          "replyPosted": false,
+          "replyText": ""
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Ears rotate independently 180 degrees",
+          "startSec": 6,
+          "endSec": 20,
+          "why": "Each ear rotates 180 degrees independently controlled by 7 muscles \u2014 biological radar dishes",
+          "hookRewrite": "A deer's ears are biological radar dishes"
         }
       ]
     }
   ],
-  "postedReplies": 2
+  "postedReplies": 1
 }
