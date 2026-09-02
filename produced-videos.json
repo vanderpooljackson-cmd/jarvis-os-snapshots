@@ -3934,6 +3934,31 @@
       "animal": "monkey",
       "angle": "2nd (capuchin tool use \u2014 stones as hammers/anvils, leaves as sponges, sticks as probes, cultural transmission across generations, most skilled tool user among non-ape primates)",
       "note": "Second angle on monkey (first: Has a Tail That Grabs). Cognitive superpower: capuchin monkeys are the most skilled tool users among non-ape primates. They select specific stones as hammers and flat rocks as anvils, use leaves as sponges, craft sticks as probes, and choose different stones for different nuts. Young monkeys learn by watching adults for years. 6/6 Pexels clips (all monkeys), zero re-fetches. Compressed 31.2MB->4.7MB (CRF 37) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-09-02-SELF2",
+      "ideaId": "selfgen-rhino-40mph-charge",
+      "sourceHash": "5b25bf8f7dce2f492260aa501eaecc6d65e16417c7df9fefd27702ed5b8c16c3",
+      "title": "Why the Rhino Charges at 40 MPH #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-02T16:04:55.692551-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on rhino. Paradox: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph \u2014 faster than most predators. Speed/power superpower distinct from first angle (smell).",
+      "renderedAt": "2026-09-02T16:13:49.096098-04:00",
+      "uploadedAt": "2026-09-02T16:13:49.096098-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "-bpS7VaF_EI",
+        "url": "https://www.youtube.com/watch?v=-bpS7VaF_EI"
+      },
+      "duration": 50.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "CHARGES AT FORTY MPH",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "rhino",
+      "angle": "2nd (5,000 lbs animal charges at 40mph, bones denser than steel, largest muscle attachments of any land mammal, redirects mass without slowing down)",
+      "note": "Second angle on rhino (first: Smells Danger From Miles Away). Speed/power superpower: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph \u2014 faster than a lion or hyena. Bones denser than steel, largest muscle attachments of any land mammal relative to body size, can redirect 5,000 lbs of mass without slowing down. 6/6 Pexels clips (all rhinos), zero re-fetches. Compressed 66MB->7.3MB (CRF 40) for connector upload."
     }
   ]
 }
