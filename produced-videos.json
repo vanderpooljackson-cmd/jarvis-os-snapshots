@@ -3959,6 +3959,31 @@
       "animal": "rhino",
       "angle": "2nd (5,000 lbs animal charges at 40mph, bones denser than steel, largest muscle attachments of any land mammal, redirects mass without slowing down)",
       "note": "Second angle on rhino (first: Smells Danger From Miles Away). Speed/power superpower: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph \u2014 faster than a lion or hyena. Bones denser than steel, largest muscle attachments of any land mammal relative to body size, can redirect 5,000 lbs of mass without slowing down. 6/6 Pexels clips (all rhinos), zero re-fetches. Compressed 66MB->7.3MB (CRF 40) for connector upload."
+    },
+    {
+      "productionId": "JV-2026-09-03-SELFN",
+      "ideaId": "selfgen-meerkat-sunglasses",
+      "sourceHash": "42261c809b529a0f280213689436d7e88880101731a7521c4fea94197fa48d71",
+      "title": "Why the Meerkat Has Built-In Sunglasses #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-03T10:05:45.932711-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on meerkat. Paradox: meerkats have dark patches around their eyes that act like built-in sunglasses, reducing sun glare so they can spot aerial predators against the bright desert sky. Vision/sensory superpower distinct from first angle (venom immunity).",
+      "renderedAt": "2026-09-03T10:16:40.573804-04:00",
+      "uploadedAt": "2026-09-03T10:16:40.573804-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "HzfM0V9SMw0",
+        "url": "https://www.youtube.com/watch?v=HzfM0V9SMw0"
+      },
+      "duration": 55.3,
+      "resolution": "1080x1920",
+      "hookOverlay": "BUILT-IN SUNGLASSES",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "meerkat",
+      "angle": "2nd (dark patches around eyes act like built-in sunglasses, absorb sunlight, cut glare, sharpen contrast for spotting aerial predators against bright desert sky)",
+      "note": "Second angle on meerkat (first: Is Immune to Deadly Venom). Vision/sensory superpower: meerkats have dark patches around their eyes that act like built-in sunglasses, absorbing harsh sunlight and cutting glare. This lets them scan the sky for hawks and eagles without squinting, detecting aerial predators from hundreds of yards away. 6/6 Pexels clips (all meerkats), zero re-fetches. Disk was full during first assembly attempt \u2014 cleaned old clip caches and /tmp dirs to free 4GB, re-ran assembly successfully. Compressed 39.8MB->5.9MB (CRF 38)."
     }
   ]
 }
