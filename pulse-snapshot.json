@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 114695,
-      "subscriberCount": 158,
-      "videoCount": 133
+      "viewCount": 114729,
+      "subscriberCount": 163,
+      "videoCount": 135
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-05",
-    "endDate": "2026-09-02",
+    "startDate": "2026-08-06",
+    "endDate": "2026-09-03",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 78617,
-    "estimatedMinutesWatched": 26725,
-    "subscribersGained": 110,
+    "views": 80799,
+    "estimatedMinutesWatched": 27290,
+    "subscribersGained": 115,
     "subscribersLost": 17,
-    "netSubscribers": 93,
-    "likes": 2947,
-    "comments": 35,
-    "shares": 65
+    "netSubscribers": 98,
+    "likes": 3069,
+    "comments": 38,
+    "shares": 69
   },
   "daily": [
-    {
-      "day": "2026-08-05",
-      "views": 9,
-      "watched": 0,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-08-06",
       "views": 11,
@@ -223,7 +215,7 @@
     },
     {
       "day": "2026-08-29",
-      "views": 2982,
+      "views": 2981,
       "watched": 1048,
       "subsGained": 4,
       "subsLost": 1,
@@ -236,6 +228,14 @@
       "subsGained": 6,
       "subsLost": 3,
       "likes": 121
+    },
+    {
+      "day": "2026-08-31",
+      "views": 2192,
+      "watched": 565,
+      "subsGained": 5,
+      "subsLost": 0,
+      "likes": 122
     }
   ],
   "topVideos": [
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-02T09:16:31.089360-04:00",
+  "fetchedAt": "2026-09-03T09:16:05.276684-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-02T09:16:31.089360-04:00",
+      "fetchedAt": "2026-09-03T09:16:05.276684-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 158,
+        "current": 163,
         "threshold": 1000,
-        "percent": 15.8
+        "percent": 16.3
       },
       "watchHours12mo": {
-        "current": 583.7,
+        "current": 593.1,
         "threshold": 4000,
-        "percent": 14.59,
+        "percent": 14.83,
         "window": "Last 12 months",
-        "minutesWatched": 35024
+        "minutesWatched": 35589
       },
       "shortsViews90d": {
-        "current": 109968,
+        "current": 111856,
         "threshold": 10000000,
-        "percent": 1.1,
+        "percent": 1.119,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
