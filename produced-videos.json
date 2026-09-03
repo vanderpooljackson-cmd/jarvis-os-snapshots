@@ -3984,6 +3984,31 @@
       "animal": "meerkat",
       "angle": "2nd (dark patches around eyes act like built-in sunglasses, absorb sunlight, cut glare, sharpen contrast for spotting aerial predators against bright desert sky)",
       "note": "Second angle on meerkat (first: Is Immune to Deadly Venom). Vision/sensory superpower: meerkats have dark patches around their eyes that act like built-in sunglasses, absorbing harsh sunlight and cutting glare. This lets them scan the sky for hawks and eagles without squinting, detecting aerial predators from hundreds of yards away. 6/6 Pexels clips (all meerkats), zero re-fetches. Disk was full during first assembly attempt \u2014 cleaned old clip caches and /tmp dirs to free 4GB, re-ran assembly successfully. Compressed 39.8MB->5.9MB (CRF 38)."
+    },
+    {
+      "productionId": "JV-2026-09-03-SELF2",
+      "ideaId": "selfgen-manatee-marching-molars",
+      "sourceHash": "6c684945f835899d6c7213018de86669d56db60a2d9c4986fbb831ba071d7505",
+      "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-03T17:08:55.844567-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on manatee. Paradox: manatees have marching molars \u2014 new teeth continuously grow at the back of the jaw and move forward like a conveyor belt, replacing worn ones throughout their life. Regeneration superpower distinct from first angle (body-wide touch sensitivity).",
+      "renderedAt": "2026-09-03T17:15:39.880228-04:00",
+      "uploadedAt": "2026-09-03T17:15:39.880228-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "v3KM5eDdnho",
+        "url": "https://www.youtube.com/watch?v=v3KM5eDdnho"
+      },
+      "duration": 55.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "TEETH THAT MARCH",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "manatee",
+      "angle": "2nd (marching molars \u2014 new teeth continuously grow at back of jaw and slide forward like conveyor belt, replacing worn ones throughout life, dozens of teeth in a lifetime)",
+      "note": "Second angle on manatee (first: Feels With Its Entire Body). Regeneration superpower: manatees have marching molars \u2014 new teeth continuously grow at the back of their jaw and move forward like a conveyor belt, pushing worn ones out the front. A single manatee can go through dozens of teeth in a lifetime. 6/6 Pexels clips (2 manatees + 4 aquatic/water scenes \u2014 fish, sea otters, capybara, turtle). Compressed 81.6MB->9.3MB (CRF 40)."
     }
   ]
 }
