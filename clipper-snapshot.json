@@ -1,6 +1,82 @@
 {
-  "fetchedAt": "2026-09-02T17:36:50.277452-04:00",
+  "fetchedAt": "2026-09-04T17:35:18.619380-04:00",
   "videos": [
+    {
+      "videoId": "KDSshVc584U",
+      "title": "Why the Bee Speaks in Dance to Find Food #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "1 second of waggling = 1 km of distance",
+          "startSec": 24,
+          "endSec": 32,
+          "why": "Precise numeric encoding \u2014 1 second of waggling equals 1 km \u2014 high surprise density",
+          "hookRewrite": "A bee's dance tells other bees exactly how far to fly"
+        }
+      ]
+    },
+    {
+      "videoId": "iCb97p7AJoI",
+      "title": "Why the Lemur Has Eyes That Glow in the Dark #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "UgwWtio5VEVsaO9Awql4AaABAg",
+          "author": "@GracieNJavie",
+          "text": "If you've ever been in a dense forest at dusk, you know that as the sun goes down, it approaches near total black out faster than the setting sun.",
+          "replyPosted": true,
+          "replyText": "Exactly. That rapid blackout in a forest at dusk is exactly why the tapetum lucidum is so critical. Without it, a lemur foraging at twilight would be navigating blind through branches at speed. That mirror layer is the difference between finding food and becoming it. Really appreciate you sharing that perspective."
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Every photon gets two chances to be detected",
+          "startSec": 16,
+          "endSec": 30,
+          "why": "Biological mirror bounces light back through eye twice \u2014 high curiosity density",
+          "hookRewrite": "A lemur's eyes have a mirror behind the retina"
+        }
+      ]
+    },
+    {
+      "videoId": "v3KM5eDdnho",
+      "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "UgyER--sNu41CQCgnUF4AaABAg",
+          "author": "@TracyBiggie-r8x",
+          "text": "I never knew that.",
+          "replyPosted": false,
+          "replyText": ""
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Teeth slide forward like a conveyor belt",
+          "startSec": 19,
+          "endSec": 34,
+          "why": "Marching molars \u2014 teeth continuously grow at back of jaw and slide forward, dozens in a lifetime",
+          "hookRewrite": "A manatee has teeth that march like a conveyor belt"
+        }
+      ]
+    },
+    {
+      "videoId": "HzfM0V9SMw0",
+      "title": "Why the Meerkat Has Built-In Sunglasses #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Dark patches act like athlete eye black",
+          "startSec": 8,
+          "endSec": 29,
+          "why": "Dark fur around eyes absorbs sunlight like eye black \u2014 cuts glare, sharpens contrast for spotting predators",
+          "hookRewrite": "A meerkat has built-in sunglasses around its eyes"
+        }
+      ]
+    },
     {
       "videoId": "-bpS7VaF_EI",
       "title": "Why the Rhino Charges at 40 MPH #Shorts",
@@ -10,85 +86,17 @@
           "id": "UgyrAsuunuJMSDcXZvt4AaABAg",
           "author": "@anthonyrobisonar",
           "text": "Adult rinos have no natural predators",
-          "replyPosted": true,
-          "replyText": "Exactly right. Adult rhinos are basically tanks. Their size, thick skin, and that 40 mph charge speed mean almost nothing messes with them. The only real threat to an adult rhino is humans. Really appreciate you adding that context."
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Bones denser than steel + largest muscle attachments",
-          "startSec": 18,
-          "endSec": 30,
-          "why": "Densest bones of any land mammal + largest muscle attachments \u2014 high surprise density in 12s",
-          "hookRewrite": "A rhino's bones are literally denser than steel"
-        }
-      ]
-    },
-    {
-      "videoId": "7AqFSgZ_go8",
-      "title": "Why the Monkey Uses Tools Like a Human #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Cultural transmission across generations",
-          "startSec": 41,
-          "endSec": 50,
-          "why": "Young monkeys learn tool use by watching adults for years \u2014 cultural transmission once thought unique to humans",
-          "hookRewrite": "These monkeys teach their young to use tools for years"
-        }
-      ]
-    },
-    {
-      "videoId": "UJFjPivt6_M",
-      "title": "Why the Hawk Spots Prey From 3 Miles Away #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "World appears in slow motion to hawks",
-          "startSec": 48,
-          "endSec": 57,
-          "why": "Hawks process visual information 2x faster than humans \u2014 world appears in slow motion",
-          "hookRewrite": "A hawk sees the world in slow motion"
-        }
-      ]
-    },
-    {
-      "videoId": "0onjfepA3F8",
-      "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Vocal memory rivals dolphins and elephants",
-          "startSec": 49,
-          "endSec": 59,
-          "why": "Sea lion vocal memory rivals dolphins and elephants \u2014 high surprise comparison",
-          "hookRewrite": "A sea lion's memory rivals a dolphin's"
-        }
-      ]
-    },
-    {
-      "videoId": "35ObWh3YP74",
-      "title": "Why the Deer Hears What You Can't #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "Ugz0XgwjBqZ5o-1dIht4AaABAg",
-          "author": "@SLook-f4h",
-          "text": "Fascinating!",
           "replyPosted": false,
-          "replyText": ""
+          "replyText": "(already replied in sweep #26)"
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "Ears rotate independently 180 degrees",
-          "startSec": 6,
-          "endSec": 20,
-          "why": "Each ear rotates 180 degrees independently controlled by 7 muscles \u2014 biological radar dishes",
-          "hookRewrite": "A deer's ears are biological radar dishes"
+          "momentLabel": "Bones denser than steel, redirects mass without slowing",
+          "startSec": 26,
+          "endSec": 45,
+          "why": "Rhino doesn't slow down when it turns \u2014 absorbs lateral force, redirects 5,000 lbs in an instant",
+          "hookRewrite": "A 5,000 pound animal that turns without slowing down"
         }
       ]
     }
