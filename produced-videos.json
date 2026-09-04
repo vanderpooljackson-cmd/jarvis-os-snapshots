@@ -4034,6 +4034,31 @@
       "animal": "lemur",
       "angle": "2nd (tapetum lucidum \u2014 reflective mirror layer behind retina bounces light back through eye twice, giving extraordinary night vision, eyes glow in dark from biological mirror)",
       "note": "Second angle on lemur (first: Wins Fights With Its Smell). Vision/sensory superpower: lemurs have a tapetum lucidum, a reflective layer behind their retina that bounces light back through photoreceptors a second time. Every photon gets two chances to be detected, giving them night vision so sharp they can navigate dense forest canopy in near total darkness. 6/6 Pexels clips (all lemurs), zero re-fetches. Compressed 36.7MB->6.1MB (CRF 38)."
+    },
+    {
+      "productionId": "JV-2026-09-04-SELF2",
+      "ideaId": "selfgen-bee-waggle-dance",
+      "sourceHash": "b05a606ab97c262ba08171c166c4f724fa97b5e16f967ae7f5fde58b0deaa553",
+      "title": "Why the Bee Speaks in Dance to Find Food #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-04T16:06:24.638380-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on bee. Paradox: bees perform a waggle dance \u2014 figure-8 movement telling other bees exact direction and distance of food source relative to the sun. Communication/cognitive superpower distinct from first angle (vision).",
+      "renderedAt": "2026-09-04T16:11:32.786457-04:00",
+      "uploadedAt": "2026-09-04T16:11:32.786457-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "KDSshVc584U",
+        "url": "https://www.youtube.com/watch?v=KDSshVc584U"
+      },
+      "duration": 53.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "SPEAKS IN DANCE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "bee",
+      "angle": "2nd (waggle dance \u2014 figure-8 movement encoding exact direction and distance of food source relative to sun, 1 second of waggling = ~1km, one of most complex symbolic communication systems in animal kingdom)",
+      "note": "Second angle on bee (first: Sees Colors Invisible to Human Eyes). Communication/cognitive superpower: bees perform the waggle dance, a figure-eight movement that encodes exact directions. The angle relative to the hive tells other bees which way to fly compared to the sun, and the duration of the waggle tells them how far to go. One second of waggling equals roughly one kilometer. 6/6 Pexels clips (all bees), zero re-fetches. Content filter rejected several 'shot' slugs. Compressed 27.2MB->5.9MB (CRF 37)."
     }
   ]
 }
