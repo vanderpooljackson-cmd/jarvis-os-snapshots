@@ -8,35 +8,27 @@
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
       "viewCount": 114729,
-      "subscriberCount": 163,
-      "videoCount": 135
+      "subscriberCount": 165,
+      "videoCount": 137
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-06",
-    "endDate": "2026-09-03",
+    "startDate": "2026-08-07",
+    "endDate": "2026-09-04",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 80799,
-    "estimatedMinutesWatched": 27290,
-    "subscribersGained": 115,
+    "views": 83101,
+    "estimatedMinutesWatched": 27982,
+    "subscribersGained": 118,
     "subscribersLost": 17,
-    "netSubscribers": 98,
-    "likes": 3069,
+    "netSubscribers": 101,
+    "likes": 3188,
     "comments": 38,
-    "shares": 69
+    "shares": 70
   },
   "daily": [
-    {
-      "day": "2026-08-06",
-      "views": 11,
-      "watched": 2,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 0
-    },
     {
       "day": "2026-08-07",
       "views": 2048,
@@ -236,14 +228,22 @@
       "subsGained": 5,
       "subsLost": 0,
       "likes": 122
+    },
+    {
+      "day": "2026-09-01",
+      "views": 2313,
+      "watched": 694,
+      "subsGained": 3,
+      "subsLost": 0,
+      "likes": 119
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13418,
-      "watched": 5826,
+      "views": 13420,
+      "watched": 5827,
       "likes": 363,
       "comments": 4,
       "avgViewDuration": 41,
@@ -286,7 +286,7 @@
     {
       "videoId": "60-lx8gRkxU",
       "title": "Why the Starfish Has No Blood #Shorts",
-      "views": 2339,
+      "views": 2340,
       "watched": 819,
       "likes": 79,
       "comments": 0,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-03T09:16:05.276684-04:00",
+  "fetchedAt": "2026-09-04T09:16:18.786690-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-03T09:16:05.276684-04:00",
+      "fetchedAt": "2026-09-04T09:16:18.786690-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 163,
+        "current": 165,
         "threshold": 1000,
-        "percent": 16.3
+        "percent": 16.5
       },
       "watchHours12mo": {
-        "current": 593.1,
+        "current": 604.7,
         "threshold": 4000,
-        "percent": 14.83,
+        "percent": 15.12,
         "window": "Last 12 months",
-        "minutesWatched": 35589
+        "minutesWatched": 36283
       },
       "shortsViews90d": {
-        "current": 111856,
+        "current": 112451,
         "threshold": 10000000,
-        "percent": 1.119,
+        "percent": 1.125,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
