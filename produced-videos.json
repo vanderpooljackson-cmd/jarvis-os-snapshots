@@ -4084,6 +4084,31 @@
       "animal": "ghost crab",
       "angle": "2nd (fastest crustacean on Earth, 10 mph = 100+ body lengths per second, scaled to human = 450 mph, changes direction instantly without slowing)",
       "note": "Second angle on ghost crab (first: Sees in Every Direction at Once). Speed superpower: ghost crabs are the fastest crustaceans, sprinting at 10 mph \u2014 over 100 body lengths per second. Scaled to human size, that would be running at 450 mph. They can change direction instantly, darting sideways, forward, and backward without slowing down. 6/6 Pexels clips (5 crabs + 1 beach scene). Compressed 36.1MB->6.7MB (CRF 38)."
+    },
+    {
+      "productionId": "JV-2026-09-05-SELF2",
+      "ideaId": "selfgen-wood-frog-skin-breathing",
+      "sourceHash": "b09aa74fce09e9b3983d65a132ffdbd4f3fc0dbf1d79acf4ea39b274fa70367f",
+      "title": "Why the Wood Frog Breathes Through Its Skin #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-05T16:02:24.304356-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on wood frog. Paradox: wood frogs absorb oxygen directly through their moist skin, surviving underwater for months during winter hibernation when lungs shut down. They also never drink \u2014 absorbing water through skin. Respiration/survival superpower distinct from first angle (freezing solid).",
+      "renderedAt": "2026-09-05T16:08:35.704254-04:00",
+      "uploadedAt": "2026-09-05T16:08:35.704254-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "vKtK7E4ENmc",
+        "url": "https://www.youtube.com/watch?v=vKtK7E4ENmc"
+      },
+      "duration": 56.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "BREATHES THROUGH SKIN",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "wood frog",
+      "angle": "2nd (cutaneous respiration \u2014 absorbs oxygen through skin, survives underwater for months during hibernation, never drinks \u2014 absorbs water through skin)",
+      "note": "Second angle on wood frog (first: Freezes Solid and Survives). Respiration/survival superpower: wood frogs absorb oxygen directly through their moist skin, bypassing lungs entirely during winter hibernation. They also never drink \u2014 absorbing water through their belly skin. 6/6 Pexels clips (all frogs). Compressed 37.5MB->7.2MB (CRF 38)."
     }
   ]
 }
