@@ -4059,6 +4059,31 @@
       "animal": "bee",
       "angle": "2nd (waggle dance \u2014 figure-8 movement encoding exact direction and distance of food source relative to sun, 1 second of waggling = ~1km, one of most complex symbolic communication systems in animal kingdom)",
       "note": "Second angle on bee (first: Sees Colors Invisible to Human Eyes). Communication/cognitive superpower: bees perform the waggle dance, a figure-eight movement that encodes exact directions. The angle relative to the hive tells other bees which way to fly compared to the sun, and the duration of the waggle tells them how far to go. One second of waggling equals roughly one kilometer. 6/6 Pexels clips (all bees), zero re-fetches. Content filter rejected several 'shot' slugs. Compressed 27.2MB->5.9MB (CRF 37)."
+    },
+    {
+      "productionId": "JV-2026-09-05-SELFN",
+      "ideaId": "selfgen-ghost-crab-speed",
+      "sourceHash": "fbefc7092aeb7c4dd002d7df47f0a8153353c48718c3e9ff8688294b41c21734",
+      "title": "Why the Ghost Crab Outruns Everything on the Beach #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-05T10:02:35.263589-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on ghost crab. Paradox: ghost crabs are the fastest crustaceans, sprinting at 10 mph \u2014 relative to body size, like a human running at 450 mph. Speed superpower distinct from first angle (vision).",
+      "renderedAt": "2026-09-05T10:08:04.580639-04:00",
+      "uploadedAt": "2026-09-05T10:08:04.580639-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "w1c3bzDN50s",
+        "url": "https://www.youtube.com/watch?v=w1c3bzDN50s"
+      },
+      "duration": 57.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "OUTRUNS EVERYTHING",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "ghost crab",
+      "angle": "2nd (fastest crustacean on Earth, 10 mph = 100+ body lengths per second, scaled to human = 450 mph, changes direction instantly without slowing)",
+      "note": "Second angle on ghost crab (first: Sees in Every Direction at Once). Speed superpower: ghost crabs are the fastest crustaceans, sprinting at 10 mph \u2014 over 100 body lengths per second. Scaled to human size, that would be running at 450 mph. They can change direction instantly, darting sideways, forward, and backward without slowing down. 6/6 Pexels clips (5 crabs + 1 beach scene). Compressed 36.1MB->6.7MB (CRF 38)."
     }
   ]
 }
