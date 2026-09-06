@@ -4109,6 +4109,56 @@
       "animal": "wood frog",
       "angle": "2nd (cutaneous respiration \u2014 absorbs oxygen through skin, survives underwater for months during hibernation, never drinks \u2014 absorbs water through skin)",
       "note": "Second angle on wood frog (first: Freezes Solid and Survives). Respiration/survival superpower: wood frogs absorb oxygen directly through their moist skin, bypassing lungs entirely during winter hibernation. They also never drink \u2014 absorbing water through their belly skin. 6/6 Pexels clips (all frogs). Compressed 37.5MB->7.2MB (CRF 38)."
+    },
+    {
+      "productionId": "JV-2026-09-06-SELF1",
+      "ideaId": "selfgen-chameleon-independent-eyes",
+      "sourceHash": "8c4e07ad6275869139099b185f4fa2aa697c0e0e9d3af5868c5bc2396d169f45",
+      "title": "Why the Chameleon Sees in Two Directions at Once #Shorts",
+      "status": "render-failed",
+      "startedAt": "2026-09-06T10:05:03.827393-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on chameleon. Vision superpower: chameleons can move each eye independently, rotating 360 degrees. Each eye sees a completely different image. Brain processes both simultaneously, giving 360-degree vision without moving head. Distinct from first angle (tongue speed at 60 MPH).",
+      "renderedAt": "2026-09-06T10:06:37.906325-04:00",
+      "error": "insufficient chameleon footage: only 1/6 clips were actual chameleons (rest were humans, insects, squirrel). Pexels has very limited chameleon content despite filmableWithQuery designation."
+    },
+    {
+      "productionId": "JV-2026-09-06-SELF2",
+      "ideaId": "selfgen-axolotl-neoteny",
+      "sourceHash": "fdcb667d643afe25f0e5b825c8f7daec2a049b5e9c0348b1cd43c6275336daa5",
+      "title": "Why the Axolotl Never Grows Up #Shorts",
+      "status": "render-failed",
+      "startedAt": "2026-09-06T10:06:59.305977-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "Second angle on axolotl. Neoteny superpower: axolotls never undergo metamorphosis, staying in larval form forever with gills and aquatic lifestyle. They are Peter Pan salamanders \u2014 other salamanders metamorphose and lose their gills, but axolotls stay young forever. Combined with their regeneration ability, they are essentially biologically immortal in their juvenile stage. Distinct from first angle (regrow brain).",
+      "renderedAt": "2026-09-06T10:08:25.382764-04:00",
+      "error": "insufficient axolotl footage: only 1/6 clips possibly axolotl (rest were generic fish, penguin, leaf). Pexels has very limited axolotl content despite filmableWithQuery designation."
+    },
+    {
+      "productionId": "JV-2026-09-06-GP01",
+      "ideaId": "GP-2026-09-07-01",
+      "sourceHash": "33afdce5f458648e4d9e8e62c54ac703ae80d5a95dc71509d5d8aff71096cf0e",
+      "title": "Why the Giraffe's Heart Beats Against Gravity #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-06T10:08:25.382764-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "From growth plan week 2026-09-07. Explain how a giraffe\u2019s powerful heart, thick blood vessels, and one-way valves keep blood moving safely to its brain despite its towering neck.",
+      "fromGrowthPlan": true,
+      "renderedAt": "2026-09-06T10:13:33.098610-04:00",
+      "uploadedAt": "2026-09-06T10:13:33.098610-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "YOjP20H4hG4",
+        "url": "https://www.youtube.com/watch?v=YOjP20H4hG4"
+      },
+      "duration": 48.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEART BEATS GRAVITY",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "giraffe",
+      "angle": "3rd (heart weighs 25 lbs, pumps blood 8 ft up neck, one-way valves prevent stroke when bending down to drink, strongest pump in animal kingdom)",
+      "note": "From growth plan week 2026-09-07. 3rd angle on giraffe (1st: Blood Pressure That Would Kill You, 2nd: Sleeps Only 30 Minutes a Day). Heart/valves angle distinct from blood pressure angle. Chameleon and axolotl both render-failed (insufficient Pexels footage). 6/6 Pexels clips (all giraffes). Compressed 46MB->6.6MB (CRF 38)."
     }
   ]
 }
