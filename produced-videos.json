@@ -4159,6 +4159,32 @@
       "animal": "giraffe",
       "angle": "3rd (heart weighs 25 lbs, pumps blood 8 ft up neck, one-way valves prevent stroke when bending down to drink, strongest pump in animal kingdom)",
       "note": "From growth plan week 2026-09-07. 3rd angle on giraffe (1st: Blood Pressure That Would Kill You, 2nd: Sleeps Only 30 Minutes a Day). Heart/valves angle distinct from blood pressure angle. Chameleon and axolotl both render-failed (insufficient Pexels footage). 6/6 Pexels clips (all giraffes). Compressed 46MB->6.6MB (CRF 38)."
+    },
+    {
+      "productionId": "JV-2026-09-06-GP03",
+      "ideaId": "GP-2026-09-07-03",
+      "sourceHash": "cc0dd3954a8985c94847bc0a9b509d0ca01f48482eb467bdca55ecd2bd002ec0",
+      "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-06T16:02:41.138229-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "From growth plan week 2026-09-07. Reveal how dense fur on an Arctic fox\u2019s paws, compact foot shape, and heat-conserving circulation help it travel and hunt across freezing snow.",
+      "fromGrowthPlan": true,
+      "note": "From growth plan week 2026-09-07. 4th angle on fox. Used 'fox' as baseQuery since 'arctic fox' not in filmable index. 6/6 Pexels clips (4+ foxes, 1 unclear, 1 man in snow). Compressed 55.9MB->7.3MB (CRF 38).",
+      "renderedAt": "2026-09-06T16:08:12.300464-04:00",
+      "uploadedAt": "2026-09-06T16:08:12.300464-04:00",
+      "secondAngle": false,
+      "youtube": {
+        "videoId": "qmuReYJT06A",
+        "url": "https://www.youtube.com/watch?v=qmuReYJT06A"
+      },
+      "duration": 54.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "FEET LIKE SNOWSHOES",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "arctic fox",
+      "angle": "4th on fox (1st: Built-in Compass, 2nd: Climbs Trees, 3rd: Hears Mouse Under Snow). Snowshoe feet: dense fur on paw pads, countercurrent heat exchange, weight distribution across snow."
     }
   ]
 }
