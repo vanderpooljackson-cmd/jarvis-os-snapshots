@@ -4185,6 +4185,32 @@
       "clipsFetched": 6,
       "animal": "arctic fox",
       "angle": "4th on fox (1st: Built-in Compass, 2nd: Climbs Trees, 3rd: Hears Mouse Under Snow). Snowshoe feet: dense fur on paw pads, countercurrent heat exchange, weight distribution across snow."
+    },
+    {
+      "productionId": "JV-2026-09-07-GP02",
+      "ideaId": "GP-2026-09-07-02",
+      "sourceHash": "4c1fa5aa8853d9dd260c3cabb4329008260f83167115397e12bfa184c128c8a7",
+      "title": "Why the Owl Flies Without Making a Sound #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-07T10:09:36.348905-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "From growth plan week 2026-09-07. Show how serrated leading feathers, soft fringes, and a velvety surface break up air turbulence so an owl can approach prey quietly.",
+      "fromGrowthPlan": true,
+      "note": "From growth plan week 2026-09-07. 3rd angle on owl. 6/6 Pexels clips (5 owls + 1 woman with laptop in scene 6). Compressed 58.6MB->7.0MB (CRF 42).",
+      "renderedAt": "2026-09-07T10:16:43.811778-04:00",
+      "uploadedAt": "2026-09-07T10:16:43.811778-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "Ke35_LxnMnM",
+        "url": "https://www.youtube.com/watch?v=Ke35_LxnMnM"
+      },
+      "duration": 56.57,
+      "resolution": "1080x1920",
+      "hookOverlay": "FLIES IN TOTAL SILENCE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "owl",
+      "angle": "3rd (1st: Hunts in Total Silence, 2nd: Turns Head 270 Degrees). Feather mechanism: comb-like serrations on feather edges break up air turbulence, velvety surface absorbs sound. Distinct from hunting behavior angle \u2014 focuses on HOW feathers work, not WHAT owls do."
     }
   ]
 }
