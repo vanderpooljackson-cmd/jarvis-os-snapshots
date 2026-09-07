@@ -1,105 +1,95 @@
 {
-  "fetchedAt": "2026-09-04T17:35:18.619380-04:00",
+  "fetchedAt": "2026-09-07T17:38:52.086299-04:00",
   "videos": [
     {
-      "videoId": "KDSshVc584U",
-      "title": "Why the Bee Speaks in Dance to Find Food #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "N77GR0-J5C0",
+      "title": "Why the Hippo Runs 30 MPH Despite Weighing 3 Tons #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "1 second of waggling = 1 km of distance",
-          "startSec": 24,
-          "endSec": 32,
-          "why": "Precise numeric encoding \u2014 1 second of waggling equals 1 km \u2014 high surprise density",
-          "hookRewrite": "A bee's dance tells other bees exactly how far to fly"
-        }
-      ]
+      "clipCandidates": []
     },
     {
-      "videoId": "iCb97p7AJoI",
-      "title": "Why the Lemur Has Eyes That Glow in the Dark #Shorts",
+      "videoId": "Ke35_LxnMnM",
+      "title": "Why the Owl Flies Without Making a Sound #Shorts",
       "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": "UgwWtio5VEVsaO9Awql4AaABAg",
-          "author": "@GracieNJavie",
-          "text": "If you've ever been in a dense forest at dusk, you know that as the sun goes down, it approaches near total black out faster than the setting sun.",
+          "id": "Ugxi-EwXiqwuSztv-A54AaABAg",
+          "author": "@CB-lr1gt",
+          "text": "The Lord checked every detail when made everything on this earth. \u2764\ufe0f",
           "replyPosted": true,
-          "replyText": "Exactly. That rapid blackout in a forest at dusk is exactly why the tapetum lucidum is so critical. Without it, a lemur foraging at twilight would be navigating blind through branches at speed. That mirror layer is the difference between finding food and becoming it. Really appreciate you sharing that perspective."
+          "replyText": "It really is remarkable how every detail of those feather fringes serves a purpose \u2014 nature's engineering is something else. Thanks for watching and for the kind words!"
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "Every photon gets two chances to be detected",
-          "startSec": 16,
-          "endSec": 30,
-          "why": "Biological mirror bounces light back through eye twice \u2014 high curiosity density",
-          "hookRewrite": "A lemur's eyes have a mirror behind the retina"
+          "momentLabel": "Comb-like feather fringe breaks up air",
+          "startSec": 9,
+          "endSec": 24,
+          "why": "Highest curiosity density \u2014 the mechanism of silent flight explained in one beat. Comb fringe splitting air into thousands of silent streams is a visual, surprising fact.",
+          "hookRewrite": "Why an owl's feathers are built like combs"
+        },
+        {
+          "momentLabel": "Fly 6 inches past a mouse silently",
+          "startSec": 42,
+          "endSec": 50,
+          "why": "Concrete, visceral image \u2014 flying inches past prey with no sound. Strong clip closer.",
+          "hookRewrite": "An owl can fly 6 inches from a mouse and make zero sound"
         }
       ]
     },
     {
-      "videoId": "v3KM5eDdnho",
-      "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgyER--sNu41CQCgnUF4AaABAg",
-          "author": "@TracyBiggie-r8x",
-          "text": "I never knew that.",
-          "replyPosted": false,
-          "replyText": ""
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Teeth slide forward like a conveyor belt",
-          "startSec": 19,
-          "endSec": 34,
-          "why": "Marching molars \u2014 teeth continuously grow at back of jaw and slide forward, dozens in a lifetime",
-          "hookRewrite": "A manatee has teeth that march like a conveyor belt"
-        }
-      ]
-    },
-    {
-      "videoId": "HzfM0V9SMw0",
-      "title": "Why the Meerkat Has Built-In Sunglasses #Shorts",
+      "videoId": "qmuReYJT06A",
+      "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Dark patches act like athlete eye black",
-          "startSec": 8,
-          "endSec": 29,
-          "why": "Dark fur around eyes absorbs sunlight like eye black \u2014 cuts glare, sharpens contrast for spotting predators",
-          "hookRewrite": "A meerkat has built-in sunglasses around its eyes"
+          "momentLabel": "Countercurrent heat exchange in paws",
+          "startSec": 40,
+          "endSec": 49,
+          "why": "Most surprising fact \u2014 warm blood heating cold blood returning, paws stay warm at -60. Strong science hook.",
+          "hookRewrite": "Why an arctic fox can stand on ice at minus 60 with warm paws"
         }
       ]
     },
     {
-      "videoId": "-bpS7VaF_EI",
-      "title": "Why the Rhino Charges at 40 MPH #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "YOjP20H4hG4",
+      "title": "Why the Giraffe's Heart Beats Against Gravity #Shorts",
+      "transcriptStatus": "failed",
       "comments": [
         {
-          "id": "UgyrAsuunuJMSDcXZvt4AaABAg",
-          "author": "@anthonyrobisonar",
-          "text": "Adult rinos have no natural predators",
-          "replyPosted": false,
-          "replyText": "(already replied in sweep #26)"
+          "id": "Ugx5hSpuzD4GdR2qNCh4AaABAg",
+          "author": "@ir8d8rads",
+          "text": "They also have a very small brain that doesn't require much blood flow.",
+          "replyPosted": true,
+          "replyText": "Great point! Their small brain actually helps \u2014 less blood flow needed up top means less pressure the heart has to fight against to pump blood all the way up that long neck. Thanks for adding that!"
         }
       ],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "vKtK7E4ENmc",
+      "title": "Why the Wood Frog Breathes Through Its Skin #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Bones denser than steel, redirects mass without slowing",
-          "startSec": 26,
-          "endSec": 45,
-          "why": "Rhino doesn't slow down when it turns \u2014 absorbs lateral force, redirects 5,000 lbs in an instant",
-          "hookRewrite": "A 5,000 pound animal that turns without slowing down"
+          "momentLabel": "Skin is lungs, mouth, and lifeline",
+          "startSec": 40,
+          "endSec": 52,
+          "why": "Powerful closing line synthesizing all the skin's functions. Strong emotional payoff for a clip.",
+          "hookRewrite": "Why this frog's skin is its lungs, mouth, and lifeline"
+        },
+        {
+          "momentLabel": "Survives winter underwater with no breath or heartbeat",
+          "startSec": 30,
+          "endSec": 40,
+          "why": "Extreme survival hook \u2014 no breath, no heartbeat, alive for months underwater. High curiosity gap.",
+          "hookRewrite": "This frog survives winter with no breath and no heartbeat"
         }
       ]
     }
   ],
-  "postedReplies": 1
+  "postedReplies": 2
 }
