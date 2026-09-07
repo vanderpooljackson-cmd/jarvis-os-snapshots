@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 114814,
-      "subscriberCount": 173,
-      "videoCount": 141
+      "viewCount": 114818,
+      "subscriberCount": 176,
+      "videoCount": 143
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-09",
-    "endDate": "2026-09-06",
+    "startDate": "2026-08-10",
+    "endDate": "2026-09-07",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 84280,
-    "estimatedMinutesWatched": 28584,
-    "subscribersGained": 121,
+    "views": 85032,
+    "estimatedMinutesWatched": 28858,
+    "subscribersGained": 124,
     "subscribersLost": 16,
-    "netSubscribers": 105,
-    "likes": 3344,
-    "comments": 37,
-    "shares": 71
+    "likes": 3392,
+    "comments": 38,
+    "shares": 75,
+    "netSubscribers": 108
   },
   "daily": [
-    {
-      "day": "2026-08-09",
-      "views": 1878,
-      "watched": 540,
-      "subsGained": 1,
-      "subsLost": 0,
-      "likes": 80
-    },
     {
       "day": "2026-08-10",
       "views": 1659,
@@ -236,6 +228,14 @@
       "subsGained": 2,
       "subsLost": 0,
       "likes": 136
+    },
+    {
+      "day": "2026-09-04",
+      "views": 2630,
+      "watched": 814,
+      "subsGained": 4,
+      "subsLost": 0,
+      "likes": 128
     }
   ],
   "topVideos": [
@@ -255,7 +255,7 @@
       "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
       "views": 6210,
       "watched": 2490,
-      "likes": 208,
+      "likes": 207,
       "comments": 3,
       "avgViewDuration": 39,
       "flag": "stable",
@@ -264,9 +264,9 @@
     {
       "videoId": "JedGHLLl0pY",
       "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 4748,
-      "watched": 2339,
-      "likes": 208,
+      "views": 4751,
+      "watched": 2340,
+      "likes": 209,
       "comments": 2,
       "avgViewDuration": 48,
       "flag": "stable",
@@ -286,9 +286,9 @@
     {
       "videoId": "60-lx8gRkxU",
       "title": "Why the Starfish Has No Blood #Shorts",
-      "views": 2340,
-      "watched": 819,
-      "likes": 79,
+      "views": 2342,
+      "watched": 820,
+      "likes": 80,
       "comments": 0,
       "avgViewDuration": 33,
       "flag": "stable",
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-06T09:07:48.377995-04:00",
+  "fetchedAt": "2026-09-07T09:15:15.358826-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-06T09:07:48.377995-04:00",
+      "fetchedAt": "2026-09-07T09:15:15.358826-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 173,
+        "current": 176,
         "threshold": 1000,
-        "percent": 17.3
+        "percent": 17.6
       },
       "watchHours12mo": {
-        "current": 627.6,
+        "current": 641.2,
         "threshold": 4000,
-        "percent": 15.69,
+        "percent": 16.03,
         "window": "Last 12 months",
-        "minutesWatched": 37655
+        "minutesWatched": 38470
       },
       "shortsViews90d": {
-        "current": 114486,
+        "current": 116804,
         "threshold": 10000000,
-        "percent": 1.145,
+        "percent": 1.168,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
