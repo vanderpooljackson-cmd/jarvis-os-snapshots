@@ -4211,6 +4211,31 @@
       "clipsFetched": 6,
       "animal": "owl",
       "angle": "3rd (1st: Hunts in Total Silence, 2nd: Turns Head 270 Degrees). Feather mechanism: comb-like serrations on feather edges break up air turbulence, velvety surface absorbs sound. Distinct from hunting behavior angle \u2014 focuses on HOW feathers work, not WHAT owls do."
+    },
+    {
+      "productionId": "JV-2026-09-07-SELF1",
+      "ideaId": "selfgen-hippo-speed",
+      "sourceHash": "de7c24c123e1351bbef297d1fc125f47c1d2717a7d75d078b670ab29e826caf0",
+      "title": "Why the Hippo Runs 30 MPH Despite Weighing 3 Tons #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-07T16:02:10.091813-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "3rd angle on hippo (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos can sprint at 30 mph on land despite weighing 3,000+ lbs \u2014 faster than most humans. Distinct from chemical defense and underwater locomotion angles.",
+      "renderedAt": "2026-09-07T16:08:00.936219-04:00",
+      "uploadedAt": "2026-09-07T16:08:00.936219-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "N77GR0-J5C0",
+        "url": "https://www.youtube.com/watch?v=N77GR0-J5C0"
+      },
+      "duration": 58.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "OUTRUNS MOST HUMANS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "hippo",
+      "angle": "3rd (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos sprint at 30 mph on land despite 3,000 lbs \u2014 short dense bones, massive muscle attachments, gallop gait. Faster than most humans.",
+      "note": "Self-generated from pulse data. Hippo was #8 in pulse top videos (1,728 views, 36s AVD). 3rd angle on hippo. 6/6 Pexels clips (all hippos). Compressed 54MB->5.5MB (CRF 40)."
     }
   ]
 }
