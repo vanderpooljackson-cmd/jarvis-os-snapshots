@@ -4236,6 +4236,31 @@
       "animal": "hippo",
       "angle": "3rd (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos sprint at 30 mph on land despite 3,000 lbs \u2014 short dense bones, massive muscle attachments, gallop gait. Faster than most humans.",
       "note": "Self-generated from pulse data. Hippo was #8 in pulse top videos (1,728 views, 36s AVD). 3rd angle on hippo. 6/6 Pexels clips (all hippos). Compressed 54MB->5.5MB (CRF 40)."
+    },
+    {
+      "productionId": "JV-2026-09-08-SELF1",
+      "ideaId": "selfgen-starfish-stomach",
+      "sourceHash": "1bb0832b330090e88f089b00dc88084a473dabd6fda131809cee4e89a3b235f4",
+      "title": "Why the Starfish Eats With Its Stomach Inside Out #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-08T10:08:54.737937-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "3rd angle on starfish (1st: Regrows Whole Body From Arm, 2nd: Has No Blood). Feeding superpower: starfish evert their stomach through their mouth to digest prey externally. Distinct from regeneration and water vascular system angles.",
+      "renderedAt": "2026-09-08T10:25:31.560335-04:00",
+      "uploadedAt": "2026-09-08T10:25:31.560335-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "bsNNtXGjGV8",
+        "url": "https://www.youtube.com/watch?v=bsNNtXGjGV8"
+      },
+      "duration": 53.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "EATS WITH STOMACH INSIDE OUT",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "starfish",
+      "angle": "3rd (1st: Regrows Whole Body From Arm, 2nd: Has No Blood). Feeding superpower: starfish evert stomach through mouth to digest prey externally. Cannot chew, so stomach envelops prey and dissolves it into soup. Distinct from regeneration and water vascular system angles.",
+      "note": "Self-generated from pulse data. Starfish was #5 in pulse top videos (2,342 views, 33s AVD). 3rd angle. 6/6 Pexels clips (1 definite starfish, 2 reef scenes, 3 non-marine). Assembly timed out but final.mp4 was valid. Compressed 40.8MB->5.4MB (CRF 40)."
     }
   ]
 }
