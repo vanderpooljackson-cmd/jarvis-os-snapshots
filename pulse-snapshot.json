@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 114818,
-      "subscriberCount": 176,
-      "videoCount": 143
+      "viewCount": 114821,
+      "subscriberCount": 178,
+      "videoCount": 145
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-10",
-    "endDate": "2026-09-07",
+    "startDate": "2026-08-11",
+    "endDate": "2026-09-08",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 85032,
-    "estimatedMinutesWatched": 28858,
-    "subscribersGained": 124,
+    "views": 85439,
+    "estimatedMinutesWatched": 29209,
+    "subscribersGained": 119,
     "subscribersLost": 16,
-    "likes": 3392,
+    "likes": 3354,
     "comments": 38,
-    "shares": 75,
-    "netSubscribers": 108
+    "shares": 76,
+    "netSubscribers": 103
   },
   "daily": [
-    {
-      "day": "2026-08-10",
-      "views": 1659,
-      "watched": 474,
-      "subsGained": 10,
-      "subsLost": 1,
-      "likes": 112
-    },
     {
       "day": "2026-08-11",
       "views": 1208,
@@ -236,13 +228,21 @@
       "subsGained": 4,
       "subsLost": 0,
       "likes": 128
+    },
+    {
+      "day": "2026-09-05",
+      "views": 2066,
+      "watched": 825,
+      "subsGained": 5,
+      "subsLost": 1,
+      "likes": 74
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13423,
+      "views": 13426,
       "watched": 5828,
       "likes": 363,
       "comments": 4,
@@ -264,9 +264,9 @@
     {
       "videoId": "JedGHLLl0pY",
       "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 4751,
+      "views": 4766,
       "watched": 2340,
-      "likes": 209,
+      "likes": 210,
       "comments": 2,
       "avgViewDuration": 48,
       "flag": "stable",
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-07T09:15:15.358826-04:00",
+  "fetchedAt": "2026-09-08T09:08:50.390708-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-07T09:15:15.358826-04:00",
+      "fetchedAt": "2026-09-08T09:08:50.390708-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 176,
+        "current": 178,
         "threshold": 1000,
-        "percent": 17.6
+        "percent": 17.8
       },
       "watchHours12mo": {
-        "current": 641.2,
+        "current": 654.9,
         "threshold": 4000,
-        "percent": 16.03,
+        "percent": 16.37,
         "window": "Last 12 months",
-        "minutesWatched": 38470
+        "minutesWatched": 39296
       },
       "shortsViews90d": {
-        "current": 116804,
+        "current": 117972,
         "threshold": 10000000,
-        "percent": 1.168,
+        "percent": 1.18,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
