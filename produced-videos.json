@@ -4286,6 +4286,31 @@
       "animal": "penguin",
       "angle": "3rd (1st: Survives Coldest Winter, 2nd: Holds Breath 22 Minutes). Speed superpower: penguins fly underwater at 15+ mph using stiff flipper wings, porpoising to breathe without stopping. Traded sky for sea, became fastest swimmers in bird world. Distinct from cold survival and breath-holding angles.",
       "note": "Self-generated from pulse data. 3rd angle on penguin. 6/6 Pexels clips (5 penguins + 1 fish/starfish). Compressed 82MB->5.6MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-09-SELF1",
+      "ideaId": "selfgen-tiger-leap",
+      "sourceHash": "a0016761ae2df5143b49ee3674f95aa39235d417faac1dd878d513559f15b90d",
+      "title": "Why the Tiger Leaps 30 Feet in a Single Bound #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-09T10:08:59.875991-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "3rd angle on tiger (1st: Sees Six Times Better in Dark, 2nd: Stripes on Its Skin). Jumping superpower: tigers can leap up to 30 feet in a single pounce, using explosive hind leg muscles. Distinct from night vision and skin stripe angles.",
+      "renderedAt": "2026-09-09T10:24:32.576196-04:00",
+      "uploadedAt": "2026-09-09T10:24:32.576196-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "HQczw3ozCUI",
+        "url": "https://www.youtube.com/watch?v=HQczw3ozCUI"
+      },
+      "duration": 55.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "LEAPS 30 FEET IN ONE BOUND",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "tiger",
+      "angle": "3rd (1st: Sees Six Times Better in Dark, 2nd: Stripes on Its Skin). Jumping superpower: tigers leap 30 feet horizontally and 10 feet vertically in a single pounce using fast-twitch hind leg muscles. Built for ambush, not chase. Distinct from night vision and skin stripe angles.",
+      "note": "Self-generated from pulse data. 3rd angle on tiger. 6/6 Pexels clips (5 tigers + 1 women dancing). Compressed 81MB->6.8MB (CRF 42)."
     }
   ]
 }
