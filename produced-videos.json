@@ -4311,6 +4311,31 @@
       "animal": "tiger",
       "angle": "3rd (1st: Sees Six Times Better in Dark, 2nd: Stripes on Its Skin). Jumping superpower: tigers leap 30 feet horizontally and 10 feet vertically in a single pounce using fast-twitch hind leg muscles. Built for ambush, not chase. Distinct from night vision and skin stripe angles.",
       "note": "Self-generated from pulse data. 3rd angle on tiger. 6/6 Pexels clips (5 tigers + 1 women dancing). Compressed 81MB->6.8MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-09-SELF2",
+      "ideaId": "selfgen-crocodile-stomach",
+      "sourceHash": "19f42596ed44f19a0f8cecbd3339b2ddec71b9298eed2de97053323a59054459",
+      "title": "Why the Crocodile Dissolves a Turtle Shell in Its Stomach #Shorts",
+      "status": "uploaded",
+      "startedAt": "2026-09-09T16:04:57.880343-04:00",
+      "mode": "stock-footage+captions",
+      "concept": "3rd angle on crocodile (1st: Hold Breath Over an Hour, 2nd: Heart Beats Three Times a Minute). Digestive superpower: crocodile stomach acid pH 1-2 dissolves bone, horn, hooves, and turtle shells. Can digest entire prey whole without chewing. Distinct from breath-holding and heart-rate angles.",
+      "renderedAt": "2026-09-09T16:11:26.647493-04:00",
+      "uploadedAt": "2026-09-09T16:11:26.647493-04:00",
+      "secondAngle": true,
+      "youtube": {
+        "videoId": "52JefgjjfoE",
+        "url": "https://www.youtube.com/watch?v=52JefgjjfoE"
+      },
+      "duration": 54.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "DISSOLVES BONES IN ITS STOMACH",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "animal": "crocodile",
+      "angle": "3rd (1st: Hold Breath Over an Hour, 2nd: Heart Beats Three Times a Minute). Digestive superpower: crocodile stomach acid pH 1-2, strongest of any vertebrate, dissolves bone, horn, hooves, turtle shells. Gastroliths grind food. Only reptile that absorbs calcium from bones. Distinct from breath-holding and heart-rate angles.",
+      "note": "Self-generated from pulse data. 3rd angle on crocodile. 6/6 Pexels clips (4 crocodiles + 1 duck + 1 penguin). Compressed 76MB->6.3MB (CRF 42)."
     }
   ]
 }
