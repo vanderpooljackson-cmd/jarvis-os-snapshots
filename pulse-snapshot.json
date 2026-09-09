@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 114821,
-      "subscriberCount": 178,
-      "videoCount": 145
+      "viewCount": 114823,
+      "subscriberCount": 180,
+      "videoCount": 147
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-11",
-    "endDate": "2026-09-08",
+    "startDate": "2026-08-12",
+    "endDate": "2026-09-09",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 85439,
-    "estimatedMinutesWatched": 29209,
-    "subscribersGained": 119,
-    "subscribersLost": 16,
-    "likes": 3354,
+    "views": 87240,
+    "estimatedMinutesWatched": 29834,
+    "subscribersGained": 123,
+    "subscribersLost": 17,
+    "netSubscribers": 106,
+    "likes": 3469,
     "comments": 38,
-    "shares": 76,
-    "netSubscribers": 103
+    "shares": 79
   },
   "daily": [
-    {
-      "day": "2026-08-11",
-      "views": 1208,
-      "watched": 302,
-      "subsGained": 0,
-      "subsLost": 0,
-      "likes": 38
-    },
     {
       "day": "2026-08-12",
       "views": 2299,
@@ -183,16 +175,16 @@
     },
     {
       "day": "2026-08-30",
-      "views": 2585,
-      "watched": 777,
+      "views": 2572,
+      "watched": 775,
       "subsGained": 6,
       "subsLost": 3,
       "likes": 121
     },
     {
       "day": "2026-08-31",
-      "views": 2192,
-      "watched": 565,
+      "views": 2178,
+      "watched": 562,
       "subsGained": 5,
       "subsLost": 0,
       "likes": 122
@@ -236,13 +228,21 @@
       "subsGained": 5,
       "subsLost": 1,
       "likes": 74
+    },
+    {
+      "day": "2026-09-06",
+      "views": 3036,
+      "watched": 932,
+      "subsGained": 4,
+      "subsLost": 1,
+      "likes": 153
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13426,
+      "views": 13427,
       "watched": 5828,
       "likes": 363,
       "comments": 4,
@@ -317,6 +317,17 @@
       "note": ""
     },
     {
+      "videoId": "v3KM5eDdnho",
+      "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
+      "views": 1789,
+      "watched": 537,
+      "likes": 85,
+      "comments": 1,
+      "avgViewDuration": 29,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "yKKvd4LWCcE",
       "title": "Why the Hippo Runs Underwater Instead of Swimming #Shorts",
       "views": 1728,
@@ -337,43 +348,32 @@
       "avgViewDuration": 25,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "KYufoqBM3JY",
-      "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1559,
-      "watched": 356,
-      "likes": 33,
-      "comments": 0,
-      "avgViewDuration": 19,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-09-08T09:08:50.390708-04:00",
+  "fetchedAt": "2026-09-09T09:10:24.115378-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-08T09:08:50.390708-04:00",
+      "fetchedAt": "2026-09-09T09:10:24.115378-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 178,
+        "current": 180,
         "threshold": 1000,
-        "percent": 17.8
+        "percent": 18.0
       },
       "watchHours12mo": {
-        "current": 654.9,
+        "current": 670.4,
         "threshold": 4000,
-        "percent": 16.37,
+        "percent": 16.76,
         "window": "Last 12 months",
-        "minutesWatched": 39296
+        "minutesWatched": 40223
       },
       "shortsViews90d": {
-        "current": 117972,
+        "current": 120274,
         "threshold": 10000000,
-        "percent": 1.18,
+        "percent": 1.203,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
