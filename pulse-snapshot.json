@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 114823,
-      "subscriberCount": 180,
-      "videoCount": 147
+      "viewCount": 132880,
+      "subscriberCount": 182,
+      "videoCount": 149
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-12",
-    "endDate": "2026-09-09",
+    "startDate": "2026-08-13",
+    "endDate": "2026-09-10",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 87240,
-    "estimatedMinutesWatched": 29834,
+    "views": 86307,
+    "estimatedMinutesWatched": 29415,
     "subscribersGained": 123,
-    "subscribersLost": 17,
-    "netSubscribers": 106,
-    "likes": 3469,
-    "comments": 38,
-    "shares": 79
+    "subscribersLost": 15,
+    "likes": 3485,
+    "comments": 40,
+    "shares": 80,
+    "netSubscribers": 108
   },
   "daily": [
-    {
-      "day": "2026-08-12",
-      "views": 2299,
-      "watched": 945,
-      "subsGained": 2,
-      "subsLost": 2,
-      "likes": 73
-    },
     {
       "day": "2026-08-13",
       "views": 6511,
@@ -236,17 +228,25 @@
       "subsGained": 4,
       "subsLost": 1,
       "likes": 153
+    },
+    {
+      "day": "2026-09-07",
+      "views": 1366,
+      "watched": 526,
+      "subsGained": 2,
+      "subsLost": 0,
+      "likes": 89
     }
   ],
   "topVideos": [
     {
       "videoId": "LF75Mu00CIQ",
       "title": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts",
-      "views": 13427,
-      "watched": 5828,
-      "likes": 363,
+      "views": 11769,
+      "watched": 5114,
+      "likes": 309,
       "comments": 4,
-      "avgViewDuration": 41,
+      "avgViewDuration": 42,
       "flag": "winner",
       "note": "Top combined views and retention"
     },
@@ -264,7 +264,7 @@
     {
       "videoId": "JedGHLLl0pY",
       "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 4766,
+      "views": 4767,
       "watched": 2340,
       "likes": 210,
       "comments": 2,
@@ -306,6 +306,17 @@
       "note": ""
     },
     {
+      "videoId": "v3KM5eDdnho",
+      "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
+      "views": 1882,
+      "watched": 600,
+      "likes": 88,
+      "comments": 1,
+      "avgViewDuration": 30,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "u1C7OUZ2odk",
       "title": "Why the Eagle Sees a Glow You Can't #Shorts",
       "views": 1832,
@@ -313,17 +324,6 @@
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 34,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "v3KM5eDdnho",
-      "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
-      "views": 1789,
-      "watched": 537,
-      "likes": 85,
-      "comments": 1,
-      "avgViewDuration": 29,
       "flag": "stable",
       "note": ""
     },
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-09T09:10:24.115378-04:00",
+  "fetchedAt": "2026-09-10T09:02:49.359057-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-09T09:10:24.115378-04:00",
+      "fetchedAt": "2026-09-10T09:02:49.359057-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 180,
+        "current": 182,
         "threshold": 1000,
-        "percent": 18.0
+        "percent": 18.2
       },
       "watchHours12mo": {
-        "current": 670.4,
+        "current": 679.1,
         "threshold": 4000,
-        "percent": 16.76,
+        "percent": 16.98,
         "window": "Last 12 months",
-        "minutesWatched": 40223
+        "minutesWatched": 40749
       },
       "shortsViews90d": {
-        "current": 120274,
+        "current": 120845,
         "threshold": 10000000,
-        "percent": 1.203,
+        "percent": 1.208,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
