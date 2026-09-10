@@ -4359,6 +4359,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 3rd angle on giraffe (top 2-angle animal: 4,767 views, 48s AVD). Thermoregulation superpower: spots are living radiators with blood vessels beneath each patch. 6/6 Pexels giraffe clips (all real giraffes). Compressed 64MB->5.6MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-10-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "1071916e3a8e468944146c7aad02c11cd7240da8252d493c20c3bd0a89888f5f",
+      "status": "uploaded",
+      "startedAt": "2026-09-10T16:04:50.233234-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Starfish Regrows Its Entire Body From One Arm #Shorts",
+      "animal": "starfish",
+      "angle": "3rd (1st: Has No Blood, 2nd: Eats With Stomach Inside Out). Regeneration superpower: starfish can regrow entire body from a single detached arm \u2014 each arm contains most vital organs and a nerve ring.",
+      "renderedAt": "2026-09-10T16:09:38.881004-04:00",
+      "uploadedAt": "2026-09-10T16:09:38.881004-04:00",
+      "youtube": {
+        "videoId": "4ilXVCM5f8U",
+        "url": "https://www.youtube.com/watch?v=4ilXVCM5f8U"
+      },
+      "duration": 44.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "REGROWS WHOLE BODY FROM ONE ARM",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 3rd angle on starfish (pulse #5: 2,342 views, 33s AVD). Regeneration superpower: starfish can regrow entire body from a single detached arm. 6/6 Pexels clips (2-3 starfish + reef/ocean scenes). Compressed 42MB->4.9MB (CRF 42)."
     }
   ]
 }
