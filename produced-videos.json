@@ -4336,6 +4336,29 @@
       "animal": "crocodile",
       "angle": "3rd (1st: Hold Breath Over an Hour, 2nd: Heart Beats Three Times a Minute). Digestive superpower: crocodile stomach acid pH 1-2, strongest of any vertebrate, dissolves bone, horn, hooves, turtle shells. Gastroliths grind food. Only reptile that absorbs calcium from bones. Distinct from breath-holding and heart-rate angles.",
       "note": "Self-generated from pulse data. 3rd angle on crocodile. 6/6 Pexels clips (4 crocodiles + 1 duck + 1 penguin). Compressed 76MB->6.3MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-10-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "11d313e8fa916e9da08375747298291230438f76234911983111abbde2a69575",
+      "status": "uploaded",
+      "startedAt": "2026-09-10T10:06:49.320533-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Giraffe's Spots Are Living Radiators #Shorts",
+      "animal": "giraffe",
+      "angle": "3rd (1st: Sleeps Only 30 Minutes a Day, 2nd: Heart Beats Against Gravity). Thermoregulation superpower: giraffe spots are living radiators \u2014 each patch has a large blood vessel beneath that opens to release heat and closes to conserve it.",
+      "renderedAt": "2026-09-10T10:13:19.198822-04:00",
+      "uploadedAt": "2026-09-10T10:13:19.198822-04:00",
+      "youtube": {
+        "videoId": "mojAVHuMJXA",
+        "url": "https://www.youtube.com/watch?v=mojAVHuMJXA"
+      },
+      "duration": 56.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "SPOTS ARE LIVING RADIATORS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 3rd angle on giraffe (top 2-angle animal: 4,767 views, 48s AVD). Thermoregulation superpower: spots are living radiators with blood vessels beneath each patch. 6/6 Pexels giraffe clips (all real giraffes). Compressed 64MB->5.6MB (CRF 42)."
     }
   ]
 }
