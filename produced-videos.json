@@ -4405,6 +4405,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 3rd angle on hippo (pulse #9: 1,728 views, 36s AVD). Skin superpower: hippo secretes red 'blood sweat' that acts as natural sunscreen (absorbs UV) and antibiotic (kills bacteria, keeps wounds clean in muddy water). 6/6 Pexels hippo clips (ALL real hippos). Assembly returned ok:false (false negative \u2014 validated with ffprobe + decode test, file was valid). Compressed 58MB->4.6MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-11-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "995e3d4659b3cac5a0da74e93937558ce078af3f4889881bc2c1defab126e085",
+      "status": "uploaded",
+      "startedAt": "2026-09-11T16:05:19.347766-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Jellyfish Stings at 5 Million Gs #Shorts",
+      "animal": "jellyfish",
+      "angle": "3rd (1st: Never Dies of Old Age, 2nd: Has 24 Eyes But No Brain). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration \u2014 fastest cellular mechanism in nature.",
+      "renderedAt": "2026-09-11T16:11:09.678200-04:00",
+      "uploadedAt": "2026-09-11T16:11:09.678200-04:00",
+      "youtube": {
+        "videoId": "u6AbtBeh7Oc",
+        "url": "https://www.youtube.com/watch?v=u6AbtBeh7Oc"
+      },
+      "duration": 60.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "STINGS AT 5 MILLION GS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 3rd angle on jellyfish (pulse #2: 6,210 views, 39s AVD \u2014 strongest 1-tagged-angle animal). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration \u2014 100x faster than a bullet. 6/6 Pexels jellyfish clips (ALL real jellyfish). Assembly returned ok:false (false negative \u2014 validated with decode test). Compressed 45MB->3.6MB (CRF 42)."
     }
   ]
 }
