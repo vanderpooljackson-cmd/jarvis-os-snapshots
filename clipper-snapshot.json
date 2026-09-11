@@ -1,92 +1,91 @@
 {
-  "fetchedAt": "2026-09-09T17:47:43.627019-04:00",
+  "fetchedAt": "2026-09-11T17:56:16.097198-04:00",
   "videos": [
     {
-      "videoId": "52JefgjjfoE",
-      "title": "Why the Crocodile Dissolves a Turtle Shell in Its Stomach #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Most acidic stomach of any vertebrate",
-          "startSec": 5,
-          "endSec": 14,
-          "why": "Highest surprise density \u2014 pH 1-2, 10x stronger than human, dissolves bone/horn/hooves/turtle shells. Visceral and concrete.",
-          "hookRewrite": "Why a crocodile's stomach acid dissolves turtle shells"
-        },
-        {
-          "momentLabel": "Gastroliths grind food while acid dissolves skeleton",
-          "startSec": 23,
-          "endSec": 32,
-          "why": "Mechanical + chemical digestion combo \u2014 stones grinding + acid dissolving. Strong visual and educational payoff.",
-          "hookRewrite": "Crocodiles swallow stones to grind their food"
-        }
-      ]
-    },
-    {
-      "videoId": "HQczw3ozCUI",
-      "title": "Why the Tiger Leaps 30 Feet in a Single Bound #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Fast-twitch muscles fire like coiled springs",
-          "startSec": 10,
-          "endSec": 24,
-          "why": "Mechanism explanation \u2014 fast-twitch fibers storing and releasing energy. Concrete analogy (coiled springs) makes the physics tangible.",
-          "hookRewrite": "Why a tiger's hind legs work like coiled springs"
-        },
-        {
-          "momentLabel": "Leaps 10 feet up and 30 feet horizontally",
-          "startSec": 24,
-          "endSec": 38,
-          "why": "Concrete numbers \u2014 10 feet vertical, 30 feet horizontal. Built for ambush not chase. Strong payoff line.",
-          "hookRewrite": "A tiger can jump the length of a school bus"
-        }
-      ]
-    },
-    {
-      "videoId": "N77GR0-J5C0",
-      "title": "Why the Hippo Runs 30 MPH Despite Weighing 3 Tons #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Hippos gallop, not lumber",
-          "startSec": 24,
-          "endSec": 33,
-          "why": "Surprising reframe \u2014 most people think hippos are slow. The reveal that they gallop subverts expectations.",
-          "hookRewrite": "Why a 3-ton hippo gallops instead of lumbering"
-        },
-        {
-          "momentLabel": "You cannot outrun something that heavy moving that fast",
-          "startSec": 41,
-          "endSec": 55,
-          "why": "Powerful closing line \u2014 visceral danger framing without gore. Memorable payoff.",
-          "hookRewrite": "You cannot outrun a 3-ton animal at 30 mph"
-        }
-      ]
-    },
-    {
-      "videoId": "UcQS3DCyfCs",
-      "title": "Why the Penguin Flies Through Water at 15 MPH #Shorts",
+      "videoId": "u6AbtBeh7Oc",
+      "title": "Why the Jellyfish Stings at 5 Million Gs #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": []
     },
     {
-      "videoId": "bsNNtXGjGV8",
-      "title": "Why the Starfish Eats With Its Stomach Inside Out #Shorts",
+      "videoId": "ff_lOxOwyBM",
+      "title": "Why the Hippo Sweats Red Sunscreen #Shorts",
       "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "mojAVHuMJXA",
+      "title": "Why the Giraffe's Spots Are Living Radiators #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": "UgxLbgt_Y3wHPq2522F4AaABAg",
-          "author": "@barrondickson5266",
-          "text": "It has no arms lol, that's just his head",
+          "id": "Ugw8fvQssgrTK4fUafh4AaABAg",
+          "author": "@MRiitta",
+          "text": "First time I hear about this extraordinary cooling system and I'm already 77 yo.!! Thank you so much",
           "replyPosted": true,
-          "replyText": "Ha! You're actually onto something \u2014 a starfish doesn't have a separate head and body the way most animals do. Its nervous system is spread across all five arms, and each arm has its own eyespot. So in a way, the whole starfish IS kind of a head! Thanks for watching!"
+          "replyText": "Thank you so much for watching! It is amazing that nature solved the cooling problem millions of years before we did. So glad you learned something new \u2014 that is exactly why we make these. Welcome to the channel!"
+        },
+        {
+          "id": "UgxSDPD8wHVehqgj6Fx4AaABAg",
+          "author": "@bulbouskiwicat9608",
+          "text": "That's actually so cool",
+          "replyPosted": false,
+          "replyText": null
+        },
+        {
+          "id": "UgxVcmATjXy8fC4E8pt4AaABAg",
+          "author": "@ronalddahl3264",
+          "text": "Good to know this thanks",
+          "replyPosted": false,
+          "replyText": null
         }
       ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Each spot is a living radiator with blood vessels",
+          "startSec": 5,
+          "endSec": 15,
+          "why": "Core reveal \u2014 spots are not camouflage but cooling systems with blood vessels that open and close. Highest surprise density.",
+          "hookRewrite": "Why a giraffe's spots are actually living radiators"
+        },
+        {
+          "momentLabel": "Releases 90% of body heat through spots alone",
+          "startSec": 35,
+          "endSec": 48,
+          "why": "Concrete number \u2014 90% of body heat through spots. Never pants or sweats at 100 degrees. Strong payoff.",
+          "hookRewrite": "A giraffe never sweats at 100 degrees"
+        }
+      ]
+    },
+    {
+      "videoId": "4ilXVCM5f8U",
+      "title": "Why the Starfish Regrows Its Entire Body From One Arm #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Each arm holds vital organs and can rebuild the whole",
+          "startSec": 15,
+          "endSec": 30,
+          "why": "Core mechanism \u2014 each arm is a backup body with organs, nerve ring, and eyespot. Five animals in one.",
+          "hookRewrite": "Why a starfish is five animals in one"
+        },
+        {
+          "momentLabel": "Closest thing to immortality through self-repair",
+          "startSec": 33,
+          "endSec": 44,
+          "why": "Powerful closing concept \u2014 immortality through regeneration. Memorable payoff line.",
+          "hookRewrite": "The animal that is closest to immortality"
+        }
+      ]
+    },
+    {
+      "videoId": "52JefgjjfoE",
+      "title": "Why the Crocodile Dissolves a Turtle Shell in Its Stomach #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
       "clipCandidates": []
     }
   ],
