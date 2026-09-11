@@ -4382,6 +4382,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 3rd angle on starfish (pulse #5: 2,342 views, 33s AVD). Regeneration superpower: starfish can regrow entire body from a single detached arm. 6/6 Pexels clips (2-3 starfish + reef/ocean scenes). Compressed 42MB->4.9MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-11-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "69e2da7d0dfee45c6cec9b1581baa14ccce7c64c791f2c3b9b805e04f22f1339",
+      "status": "uploaded",
+      "startedAt": "2026-09-11T10:03:24.023202-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Hippo Sweats Red Sunscreen #Shorts",
+      "animal": "hippo",
+      "angle": "3rd (1st: Runs Underwater Instead of Swimming, 2nd: Runs 30 MPH Despite 3 Tons). Skin superpower: hippo secretes red 'blood sweat' that acts as natural sunscreen and antibiotic.",
+      "renderedAt": "2026-09-11T10:10:08.330715-04:00",
+      "uploadedAt": "2026-09-11T10:10:08.330715-04:00",
+      "youtube": {
+        "videoId": "ff_lOxOwyBM",
+        "url": "https://www.youtube.com/watch?v=ff_lOxOwyBM"
+      },
+      "duration": 62.9,
+      "resolution": "1080x1920",
+      "hookOverlay": "SWEATS RED SUNSCREEN",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 3rd angle on hippo (pulse #9: 1,728 views, 36s AVD). Skin superpower: hippo secretes red 'blood sweat' that acts as natural sunscreen (absorbs UV) and antibiotic (kills bacteria, keeps wounds clean in muddy water). 6/6 Pexels hippo clips (ALL real hippos). Assembly returned ok:false (false negative \u2014 validated with ffprobe + decode test, file was valid). Compressed 58MB->4.6MB (CRF 42)."
     }
   ]
 }
