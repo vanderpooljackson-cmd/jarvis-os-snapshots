@@ -4451,6 +4451,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 2nd angle on manatee (pulse #6: 1,853 views, 30s AVD). Sensory superpower: facial whiskers (vibrissae) are prehensile \u2014 work like fingers to grasp food, each wired to 200+ nerve fibers, 5x cat whisker sensitivity. 6/6 Pexels clips (2 real manatees + 4 wrong: sea otters, fish, alligators, stone). Assembly ok:false (false negative \u2014 validated). Compressed 75MB->6.5MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-12-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "a148682520a30316090122058c8146dea8d4a77976676572efa9c9b6d7bcf32c",
+      "status": "uploaded",
+      "startedAt": "2026-09-12T16:04:55.472888-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Iguana Slows Its Heart to 3 Beats #Shorts",
+      "animal": "iguana",
+      "angle": "2nd (1st: Has a Third Eye). Extreme survival: marine iguanas slow heart rate to ~3 beats/min underwater, hold breath up to 45 min, only seagoing lizard in the world.",
+      "renderedAt": "2026-09-12T16:09:25.092359-04:00",
+      "uploadedAt": "2026-09-12T16:09:25.092359-04:00",
+      "youtube": {
+        "videoId": "KFeeP9J-nAc",
+        "url": "https://www.youtube.com/watch?v=KFeeP9J-nAc"
+      },
+      "duration": 53.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEART BEATS 3 TIMES PER MINUTE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 2nd angle on iguana (1st: Has a Third Eye). Extreme survival: marine iguana slows heart to ~3 beats/min underwater, holds breath 45 min, only seagoing lizard. 6/6 Pexels clips (5 real iguanas incl. Galapagos marine iguana + 1 underwater turtle scene). Assembly ok:true. Compressed 36MB->3.1MB (CRF 42)."
     }
   ]
 }
