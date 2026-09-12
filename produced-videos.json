@@ -4428,6 +4428,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 3rd angle on jellyfish (pulse #2: 6,210 views, 39s AVD \u2014 strongest 1-tagged-angle animal). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration \u2014 100x faster than a bullet. 6/6 Pexels jellyfish clips (ALL real jellyfish). Assembly returned ok:false (false negative \u2014 validated with decode test). Compressed 45MB->3.6MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-12-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "0231d4860a6001b60bcd3e847b5372a62c0ddd4a2d13f3d6514c5ce285842d7b",
+      "status": "uploaded",
+      "startedAt": "2026-09-12T10:03:19.934180-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Manatee Uses Whiskers Like Fingers #Shorts",
+      "animal": "manatee",
+      "angle": "2nd (1st: Never Runs Out of Teeth). Sensory superpower: manatee facial whiskers (vibrissae) work like fingers \u2014 prehensile, each with 200+ nerve fibers, used to grasp and manipulate food in murky water.",
+      "renderedAt": "2026-09-12T10:10:39.671723-04:00",
+      "uploadedAt": "2026-09-12T10:10:39.671723-04:00",
+      "youtube": {
+        "videoId": "2Of2LGwZUcg",
+        "url": "https://www.youtube.com/watch?v=2Of2LGwZUcg"
+      },
+      "duration": 64.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "WHISKERS WORK LIKE FINGERS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 2nd angle on manatee (pulse #6: 1,853 views, 30s AVD). Sensory superpower: facial whiskers (vibrissae) are prehensile \u2014 work like fingers to grasp food, each wired to 200+ nerve fibers, 5x cat whisker sensitivity. 6/6 Pexels clips (2 real manatees + 4 wrong: sea otters, fish, alligators, stone). Assembly ok:false (false negative \u2014 validated). Compressed 75MB->6.5MB (CRF 42)."
     }
   ]
 }
