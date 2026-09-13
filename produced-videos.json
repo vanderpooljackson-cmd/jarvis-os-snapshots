@@ -4474,6 +4474,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 2nd angle on iguana (1st: Has a Third Eye). Extreme survival: marine iguana slows heart to ~3 beats/min underwater, holds breath 45 min, only seagoing lizard. 6/6 Pexels clips (5 real iguanas incl. Galapagos marine iguana + 1 underwater turtle scene). Assembly ok:true. Compressed 36MB->3.1MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-13-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "b23fe18ee40415a36b6c189bd3508f818db57ed1b5c88f51342e1ac33c1a4639",
+      "status": "uploaded",
+      "startedAt": "2026-09-13T10:02:15.777141-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Cheetah Wears Eye Black to Hunt #Shorts",
+      "animal": "cheetah",
+      "angle": "2nd (1st: Purrs Like a House Cat). Vision/sensory: black tear marks from eyes to mouth absorb sunlight and reduce glare like football player eye black, helping spot prey across the savanna.",
+      "renderedAt": "2026-09-13T10:07:12.414728-04:00",
+      "uploadedAt": "2026-09-13T10:07:12.414728-04:00",
+      "youtube": {
+        "videoId": "f67CJOpAdOA",
+        "url": "https://www.youtube.com/watch?v=f67CJOpAdOA"
+      },
+      "duration": 54.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "BORN WITH EYE BLACK",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated from pulse data. 2nd angle on cheetah (1st: Purrs Like a House Cat). Vision/sensory: black tear marks absorb sunlight like eye black, reduce glare, let cheetah hunt at high noon when other big cats can't. 6/6 Pexels clips (2 real cheetahs + 1 leopard in savanna + 3 wrong: man, woman, dog). Assembly ok:true. Compressed 32MB->4.4MB (CRF 42)."
     }
   ]
 }
