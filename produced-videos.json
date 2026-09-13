@@ -4497,6 +4497,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated from pulse data. 2nd angle on cheetah (1st: Purrs Like a House Cat). Vision/sensory: black tear marks absorb sunlight like eye black, reduce glare, let cheetah hunt at high noon when other big cats can't. 6/6 Pexels clips (2 real cheetahs + 1 leopard in savanna + 3 wrong: man, woman, dog). Assembly ok:true. Compressed 32MB->4.4MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-13-GP01",
+      "ideaId": "GP-2026-09-14-01",
+      "sourceHash": "38b21fb4174642078d1064fe1b3a3ea2333a227d255d68a57d7478b21bd50644",
+      "status": "uploaded",
+      "startedAt": "2026-09-13T16:04:35.966181-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
+      "animal": "elephant",
+      "angle": "1st angle. Superpower: trunk has 40,000 muscles, no bones, can lift tree branch and pick up single blade of grass.",
+      "renderedAt": "2026-09-13T16:10:14.551526-04:00",
+      "uploadedAt": "2026-09-13T16:10:14.551526-04:00",
+      "youtube": {
+        "videoId": "5p-ZHv0qxZQ",
+        "url": "https://www.youtube.com/watch?v=5p-ZHv0qxZQ"
+      },
+      "duration": 61.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "40,000 MUSCLES NO BONES",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "From growth plan GP-2026-09-14-01. 1st angle on elephant. Superpower: trunk has 40,000 muscles, no bones, can lift tree branch and pick up single blade of grass. 6/6 Pexels clips (ALL real elephants \u2014 excellent footage). Assembly ok:false (false negative \u2014 validated with decode test). Compressed 52MB->4.2MB (CRF 42)."
     }
   ]
 }
