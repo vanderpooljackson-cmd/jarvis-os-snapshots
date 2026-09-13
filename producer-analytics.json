@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-12T11:07:03.110024-04:00",
-  "fetchedAt": "2026-09-12T11:07:03.110024-04:00",
+  "lastRunAt": "2026-09-13T11:03:21.211711-04:00",
+  "fetchedAt": "2026-09-13T11:03:21.211711-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -819,7 +819,7 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 984.9,
+      "ageHoursAtAnalysis": 1008.8,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": 75.4,
@@ -827,11 +827,10 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -839,7 +838,7 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 979.0,
+      "ageHoursAtAnalysis": 1002.9,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": 61.8,
@@ -847,11 +846,10 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1719,6 +1717,25 @@
       "lastNotifiedLabel": "winner"
     },
     {
+      "productionId": "EP-001",
+      "videoId": "C1n3GyrwoFs",
+      "title": "5 Animal Superpowers That Sound Made Up",
+      "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
+      "ageHoursAtAnalysis": 575.6,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": 301.9,
+      "retentionPercent": null,
+      "performanceLabel": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 33.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
+      },
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": "stable"
+    },
+    {
       "productionId": "JV-2026-08-20-SELFN",
       "videoId": "H6x-o_inlJY",
       "title": "Why the Fox Hears a Mouse Under Two Feet of Snow #Shorts",
@@ -1744,26 +1761,6 @@
       },
       "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
       "lastNotifiedLabel": "optimize"
-    },
-    {
-      "productionId": "EP-001",
-      "videoId": "C1n3GyrwoFs",
-      "title": "5 Animal Superpowers That Sound Made Up",
-      "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 551.7,
-      "analyticsStatus": "pending",
-      "metrics": null,
-      "videoDurationSeconds": 301.9,
-      "retentionPercent": null,
-      "performanceLabel": null,
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
-      },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
-      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-08-20-SELF2",
@@ -2823,87 +2820,111 @@
       "videoId": "HQczw3ozCUI",
       "title": "Why the Tiger Leaps 30 Feet in a Single Bound #Shorts",
       "uploadedAt": "2026-09-09T10:24:32.576196-04:00",
-      "ageHoursAtAnalysis": 72.7,
-      "analyticsStatus": "pending",
-      "metrics": null,
+      "ageHoursAtAnalysis": 96.6,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1239,
+        "estimatedMinutesWatched": 352,
+        "averageViewDuration": 27.0,
+        "likes": 67,
+        "comments": 1,
+        "shares": 0
+      },
       "videoDurationSeconds": 55.2,
-      "retentionPercent": null,
-      "performanceLabel": null,
+      "retentionPercent": 48.9,
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "ratioToBaselineAvgViewDuration": 0.81,
+        "note": "avd=27.0s vs baseline 33.5s"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": "optimize"
     },
     {
       "productionId": "JV-2026-09-09-SELF2",
       "videoId": "52JefgjjfoE",
       "title": "Why the Crocodile Dissolves a Turtle Shell in Its Stomach #Shorts",
       "uploadedAt": "2026-09-09T16:11:26.647493-04:00",
-      "ageHoursAtAnalysis": 66.9,
-      "analyticsStatus": "pending",
-      "metrics": null,
+      "ageHoursAtAnalysis": 90.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1126,
+        "estimatedMinutesWatched": 275,
+        "averageViewDuration": 24.0,
+        "likes": 39,
+        "comments": 0,
+        "shares": 0
+      },
       "videoDurationSeconds": 54.0,
-      "retentionPercent": null,
-      "performanceLabel": null,
+      "retentionPercent": 44.4,
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "ratioToBaselineAvgViewDuration": 0.72,
+        "note": "avd=24.0s vs baseline 33.5s"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": "optimize"
     },
     {
       "productionId": "JV-2026-09-10-SELF1",
       "videoId": "mojAVHuMJXA",
       "title": "Why the Giraffe's Spots Are Living Radiators #Shorts",
       "uploadedAt": "2026-09-10T10:13:19.198822-04:00",
-      "ageHoursAtAnalysis": 48.9,
-      "analyticsStatus": "pending",
-      "metrics": null,
+      "ageHoursAtAnalysis": 72.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1044,
+        "estimatedMinutesWatched": 351,
+        "averageViewDuration": 36.0,
+        "likes": 60,
+        "comments": 3,
+        "shares": 2
+      },
       "videoDurationSeconds": 56.2,
-      "retentionPercent": null,
-      "performanceLabel": null,
+      "retentionPercent": 64.1,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "ratioToBaselineAvgViewDuration": 1.07,
+        "note": "avd=36.0s vs baseline 33.5s"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-09-10-SELF2",
       "videoId": "4ilXVCM5f8U",
       "title": "Why the Starfish Regrows Its Entire Body From One Arm #Shorts",
       "uploadedAt": "2026-09-10T16:09:38.881004-04:00",
-      "ageHoursAtAnalysis": 43.0,
-      "analyticsStatus": "pending",
-      "metrics": null,
+      "ageHoursAtAnalysis": 66.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1125,
+        "estimatedMinutesWatched": 202,
+        "averageViewDuration": 19.0,
+        "likes": 34,
+        "comments": 0,
+        "shares": 0
+      },
       "videoDurationSeconds": 44.8,
-      "retentionPercent": null,
-      "performanceLabel": null,
+      "retentionPercent": 42.4,
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "ratioToBaselineAvgViewDuration": 0.57,
+        "note": "avd=19.0s vs baseline 33.5s"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": "optimize"
     },
     {
       "productionId": "JV-2026-09-11-SELF1",
       "videoId": "ff_lOxOwyBM",
       "title": "Why the Hippo Sweats Red Sunscreen #Shorts",
       "uploadedAt": "2026-09-11T10:10:08.330715-04:00",
-      "ageHoursAtAnalysis": 24.9,
+      "ageHoursAtAnalysis": 48.9,
       "analyticsStatus": "pending",
       "metrics": null,
       "videoDurationSeconds": 62.9,
@@ -2911,11 +2932,10 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2923,19 +2943,18 @@
       "videoId": "u6AbtBeh7Oc",
       "title": "Why the Jellyfish Stings at 5 Million Gs #Shorts",
       "uploadedAt": "2026-09-11T16:11:09.678200-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": null,
-      "videoDurationSeconds": null,
+      "videoDurationSeconds": 60.8,
       "retentionPercent": null,
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -2943,19 +2962,56 @@
       "videoId": "2Of2LGwZUcg",
       "title": "Why the Manatee Uses Whiskers Like Fingers #Shorts",
       "uploadedAt": "2026-09-12T10:10:39.671723-04:00",
-      "ageHoursAtAnalysis": 0.9,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": null,
-      "videoDurationSeconds": null,
+      "videoDurationSeconds": 64.6,
       "retentionPercent": null,
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 33.5,
-        "baselineTopVideosMedianViews": 2064.5,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet; pending the YouTube Analytics 24–48h aggregation window."
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
       },
-      "analyzedAt": "2026-09-12T11:07:03.110024-04:00",
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-12-SELF2",
+      "videoId": "KFeeP9J-nAc",
+      "title": "Why the Iguana Slows Its Heart to 3 Beats #Shorts",
+      "uploadedAt": "2026-09-12T16:09:25.092359-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": 53.4,
+      "retentionPercent": null,
+      "performanceLabel": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 33.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
+      },
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-13-SELF1",
+      "videoId": "f67CJOpAdOA",
+      "title": "Why the Cheetah Wears Eye Black to Hunt #Shorts",
+      "uploadedAt": "2026-09-13T10:07:12.414728-04:00",
+      "ageHoursAtAnalysis": 0.9,
+      "analyticsStatus": "pending",
+      "metrics": null,
+      "videoDurationSeconds": 54.0,
+      "retentionPercent": null,
+      "performanceLabel": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 33.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics 24\u201348h aggregation lag)"
+      },
+      "analyzedAt": "2026-09-13T11:03:21.211711-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -3065,11 +3121,15 @@
         "Ke35_LxnMnM",
         "N77GR0-J5C0",
         "bsNNtXGjGV8",
-        "UcQS3DCyfCs"
+        "UcQS3DCyfCs",
+        "HQczw3ozCUI",
+        "52JefgjjfoE",
+        "mojAVHuMJXA",
+        "4ilXVCM5f8U"
       ],
-      "sampleSize": 102,
+      "sampleSize": 106,
       "avgViewDurationMedian": 27.0,
-      "viewsMedian": 1043.0,
+      "viewsMedian": 1047.5,
       "verdict": "promising",
       "confidence": "high"
     }
@@ -3131,13 +3191,14 @@
       "key": "camel",
       "label": "Camel",
       "videos": [
+        "C5rhgXKTkO4",
         "5SV1p64SDnE",
         "zVxbp_9-30c"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 18.0,
-      "viewsMedian": 831.0,
-      "verdict": "promising",
+      "sampleSize": 3,
+      "avgViewDurationMedian": 21.0,
+      "viewsMedian": 880.0,
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -3151,6 +3212,20 @@
       "avgViewDurationMedian": 18.0,
       "viewsMedian": 526.0,
       "verdict": "avoid",
+      "confidence": "low"
+    },
+    {
+      "key": "crocodile",
+      "label": "Crocodile",
+      "videos": [
+        "U7HFrqyEAyQ",
+        "8PLTeqmgngM",
+        "52JefgjjfoE"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 27.0,
+      "viewsMedian": 1050.0,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -3177,7 +3252,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 19.0,
       "viewsMedian": 1559.0,
-      "verdict": "promising",
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -3185,11 +3260,12 @@
       "label": "Eagle",
       "videos": [
         "85tlS2R1wJk",
+        "ZSqAZJUOFC0",
         "u1C7OUZ2odk"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 37.0,
-      "viewsMedian": 1552.5,
+      "sampleSize": 3,
+      "avgViewDurationMedian": 40.0,
+      "viewsMedian": 1273.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3198,11 +3274,12 @@
       "label": "Elephant",
       "videos": [
         "9Il9e4WfzXw",
+        "EQW2nGlieuo",
         "sJaqLr8I_9w"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 37.0,
-      "viewsMedian": 1084.5,
+      "sampleSize": 3,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1088.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3230,12 +3307,12 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 22.0,
       "viewsMedian": 1260.0,
-      "verdict": "promising",
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
-      "key": "ghost",
-      "label": "Ghost",
+      "key": "ghost crab",
+      "label": "Ghost Crab",
       "videos": [
         "-Muut2BoMeE",
         "w1c3bzDN50s"
@@ -3251,11 +3328,13 @@
       "label": "Giraffe",
       "videos": [
         "Nudk8CPNgCI",
-        "JedGHLLl0pY"
+        "JedGHLLl0pY",
+        "YOjP20H4hG4",
+        "mojAVHuMJXA"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 41.5,
-      "viewsMedian": 2473.5,
+      "sampleSize": 4,
+      "avgViewDurationMedian": 35.5,
+      "viewsMedian": 1087.5,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3461,8 +3540,8 @@
       "confidence": "low"
     },
     {
-      "key": "polar",
-      "label": "Polar",
+      "key": "polar bear",
+      "label": "Polar Bear",
       "videos": [
         "g6Nmh2WuHDo",
         "LF75Mu00CIQ",
@@ -3484,20 +3563,19 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 18.0,
       "viewsMedian": 710.5,
-      "verdict": "promising",
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
-      "key": "sea",
-      "label": "Sea",
+      "key": "sea lion",
+      "label": "Sea Lion",
       "videos": [
         "zCiVupoWOVk",
-        "6_LwoDgA6AI",
         "0onjfepA3F8"
       ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 22.0,
-      "viewsMedian": 650.0,
+      "sampleSize": 2,
+      "avgViewDurationMedian": 23.0,
+      "viewsMedian": 1031.0,
       "verdict": "avoid",
       "confidence": "low"
     },
@@ -3506,11 +3584,12 @@
       "label": "Shark",
       "videos": [
         "4WUNKscls30",
+        "tMrTS480uqE",
         "oOvJedn-abs"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 26.5,
-      "viewsMedian": 1677.5,
+      "sampleSize": 3,
+      "avgViewDurationMedian": 28.0,
+      "viewsMedian": 2276.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3524,7 +3603,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 20.0,
       "viewsMedian": 907.5,
-      "verdict": "promising",
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -3533,11 +3612,26 @@
       "videos": [
         "_0zHLNM__vk",
         "60-lx8gRkxU",
-        "bsNNtXGjGV8"
+        "bsNNtXGjGV8",
+        "4ilXVCM5f8U"
+      ],
+      "sampleSize": 4,
+      "avgViewDurationMedian": 19.0,
+      "viewsMedian": 1034.0,
+      "verdict": "avoid",
+      "confidence": "low"
+    },
+    {
+      "key": "tiger",
+      "label": "Tiger",
+      "videos": [
+        "WJBVgO1_rT8",
+        "kZfSFw7Rk9o",
+        "HQczw3ozCUI"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 19.0,
-      "viewsMedian": 943.0,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1239.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3555,8 +3649,8 @@
       "confidence": "low"
     },
     {
-      "key": "wood",
-      "label": "Wood",
+      "key": "wood frog",
+      "label": "Wood Frog",
       "videos": [
         "uEWo-Q5jST8",
         "vKtK7E4ENmc"
@@ -3674,24 +3768,28 @@
         "Ke35_LxnMnM",
         "N77GR0-J5C0",
         "bsNNtXGjGV8",
-        "UcQS3DCyfCs"
+        "UcQS3DCyfCs",
+        "HQczw3ozCUI",
+        "52JefgjjfoE",
+        "mojAVHuMJXA",
+        "4ilXVCM5f8U"
       ],
-      "sampleSize": 102,
+      "sampleSize": 106,
       "avgViewDurationMedian": 27.0,
-      "viewsMedian": 1043.0,
+      "viewsMedian": 1047.5,
       "verdict": "promising",
       "confidence": "high"
     }
   ],
   "summary": [
     {
-      "pattern": "Current top performer by views × average view duration",
-      "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts — 13427 views and 41s average view duration; winner.",
+      "pattern": "Current top performer by views \u00d7 average view duration",
+      "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts \u2014 13427 views and 41s average view duration; winner.",
       "verdict": "winner"
     },
     {
       "pattern": "Why the [animal] [X] #Shorts",
-      "evidence": "102 available videos; median 1043.0 views and 27.0s average view duration versus 33.5s channel top-video median; confidence high.",
+      "evidence": "106 available videos; median 1047.5 views and 27.0s average view duration versus 33.5s channel top-video median; confidence high.",
       "verdict": "promising"
     },
     {
@@ -3716,13 +3814,18 @@
     },
     {
       "pattern": "Camel",
-      "evidence": "2 available videos; median 831.0 views and 18.0s average view duration versus 33.5s channel top-video median; confidence low.",
-      "verdict": "promising"
+      "evidence": "3 available videos; median 880.0 views and 21.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "verdict": "avoid"
     },
     {
       "pattern": "Cheetah",
       "evidence": "2 available videos; median 526.0 views and 18.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "avoid"
+    },
+    {
+      "pattern": "Crocodile",
+      "evidence": "3 available videos; median 1050.0 views and 27.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "verdict": "promising"
     },
     {
       "pattern": "Deer",
@@ -3732,16 +3835,16 @@
     {
       "pattern": "Dolphin",
       "evidence": "3 available videos; median 1559.0 views and 19.0s average view duration versus 33.5s channel top-video median; confidence low.",
-      "verdict": "promising"
+      "verdict": "avoid"
     },
     {
       "pattern": "Eagle",
-      "evidence": "2 available videos; median 1552.5 views and 37.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "evidence": "3 available videos; median 1273.0 views and 40.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Elephant",
-      "evidence": "2 available videos; median 1084.5 views and 37.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "evidence": "3 available videos; median 1088.0 views and 26.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
@@ -3752,16 +3855,16 @@
     {
       "pattern": "Fox",
       "evidence": "3 available videos; median 1260.0 views and 22.0s average view duration versus 33.5s channel top-video median; confidence low.",
-      "verdict": "promising"
+      "verdict": "avoid"
     },
     {
-      "pattern": "Ghost",
+      "pattern": "Ghost Crab",
       "evidence": "2 available videos; median 495.5 views and 28.5s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Giraffe",
-      "evidence": "2 available videos; median 2473.5 views and 41.5s average view duration versus 33.5s channel top-video median; confidence low.",
+      "evidence": "4 available videos; median 1087.5 views and 35.5s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
@@ -3840,33 +3943,38 @@
       "verdict": "promising"
     },
     {
-      "pattern": "Polar",
+      "pattern": "Polar Bear",
       "evidence": "3 available videos; median 1218.0 views and 26.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Rhino",
       "evidence": "2 available videos; median 710.5 views and 18.0s average view duration versus 33.5s channel top-video median; confidence low.",
-      "verdict": "promising"
+      "verdict": "avoid"
     },
     {
-      "pattern": "Sea",
-      "evidence": "3 available videos; median 650.0 views and 22.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "pattern": "Sea Lion",
+      "evidence": "2 available videos; median 1031.0 views and 23.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "avoid"
     },
     {
       "pattern": "Shark",
-      "evidence": "2 available videos; median 1677.5 views and 26.5s average view duration versus 33.5s channel top-video median; confidence low.",
+      "evidence": "3 available videos; median 2276.0 views and 28.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Spider",
       "evidence": "2 available videos; median 907.5 views and 20.0s average view duration versus 33.5s channel top-video median; confidence low.",
-      "verdict": "promising"
+      "verdict": "avoid"
     },
     {
       "pattern": "Starfish",
-      "evidence": "3 available videos; median 943.0 views and 19.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "evidence": "4 available videos; median 1034.0 views and 19.0s average view duration versus 33.5s channel top-video median; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Tiger",
+      "evidence": "3 available videos; median 1239.0 views and 26.0s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     },
     {
@@ -3875,7 +3983,7 @@
       "verdict": "promising"
     },
     {
-      "pattern": "Wood",
+      "pattern": "Wood Frog",
       "evidence": "2 available videos; median 1025.0 views and 29.5s average view duration versus 33.5s channel top-video median; confidence low.",
       "verdict": "promising"
     }
