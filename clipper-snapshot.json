@@ -1,92 +1,130 @@
 {
-  "fetchedAt": "2026-09-11T17:56:16.097198-04:00",
+  "fetchedAt": "2026-09-14T17:40:04.732888-04:00",
   "videos": [
     {
-      "videoId": "u6AbtBeh7Oc",
-      "title": "Why the Jellyfish Stings at 5 Million Gs #Shorts",
-      "transcriptStatus": "failed",
+      "videoId": "2JHXOWVXXFo",
+      "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [
+        {
+          "momentLabel": "Magnetite particles in brain = built-in compass",
+          "startSec": 8,
+          "endSec": 16,
+          "why": "Core reveal \u2014 same mineral as compass needle embedded in turtle's brain, feels magnetic field as a map not just a direction.",
+          "hookRewrite": "Why a sea turtle has a compass inside its brain"
+        },
+        {
+          "momentLabel": "Loggerhead spends 20 years in Atlantic, returns to same sand",
+          "startSec": 42,
+          "endSec": 50,
+          "why": "Powerful payoff \u2014 concrete example of decades-long navigation with no GPS, stars, or coast. Emotional resonance.",
+          "hookRewrite": "A turtle that finds its birth beach 20 years later"
+        }
+      ]
     },
     {
-      "videoId": "ff_lOxOwyBM",
-      "title": "Why the Hippo Sweats Red Sunscreen #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "mojAVHuMJXA",
-      "title": "Why the Giraffe's Spots Are Living Radiators #Shorts",
+      "videoId": "5p-ZHv0qxZQ",
+      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
       "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": "Ugw8fvQssgrTK4fUafh4AaABAg",
-          "author": "@MRiitta",
-          "text": "First time I hear about this extraordinary cooling system and I'm already 77 yo.!! Thank you so much",
+          "id": "UgzIaztqg5lZ3UialNB4AaABAg",
+          "author": "@agnesmartinez4565",
+          "text": "I love elephants \u2764\ufe0f\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18",
+          "replyPosted": false,
+          "replyText": null
+        },
+        {
+          "id": "UgwQr26mNfusmeCaJXt4AaABAg",
+          "author": "@yoshikoshaffer5407",
+          "text": "\u9a5a\u304f\ud83d\udc40\u203c\ufe0f\u7a0b\uff64\u7d20\u6674\u3089\u3057\u3044\u2728\u2757!\ud83d\ude0d\ud83c\udfb5\ud83d\ude0d\ud83c\udfb5\u8c61\u306e\u9f3b\u2764\u3067\u3059\u306d\u2757!\ud83d\ude0d \u79c1\u9054\u306e\u624b\u3088\u308a\u3001\u591a\u304f\u306e\u4e8b\u304c\u51fa\u6765\u307e\u3059\u306d\u2757 \u5168\u304f\u9a5a\u304f\u3070\u304b\u308a\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83c\udf89\uff1f\u2049\ufe0f \u305d\u3046\u601d\u3044\u307e\u305b\u3093\u304b\uff1f",
           "replyPosted": true,
-          "replyText": "Thank you so much for watching! It is amazing that nature solved the cooling problem millions of years before we did. So glad you learned something new \u2014 that is exactly why we make these. Welcome to the channel!"
-        },
-        {
-          "id": "UgxSDPD8wHVehqgj6Fx4AaABAg",
-          "author": "@bulbouskiwicat9608",
-          "text": "That's actually so cool",
-          "replyPosted": false,
-          "replyText": null
-        },
-        {
-          "id": "UgxVcmATjXy8fC4E8pt4AaABAg",
-          "author": "@ronalddahl3264",
-          "text": "Good to know this thanks",
-          "replyPosted": false,
-          "replyText": null
+          "replyText": "Thank you so much! It really is amazing. 40,000 muscles with no bones at all, and it can do what our hand, arm, and a straw do, all at once. So glad you enjoyed the video!"
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "Each spot is a living radiator with blood vessels",
-          "startSec": 5,
-          "endSec": 15,
-          "why": "Core reveal \u2014 spots are not camouflage but cooling systems with blood vessels that open and close. Highest surprise density.",
-          "hookRewrite": "Why a giraffe's spots are actually living radiators"
+          "momentLabel": "40,000 muscles, no bones, more than entire human body",
+          "startSec": 0,
+          "endSec": 10,
+          "why": "Hook with concrete number \u2014 40,000 muscles is more than the human body. Immediate curiosity gap.",
+          "hookRewrite": "Why an elephant trunk has more muscles than your whole body"
         },
         {
-          "momentLabel": "Releases 90% of body heat through spots alone",
-          "startSec": 35,
-          "endSec": 48,
-          "why": "Concrete number \u2014 90% of body heat through spots. Never pants or sweats at 100 degrees. Strong payoff.",
-          "hookRewrite": "A giraffe never sweats at 100 degrees"
+          "momentLabel": "Trunk tip can pluck a peanut and crack the shell",
+          "startSec": 20,
+          "endSec": 30,
+          "why": "Delicate precision contrast \u2014 same trunk that rips branches can crack a peanut shell without crushing the nut. Surprise density.",
+          "hookRewrite": "A trunk that can rip a tree and crack a peanut"
         }
       ]
     },
     {
-      "videoId": "4ilXVCM5f8U",
-      "title": "Why the Starfish Regrows Its Entire Body From One Arm #Shorts",
+      "videoId": "KFeeP9J-nAc",
+      "title": "Why the Iguana Slows Its Heart to 3 Beats #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Each arm holds vital organs and can rebuild the whole",
-          "startSec": 15,
-          "endSec": 30,
-          "why": "Core mechanism \u2014 each arm is a backup body with organs, nerve ring, and eyespot. Five animals in one.",
-          "hookRewrite": "Why a starfish is five animals in one"
+          "momentLabel": "Heart rate drops from 40 to 3 beats per minute",
+          "startSec": 8,
+          "endSec": 16,
+          "why": "Core reveal \u2014 concrete number drop (40 to 3), lowest of any reptile. Surprising survival mechanism.",
+          "hookRewrite": "Why an iguana's heart beats only 3 times underwater"
         },
         {
-          "momentLabel": "Closest thing to immortality through self-repair",
+          "momentLabel": "Only lizard on Earth that hunts in the ocean",
           "startSec": 33,
-          "endSec": 44,
-          "why": "Powerful closing concept \u2014 immortality through regeneration. Memorable payoff line.",
-          "hookRewrite": "The animal that is closest to immortality"
+          "endSec": 41,
+          "why": "Wider implication \u2014 unique species fact. Marine iguana is the only seagoing lizard. Memorable closer.",
+          "hookRewrite": "The only lizard that hunts in the ocean"
         }
       ]
     },
     {
-      "videoId": "52JefgjjfoE",
-      "title": "Why the Crocodile Dissolves a Turtle Shell in Its Stomach #Shorts",
-      "transcriptStatus": "failed",
+      "videoId": "f67CJOpAdOA",
+      "title": "Why the Cheetah Wears Eye Black to Hunt #Shorts",
+      "transcriptStatus": "extracted",
       "comments": [],
-      "clipCandidates": []
+      "clipCandidates": [
+        {
+          "momentLabel": "Tear marks work like athlete eye black, absorb sunlight",
+          "startSec": 0,
+          "endSec": 15,
+          "why": "Hook \u2014 relatable comparison to sports eye black. Surprising sensory adaptation.",
+          "hookRewrite": "Why a cheetah is born with eye black"
+        },
+        {
+          "momentLabel": "Cheetah hunts at high noon when other big cats can't",
+          "startSec": 40,
+          "endSec": 48,
+          "why": "Payoff \u2014 niche separation. Lions and leopards hunt at dawn/dusk, cheetah at noon. The tear marks let it see when others can't.",
+          "hookRewrite": "The only big cat that hunts at high noon"
+        }
+      ]
+    },
+    {
+      "videoId": "l95kOS6thok",
+      "title": "Why the Ostrich Runs on Only Two Toes #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Elastic tendon stretches and snaps back, returning energy for free",
+          "startSec": 24,
+          "endSec": 33,
+          "why": "Core mechanism \u2014 spring tendon returns energy. Legs bounce off ground, not push. Counterintuitive.",
+          "hookRewrite": "Why an ostrich's legs bounce instead of push"
+        },
+        {
+          "momentLabel": "Holds 45 mph for half an hour without stopping",
+          "startSec": 33,
+          "endSec": 46,
+          "why": "Concrete payoff \u2014 45 mph for 30 min. Speed + endurance combination is unique.",
+          "hookRewrite": "A bird that runs 45 mph for 30 minutes straight"
+        }
+      ]
     }
   ],
   "postedReplies": 1
