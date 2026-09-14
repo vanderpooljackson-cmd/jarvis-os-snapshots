@@ -4520,6 +4520,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "From growth plan GP-2026-09-14-01. 1st angle on elephant. Superpower: trunk has 40,000 muscles, no bones, can lift tree branch and pick up single blade of grass. 6/6 Pexels clips (ALL real elephants \u2014 excellent footage). Assembly ok:false (false negative \u2014 validated with decode test). Compressed 52MB->4.2MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-14-GP02",
+      "ideaId": "GP-2026-09-14-02",
+      "sourceHash": "531094fc49b64dbdd54475caba1e62fa86384520397253a458de8efa0434cb3a",
+      "status": "uploaded",
+      "startedAt": "2026-09-14T10:14:00.894286-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Ostrich Runs on Only Two Toes #Shorts",
+      "animal": "ostrich",
+      "angle": "3rd angle (1st: Can Kill a Lion With One Kick, 2nd: Outruns a Horse). Speed/superpower: only two toes, one acts like a spring tendon for sprinting.",
+      "renderedAt": "2026-09-14T10:19:54.354616-04:00",
+      "uploadedAt": "2026-09-14T10:19:54.354616-04:00",
+      "youtube": {
+        "videoId": "l95kOS6thok",
+        "url": "https://www.youtube.com/watch?v=l95kOS6thok"
+      },
+      "duration": 53.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "TWO TOES 45 MPH",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "From growth plan GP-2026-09-14-02. 3rd angle on ostrich (1st: Kill a Lion With One Kick, 2nd: Outruns a Horse). Speed/superpower: only two toes, main toe has 10-inch claw like sprint spike, elastic tendon spring returns energy, holds 45 mph for 30 min. 6/6 Pexels clips (5 ostrich + 1 legs). Assembly ok:true. Compressed 52MB->4.4MB (CRF 42)."
     }
   ]
 }
