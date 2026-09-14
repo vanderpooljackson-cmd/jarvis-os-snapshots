@@ -4543,6 +4543,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "From growth plan GP-2026-09-14-02. 3rd angle on ostrich (1st: Kill a Lion With One Kick, 2nd: Outruns a Horse). Speed/superpower: only two toes, main toe has 10-inch claw like sprint spike, elastic tendon spring returns energy, holds 45 mph for 30 min. 6/6 Pexels clips (5 ostrich + 1 legs). Assembly ok:true. Compressed 52MB->4.4MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-14-GP03",
+      "ideaId": "GP-2026-09-14-03",
+      "sourceHash": "7900ba93e81181a23bee027cbb50bff713105d70a0ca3d40262a77e7fd9d6169",
+      "status": "uploaded",
+      "startedAt": "2026-09-14T16:03:33.329815-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
+      "animal": "turtle",
+      "angle": "2nd angle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetic navigation \u2014 sea turtle uses Earth's magnetic field as a map to return to exact beach where it hatched.",
+      "renderedAt": "2026-09-14T16:10:32.185248-04:00",
+      "uploadedAt": "2026-09-14T16:10:32.185248-04:00",
+      "youtube": {
+        "videoId": "2JHXOWVXXFo",
+        "url": "https://www.youtube.com/watch?v=2JHXOWVXXFo"
+      },
+      "duration": 64.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "COMPASS WIRED INTO ITS SKULL",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "From growth plan GP-2026-09-14-03. 2nd angle on turtle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetite in brain = built-in compass, reads Earth's magnetic field as a map, memorizes beach magnetic signature at birth, returns decades later. 6/6 Pexels clips (ALL real sea turtles incl. baby turtle crawling to shore). Assembly ok:false (false negative \u2014 validated). Compressed 71MB->8.3MB (CRF 42)."
     }
   ]
 }
