@@ -188,6 +188,32 @@
       "evaluatedAt": "2026-08-15T10:03:40-04:00",
       "decision": "revert",
       "evalNotes": "Variant-period YouTube Analytics queries covered 2026-08-12 through 2026-08-15 (4 calendar days) and returned one video row: 1 view, 0 estimated minutes watched, 0 likes, and averageViewDuration 0s. The day query returned one active day (2026-08-12: 1 view, 0 estimated minutes watched, 0 likes, averageViewDuration 0s); the other requested days had no rows/traffic. This was real but extremely sparse variant-period traffic, not an empty/all-zero result, so the zero-traffic baseline branch did not apply. Variant daily averages over the 4-day window: 0.25 views/day, 0.0 estimated minutes watched/day, 0.0 likes/day, and 0s averageViewDuration. Baseline daily averages from the experiment record: 47.8214 views/day, 9.9643 watched minutes/day, and 18s averageViewDuration. Views were down 99.48% versus baseline (0.25 vs 47.8214/day) and retention fell 18s (0s vs 18s), so REVERT per policy. Action taken: updated the YouTube title back to the baseline string via youtube_data_api-update-video-details; the API response confirmed the restored title. Watch-page fetch verification was unavailable due to HTTP 429."
+    },
+    {
+      "id": "EXP-008",
+      "videoId": "oOvJedn-abs",
+      "field": "title",
+      "baseline": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
+      "variant": "How Can a Shark Grow 30,000 Teeth? The Secret Is Wild #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-09-14T09:03:37.867620-04:00",
+      "baselineMetrics": {
+        "windowDays": 28,
+        "views": 2276,
+        "watched": 635,
+        "estimatedMinutesWatched": 635,
+        "likes": 67,
+        "comments": 0,
+        "avgViewDuration": 25,
+        "flag": "optimize",
+        "note": "Above-average views (2276 vs top-10 average 2130.5) but below-median retention (25s vs 31.5s)"
+      },
+      "baselineDailyAverages": {
+        "views": 81.28571428571429,
+        "watched": 22.678571428571427,
+        "avgViewDuration": 25
+      },
+      "status": "running"
     }
   ],
   "policy": {

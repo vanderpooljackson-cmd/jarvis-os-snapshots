@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me.\n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 141874,
-      "subscriberCount": 189,
-      "videoCount": 155
+      "viewCount": 144222,
+      "subscriberCount": 193,
+      "videoCount": 157
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-16",
-    "endDate": "2026-09-13",
+    "startDate": "2026-08-17",
+    "endDate": "2026-09-14",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 74659,
-    "estimatedMinutesWatched": 23986,
-    "subscribersGained": 108,
-    "subscribersLost": 13,
-    "likes": 3186,
-    "comments": 40,
-    "shares": 78,
+    "views": 69466,
+    "estimatedMinutesWatched": 22300,
+    "subscribersGained": 107,
+    "subscribersLost": 12,
+    "likes": 3117,
+    "comments": 38,
+    "shares": 72,
     "netSubscribers": 95
   },
   "daily": [
-    {
-      "day": "2026-08-16",
-      "views": 7477,
-      "watched": 2564,
-      "subsGained": 6,
-      "subsLost": 1,
-      "likes": 171
-    },
     {
       "day": "2026-08-17",
       "views": 4424,
@@ -167,8 +159,8 @@
     },
     {
       "day": "2026-09-02",
-      "views": 2494,
-      "watched": 730,
+      "views": 2450,
+      "watched": 729,
       "subsGained": 5,
       "subsLost": 0,
       "likes": 125
@@ -236,6 +228,14 @@
       "subsGained": 1,
       "subsLost": 0,
       "likes": 102
+    },
+    {
+      "day": "2026-09-11",
+      "views": 2328,
+      "watched": 879,
+      "subsGained": 5,
+      "subsLost": 0,
+      "likes": 102
     }
   ],
   "topVideos": [
@@ -251,17 +251,6 @@
       "note": "Top combined views and retention"
     },
     {
-      "videoId": "CYrW38_aFRg",
-      "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 4598,
-      "watched": 2056,
-      "likes": 148,
-      "comments": 2,
-      "avgViewDuration": 43,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "60-lx8gRkxU",
       "title": "Why the Starfish Has No Blood #Shorts",
       "views": 2342,
@@ -270,40 +259,40 @@
       "comments": 0,
       "avgViewDuration": 33,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "oOvJedn-abs",
-      "title": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
+      "title": "How Can a Shark Grow 30,000 Teeth? The Secret Is Wild #Shorts",
       "views": 2276,
       "watched": 635,
       "likes": 67,
       "comments": 0,
       "avgViewDuration": 25,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "tMrTS480uqE",
-      "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-      "views": 2192,
-      "watched": 904,
-      "likes": 26,
-      "comments": 0,
-      "avgViewDuration": 39,
-      "flag": "stable",
-      "note": ""
+      "flag": "optimize",
+      "note": "Above-average views (2276 vs top-10 average 2130.5) but below-median retention (25s vs 31.5s)"
     },
     {
       "videoId": "v3KM5eDdnho",
       "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
-      "views": 1852,
-      "watched": 595,
+      "views": 1884,
+      "watched": 601,
       "likes": 88,
       "comments": 1,
       "avgViewDuration": 30,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "CYrW38_aFRg",
+      "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
+      "views": 1879,
+      "watched": 896,
+      "likes": 52,
+      "comments": 1,
+      "avgViewDuration": 47,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "u1C7OUZ2odk",
@@ -314,7 +303,7 @@
       "comments": 0,
       "avgViewDuration": 34,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "yKKvd4LWCcE",
@@ -325,7 +314,7 @@
       "comments": 0,
       "avgViewDuration": 36,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "uack1HYnRco",
@@ -336,44 +325,55 @@
       "comments": 0,
       "avgViewDuration": 25,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
-      "videoId": "KYufoqBM3JY",
-      "title": "Why the Dolphin Sees Through Walls With Sound #Shorts",
-      "views": 1559,
-      "watched": 356,
-      "likes": 33,
+      "videoId": "kZfSFw7Rk9o",
+      "title": "Why the Tiger's Stripes Are on Its Skin #Shorts",
+      "views": 1547,
+      "watched": 463,
+      "likes": 85,
       "comments": 0,
-      "avgViewDuration": 19,
+      "avgViewDuration": 26,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "0onjfepA3F8",
+      "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
+      "views": 1408,
+      "watched": 401,
+      "likes": 68,
+      "comments": 0,
+      "avgViewDuration": 26,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
     }
   ],
-  "fetchedAt": "2026-09-13T09:09:48.661778-04:00",
+  "fetchedAt": "2026-09-14T09:03:37.867620-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-13T09:09:48.661778-04:00",
+      "fetchedAt": "2026-09-14T09:03:37.867620-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 189,
+        "current": 193,
         "threshold": 1000,
-        "percent": 18.9
+        "percent": 19.3
       },
       "watchHours12mo": {
-        "current": 708.0,
+        "current": 722.6,
         "threshold": 4000,
-        "percent": 17.7,
+        "percent": 18.07,
         "window": "Last 12 months",
-        "minutesWatched": 42479
+        "minutesWatched": 43357
       },
       "shortsViews90d": {
-        "current": 124549,
+        "current": 126251,
         "threshold": 10000000,
-        "percent": 1.245,
+        "percent": 1.263,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
