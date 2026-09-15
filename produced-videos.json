@@ -4566,6 +4566,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "From growth plan GP-2026-09-14-03. 2nd angle on turtle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetite in brain = built-in compass, reads Earth's magnetic field as a map, memorizes beach magnetic signature at birth, returns decades later. 6/6 Pexels clips (ALL real sea turtles incl. baby turtle crawling to shore). Assembly ok:false (false negative \u2014 validated). Compressed 71MB->8.3MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-15-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "d051607bb413f8f981af8ea0972c206db1673f098b101eced8940e129ad31345",
+      "status": "uploaded",
+      "startedAt": "2026-09-15T10:11:42.864654-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sea Lion Dives 900 Feet on One Breath #Shorts",
+      "animal": "sea lion",
+      "angle": "2nd (1st: Never Forgets a Voice = hearing). Extreme survival: dives 900 feet on one breath, muscles packed with myoglobin (10x human), slows heart to 10 bpm.",
+      "renderedAt": "2026-09-15T10:20:23.187714-04:00",
+      "uploadedAt": "2026-09-15T10:20:23.187714-04:00",
+      "youtube": {
+        "videoId": "VI6zQ6ghUPQ",
+        "url": "https://www.youtube.com/watch?v=VI6zQ6ghUPQ"
+      },
+      "duration": 65.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "DIVES 900 FEET ONE BREATH",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on sea lion (1st: Never Forgets a Voice = hearing). Extreme survival: myoglobin in muscles stores oxygen at 10x human concentration, exhales before diving, slows heart to 10 bpm, hunts by whisker touch in darkness, 20 min on one breath. 6/6 Pexels clips (2 seals + dolphin + scuba divers + sea turtles + bird catching fish \u2014 poor match). Assembly ok:false (false negative \u2014 validated). Compressed 102MB->7.4MB (CRF 43)."
     }
   ]
 }
