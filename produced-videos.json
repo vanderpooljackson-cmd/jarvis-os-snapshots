@@ -4589,6 +4589,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on sea lion (1st: Never Forgets a Voice = hearing). Extreme survival: myoglobin in muscles stores oxygen at 10x human concentration, exhales before diving, slows heart to 10 bpm, hunts by whisker touch in darkness, 20 min on one breath. 6/6 Pexels clips (2 seals + dolphin + scuba divers + sea turtles + bird catching fish \u2014 poor match). Assembly ok:false (false negative \u2014 validated). Compressed 102MB->7.4MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-15-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "5f1c9576c730445d6fb0517fb71044e05f31917755261274830019845d7fdd54",
+      "status": "uploaded",
+      "startedAt": "2026-09-15T16:03:22.033674-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
+      "animal": "rhino",
+      "angle": "2nd (1st: Charges at 40 MPH = speed). Regeneration: horn is keratin (same as hair/fingernails), not bone, regrows 2-3 inches/year if cut above root.",
+      "renderedAt": "2026-09-15T16:10:35.368400-04:00",
+      "uploadedAt": "2026-09-15T16:10:35.368400-04:00",
+      "youtube": {
+        "videoId": "stLW6k2r018",
+        "url": "https://www.youtube.com/watch?v=stLW6k2r018"
+      },
+      "duration": 68.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "HORN MADE OF HAIR",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on rhino (1st: Charges at 40 MPH = speed, #8 in pulse with 1,397 views). Regeneration: horn is keratin (same as hair/fingernails), not bone, no bone core, grows from skin, regrows 2-3 inches/year if cut above root, conservation dehorning. 6/6 Pexels clips (ALL real rhinos \u2014 excellent footage). Assembly ok:false (false negative \u2014 validated). Compressed 95MB->7.8MB (CRF 43)."
     }
   ]
 }
