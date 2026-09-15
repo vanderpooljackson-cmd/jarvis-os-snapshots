@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "🐲JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me.\n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 144222,
-      "subscriberCount": 193,
-      "videoCount": 157
+      "viewCount": 146143,
+      "subscriberCount": 198,
+      "videoCount": 159
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-17",
-    "endDate": "2026-09-14",
+    "startDate": "2026-08-18",
+    "endDate": "2026-09-15",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 69466,
-    "estimatedMinutesWatched": 22300,
-    "subscribersGained": 107,
+    "views": 67414,
+    "estimatedMinutesWatched": 21514,
+    "subscribersGained": 103,
     "subscribersLost": 12,
-    "likes": 3117,
-    "comments": 38,
-    "shares": 72,
-    "netSubscribers": 95
+    "likes": 3008,
+    "comments": 37,
+    "shares": 68,
+    "netSubscribers": 91
   },
   "daily": [
-    {
-      "day": "2026-08-17",
-      "views": 4424,
-      "watched": 1489,
-      "subsGained": 5,
-      "subsLost": 0,
-      "likes": 180
-    },
     {
       "day": "2026-08-18",
       "views": 3726,
@@ -236,6 +228,14 @@
       "subsGained": 5,
       "subsLost": 0,
       "likes": 102
+    },
+    {
+      "day": "2026-09-12",
+      "views": 2372,
+      "watched": 703,
+      "subsGained": 1,
+      "subsLost": 0,
+      "likes": 71
     }
   ],
   "topVideos": [
@@ -270,38 +270,16 @@
       "comments": 0,
       "avgViewDuration": 25,
       "flag": "optimize",
-      "note": "Above-average views (2276 vs top-10 average 2130.5) but below-median retention (25s vs 31.5s)"
+      "note": "Above-average views (2276 vs top-10 average 1990.8) but below-median retention (25s vs 29.5s)"
     },
     {
       "videoId": "v3KM5eDdnho",
       "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
-      "views": 1884,
-      "watched": 601,
+      "views": 1850,
+      "watched": 595,
       "likes": 88,
       "comments": 1,
       "avgViewDuration": 30,
-      "flag": "stable",
-      "note": "Within the normal top-10 performance range"
-    },
-    {
-      "videoId": "CYrW38_aFRg",
-      "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-      "views": 1879,
-      "watched": 896,
-      "likes": 52,
-      "comments": 1,
-      "avgViewDuration": 47,
-      "flag": "stable",
-      "note": "Within the normal top-10 performance range"
-    },
-    {
-      "videoId": "u1C7OUZ2odk",
-      "title": "Why the Eagle Sees a Glow You Can't #Shorts",
-      "views": 1832,
-      "watched": 604,
-      "likes": 74,
-      "comments": 0,
-      "avgViewDuration": 34,
       "flag": "stable",
       "note": "Within the normal top-10 performance range"
     },
@@ -313,17 +291,6 @@
       "likes": 61,
       "comments": 0,
       "avgViewDuration": 36,
-      "flag": "stable",
-      "note": "Within the normal top-10 performance range"
-    },
-    {
-      "videoId": "uack1HYnRco",
-      "title": "Why the Turtle Navigates 10,000 Miles Without a Map #Shorts",
-      "views": 1641,
-      "watched": 403,
-      "likes": 89,
-      "comments": 0,
-      "avgViewDuration": 25,
       "flag": "stable",
       "note": "Within the normal top-10 performance range"
     },
@@ -348,32 +315,65 @@
       "avgViewDuration": 26,
       "flag": "stable",
       "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "-bpS7VaF_EI",
+      "title": "Why the Rhino Charges at 40 MPH #Shorts",
+      "views": 1397,
+      "watched": 434,
+      "likes": 66,
+      "comments": 1,
+      "avgViewDuration": 29,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "7AqFSgZ_go8",
+      "title": "Why the Monkey Uses Tools Like a Human #Shorts",
+      "views": 1300,
+      "watched": 395,
+      "likes": 66,
+      "comments": 0,
+      "avgViewDuration": 29,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "qmuReYJT06A",
+      "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
+      "views": 1292,
+      "watched": 389,
+      "likes": 75,
+      "comments": 0,
+      "avgViewDuration": 32,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
     }
   ],
-  "fetchedAt": "2026-09-14T09:03:37.867620-04:00",
+  "fetchedAt": "2026-09-15T09:03:42.762352-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-14T09:03:37.867620-04:00",
+      "fetchedAt": "2026-09-15T09:03:42.762352-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 193,
+        "current": 198,
         "threshold": 1000,
-        "percent": 19.3
+        "percent": 19.8
       },
       "watchHours12mo": {
-        "current": 722.6,
+        "current": 734.0,
         "threshold": 4000,
-        "percent": 18.07,
+        "percent": 18.35,
         "window": "Last 12 months",
-        "minutesWatched": 43357
+        "minutesWatched": 44039
       },
       "shortsViews90d": {
-        "current": 126251,
+        "current": 127205,
         "threshold": 10000000,
-        "percent": 1.263,
+        "percent": 1.272,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
