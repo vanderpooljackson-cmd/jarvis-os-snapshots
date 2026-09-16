@@ -1,131 +1,117 @@
 {
-  "fetchedAt": "2026-09-14T17:40:04.732888-04:00",
+  "fetchedAt": "2026-09-16T17:42:16.170389-04:00",
   "videos": [
     {
-      "videoId": "2JHXOWVXXFo",
-      "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
+      "videoId": "rte8AZ0LmAY",
+      "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
       "transcriptStatus": "extracted",
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Magnetite particles in brain = built-in compass",
-          "startSec": 8,
-          "endSec": 16,
-          "why": "Core reveal \u2014 same mineral as compass needle embedded in turtle's brain, feels magnetic field as a map not just a direction.",
-          "hookRewrite": "Why a sea turtle has a compass inside its brain"
+          "momentLabel": "Arms longer than legs = enormous leverage",
+          "startSec": 6,
+          "endSec": 15,
+          "why": "Core biomechanics \u2014 gorilla architecture gives leverage advantage. Concrete explanation of WHY they're so strong.",
+          "hookRewrite": "Why a gorilla's arms give it 10x human strength"
         },
         {
-          "momentLabel": "Loggerhead spends 20 years in Atlantic, returns to same sand",
-          "startSec": 42,
-          "endSec": 50,
-          "why": "Powerful payoff \u2014 concrete example of decades-long navigation with no GPS, stars, or coast. Emotional resonance.",
-          "hookRewrite": "A turtle that finds its birth beach 20 years later"
+          "momentLabel": "Strongest primate on Earth is a vegetarian",
+          "startSec": 45,
+          "endSec": 53,
+          "why": "Paradox payoff \u2014 all that power from eating only leaves. Protects, not destroys. Emotional close.",
+          "hookRewrite": "The strongest primate on Earth eats only leaves"
         }
       ]
     },
     {
-      "videoId": "5p-ZHv0qxZQ",
-      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
+      "videoId": "Y2aC8CfqjcA",
+      "title": "Why the Monkey Has a Word for Every Predator #Shorts",
       "transcriptStatus": "extracted",
       "comments": [
         {
-          "id": "UgzIaztqg5lZ3UialNB4AaABAg",
-          "author": "@agnesmartinez4565",
-          "text": "I love elephants \u2764\ufe0f\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18\ud83d\udc18",
-          "replyPosted": false,
-          "replyText": null
-        },
-        {
-          "id": "UgwQr26mNfusmeCaJXt4AaABAg",
-          "author": "@yoshikoshaffer5407",
-          "text": "\u9a5a\u304f\ud83d\udc40\u203c\ufe0f\u7a0b\uff64\u7d20\u6674\u3089\u3057\u3044\u2728\u2757!\ud83d\ude0d\ud83c\udfb5\ud83d\ude0d\ud83c\udfb5\u8c61\u306e\u9f3b\u2764\u3067\u3059\u306d\u2757!\ud83d\ude0d \u79c1\u9054\u306e\u624b\u3088\u308a\u3001\u591a\u304f\u306e\u4e8b\u304c\u51fa\u6765\u307e\u3059\u306d\u2757 \u5168\u304f\u9a5a\u304f\u3070\u304b\u308a\ud83d\ude2e\ud83d\ude2e\ud83d\ude2e\ud83c\udf89\uff1f\u2049\ufe0f \u305d\u3046\u601d\u3044\u307e\u305b\u3093\u304b\uff1f",
+          "id": "UgwTprLBOsIydcIYsH54AaABAg",
+          "author": "@melissaneely3018",
+          "text": "Interesting. They are very intelligent.",
           "replyPosted": true,
-          "replyText": "Thank you so much! It really is amazing. 40,000 muscles with no bones at all, and it can do what our hand, arm, and a straw do, all at once. So glad you enjoyed the video!"
+          "replyText": "Thank you! It really is remarkable. The fact that scientists could play recordings with no predator present and still get the exact right escape response proves those calls carry real meaning. One of the closest things to language in the animal kingdom."
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "40,000 muscles, no bones, more than entire human body",
+          "momentLabel": "Three distinct alarm calls, each means a specific threat",
+          "startSec": 7,
+          "endSec": 23,
+          "why": "Core reveal \u2014 leopard call = run up tree, eagle call = dive into bushes, snake call = stand and scan. Concrete, surprising, easy to visualize.",
+          "hookRewrite": "Why a monkey has three different words for danger"
+        },
+        {
+          "momentLabel": "Scientists played recordings with no predator, monkeys still did the right move",
+          "startSec": 32,
+          "endSec": 46,
+          "why": "Proof moment \u2014 the calls carry meaning, not just fear. This is the 'aha' that elevates from animal behavior to proto-language.",
+          "hookRewrite": "Scientists proved monkeys have a language"
+        }
+      ]
+    },
+    {
+      "videoId": "VI6zQ6ghUPQ",
+      "title": "Why the Sea Lion Dives 900 Feet on One Breath #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Myoglobin stores oxygen in muscles at 10x human concentration",
           "startSec": 0,
-          "endSec": 10,
-          "why": "Hook with concrete number \u2014 40,000 muscles is more than the human body. Immediate curiosity gap.",
-          "hookRewrite": "Why an elephant trunk has more muscles than your whole body"
+          "endSec": 12,
+          "why": "Core reveal \u2014 each muscle carries its own scuba tank. Concrete number (10x) makes it tangible.",
+          "hookRewrite": "Why a sea lion stores oxygen in its muscles"
         },
         {
-          "momentLabel": "Trunk tip can pluck a peanut and crack the shell",
-          "startSec": 20,
-          "endSec": 30,
-          "why": "Delicate precision contrast \u2014 same trunk that rips branches can crack a peanut shell without crushing the nut. Surprise density.",
-          "hookRewrite": "A trunk that can rip a tree and crack a peanut"
+          "momentLabel": "Hunts by whisker touch in total darkness at 900 feet",
+          "startSec": 40,
+          "endSec": 50,
+          "why": "Sensory superpower \u2014 combines diving depth with whisker hunting. Multi-sense reveal in one beat.",
+          "hookRewrite": "A sea lion that hunts blind at 900 feet"
         }
       ]
     },
     {
-      "videoId": "KFeeP9J-nAc",
-      "title": "Why the Iguana Slows Its Heart to 3 Beats #Shorts",
+      "videoId": "stLW6k2r018",
+      "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
       "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
+      "comments": [
         {
-          "momentLabel": "Heart rate drops from 40 to 3 beats per minute",
-          "startSec": 8,
-          "endSec": 16,
-          "why": "Core reveal \u2014 concrete number drop (40 to 3), lowest of any reptile. Surprising survival mechanism.",
-          "hookRewrite": "Why an iguana's heart beats only 3 times underwater"
-        },
-        {
-          "momentLabel": "Only lizard on Earth that hunts in the ocean",
-          "startSec": 33,
-          "endSec": 41,
-          "why": "Wider implication \u2014 unique species fact. Marine iguana is the only seagoing lizard. Memorable closer.",
-          "hookRewrite": "The only lizard that hunts in the ocean"
+          "id": "UgwpOARhG8mU8GctkUV4AaABAg",
+          "author": "@mandyhixson9815",
+          "text": "I did not know that that's just amazing",
+          "replyPosted": true,
+          "replyText": "Thank you so much! It is one of those facts that changes how you see them. A weapon made of the same stuff as your fingernails, and it never stops growing back. Glad you enjoyed it!"
         }
-      ]
-    },
-    {
-      "videoId": "f67CJOpAdOA",
-      "title": "Why the Cheetah Wears Eye Black to Hunt #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
+      ],
       "clipCandidates": [
         {
-          "momentLabel": "Tear marks work like athlete eye black, absorb sunlight",
+          "momentLabel": "Horn is keratin, same as fingernails and hair, not bone or ivory",
           "startSec": 0,
           "endSec": 15,
-          "why": "Hook \u2014 relatable comparison to sports eye black. Surprising sensory adaptation.",
-          "hookRewrite": "Why a cheetah is born with eye black"
+          "why": "Core reveal \u2014 most people think rhino horn is bone or ivory. Keratin connection to human body is relatable and surprising.",
+          "hookRewrite": "Why a rhino horn is made of hair not bone"
         },
         {
-          "momentLabel": "Cheetah hunts at high noon when other big cats can't",
-          "startSec": 40,
-          "endSec": 48,
-          "why": "Payoff \u2014 niche separation. Lions and leopards hunt at dawn/dusk, cheetah at noon. The tear marks let it see when others can't.",
-          "hookRewrite": "The only big cat that hunts at high noon"
+          "momentLabel": "If cut above the root, horn regrows 2-3 inches per year",
+          "startSec": 25,
+          "endSec": 40,
+          "why": "Regeneration payoff \u2014 conservation dehorning works because horn regrows. Practical implication makes it memorable.",
+          "hookRewrite": "A rhino that can grow its horn back"
         }
       ]
     },
     {
-      "videoId": "l95kOS6thok",
-      "title": "Why the Ostrich Runs on Only Two Toes #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "2JHXOWVXXFo",
+      "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Elastic tendon stretches and snaps back, returning energy for free",
-          "startSec": 24,
-          "endSec": 33,
-          "why": "Core mechanism \u2014 spring tendon returns energy. Legs bounce off ground, not push. Counterintuitive.",
-          "hookRewrite": "Why an ostrich's legs bounce instead of push"
-        },
-        {
-          "momentLabel": "Holds 45 mph for half an hour without stopping",
-          "startSec": 33,
-          "endSec": 46,
-          "why": "Concrete payoff \u2014 45 mph for 30 min. Speed + endurance combination is unique.",
-          "hookRewrite": "A bird that runs 45 mph for 30 minutes straight"
-        }
-      ]
+      "clipCandidates": []
     }
   ],
-  "postedReplies": 1
+  "postedReplies": 2
 }
