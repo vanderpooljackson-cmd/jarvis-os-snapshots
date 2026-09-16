@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 146143,
-      "subscriberCount": 198,
-      "videoCount": 159
+      "viewCount": 147815,
+      "subscriberCount": 208,
+      "videoCount": 161
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-18",
-    "endDate": "2026-09-15",
+    "startDate": "2026-08-19",
+    "endDate": "2026-09-16",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 67414,
-    "estimatedMinutesWatched": 21514,
-    "subscribersGained": 103,
+    "views": 65164,
+    "estimatedMinutesWatched": 20947,
+    "subscribersGained": 100,
     "subscribersLost": 12,
-    "likes": 3008,
-    "comments": 37,
+    "likes": 2989,
+    "comments": 40,
     "shares": 68,
-    "netSubscribers": 91
+    "netSubscribers": 88
   },
   "daily": [
-    {
-      "day": "2026-08-18",
-      "views": 3726,
-      "watched": 1051,
-      "subsGained": 7,
-      "subsLost": 0,
-      "likes": 110
-    },
     {
       "day": "2026-08-19",
       "views": 2779,
@@ -236,6 +228,14 @@
       "subsGained": 1,
       "subsLost": 0,
       "likes": 71
+    },
+    {
+      "day": "2026-09-13",
+      "views": 1476,
+      "watched": 484,
+      "subsGained": 4,
+      "subsLost": 0,
+      "likes": 91
     }
   ],
   "topVideos": [
@@ -262,20 +262,9 @@
       "note": "Within the normal top-10 performance range"
     },
     {
-      "videoId": "oOvJedn-abs",
-      "title": "How Can a Shark Grow 30,000 Teeth? The Secret Is Wild #Shorts",
-      "views": 2276,
-      "watched": 635,
-      "likes": 67,
-      "comments": 0,
-      "avgViewDuration": 25,
-      "flag": "optimize",
-      "note": "Above-average views (2276 vs top-10 average 1990.8) but below-median retention (25s vs 29.5s)"
-    },
-    {
       "videoId": "v3KM5eDdnho",
       "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
-      "views": 1850,
+      "views": 1852,
       "watched": 595,
       "likes": 88,
       "comments": 1,
@@ -348,32 +337,43 @@
       "avgViewDuration": 32,
       "flag": "stable",
       "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "NrsllcvY400",
+      "title": "Why the Gorilla Sings While It Eats #Shorts",
+      "views": 1268,
+      "watched": 337,
+      "likes": 72,
+      "comments": 0,
+      "avgViewDuration": 25,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
     }
   ],
-  "fetchedAt": "2026-09-15T09:03:42.762352-04:00",
+  "fetchedAt": "2026-09-16T09:13:36.589790-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-15T09:03:42.762352-04:00",
+      "fetchedAt": "2026-09-16T09:13:36.589790-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 198,
+        "current": 208,
         "threshold": 1000,
-        "percent": 19.8
+        "percent": 20.8
       },
       "watchHours12mo": {
-        "current": 734.0,
+        "current": 734.3,
         "threshold": 4000,
-        "percent": 18.35,
+        "percent": 18.36,
         "window": "Last 12 months",
-        "minutesWatched": 44039
+        "minutesWatched": 44060
       },
       "shortsViews90d": {
-        "current": 127205,
+        "current": 126040,
         "threshold": 10000000,
-        "percent": 1.272,
+        "percent": 1.26,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
