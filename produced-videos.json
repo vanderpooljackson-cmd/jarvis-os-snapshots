@@ -4635,6 +4635,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on monkey (1st: Uses Tools Like a Human = intelligence, #9 in pulse with 1,300 views). Communication: vervet monkeys have 3 distinct alarm calls (leopard/eagle/snake), each triggering different escape response. Scientists played recordings with no predator \u2014 monkeys still did the right escape move, proving calls carry meaning. Primitive language. 6/6 Pexels clips (ALL real monkeys \u2014 macaques, tropical forest monkeys). Assembly ok:false (false negative \u2014 validated). Compressed 44MB->4.5MB (CRF 42). TTS required SDK reinstall (protobuf version conflict)."
+    },
+    {
+      "productionId": "JV-2026-09-16-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "9392502a41addf9b8b7efb2f9a1063c02ed3a01ea857223f8dc6c78f411a80d2",
+      "status": "uploaded",
+      "startedAt": "2026-09-16T16:05:07.665163-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
+      "animal": "gorilla",
+      "angle": "2nd (1st: Sings While It Eats = communication, #10 pulse 1,268v). Strength: silverback 10x human strength, lifts 2,000 kg, bite force 1,300 PSI, arms longer than legs, peaceful vegetarian.",
+      "renderedAt": "2026-09-16T16:10:40.538703-04:00",
+      "uploadedAt": "2026-09-16T16:10:40.538703-04:00",
+      "youtube": {
+        "videoId": "rte8AZ0LmAY",
+        "url": "https://www.youtube.com/watch?v=rte8AZ0LmAY"
+      },
+      "duration": 62.9,
+      "resolution": "1080x1920",
+      "hookOverlay": "TEN TIMES HUMAN STRENGTH",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on gorilla (1st: Sings While It Eats = communication, #10 pulse 1,268v). Strength: silverback 10x human, lifts 2,000 kg, bite 1,300 PSI, arms longer than legs, dense muscle fibers, peaceful vegetarian. 6/6 Pexels clips (5 real gorillas from Connor Scott McManus + 1 rainforest waterfall). Assembly ok:false (false negative \u2014 validated). Compressed 35MB->3.9MB (CRF 42)."
     }
   ]
 }
