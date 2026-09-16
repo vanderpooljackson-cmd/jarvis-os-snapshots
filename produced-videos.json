@@ -4612,6 +4612,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on rhino (1st: Charges at 40 MPH = speed, #8 in pulse with 1,397 views). Regeneration: horn is keratin (same as hair/fingernails), not bone, no bone core, grows from skin, regrows 2-3 inches/year if cut above root, conservation dehorning. 6/6 Pexels clips (ALL real rhinos \u2014 excellent footage). Assembly ok:false (false negative \u2014 validated). Compressed 95MB->7.8MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-16-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "ac66cd15aa5ab79fb81146f2b43c2f4b6fdf79c867a2a3def7685895796c0106",
+      "status": "uploaded",
+      "startedAt": "2026-09-16T10:03:24.034986-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Monkey Has a Word for Every Predator #Shorts",
+      "animal": "monkey",
+      "angle": "2nd (1st: Uses Tools Like a Human = intelligence). Communication: vervet monkeys have distinct alarm calls for leopard/eagle/snake, each triggering different escape response \u2014 primitive language with specific words.",
+      "renderedAt": "2026-09-16T10:09:32.708490-04:00",
+      "uploadedAt": "2026-09-16T10:09:32.708490-04:00",
+      "youtube": {
+        "videoId": "Y2aC8CfqjcA",
+        "url": "https://www.youtube.com/watch?v=Y2aC8CfqjcA"
+      },
+      "duration": 64.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "A WORD FOR EVERY PREDATOR",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on monkey (1st: Uses Tools Like a Human = intelligence, #9 in pulse with 1,300 views). Communication: vervet monkeys have 3 distinct alarm calls (leopard/eagle/snake), each triggering different escape response. Scientists played recordings with no predator \u2014 monkeys still did the right escape move, proving calls carry meaning. Primitive language. 6/6 Pexels clips (ALL real monkeys \u2014 macaques, tropical forest monkeys). Assembly ok:false (false negative \u2014 validated). Compressed 44MB->4.5MB (CRF 42). TTS required SDK reinstall (protobuf version conflict)."
     }
   ]
 }
