@@ -4658,6 +4658,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on gorilla (1st: Sings While It Eats = communication, #10 pulse 1,268v). Strength: silverback 10x human, lifts 2,000 kg, bite 1,300 PSI, arms longer than legs, dense muscle fibers, peaceful vegetarian. 6/6 Pexels clips (5 real gorillas from Connor Scott McManus + 1 rainforest waterfall). Assembly ok:false (false negative \u2014 validated). Compressed 35MB->3.9MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-17-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "87924cdc456bd38c84b2e29a0a159d5a7b09c09fb163a7e3195484ef3b6a0e45",
+      "status": "uploaded",
+      "startedAt": "2026-09-17T10:04:48.631225-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
+      "animal": "elephant",
+      "angle": "2nd (1st: Trunk Has 40,000 Muscles, #6 pulse 1,412v). Hearing/sensory: elephants use infrasound below human hearing, detect ground vibrations through foot pads, coordinate herds over miles.",
+      "renderedAt": "2026-09-17T10:10:15.920273-04:00",
+      "uploadedAt": "2026-09-17T10:10:15.920273-04:00",
+      "youtube": {
+        "videoId": "2GZbLp5SP7g",
+        "url": "https://www.youtube.com/watch?v=2GZbLp5SP7g"
+      },
+      "duration": 61.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEARS WITH ITS FEET",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on elephant (1st: Trunk Has 40,000 Muscles, #6 pulse 1,412v). Hearing/sensory: infrasound below 20 Hz inaudible to humans, travels through ground for miles, nerve endings in foot pads detect vibrations, mother calls calf without noise predators hear, herds coordinate over 10 km. 6/6 Pexels clips (5 real elephants + 1 human woman walking on toes \u2014 wrong). Assembly ok:false (false negative \u2014 validated). Compressed 37MB->3.9MB (CRF 42)."
     }
   ]
 }
