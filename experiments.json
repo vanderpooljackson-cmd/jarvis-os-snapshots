@@ -213,7 +213,10 @@
         "watched": 22.678571428571427,
         "avgViewDuration": 25
       },
-      "status": "running"
+      "status": "kept",
+      "evaluatedAt": "2026-09-17T10:01:00-04:00",
+      "decision": "inconclusive-keep",
+      "evalNotes": "Inconclusive zero-traffic evaluation. Variant period (2026-09-14 to 2026-09-17) returned no rows in both the per-video and daily metrics queries: 0 total views, 0 estimated minutes watched, 0 likes, and no average-view-duration observations. The 14-day pre-test baseline (2026-09-01 to 2026-09-13) also returned no rows: 0 total views, 0 estimated minutes watched, 0 likes, and no average-view-duration observations. The video had no traffic before or during the test, so there is no evidence the variant hurt and reverting would be churn with no data. Decision: KEEP the variant title."
     }
   ],
   "policy": {
