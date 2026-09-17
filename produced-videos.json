@@ -4681,6 +4681,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on elephant (1st: Trunk Has 40,000 Muscles, #6 pulse 1,412v). Hearing/sensory: infrasound below 20 Hz inaudible to humans, travels through ground for miles, nerve endings in foot pads detect vibrations, mother calls calf without noise predators hear, herds coordinate over 10 km. 6/6 Pexels clips (5 real elephants + 1 human woman walking on toes \u2014 wrong). Assembly ok:false (false negative \u2014 validated). Compressed 37MB->3.9MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-17-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "068a9fc6ccd2bb7d269e32a4acf874fc020cecda38e91d1a0cb93dd31269ea6f",
+      "status": "uploaded",
+      "startedAt": "2026-09-17T16:02:02.915316-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Kangaroo Can Pause Its Own Pregnancy #Shorts",
+      "animal": "kangaroo",
+      "angle": "2nd (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause \u2014 can pause pregnancy at embryo stage during drought, resume when conditions improve. Can have joey at foot + joey in pouch + paused embryo simultaneously.",
+      "renderedAt": "2026-09-17T16:07:45.235313-04:00",
+      "uploadedAt": "2026-09-17T16:07:45.235313-04:00",
+      "youtube": {
+        "videoId": "IFTpopgUcJA",
+        "url": "https://www.youtube.com/watch?v=IFTpopgUcJA"
+      },
+      "duration": 64.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "PAUSES ITS OWN PREGNANCY",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on kangaroo (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause \u2014 embryo stays dormant during drought, resumes when rain returns. Can run 3 young simultaneously: joey at foot + joey in pouch + paused embryo. If pouch joey dies, paused embryo restarts within days. 6/6 Pexels clips (kangaroos + wallabies). Assembly ok:false (false negative \u2014 validated). Compressed 46MB->4.0MB (CRF 42)."
     }
   ]
 }
