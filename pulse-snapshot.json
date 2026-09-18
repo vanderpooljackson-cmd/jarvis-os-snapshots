@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JVOECI149@",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 152223,
-      "subscriberCount": 213,
-      "videoCount": 163
+      "viewCount": 154619,
+      "subscriberCount": 215,
+      "videoCount": 165
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-20",
-    "endDate": "2026-09-17",
+    "startDate": "2026-08-21",
+    "endDate": "2026-09-18",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 64376,
-    "estimatedMinutesWatched": 20859,
-    "subscribersGained": 103,
-    "subscribersLost": 11,
-    "likes": 3014,
-    "comments": 38,
-    "shares": 68,
-    "netSubscribers": 92
+    "views": 65927,
+    "estimatedMinutesWatched": 22234,
+    "subscribersGained": 108,
+    "subscribersLost": 10,
+    "likes": 3045,
+    "comments": 41,
+    "shares": 69,
+    "netSubscribers": 98
   },
   "daily": [
-    {
-      "day": "2026-08-20",
-      "views": 2702,
-      "watched": 753,
-      "subsGained": 5,
-      "subsLost": 1,
-      "likes": 138
-    },
     {
       "day": "2026-08-21",
       "views": 3164,
@@ -236,6 +228,14 @@
       "subsGained": 5,
       "subsLost": 0,
       "likes": 103
+    },
+    {
+      "day": "2026-09-15",
+      "views": 4253,
+      "watched": 2128,
+      "subsGained": 10,
+      "subsLost": 0,
+      "likes": 169
     }
   ],
   "topVideos": [
@@ -249,6 +249,17 @@
       "avgViewDuration": 48,
       "flag": "winner",
       "note": "Top views and retention performer"
+    },
+    {
+      "videoId": "stLW6k2r018",
+      "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
+      "views": 2716,
+      "watched": 1725,
+      "likes": 118,
+      "comments": 4,
+      "avgViewDuration": 61,
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "60-lx8gRkxU",
@@ -297,11 +308,11 @@
     {
       "videoId": "5p-ZHv0qxZQ",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1412,
-      "watched": 521,
-      "likes": 103,
+      "views": 1432,
+      "watched": 527,
+      "likes": 107,
       "comments": 3,
-      "avgViewDuration": 33,
+      "avgViewDuration": 32,
       "flag": "stable",
       "note": ""
     },
@@ -328,17 +339,6 @@
       "note": ""
     },
     {
-      "videoId": "7AqFSgZ_go8",
-      "title": "Why the Monkey Uses Tools Like a Human #Shorts",
-      "views": 1305,
-      "watched": 396,
-      "likes": 66,
-      "comments": 0,
-      "avgViewDuration": 29,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "qmuReYJT06A",
       "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
       "views": 1305,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-17T09:13:17.880631-04:00",
+  "fetchedAt": "2026-09-18T09:13:10.011975-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-17T09:13:17.880631-04:00",
+      "fetchedAt": "2026-09-18T09:13:10.011975-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 213,
+        "current": 215,
         "threshold": 1000,
-        "percent": 21.3
+        "percent": 21.5
       },
       "watchHours12mo": {
-        "current": 753.3,
+        "current": 788.8,
         "threshold": 4000,
-        "percent": 18.83,
+        "percent": 19.72,
         "window": "Last 12 months",
-        "minutesWatched": 45199
+        "minutesWatched": 47327
       },
       "shortsViews90d": {
-        "current": 128854,
+        "current": 133078,
         "threshold": 10000000,
-        "percent": 1.289,
+        "percent": 1.331,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
