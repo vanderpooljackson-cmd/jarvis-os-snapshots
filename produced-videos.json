@@ -4704,6 +4704,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on kangaroo (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause \u2014 embryo stays dormant during drought, resumes when rain returns. Can run 3 young simultaneously: joey at foot + joey in pouch + paused embryo. If pouch joey dies, paused embryo restarts within days. 6/6 Pexels clips (kangaroos + wallabies). Assembly ok:false (false negative \u2014 validated). Compressed 46MB->4.0MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-18-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "056b444be3ecd0ef7427cfdc54c5988423b520abc4d3d967cf1e0cfb17e4deb6",
+      "status": "uploaded",
+      "startedAt": "2026-09-18T10:12:45.019182-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Penguin Stands in -40 Degrees for Two Months #Shorts",
+      "animal": "penguin",
+      "angle": "2nd (1st: Flies Through Water at 15 MPH = speed). Extreme survival: emperor penguin male stands in -40F for 2 months balancing egg on feet, no food, loses half body weight, while female feeds at sea.",
+      "renderedAt": "2026-09-18T10:26:04.127904-04:00",
+      "uploadedAt": "2026-09-18T10:26:04.127904-04:00",
+      "youtube": {
+        "videoId": "vrQvd89xsNA",
+        "url": "https://www.youtube.com/watch?v=vrQvd89xsNA"
+      },
+      "duration": 61.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "FROZEN FOR TWO MONTHS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on penguin (1st: Flies Through Water at 15 MPH = speed). Extreme survival: emperor penguin male stands in -40F for 65 days balancing egg on feet, no food, loses half body weight. Survives through dense feathers + huddle carousel rotating from outside to inside. Female returns, male walks 100 miles to sea starving. 6/6 Pexels clips (3 real penguins + 1 winter landscape + 2 wrong: aquarium fish + human snowboarder). Assembly timed out at 630s but final.mp4 valid. Compressed 90MB->5.1MB (CRF 42)."
     }
   ]
 }
