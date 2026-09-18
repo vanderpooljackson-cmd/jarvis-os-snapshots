@@ -1,6 +1,49 @@
 {
-  "fetchedAt": "2026-09-16T17:42:16.170389-04:00",
+  "fetchedAt": "2026-09-18T17:34:54.341459-04:00",
   "videos": [
+    {
+      "videoId": "oifKZFDCgAc",
+      "title": "Why the Bear Can Smell Food From 20 Miles Away #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Bear smells a map \u2014 direction, distance, food type from molecules on wind",
+          "startSec": 28,
+          "endSec": 38,
+          "why": "Core reveal \u2014 the 'map' metaphor elevates from simple smell to spatial intelligence. Most surprising claim in the script.",
+          "hookRewrite": "Why a bear doesn't just smell \u2014 it sees a map"
+        },
+        {
+          "momentLabel": "Sealed cooler won't fool one, car trunk won't fool one",
+          "startSec": 42,
+          "endSec": 51,
+          "why": "Practical implication \u2014 relatable to anyone who camps. The ranger quote lands the point.",
+          "hookRewrite": "Why no cooler or car trunk can hide food from a bear"
+        }
+      ]
+    },
+    {
+      "videoId": "vrQvd89xsNA",
+      "title": "Why the Penguin Stands in -40 Degrees for Two Months #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "IFTpopgUcJA",
+      "title": "Why the Kangaroo Can Pause Its Own Pregnancy #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
+    {
+      "videoId": "2GZbLp5SP7g",
+      "title": "Why the Elephant Hears With Its Feet #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
     {
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
@@ -8,110 +51,21 @@
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "Arms longer than legs = enormous leverage",
-          "startSec": 6,
-          "endSec": 15,
-          "why": "Core biomechanics \u2014 gorilla architecture gives leverage advantage. Concrete explanation of WHY they're so strong.",
-          "hookRewrite": "Why a gorilla's arms give it 10x human strength"
+          "momentLabel": "Bite measures 1,300 PSI \u2014 stronger than a lion",
+          "startSec": 36,
+          "endSec": 45,
+          "why": "Surprising comparison \u2014 most people don't expect a vegetarian to outbite a lion. Concrete number anchors it.",
+          "hookRewrite": "Why a vegetarian gorilla bites harder than a lion"
         },
         {
-          "momentLabel": "Strongest primate on Earth is a vegetarian",
-          "startSec": 45,
-          "endSec": 53,
-          "why": "Paradox payoff \u2014 all that power from eating only leaves. Protects, not destroys. Emotional close.",
+          "momentLabel": "Strongest primate on Earth is a vegetarian who almost never fights",
+          "startSec": 50,
+          "endSec": 60,
+          "why": "Paradox payoff \u2014 all that power from leaves, and he doesn't use it to fight. Emotional close.",
           "hookRewrite": "The strongest primate on Earth eats only leaves"
         }
       ]
-    },
-    {
-      "videoId": "Y2aC8CfqjcA",
-      "title": "Why the Monkey Has a Word for Every Predator #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgwTprLBOsIydcIYsH54AaABAg",
-          "author": "@melissaneely3018",
-          "text": "Interesting. They are very intelligent.",
-          "replyPosted": true,
-          "replyText": "Thank you! It really is remarkable. The fact that scientists could play recordings with no predator present and still get the exact right escape response proves those calls carry real meaning. One of the closest things to language in the animal kingdom."
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Three distinct alarm calls, each means a specific threat",
-          "startSec": 7,
-          "endSec": 23,
-          "why": "Core reveal \u2014 leopard call = run up tree, eagle call = dive into bushes, snake call = stand and scan. Concrete, surprising, easy to visualize.",
-          "hookRewrite": "Why a monkey has three different words for danger"
-        },
-        {
-          "momentLabel": "Scientists played recordings with no predator, monkeys still did the right move",
-          "startSec": 32,
-          "endSec": 46,
-          "why": "Proof moment \u2014 the calls carry meaning, not just fear. This is the 'aha' that elevates from animal behavior to proto-language.",
-          "hookRewrite": "Scientists proved monkeys have a language"
-        }
-      ]
-    },
-    {
-      "videoId": "VI6zQ6ghUPQ",
-      "title": "Why the Sea Lion Dives 900 Feet on One Breath #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Myoglobin stores oxygen in muscles at 10x human concentration",
-          "startSec": 0,
-          "endSec": 12,
-          "why": "Core reveal \u2014 each muscle carries its own scuba tank. Concrete number (10x) makes it tangible.",
-          "hookRewrite": "Why a sea lion stores oxygen in its muscles"
-        },
-        {
-          "momentLabel": "Hunts by whisker touch in total darkness at 900 feet",
-          "startSec": 40,
-          "endSec": 50,
-          "why": "Sensory superpower \u2014 combines diving depth with whisker hunting. Multi-sense reveal in one beat.",
-          "hookRewrite": "A sea lion that hunts blind at 900 feet"
-        }
-      ]
-    },
-    {
-      "videoId": "stLW6k2r018",
-      "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgwpOARhG8mU8GctkUV4AaABAg",
-          "author": "@mandyhixson9815",
-          "text": "I did not know that that's just amazing",
-          "replyPosted": true,
-          "replyText": "Thank you so much! It is one of those facts that changes how you see them. A weapon made of the same stuff as your fingernails, and it never stops growing back. Glad you enjoyed it!"
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Horn is keratin, same as fingernails and hair, not bone or ivory",
-          "startSec": 0,
-          "endSec": 15,
-          "why": "Core reveal \u2014 most people think rhino horn is bone or ivory. Keratin connection to human body is relatable and surprising.",
-          "hookRewrite": "Why a rhino horn is made of hair not bone"
-        },
-        {
-          "momentLabel": "If cut above the root, horn regrows 2-3 inches per year",
-          "startSec": 25,
-          "endSec": 40,
-          "why": "Regeneration payoff \u2014 conservation dehorning works because horn regrows. Practical implication makes it memorable.",
-          "hookRewrite": "A rhino that can grow its horn back"
-        }
-      ]
-    },
-    {
-      "videoId": "2JHXOWVXXFo",
-      "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
     }
   ],
-  "postedReplies": 2
+  "postedReplies": 0
 }
