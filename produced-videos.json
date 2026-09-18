@@ -4727,6 +4727,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on penguin (1st: Flies Through Water at 15 MPH = speed). Extreme survival: emperor penguin male stands in -40F for 65 days balancing egg on feet, no food, loses half body weight. Survives through dense feathers + huddle carousel rotating from outside to inside. Female returns, male walks 100 miles to sea starving. 6/6 Pexels clips (3 real penguins + 1 winter landscape + 2 wrong: aquarium fish + human snowboarder). Assembly timed out at 630s but final.mp4 valid. Compressed 90MB->5.1MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-18-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "8344bc7070e00171c330e67d6ac192409d54db8cef9d7558076b864ba2439b7d",
+      "status": "uploaded",
+      "startedAt": "2026-09-18T16:01:57.913859-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Bear Can Smell Food From 20 Miles Away #Shorts",
+      "animal": "bear",
+      "angle": "2nd (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal \u2014 polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human.",
+      "renderedAt": "2026-09-18T16:06:46.393868-04:00",
+      "uploadedAt": "2026-09-18T16:06:46.393868-04:00",
+      "youtube": {
+        "videoId": "oifKZFDCgAc",
+        "url": "https://www.youtube.com/watch?v=oifKZFDCgAc"
+      },
+      "duration": 51.7,
+      "resolution": "1080x1920",
+      "hookOverlay": "SMELLS FROM 20 MILES",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on bear (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal \u2014 polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human, 1000x scent receptors. Bear smells a map of direction, distance, food type. 6/6 Pexels clips (ALL real bears incl. polar bear). Assembly ok:true. Compressed 30MB->2.4MB (CRF 42)."
     }
   ]
 }
