@@ -4773,6 +4773,19 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on hawk (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision \u2014 hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, hawk sees glowing neon arrows pointing to hidden prey. 4 color receptors vs human 3. 6/6 Pexels clips (hawks + eagles, both raptors). Assembly ok:true. Compressed 24MB->3.3MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-19-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "f52a62dde2c5777fd1484029d91b38a2b395698116038b17713eb0e23316b01e",
+      "status": "render-failed",
+      "startedAt": "2026-09-19T16:02:49.171700-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Alligator Grows 3,000 Teeth in a Lifetime #Shorts",
+      "animal": "alligator",
+      "angle": "2nd (1st: Can Climb Trees = ability). Regeneration: each tooth replaced up to 50x, 3000 teeth in lifetime. Stem cells at base continuously generate new teeth. New tooth moves up within days. Humans get 2 sets, alligator gets 50+.",
+      "renderedAt": "2026-09-19T16:04:17.939289-04:00",
+      "error": "insufficient stock footage: 2/6 real alligator clips (scenes 1,4 = alligator/crocodile; scenes 2=hippo, 3=orthodontist, 5=otter, 6=turtles \u2014 all wrong)"
     }
   ]
 }
