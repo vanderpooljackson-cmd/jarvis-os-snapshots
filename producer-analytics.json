@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-18T11:08:49.772865-04:00",
-  "fetchedAt": "2026-09-18T11:08:49.772865-04:00",
+  "lastRunAt": "2026-09-19T11:04:00.698412-04:00",
+  "fetchedAt": "2026-09-19T11:04:00.698412-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -819,7 +819,7 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1128.9,
+      "ageHoursAtAnalysis": 1152.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
@@ -827,11 +827,11 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
+        "baselineTopVideosMedianViews": 1428.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -839,7 +839,7 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1123.0,
+      "ageHoursAtAnalysis": 1146.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
@@ -847,11 +847,11 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
+        "baselineTopVideosMedianViews": 1428.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1750,7 +1750,7 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 695.7,
+      "ageHoursAtAnalysis": 719.6,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 301.9,
@@ -1758,11 +1758,11 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
+        "baselineTopVideosMedianViews": 1428.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -3201,47 +3201,61 @@
       "videoId": "Y2aC8CfqjcA",
       "title": "Why the Monkey Has a Word for Every Predator #Shorts",
       "uploadedAt": "2026-09-16T10:09:32.708490-04:00",
-      "ageHoursAtAnalysis": 49.0,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 72.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 568,
+        "estimatedMinutesWatched": 293,
+        "averageViewDuration": 58.0,
+        "likes": 26,
+        "comments": 1,
+        "shares": 0
+      },
       "videoDurationSeconds": 64.6,
-      "retentionPercent": null,
-      "performanceLabel": null,
+      "retentionPercent": 89.8,
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
+        "baselineTopVideosMedianViews": 1428.0,
+        "ratioToBaselineAvgViewDuration": 1.87,
+        "note": "avd=58.0s vs baseline 31.0s"
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
+      "lastNotifiedLabel": "winner"
     },
     {
       "productionId": "JV-2026-09-16-SELF2",
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
       "uploadedAt": "2026-09-16T16:10:40.538703-04:00",
-      "ageHoursAtAnalysis": 43.0,
-      "analyticsStatus": "pending",
-      "metrics": {},
+      "ageHoursAtAnalysis": 66.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1234,
+        "estimatedMinutesWatched": 535,
+        "averageViewDuration": 43.0,
+        "likes": 69,
+        "comments": 0,
+        "shares": 2
+      },
       "videoDurationSeconds": 62.9,
-      "retentionPercent": null,
-      "performanceLabel": null,
+      "retentionPercent": 68.4,
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
+        "baselineTopVideosMedianViews": 1428.0,
+        "ratioToBaselineAvgViewDuration": 1.39,
+        "note": "avd=43.0s vs baseline 31.0s"
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
+      "lastNotifiedLabel": "winner"
     },
     {
       "productionId": "JV-2026-09-17-SELF1",
       "videoId": "2GZbLp5SP7g",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
       "uploadedAt": "2026-09-17T10:10:15.920273-04:00",
-      "ageHoursAtAnalysis": 25.0,
+      "ageHoursAtAnalysis": 48.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.2,
@@ -3249,11 +3263,11 @@
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
+        "baselineTopVideosMedianViews": 1428.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3261,19 +3275,19 @@
       "videoId": "IFTpopgUcJA",
       "title": "Why the Kangaroo Can Pause Its Own Pregnancy #Shorts",
       "uploadedAt": "2026-09-17T16:07:45.235313-04:00",
-      "videoDurationSeconds": 64.2,
-      "ageHoursAtAnalysis": 19.0,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": {},
+      "videoDurationSeconds": 64.2,
       "retentionPercent": null,
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
+        "baselineTopVideosMedianViews": 1428.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3281,19 +3295,59 @@
       "videoId": "vrQvd89xsNA",
       "title": "Why the Penguin Stands in -40 Degrees for Two Months #Shorts",
       "uploadedAt": "2026-09-18T10:26:04.127904-04:00",
-      "videoDurationSeconds": 61.0,
-      "ageHoursAtAnalysis": 0.7,
+      "ageHoursAtAnalysis": 24.6,
       "analyticsStatus": "pending",
       "metrics": {},
+      "videoDurationSeconds": 61.0,
       "retentionPercent": null,
       "performanceLabel": null,
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.0,
-        "baselineTopVideosMedianViews": 1637.5,
+        "baselineTopVideosMedianViews": 1428.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
       },
-      "analyzedAt": "2026-09-18T11:08:49.772865-04:00",
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-18-SELF2",
+      "videoId": "oifKZFDCgAc",
+      "title": "Why the Bear Can Smell Food From 20 Miles Away #Shorts",
+      "uploadedAt": "2026-09-18T16:06:46.393868-04:00",
+      "ageHoursAtAnalysis": 19.0,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.0,
+        "baselineTopVideosMedianViews": 1428.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
+      },
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-19-SELF1",
+      "videoId": "epjoY2rCddc",
+      "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
+      "uploadedAt": "2026-09-19T10:07:31.172569-04:00",
+      "ageHoursAtAnalysis": 0.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": null,
+      "retentionPercent": null,
+      "performanceLabel": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.0,
+        "baselineTopVideosMedianViews": 1428.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "Analytics pending; YouTube Analytics aggregation lag or no rows yet."
+      },
+      "analyzedAt": "2026-09-19T11:04:00.698412-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -3354,11 +3408,12 @@
         "5p-ZHv0qxZQ",
         "l95kOS6thok",
         "2JHXOWVXXFo",
-        "stLW6k2r018"
+        "stLW6k2r018",
+        "rte8AZ0LmAY"
       ],
-      "sampleSize": 53,
-      "avgViewDurationMedian": 28,
-      "viewsMedian": 1060,
+      "sampleSize": 54,
+      "avgViewDurationMedian": 28.0,
+      "viewsMedian": 1081.5,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -3407,11 +3462,12 @@
         "Ke35_LxnMnM",
         "mojAVHuMJXA",
         "2Of2LGwZUcg",
-        "f67CJOpAdOA"
+        "f67CJOpAdOA",
+        "Y2aC8CfqjcA"
       ],
-      "sampleSize": 42,
+      "sampleSize": 43,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1000.0,
+      "viewsMedian": 999.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -3442,8 +3498,8 @@
         "VI6zQ6ghUPQ"
       ],
       "sampleSize": 21,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1051,
+      "avgViewDurationMedian": 27.0,
+      "viewsMedian": 1051.0,
       "verdict": "promising",
       "confidence": "high"
     }
@@ -3510,9 +3566,9 @@
         "zVxbp_9-30c"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 21,
-      "viewsMedian": 880,
-      "verdict": "promising",
+      "avgViewDurationMedian": 21.0,
+      "viewsMedian": 880.0,
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -3525,7 +3581,7 @@
       ],
       "sampleSize": 3,
       "avgViewDurationMedian": 23.0,
-      "viewsMedian": 162,
+      "viewsMedian": 162.0,
       "verdict": "avoid",
       "confidence": "low"
     },
@@ -3538,8 +3594,8 @@
         "52JefgjjfoE"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1050,
+      "avgViewDurationMedian": 27.0,
+      "viewsMedian": 1050.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3565,8 +3621,8 @@
         "KYufoqBM3JY"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 19,
-      "viewsMedian": 1559,
+      "avgViewDurationMedian": 19.0,
+      "viewsMedian": 1559.0,
       "verdict": "avoid",
       "confidence": "low"
     },
@@ -3579,8 +3635,8 @@
         "u1C7OUZ2odk"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 40,
-      "viewsMedian": 1273,
+      "avgViewDurationMedian": 40.0,
+      "viewsMedian": 1273.0,
       "verdict": "prioritize",
       "confidence": "low"
     },
@@ -3660,12 +3716,13 @@
       "label": "Gorilla",
       "videos": [
         "SqPXwvRa7bk",
-        "NrsllcvY400"
+        "NrsllcvY400",
+        "rte8AZ0LmAY"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 30.5,
-      "viewsMedian": 635.0,
-      "verdict": "promising",
+      "sampleSize": 3,
+      "avgViewDurationMedian": 36.0,
+      "viewsMedian": 1234.0,
+      "verdict": "prioritize",
       "confidence": "low"
     },
     {
@@ -3693,7 +3750,7 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 38.0,
       "viewsMedian": 570.0,
-      "verdict": "prioritize",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -3705,8 +3762,8 @@
         "KFeeP9J-nAc"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 22,
-      "viewsMedian": 1060,
+      "avgViewDurationMedian": 22.0,
+      "viewsMedian": 1060.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3721,8 +3778,8 @@
         "u6AbtBeh7Oc"
       ],
       "sampleSize": 5,
-      "avgViewDurationMedian": 30,
-      "viewsMedian": 1032,
+      "avgViewDurationMedian": 30.0,
+      "viewsMedian": 1032.0,
       "verdict": "promising",
       "confidence": "medium"
     },
@@ -3774,8 +3831,8 @@
         "2Of2LGwZUcg"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 24,
-      "viewsMedian": 1105,
+      "avgViewDurationMedian": 24.0,
+      "viewsMedian": 1105.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3784,12 +3841,13 @@
       "label": "Monkey",
       "videos": [
         "kDNyOJnQMXM",
-        "7AqFSgZ_go8"
+        "7AqFSgZ_go8",
+        "Y2aC8CfqjcA"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 16.0,
-      "viewsMedian": 663.0,
-      "verdict": "avoid",
+      "sampleSize": 3,
+      "avgViewDurationMedian": 29.0,
+      "viewsMedian": 568.0,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -3816,8 +3874,8 @@
         "Ke35_LxnMnM"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 38,
-      "viewsMedian": 1103,
+      "avgViewDurationMedian": 38.0,
+      "viewsMedian": 1103.0,
       "verdict": "prioritize",
       "confidence": "low"
     },
@@ -3856,8 +3914,8 @@
         "UcQS3DCyfCs"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 26,
-      "viewsMedian": 1199,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1199.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3870,8 +3928,8 @@
         "JutAKR5ZODg"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 26,
-      "viewsMedian": 1218,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1218.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3884,8 +3942,8 @@
         "stLW6k2r018"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 29,
-      "viewsMedian": 1414,
+      "avgViewDurationMedian": 29.0,
+      "viewsMedian": 1414.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3898,8 +3956,8 @@
         "VI6zQ6ghUPQ"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 22,
-      "viewsMedian": 1007,
+      "avgViewDurationMedian": 22.0,
+      "viewsMedian": 1007.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3912,8 +3970,8 @@
         "oOvJedn-abs"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 28,
-      "viewsMedian": 2276,
+      "avgViewDurationMedian": 28.0,
+      "viewsMedian": 2276.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3927,7 +3985,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 20.0,
       "viewsMedian": 907.5,
-      "verdict": "promising",
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -3954,8 +4012,8 @@
         "HQczw3ozCUI"
       ],
       "sampleSize": 3,
-      "avgViewDurationMedian": 26,
-      "viewsMedian": 1239,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1239.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4045,11 +4103,12 @@
         "5p-ZHv0qxZQ",
         "l95kOS6thok",
         "2JHXOWVXXFo",
-        "stLW6k2r018"
+        "stLW6k2r018",
+        "rte8AZ0LmAY"
       ],
-      "sampleSize": 53,
-      "avgViewDurationMedian": 28,
-      "viewsMedian": 1060,
+      "sampleSize": 54,
+      "avgViewDurationMedian": 28.0,
+      "viewsMedian": 1081.5,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4098,11 +4157,12 @@
         "Ke35_LxnMnM",
         "mojAVHuMJXA",
         "2Of2LGwZUcg",
-        "f67CJOpAdOA"
+        "f67CJOpAdOA",
+        "Y2aC8CfqjcA"
       ],
-      "sampleSize": 42,
+      "sampleSize": 43,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1000.0,
+      "viewsMedian": 999.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4133,91 +4193,226 @@
         "VI6zQ6ghUPQ"
       ],
       "sampleSize": 21,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1051,
+      "avgViewDurationMedian": 27.0,
+      "viewsMedian": 1051.0,
       "verdict": "promising",
       "confidence": "high"
     }
   ],
   "summary": [
     {
-      "pattern": "Current top performer (views × average view duration)",
-      "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts — 13427 views, 41s average view duration.",
+      "pattern": "Current top performer (views \u00d7 average view duration)",
+      "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts \u2014 13427 views, 41s avg view duration.",
       "verdict": "winner"
     },
     {
       "pattern": "Why the [animal] [extreme ability] #Shorts",
-      "evidence": "53 available videos; median 28s average view duration and 1060 views; confidence high.",
+      "evidence": "54 available videos; median 28.0s average view duration and 1081.5 views; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [sensory surprise] #Shorts",
-      "evidence": "42 available videos; median 26.0s average view duration and 1000.0 views; confidence high.",
+      "evidence": "43 available videos; median 26.0s average view duration and 999.0 views; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [survival adaptation] #Shorts",
-      "evidence": "21 available videos; median 27s average view duration and 1051 views; confidence high.",
+      "evidence": "21 available videos; median 27.0s average view duration and 1051.0 views; confidence high.",
       "verdict": "promising"
     },
     {
-      "pattern": "Topic: Shark",
-      "evidence": "3 videos; median 28s average view duration and 2276 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Dolphin",
-      "evidence": "3 videos; median 19s average view duration and 1559 views; confidence low.",
-      "verdict": "avoid"
-    },
-    {
-      "pattern": "Topic: Rhino",
-      "evidence": "3 videos; median 29s average view duration and 1414 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Fox",
-      "evidence": "4 videos; median 25.0s average view duration and 1280.0 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Eagle",
-      "evidence": "3 videos; median 40s average view duration and 1273 views; confidence low.",
-      "verdict": "prioritize"
-    },
-    {
-      "pattern": "Topic: Tiger",
-      "evidence": "3 videos; median 26s average view duration and 1239 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Turtle",
-      "evidence": "4 videos; median 25.5s average view duration and 1227.5 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Polar Bear",
-      "evidence": "3 videos; median 26s average view duration and 1218 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Penguin",
-      "evidence": "3 videos; median 26s average view duration and 1199 views; confidence low.",
-      "verdict": "promising"
-    },
-    {
-      "pattern": "Topic: Elephant",
-      "evidence": "4 videos; median 28.5s average view duration and 1119.5 views; confidence low.",
+      "pattern": "Topic: Alligator",
+      "evidence": "2 available videos; median 25.0s average view duration and 627.5 views; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Topic: Bear",
-      "evidence": "2 videos; median 30.0s average view duration and 1117.0 views; confidence low.",
+      "evidence": "2 available videos; median 30.0s average view duration and 1117.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Bee",
+      "evidence": "2 available videos; median 17.5s average view duration and 672.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Butterfly",
+      "evidence": "2 available videos; median 24.0s average view duration and 380.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Camel",
+      "evidence": "3 available videos; median 21.0s average view duration and 880.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Cheetah",
+      "evidence": "3 available videos; median 23.0s average view duration and 162.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Crocodile",
+      "evidence": "3 available videos; median 27.0s average view duration and 1050.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Deer",
+      "evidence": "2 available videos; median 25.0s average view duration and 497.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Dolphin",
+      "evidence": "3 available videos; median 19.0s average view duration and 1559.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Eagle",
+      "evidence": "3 available videos; median 40.0s average view duration and 1273.0 views; confidence low.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Topic: Elephant",
+      "evidence": "4 available videos; median 28.5s average view duration and 1119.5 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Flamingo",
+      "evidence": "2 available videos; median 32.5s average view duration and 806.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Fox",
+      "evidence": "4 available videos; median 25.0s average view duration and 1280.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Ghost Crab",
+      "evidence": "2 available videos; median 28.5s average view duration and 495.5 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Giraffe",
+      "evidence": "4 available videos; median 35.5s average view duration and 1087.5 views; confidence low.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Topic: Gorilla",
+      "evidence": "3 available videos; median 36.0s average view duration and 1234.0 views; confidence low.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Topic: Hawk",
+      "evidence": "2 available videos; median 31.0s average view duration and 597.5 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Hippo",
+      "evidence": "4 available videos; median 38.0s average view duration and 570.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Iguana",
+      "evidence": "3 available videos; median 22.0s average view duration and 1060.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Jellyfish",
+      "evidence": "5 available videos; median 30.0s average view duration and 1032.0 views; confidence medium.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Kangaroo",
+      "evidence": "2 available videos; median 24.0s average view duration and 531.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Koala",
+      "evidence": "2 available videos; median 28.0s average view duration and 620.5 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Lemur",
+      "evidence": "2 available videos; median 25.5s average view duration and 852.0 views; confidence low.",
       "verdict": "promising"
     },
     {
       "pattern": "Topic: Manatee",
-      "evidence": "3 videos; median 24s average view duration and 1105 views; confidence low.",
+      "evidence": "3 available videos; median 24.0s average view duration and 1105.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Monkey",
+      "evidence": "3 available videos; median 29.0s average view duration and 568.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Ostrich",
+      "evidence": "4 available videos; median 31.0s average view duration and 615.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Owl",
+      "evidence": "3 available videos; median 38.0s average view duration and 1103.0 views; confidence low.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Topic: Parrot",
+      "evidence": "2 available videos; median 34.5s average view duration and 1000.5 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Peacock",
+      "evidence": "2 available videos; median 25.5s average view duration and 883.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Penguin",
+      "evidence": "3 available videos; median 26.0s average view duration and 1199.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Polar Bear",
+      "evidence": "3 available videos; median 26.0s average view duration and 1218.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Rhino",
+      "evidence": "3 available videos; median 29.0s average view duration and 1414.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Sea Lion",
+      "evidence": "3 available videos; median 22.0s average view duration and 1007.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Shark",
+      "evidence": "3 available videos; median 28.0s average view duration and 2276.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Spider",
+      "evidence": "2 available videos; median 20.0s average view duration and 907.5 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Starfish",
+      "evidence": "4 available videos; median 19.0s average view duration and 1034.0 views; confidence low.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Topic: Tiger",
+      "evidence": "3 available videos; median 26.0s average view duration and 1239.0 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Turtle",
+      "evidence": "4 available videos; median 25.5s average view duration and 1227.5 views; confidence low.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Wood Frog",
+      "evidence": "2 available videos; median 29.5s average view duration and 1025.0 views; confidence low.",
       "verdict": "promising"
     }
   ]
