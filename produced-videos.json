@@ -4750,6 +4750,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on bear (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal \u2014 polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human, 1000x scent receptors. Bear smells a map of direction, distance, food type. 6/6 Pexels clips (ALL real bears incl. polar bear). Assembly ok:true. Compressed 30MB->2.4MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-19-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "f4c47ee3d896368862c7a834139de1a113423baaf9f0c1066f8fe71e09185ecf",
+      "status": "uploaded",
+      "startedAt": "2026-09-19T10:02:56.797736-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
+      "animal": "hawk",
+      "angle": "2nd (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision \u2014 hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, so hawk sees glowing neon paths leading to hidden prey.",
+      "renderedAt": "2026-09-19T10:07:31.172569-04:00",
+      "uploadedAt": "2026-09-19T10:07:31.172569-04:00",
+      "youtube": {
+        "videoId": "epjoY2rCddc",
+        "url": "https://www.youtube.com/watch?v=epjoY2rCddc"
+      },
+      "duration": 55.5,
+      "resolution": "1080x1920",
+      "hookOverlay": "SEES INVISIBLE PREY TRAILS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on hawk (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision \u2014 hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, hawk sees glowing neon arrows pointing to hidden prey. 4 color receptors vs human 3. 6/6 Pexels clips (hawks + eagles, both raptors). Assembly ok:true. Compressed 24MB->3.3MB (CRF 42)."
     }
   ]
 }
