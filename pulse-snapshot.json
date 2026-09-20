@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 156171,
-      "subscriberCount": 219,
-      "videoCount": 167
+      "viewCount": 157971,
+      "subscriberCount": 208,
+      "videoCount": 168
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-22",
-    "endDate": "2026-09-19",
+    "startDate": "2026-08-23",
+    "endDate": "2026-09-20",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 64939,
-    "estimatedMinutesWatched": 22162,
-    "subscribersGained": 108,
-    "subscribersLost": 9,
-    "likes": 3011,
-    "comments": 42,
-    "shares": 67,
-    "netSubscribers": 99
+    "views": 64000,
+    "estimatedMinutesWatched": 22013,
+    "subscribersGained": 110,
+    "subscribersLost": 11,
+    "netSubscribers": 99,
+    "likes": 3013,
+    "comments": 40,
+    "shares": 67
   },
   "daily": [
-    {
-      "day": "2026-08-22",
-      "views": 2485,
-      "watched": 782,
-      "subsGained": 1,
-      "subsLost": 0,
-      "likes": 75
-    },
     {
       "day": "2026-08-23",
       "views": 2529,
@@ -236,26 +228,34 @@
       "subsGained": 6,
       "subsLost": 0,
       "likes": 108
+    },
+    {
+      "day": "2026-09-17",
+      "views": 1546,
+      "watched": 633,
+      "subsGained": 3,
+      "subsLost": 2,
+      "likes": 77
     }
   ],
   "topVideos": [
     {
       "videoId": "JedGHLLl0pY",
       "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 4768,
+      "views": 4769,
       "watched": 2340,
       "likes": 209,
       "comments": 2,
       "avgViewDuration": 48,
       "flag": "winner",
-      "note": "Top views and retention performer"
+      "note": "Top combined views and retention"
     },
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2835,
-      "watched": 1776,
-      "likes": 124,
+      "views": 2959,
+      "watched": 1874,
+      "likes": 126,
       "comments": 4,
       "avgViewDuration": 60,
       "flag": "stable",
@@ -275,8 +275,8 @@
     {
       "videoId": "v3KM5eDdnho",
       "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
-      "views": 1889,
-      "watched": 601,
+      "views": 1854,
+      "watched": 596,
       "likes": 88,
       "comments": 1,
       "avgViewDuration": 30,
@@ -286,8 +286,8 @@
     {
       "videoId": "5p-ZHv0qxZQ",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1447,
-      "watched": 532,
+      "views": 1456,
+      "watched": 546,
       "likes": 108,
       "comments": 3,
       "avgViewDuration": 33,
@@ -298,7 +298,7 @@
       "videoId": "0onjfepA3F8",
       "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
       "views": 1409,
-      "watched": 402,
+      "watched": 401,
       "likes": 68,
       "comments": 0,
       "avgViewDuration": 26,
@@ -308,7 +308,7 @@
     {
       "videoId": "-bpS7VaF_EI",
       "title": "Why the Rhino Charges at 40 MPH #Shorts",
-      "views": 1399,
+      "views": 1398,
       "watched": 434,
       "likes": 66,
       "comments": 1,
@@ -317,21 +317,21 @@
       "note": ""
     },
     {
-      "videoId": "qmuReYJT06A",
-      "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
-      "views": 1305,
-      "watched": 399,
-      "likes": 75,
+      "videoId": "rte8AZ0LmAY",
+      "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
+      "views": 1303,
+      "watched": 551,
+      "likes": 66,
       "comments": 0,
-      "avgViewDuration": 32,
+      "avgViewDuration": 42,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "7AqFSgZ_go8",
       "title": "Why the Monkey Uses Tools Like a Human #Shorts",
-      "views": 1305,
-      "watched": 396,
+      "views": 1300,
+      "watched": 395,
       "likes": 66,
       "comments": 0,
       "avgViewDuration": 29,
@@ -339,41 +339,41 @@
       "note": ""
     },
     {
-      "videoId": "NrsllcvY400",
-      "title": "Why the Gorilla Sings While It Eats #Shorts",
-      "views": 1268,
-      "watched": 337,
-      "likes": 72,
+      "videoId": "qmuReYJT06A",
+      "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
+      "views": 1292,
+      "watched": 389,
+      "likes": 75,
       "comments": 0,
-      "avgViewDuration": 25,
+      "avgViewDuration": 32,
       "flag": "stable",
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-19T09:02:14.614856-04:00",
+  "fetchedAt": "2026-09-20T09:03:21.536472-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-19T09:02:14.614856-04:00",
+      "fetchedAt": "2026-09-20T09:03:21.536472-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 219,
+        "current": 208,
         "threshold": 1000,
-        "percent": 21.9
+        "percent": 20.8
       },
       "watchHours12mo": {
-        "current": 804.7,
+        "current": 815.2,
         "threshold": 4000,
-        "percent": 20.12,
+        "percent": 20.38,
         "window": "Last 12 months",
-        "minutesWatched": 48281
+        "minutesWatched": 48910
       },
       "shortsViews90d": {
-        "current": 135252,
+        "current": 136627,
         "threshold": 10000000,
-        "percent": 1.353,
+        "percent": 1.366,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
