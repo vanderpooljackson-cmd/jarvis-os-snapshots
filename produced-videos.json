@@ -4809,6 +4809,19 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on seal (1st: Survives 5000 Feet Underwater = diving). Sensory: whiskers detect water turbulence trails left by fish up to 30 seconds ago. Blind seals still hunt. Each whisker moves independently, filters own swimming motion to isolate fish wake. Sonar you can touch. Growth plan ideas all unfilmable/unlisted (whale=unfilmable, gecko+mountain goat not in index). 6/6 Pexels clips (5 real seals + 1 bird catching fish). Assembly ok:true. Compressed 50MB->4.1MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-20-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "1335ffdaf17cb6d0002adbe56309bf930c3d683839ca85764ef431fd1bd01f24",
+      "status": "render-failed",
+      "startedAt": "2026-09-20T16:03:59.673247-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Spider Builds the Strongest Material on Earth #Shorts",
+      "animal": "spider",
+      "angle": "2nd (1st: Sees the Moon = vision). Superpower: spider silk stronger than steel by weight, stronger than Kevlar, stretchier than rubber. Strand thick enough to circle Earth weighs less than a pound. Single spider produces 7 types of silk.",
+      "renderedAt": "2026-09-20T16:05:04.932390-04:00",
+      "error": "insufficient stock footage: 3/6 real spider clips (scenes 1,3,5 = real spider/web; scenes 2,4,6 = staged horror videos of women trapped in spider webs from MART PRODUCTION \u2014 not wildlife)"
     }
   ]
 }
