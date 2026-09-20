@@ -1,20 +1,20 @@
 {
-  "weekOf": "2026-09-14",
+  "weekOf": "2026-09-21",
   "basedOn": {
     "topVideos": [
       {
         "videoId": "JedGHLLl0pY",
         "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-        "views": 4768,
+        "views": 4769,
         "avgViewDuration": 48,
         "flag": "winner",
         "note": "Top combined views and retention"
       },
       {
-        "videoId": "CYrW38_aFRg",
-        "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-        "views": 4598,
-        "avgViewDuration": 43,
+        "videoId": "stLW6k2r018",
+        "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
+        "views": 2959,
+        "avgViewDuration": 60,
         "flag": "stable",
         "note": ""
       },
@@ -29,26 +29,26 @@
     ],
     "bestRetention": [
       {
+        "videoId": "stLW6k2r018",
+        "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
+        "views": 2959,
+        "avgViewDuration": 60,
+        "flag": "stable",
+        "note": ""
+      },
+      {
         "videoId": "JedGHLLl0pY",
         "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-        "views": 4768,
+        "views": 4769,
         "avgViewDuration": 48,
         "flag": "winner",
         "note": "Top combined views and retention"
       },
       {
-        "videoId": "CYrW38_aFRg",
-        "title": "Why the Jellyfish Has 24 Eyes But No Brain #Shorts",
-        "views": 4598,
-        "avgViewDuration": 43,
-        "flag": "stable",
-        "note": ""
-      },
-      {
-        "videoId": "tMrTS480uqE",
-        "title": "Why the Shark's Skin Is Made of Teeth #Shorts",
-        "views": 2192,
-        "avgViewDuration": 39,
+        "videoId": "rte8AZ0LmAY",
+        "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
+        "views": 1303,
+        "avgViewDuration": 42,
         "flag": "stable",
         "note": ""
       }
@@ -66,28 +66,28 @@
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-003",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-004",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-005",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-006",
@@ -101,215 +101,260 @@
         "baseline": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts",
         "variant": "What Keeps Emperor Penguins Alive Through 2 Months of Darkness at −40°C? #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
+      },
+      {
+        "experimentId": "EXP-008",
+        "baseline": "Why the Shark Grows 30,000 Teeth in a Lifetime #Shorts",
+        "variant": "How Can a Shark Grow 30,000 Teeth? The Secret Is Wild #Shorts",
+        "result": "inconclusive-keep",
+        "lesson": "No meaningful traffic signal; keep the variant as a directional curiosity-gap bet, not a proven winner."
       }
     ],
     "producerAnalytics": {
       "hookFrames": [
         {
-          "key": "why_the_[animal]_[x]_#shorts",
-          "label": "Why the [animal] [X] #Shorts",
-          "sampleSize": 102,
+          "key": "extreme_ability",
+          "label": "Why the [animal] [extreme ability] #Shorts",
+          "sampleSize": 54,
+          "avgViewDurationMedian": 28.0,
+          "viewsMedian": 1081.5,
+          "verdict": "promising",
+          "confidence": "high"
+        },
+        {
+          "key": "sensory_surprise",
+          "label": "Why the [animal] [sensory surprise] #Shorts",
+          "sampleSize": 43,
+          "avgViewDurationMedian": 26.0,
+          "viewsMedian": 999.0,
+          "verdict": "promising",
+          "confidence": "high"
+        },
+        {
+          "key": "survival_adaptation",
+          "label": "Why the [animal] [survival adaptation] #Shorts",
+          "sampleSize": 21,
           "avgViewDurationMedian": 27.0,
-          "viewsMedian": 1043.0,
+          "viewsMedian": 1051.0,
           "verdict": "promising",
           "confidence": "high"
         }
       ],
       "summary": [
         {
-          "pattern": "Current top performer by views × average view duration",
-          "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts — 13427 views and 41s average view duration; winner.",
+          "pattern": "Current top performer (views × average view duration)",
+          "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts — 13427 views, 41s avg view duration.",
           "verdict": "winner"
         },
         {
-          "pattern": "Why the [animal] [X] #Shorts",
-          "evidence": "102 available videos; median 1043.0 views and 27.0s average view duration versus 33.5s channel top-video median; confidence high.",
+          "pattern": "Why the [animal] [extreme ability] #Shorts",
+          "evidence": "54 available videos; median 28.0s average view duration and 1081.5 views; confidence high.",
           "verdict": "promising"
         },
         {
-          "pattern": "Alligator",
-          "evidence": "2 available videos; median 627.5 views and 25.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Why the [animal] [sensory surprise] #Shorts",
+          "evidence": "43 available videos; median 26.0s average view duration and 999.0 views; confidence high.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Why the [animal] [survival adaptation] #Shorts",
+          "evidence": "21 available videos; median 27.0s average view duration and 1051.0 views; confidence high.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Alligator",
+          "evidence": "2 available videos; median 25.0s average view duration and 627.5 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Bear",
+          "evidence": "2 available videos; median 30.0s average view duration and 1117.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Bee",
+          "evidence": "2 available videos; median 17.5s average view duration and 672.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Bear",
-          "evidence": "2 available videos; median 1117.0 views and 30.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Bee",
-          "evidence": "2 available videos; median 672.0 views and 17.5s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Butterfly",
+          "evidence": "2 available videos; median 24.0s average view duration and 380.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Butterfly",
-          "evidence": "2 available videos; median 380.0 views and 24.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Camel",
+          "evidence": "3 available videos; median 21.0s average view duration and 880.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Camel",
-          "evidence": "2 available videos; median 831.0 views and 18.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Cheetah",
-          "evidence": "2 available videos; median 526.0 views and 18.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Cheetah",
+          "evidence": "3 available videos; median 23.0s average view duration and 162.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Deer",
-          "evidence": "2 available videos; median 497.0 views and 25.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Crocodile",
+          "evidence": "3 available videos; median 27.0s average view duration and 1050.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Deer",
+          "evidence": "2 available videos; median 25.0s average view duration and 497.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Dolphin",
-          "evidence": "3 available videos; median 1559.0 views and 19.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Eagle",
-          "evidence": "2 available videos; median 1552.5 views and 37.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Elephant",
-          "evidence": "2 available videos; median 1084.5 views and 37.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Flamingo",
-          "evidence": "2 available videos; median 806.0 views and 32.5s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Fox",
-          "evidence": "3 available videos; median 1260.0 views and 22.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Ghost",
-          "evidence": "2 available videos; median 495.5 views and 28.5s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Giraffe",
-          "evidence": "2 available videos; median 2473.5 views and 41.5s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Gorilla",
-          "evidence": "2 available videos; median 635.0 views and 30.5s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Hawk",
-          "evidence": "2 available videos; median 597.5 views and 31.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Hippo",
-          "evidence": "3 available videos; median 5.0 views and 36.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Iguana",
-          "evidence": "2 available videos; median 586.0 views and 22.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Dolphin",
+          "evidence": "3 available videos; median 19.0s average view duration and 1559.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Jellyfish",
-          "evidence": "4 available videos; median 1038.5 views and 27.5s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Eagle",
+          "evidence": "3 available videos; median 40.0s average view duration and 1273.0 views; confidence low.",
+          "verdict": "prioritize"
+        },
+        {
+          "pattern": "Topic: Elephant",
+          "evidence": "4 available videos; median 28.5s average view duration and 1119.5 views; confidence low.",
           "verdict": "promising"
         },
         {
-          "pattern": "Kangaroo",
-          "evidence": "2 available videos; median 531.0 views and 24.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Flamingo",
+          "evidence": "2 available videos; median 32.5s average view duration and 806.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Fox",
+          "evidence": "4 available videos; median 25.0s average view duration and 1280.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Ghost Crab",
+          "evidence": "2 available videos; median 28.5s average view duration and 495.5 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Koala",
-          "evidence": "2 available videos; median 620.5 views and 28.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Giraffe",
+          "evidence": "4 available videos; median 35.5s average view duration and 1087.5 views; confidence low.",
+          "verdict": "prioritize"
+        },
+        {
+          "pattern": "Topic: Gorilla",
+          "evidence": "3 available videos; median 36.0s average view duration and 1234.0 views; confidence low.",
+          "verdict": "prioritize"
+        },
+        {
+          "pattern": "Topic: Hawk",
+          "evidence": "2 available videos; median 31.0s average view duration and 597.5 views; confidence low.",
           "verdict": "promising"
         },
         {
-          "pattern": "Lemur",
-          "evidence": "2 available videos; median 852.0 views and 25.5s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Hippo",
+          "evidence": "4 available videos; median 38.0s average view duration and 570.0 views; confidence low.",
           "verdict": "promising"
         },
         {
-          "pattern": "Manatee",
-          "evidence": "2 available videos; median 1064.5 views and 26.5s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Iguana",
+          "evidence": "3 available videos; median 22.0s average view duration and 1060.0 views; confidence low.",
           "verdict": "promising"
         },
         {
-          "pattern": "Monkey",
-          "evidence": "2 available videos; median 663.0 views and 16.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Jellyfish",
+          "evidence": "5 available videos; median 30.0s average view duration and 1032.0 views; confidence medium.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Kangaroo",
+          "evidence": "2 available videos; median 24.0s average view duration and 531.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Koala",
+          "evidence": "2 available videos; median 28.0s average view duration and 620.5 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Lemur",
+          "evidence": "2 available videos; median 25.5s average view duration and 852.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Manatee",
+          "evidence": "3 available videos; median 24.0s average view duration and 1105.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Monkey",
+          "evidence": "3 available videos; median 29.0s average view duration and 568.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Ostrich",
+          "evidence": "4 available videos; median 31.0s average view duration and 615.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Owl",
+          "evidence": "3 available videos; median 38.0s average view duration and 1103.0 views; confidence low.",
+          "verdict": "prioritize"
+        },
+        {
+          "pattern": "Topic: Parrot",
+          "evidence": "2 available videos; median 34.5s average view duration and 1000.5 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Peacock",
+          "evidence": "2 available videos; median 25.5s average view duration and 883.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Penguin",
+          "evidence": "3 available videos; median 26.0s average view duration and 1199.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Polar Bear",
+          "evidence": "3 available videos; median 26.0s average view duration and 1218.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Rhino",
+          "evidence": "3 available videos; median 29.0s average view duration and 1414.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Sea Lion",
+          "evidence": "3 available videos; median 22.0s average view duration and 1007.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Shark",
+          "evidence": "3 available videos; median 28.0s average view duration and 2276.0 views; confidence low.",
+          "verdict": "promising"
+        },
+        {
+          "pattern": "Topic: Spider",
+          "evidence": "2 available videos; median 20.0s average view duration and 907.5 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Ostrich",
-          "evidence": "3 available videos; median 1132.0 views and 34.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Owl",
-          "evidence": "3 available videos; median 1103.0 views and 38.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Parrot",
-          "evidence": "2 available videos; median 1000.5 views and 34.5s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Peacock",
-          "evidence": "2 available videos; median 883.0 views and 25.5s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Penguin",
-          "evidence": "3 available videos; median 1199.0 views and 26.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Polar",
-          "evidence": "3 available videos; median 1218.0 views and 26.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Rhino",
-          "evidence": "2 available videos; median 710.5 views and 18.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Sea",
-          "evidence": "3 available videos; median 650.0 views and 22.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Starfish",
+          "evidence": "4 available videos; median 19.0s average view duration and 1034.0 views; confidence low.",
           "verdict": "avoid"
         },
         {
-          "pattern": "Shark",
-          "evidence": "2 available videos; median 1677.5 views and 26.5s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Tiger",
+          "evidence": "3 available videos; median 26.0s average view duration and 1239.0 views; confidence low.",
           "verdict": "promising"
         },
         {
-          "pattern": "Spider",
-          "evidence": "2 available videos; median 907.5 views and 20.0s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Turtle",
+          "evidence": "4 available videos; median 25.5s average view duration and 1227.5 views; confidence low.",
           "verdict": "promising"
         },
         {
-          "pattern": "Starfish",
-          "evidence": "3 available videos; median 943.0 views and 19.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Turtle",
-          "evidence": "2 available videos; median 1472.5 views and 31.0s average view duration versus 33.5s channel top-video median; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Wood",
-          "evidence": "2 available videos; median 1025.0 views and 29.5s average view duration versus 33.5s channel top-video median; confidence low.",
+          "pattern": "Topic: Wood Frog",
+          "evidence": "2 available videos; median 29.5s average view duration and 1025.0 views; confidence low.",
           "verdict": "promising"
         }
       ],
@@ -318,65 +363,15 @@
   },
   "ideas": [
     {
-      "id": "GP-2026-09-14-01",
-      "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "concept": "Reveal how thousands of tiny muscles let an elephant trunk pick up a single blade of grass, pull down branches, and drink without bones.",
-      "hook": "An elephant trunk has no bones, but it can lift a tree branch and pick up one blade of grass.",
-      "keyVisual": "Real elephant close-up using its trunk to pluck grass and curl around a branch, with a tight detail of the trunk tip and a wide herd shot.",
+      "id": "GP-2026-09-21-01",
+      "title": "Why the Humpback Whale's Song Travels for Miles #Shorts",
+      "concept": "Show how a humpback whale uses patterned, low-frequency song to communicate through the ocean over long distances.",
+      "hook": "A whale can send a song farther than your eyes can see.",
+      "keyVisual": "Real humpback whale underwater and at the surface, followed by a close-up of its blow and a wide ocean shot that sells the scale of the call.",
       "hashtagSets": [
         [
           "#AnimalFacts",
-          "#Elephant",
-          "#Shorts"
-        ],
-        [
-          "#Wildlife",
-          "#Nature",
-          "#AnimalAbilities",
-          "#Shorts"
-        ],
-        [
-          "#DidYouKnow",
-          "#Mammals",
-          "#Shorts"
-        ]
-      ]
-    },
-    {
-      "id": "GP-2026-09-14-02",
-      "title": "Why the Ostrich Runs on Only Two Toes #Shorts",
-      "concept": "Explain how an ostrich foot uses two specialized toes and a powerful tendon to stay balanced and sprint across open ground.",
-      "hook": "This giant bird runs on just two toes, and one of them works like a spring.",
-      "keyVisual": "Real ostrich sprinting across a savanna, followed by close footage of its two-toed foot striking the ground and a side profile of the running bird.",
-      "hashtagSets": [
-        [
-          "#AnimalFacts",
-          "#Ostrich",
-          "#Shorts"
-        ],
-        [
-          "#Wildlife",
-          "#BirdFacts",
-          "#Nature",
-          "#Shorts"
-        ],
-        [
-          "#DidYouKnow",
-          "#AnimalAbilities",
-          "#Shorts"
-        ]
-      ]
-    },
-    {
-      "id": "GP-2026-09-14-03",
-      "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
-      "concept": "Show how a sea turtle uses Earth's magnetic field like a map to navigate across the ocean and return to its nesting beach.",
-      "hook": "After years in the open ocean, this turtle can find the exact beach where it hatched.",
-      "keyVisual": "Real sea turtle swimming over open water, underwater navigation footage, and a nesting turtle moving up a moonlit beach toward the sand.",
-      "hashtagSets": [
-        [
-          "#AnimalFacts",
-          "#SeaTurtle",
+          "#HumpbackWhale",
           "#Shorts"
         ],
         [
@@ -388,6 +383,56 @@
         [
           "#DidYouKnow",
           "#MarineBiology",
+          "#Shorts"
+        ]
+      ]
+    },
+    {
+      "id": "GP-2026-09-21-02",
+      "title": "Why the Gecko Walks on Glass Without Glue #Shorts",
+      "concept": "Explain how millions of microscopic hairs on a gecko foot create enough contact to grip smooth surfaces without glue or suction.",
+      "hook": "This lizard climbs glass without glue, claws, or suction cups.",
+      "keyVisual": "Real gecko close-up walking up a glass pane, macro footage of its toes, then a side view showing the animal moving upside down or vertically.",
+      "hashtagSets": [
+        [
+          "#AnimalFacts",
+          "#Gecko",
+          "#Shorts"
+        ],
+        [
+          "#Wildlife",
+          "#Reptiles",
+          "#Nature",
+          "#Shorts"
+        ],
+        [
+          "#DidYouKnow",
+          "#Biology",
+          "#Shorts"
+        ]
+      ]
+    },
+    {
+      "id": "GP-2026-09-21-03",
+      "title": "Why the Mountain Goat Climbs Cliffs That Look Vertical #Shorts",
+      "concept": "Reveal how split hooves, flexible toes, and grippy hoof pads let mountain goats move across near-vertical rock.",
+      "hook": "That cliff looks vertical—this goat sees a staircase.",
+      "keyVisual": "Real mountain goat traversing a steep rocky ledge, tight shots of split hooves finding tiny footholds, and a wide view revealing the drop below.",
+      "hashtagSets": [
+        [
+          "#AnimalFacts",
+          "#MountainGoat",
+          "#Shorts"
+        ],
+        [
+          "#Wildlife",
+          "#Nature",
+          "#MountainLife",
+          "#Shorts"
+        ],
+        [
+          "#DidYouKnow",
+          "#AnimalAbilities",
           "#Shorts"
         ]
       ]
