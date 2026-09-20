@@ -4786,6 +4786,29 @@
       "angle": "2nd (1st: Can Climb Trees = ability). Regeneration: each tooth replaced up to 50x, 3000 teeth in lifetime. Stem cells at base continuously generate new teeth. New tooth moves up within days. Humans get 2 sets, alligator gets 50+.",
       "renderedAt": "2026-09-19T16:04:17.939289-04:00",
       "error": "insufficient stock footage: 2/6 real alligator clips (scenes 1,4 = alligator/crocodile; scenes 2=hippo, 3=orthodontist, 5=otter, 6=turtles \u2014 all wrong)"
+    },
+    {
+      "productionId": "JV-2026-09-20-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "cee1e6dc04f26be9b1a1c5887a041ab5d94e1c832e81fa6827658bd7678c54c0",
+      "status": "uploaded",
+      "startedAt": "2026-09-20T10:05:30.091718-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Seal Follows Fish Trails We Can't See #Shorts",
+      "animal": "seal",
+      "angle": "2nd (1st: Survives 5000 Feet Underwater = diving). Sensory: whiskers detect water turbulence trails left by fish that passed minutes earlier. Like following footprints in water. Harbor seal whiskers track fish wakes up to 30 seconds old.",
+      "renderedAt": "2026-09-20T10:11:11.048695-04:00",
+      "uploadedAt": "2026-09-20T10:11:11.048695-04:00",
+      "youtube": {
+        "videoId": "3vmsPSajHBE",
+        "url": "https://www.youtube.com/watch?v=3vmsPSajHBE"
+      },
+      "duration": 56.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "FOLLOWS INVISIBLE FISH TRAILS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on seal (1st: Survives 5000 Feet Underwater = diving). Sensory: whiskers detect water turbulence trails left by fish up to 30 seconds ago. Blind seals still hunt. Each whisker moves independently, filters own swimming motion to isolate fish wake. Sonar you can touch. Growth plan ideas all unfilmable/unlisted (whale=unfilmable, gecko+mountain goat not in index). 6/6 Pexels clips (5 real seals + 1 bird catching fish). Assembly ok:true. Compressed 50MB->4.1MB (CRF 42)."
     }
   ]
 }
