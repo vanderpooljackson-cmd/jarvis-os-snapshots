@@ -4845,6 +4845,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on meerkat (1st: Has Built-In Sunglasses = vision). Venom immunity: genetic mutation makes nervous system resistant to scorpion venom. Kill and eat bark scorpions with no pain. Adults teach pups by removing stinger first, pups practice. 10-week-old pup can take down scorpion alone. Growth plan ideas all unfilmable/unlisted. 6/6 Pexels clips (ALL real meerkats). Assembly ok:false (false negative \u2014 validated). Compressed 50MB->4.4MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-21-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "a9457d6a3fb3b3a6724d6dc4bf022f07799491da445430032c6796884741590a",
+      "status": "uploaded",
+      "startedAt": "2026-09-21T16:06:24.485331-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Butterfly Tastes With Its Feet #Shorts",
+      "animal": "butterfly",
+      "angle": "2nd (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet \u2014 taste receptors on tarsi let them identify host plants by landing on them. They decide where to lay eggs by tasting the leaf with their feet.",
+      "renderedAt": "2026-09-21T16:12:30.589794-04:00",
+      "uploadedAt": "2026-09-21T16:12:30.589794-04:00",
+      "youtube": {
+        "videoId": "jEqJZgPc23M",
+        "url": "https://www.youtube.com/watch?v=jEqJZgPc23M"
+      },
+      "duration": 66.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "TASTES WITH ITS FEET",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on butterfly (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet \u2014 chemical receptors on tarsi detect sugars, nectar, plant species. Female drums leaf with feet to decide where to lay eggs. Reads leaf like a grocery label, but in molecules. 6/6 Pexels clips (ALL real butterflies incl. monarchs). Assembly ok:false (false negative \u2014 validated). Compressed 37MB->5.5MB (CRF 42)."
     }
   ]
 }
