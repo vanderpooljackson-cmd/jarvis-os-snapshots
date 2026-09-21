@@ -1,71 +1,124 @@
 {
-  "fetchedAt": "2026-09-18T17:34:54.341459-04:00",
+  "fetchedAt": "2026-09-21T17:35:14.268594-04:00",
   "videos": [
+    {
+      "videoId": "jEqJZgPc23M",
+      "title": "Why the Butterfly Tastes With Its Feet #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "She is reading the leaf the way you read a label at the grocery store",
+          "startSec": 45,
+          "endSec": 56,
+          "why": "Core metaphor \u2014 the grocery store analogy makes the abstract concept instantly relatable. Most memorable line in the script.",
+          "hookRewrite": "Why a butterfly reads leaves like grocery labels"
+        },
+        {
+          "momentLabel": "When a butterfly lands on a leaf, it is not resting, it is tasting",
+          "startSec": 8,
+          "endSec": 20,
+          "why": "Core reveal \u2014 flips the assumption that landing = resting. The surprise is immediate and visual.",
+          "hookRewrite": "Why a butterfly landing is actually tasting"
+        }
+      ]
+    },
+    {
+      "videoId": "YkhLUofVR2g",
+      "title": "Why the Meerkat Eats Scorpions Like Snacks #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "They are not just immune, they are trained \u2014 adults pass down the technique",
+          "startSec": 51,
+          "endSec": 63,
+          "why": "Paradox payoff \u2014 immunity is genetic but the technique is cultural. The idea of animal culture is surprising and memorable.",
+          "hookRewrite": "Why meerkats teach their babies to hunt scorpions"
+        },
+        {
+          "momentLabel": "Adult catches scorpion, bites off stinger, hands rest to pup to practice",
+          "startSec": 34,
+          "endSec": 43,
+          "why": "Teaching moment \u2014 the step-by-step process is concrete and visual. A 10-week-old pup taking down a scorpion is a strong image.",
+          "hookRewrite": "How a meerkat mom teaches pups to kill scorpions"
+        }
+      ]
+    },
+    {
+      "videoId": "3vmsPSajHBE",
+      "title": "Why the Seal Follows Fish Trails We Can't See #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Blind seals still hunt successfully because they do not need their eyes",
+          "startSec": 23,
+          "endSec": 34,
+          "why": "Core reveal \u2014 blindness doesn't stop hunting. The whiskers alone are enough. Flips expectations about what senses matter underwater.",
+          "hookRewrite": "Why blind seals can still hunt fish"
+        },
+        {
+          "momentLabel": "It is sonar you can touch",
+          "startSec": 51,
+          "endSec": 60,
+          "why": "Closing metaphor \u2014 distills the entire concept into 6 words. Memorable and shareable.",
+          "hookRewrite": "Why a seal has sonar you can touch"
+        }
+      ]
+    },
+    {
+      "videoId": "epjoY2rCddc",
+      "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Urine trails glow like neon arrows pointing straight down to dinner",
+          "startSec": 16,
+          "endSec": 24,
+          "why": "Core visual \u2014 the neon arrow metaphor makes UV vision tangible. A vole's hiding is futile against a glowing highway.",
+          "hookRewrite": "Why a hawk sees glowing trails to hidden prey"
+        },
+        {
+          "momentLabel": "Reading a map written in light you cannot even imagine",
+          "startSec": 47,
+          "endSec": 55,
+          "why": "Closing \u2014 the 4-vs-3 receptor comparison plus the 'map written in light' metaphor is the emotional payoff.",
+          "hookRewrite": "Why hawks see colors you will never see"
+        }
+      ]
+    },
     {
       "videoId": "oifKZFDCgAc",
       "title": "Why the Bear Can Smell Food From 20 Miles Away #Shorts",
       "transcriptStatus": "extracted",
-      "comments": [],
+      "comments": [
+        {
+          "id": "UgwgafBTHaajglbBtu54AaABAg",
+          "author": "@donhansen1751",
+          "text": "Thays incredible",
+          "replyPosted": true,
+          "replyText": "Thank you! It really is incredible. That smelling surface being 100 times larger than ours is hard to even imagine. A bear does not just smell food nearby \u2014 it reads a map of direction, distance, and what kind of food is waiting, all from molecules on the wind. Glad you enjoyed it!"
+        }
+      ],
       "clipCandidates": [
         {
-          "momentLabel": "Bear smells a map \u2014 direction, distance, food type from molecules on wind",
+          "momentLabel": "A bear does not just smell what is nearby, a bear smells a map",
           "startSec": 28,
           "endSec": 38,
-          "why": "Core reveal \u2014 the 'map' metaphor elevates from simple smell to spatial intelligence. Most surprising claim in the script.",
+          "why": "Core reveal \u2014 the 'map' metaphor elevates from simple smell to spatial intelligence. Most surprising claim.",
           "hookRewrite": "Why a bear doesn't just smell \u2014 it sees a map"
         },
         {
-          "momentLabel": "Sealed cooler won't fool one, car trunk won't fool one",
-          "startSec": 42,
-          "endSec": 51,
-          "why": "Practical implication \u2014 relatable to anyone who camps. The ranger quote lands the point.",
+          "momentLabel": "A sealed cooler will not fool one, a car trunk will not fool one",
+          "startSec": 38,
+          "endSec": 48,
+          "why": "Practical implication \u2014 relatable to campers. The ranger quote lands the point.",
           "hookRewrite": "Why no cooler or car trunk can hide food from a bear"
-        }
-      ]
-    },
-    {
-      "videoId": "vrQvd89xsNA",
-      "title": "Why the Penguin Stands in -40 Degrees for Two Months #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "IFTpopgUcJA",
-      "title": "Why the Kangaroo Can Pause Its Own Pregnancy #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "2GZbLp5SP7g",
-      "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "rte8AZ0LmAY",
-      "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Bite measures 1,300 PSI \u2014 stronger than a lion",
-          "startSec": 36,
-          "endSec": 45,
-          "why": "Surprising comparison \u2014 most people don't expect a vegetarian to outbite a lion. Concrete number anchors it.",
-          "hookRewrite": "Why a vegetarian gorilla bites harder than a lion"
-        },
-        {
-          "momentLabel": "Strongest primate on Earth is a vegetarian who almost never fights",
-          "startSec": 50,
-          "endSec": 60,
-          "why": "Paradox payoff \u2014 all that power from leaves, and he doesn't use it to fight. Emotional close.",
-          "hookRewrite": "The strongest primate on Earth eats only leaves"
         }
       ]
     }
   ],
-  "postedReplies": 0
+  "postedReplies": 1
 }
