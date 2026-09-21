@@ -4822,6 +4822,29 @@
       "angle": "2nd (1st: Sees the Moon = vision). Superpower: spider silk stronger than steel by weight, stronger than Kevlar, stretchier than rubber. Strand thick enough to circle Earth weighs less than a pound. Single spider produces 7 types of silk.",
       "renderedAt": "2026-09-20T16:05:04.932390-04:00",
       "error": "insufficient stock footage: 3/6 real spider clips (scenes 1,3,5 = real spider/web; scenes 2,4,6 = staged horror videos of women trapped in spider webs from MART PRODUCTION \u2014 not wildlife)"
+    },
+    {
+      "productionId": "JV-2026-09-21-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "0e0967a0a91486db4739c6244bd598ad5ee1e2f346e5e0360aa9e9fcab8ab11d",
+      "status": "uploaded",
+      "startedAt": "2026-09-21T10:13:30.338814-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Meerkat Eats Scorpions Like Snacks #Shorts",
+      "animal": "meerkat",
+      "angle": "2nd (1st: Has Built-In Sunglasses = vision). Venom immunity: meerkats immune to scorpion venom, kill and eat scorpions that would hospitalize humans. Adults teach pups by removing stinger first. Also resistant to some snake venom.",
+      "renderedAt": "2026-09-21T10:19:30.146640-04:00",
+      "uploadedAt": "2026-09-21T10:19:30.146640-04:00",
+      "youtube": {
+        "videoId": "YkhLUofVR2g",
+        "url": "https://www.youtube.com/watch?v=YkhLUofVR2g"
+      },
+      "duration": 63.9,
+      "resolution": "1080x1920",
+      "hookOverlay": "EATS SCORPIONS LIKE SNACKS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on meerkat (1st: Has Built-In Sunglasses = vision). Venom immunity: genetic mutation makes nervous system resistant to scorpion venom. Kill and eat bark scorpions with no pain. Adults teach pups by removing stinger first, pups practice. 10-week-old pup can take down scorpion alone. Growth plan ideas all unfilmable/unlisted. 6/6 Pexels clips (ALL real meerkats). Assembly ok:false (false negative \u2014 validated). Compressed 50MB->4.4MB (CRF 42)."
     }
   ]
 }
