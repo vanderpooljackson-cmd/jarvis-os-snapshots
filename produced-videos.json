@@ -4868,6 +4868,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on butterfly (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet \u2014 chemical receptors on tarsi detect sugars, nectar, plant species. Female drums leaf with feet to decide where to lay eggs. Reads leaf like a grocery label, but in molecules. 6/6 Pexels clips (ALL real butterflies incl. monarchs). Assembly ok:false (false negative \u2014 validated). Compressed 37MB->5.5MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-22-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "e001d8b845e3d13368c538ac55a9198ec8e8fd4cf3dd002640ec4b66790214f9",
+      "status": "uploaded",
+      "startedAt": "2026-09-22T10:05:33.943046-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Koala Eats Poison Every Day #Shorts",
+      "animal": "koala",
+      "angle": "2nd (1st: Has Human Fingerprints = biometrics). Extreme survival: koalas eat eucalyptus leaves toxic to almost every other mammal. Specialized liver detoxifies terpenes and phenols. Gut bacteria break down toxins. Low calorie diet = 18-22 hours sleep. Only mammal that survives on this diet.",
+      "renderedAt": "2026-09-22T10:12:48.861807-04:00",
+      "uploadedAt": "2026-09-22T10:12:48.861807-04:00",
+      "youtube": {
+        "videoId": "tK3MFFl9d40",
+        "url": "https://www.youtube.com/watch?v=tK3MFFl9d40"
+      },
+      "duration": 63.4,
+      "resolution": "1080x1920",
+      "hookOverlay": "EATS POISON EVERY DAY",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on koala (1st: Has Human Fingerprints = biometrics). Extreme survival: koalas eat eucalyptus leaves toxic to almost every other mammal. Specialized liver detoxifies terpenes and phenols. Gut bacteria ferment tough fibers. Low calorie = 18-22h sleep. Not lazy, surviving on diet that would kill anything else. 6/6 Pexels clips (ALL real koalas eating eucalyptus \u2014 perfect match). Assembly ok:false (false negative \u2014 validated). Compressed 55MB->6.4MB (CRF 42)."
     }
   ]
 }
