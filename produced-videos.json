@@ -4891,6 +4891,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on koala (1st: Has Human Fingerprints = biometrics). Extreme survival: koalas eat eucalyptus leaves toxic to almost every other mammal. Specialized liver detoxifies terpenes and phenols. Gut bacteria ferment tough fibers. Low calorie = 18-22h sleep. Not lazy, surviving on diet that would kill anything else. 6/6 Pexels clips (ALL real koalas eating eucalyptus \u2014 perfect match). Assembly ok:false (false negative \u2014 validated). Compressed 55MB->6.4MB (CRF 42)."
+    },
+    {
+      "productionId": "JV-2026-09-22-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "1a7b946bb7a55a10277aa2b2bfee8bbca924f4d1c4c141c4f3fce6cb7b6ff2e1",
+      "status": "uploaded",
+      "startedAt": "2026-09-22T16:04:58.776949-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Flamingo Can Sleep Standing on One Leg #Shorts",
+      "animal": "flamingo",
+      "angle": "2nd (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus \u2014 tendons mechanically lock joints so flamingo stands on one leg with zero muscle effort. So stable they can do it when dead. One-leg stance is more stable than two legs.",
+      "renderedAt": "2026-09-22T16:11:46.364771-04:00",
+      "uploadedAt": "2026-09-22T16:11:46.364771-04:00",
+      "youtube": {
+        "videoId": "gw5ObbOirMA",
+        "url": "https://www.youtube.com/watch?v=gw5ObbOirMA"
+      },
+      "duration": 67.5,
+      "resolution": "1080x1920",
+      "hookOverlay": "SLEEPS ON ONE LEG",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on flamingo (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus \u2014 tendons mechanically lock joints, zero muscle effort. Tested with dead flamingos \u2014 body stands balanced on one leg with no heartbeat. One-leg stance is easier than two legs. Most efficient animal at standing still. 6/6 Pexels clips (ALL real flamingos). Assembly ok:false (false negative \u2014 validated). Compressed 73MB->3.7MB (CRF 43)."
     }
   ]
 }
