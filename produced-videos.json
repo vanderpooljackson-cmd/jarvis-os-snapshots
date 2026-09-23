@@ -4914,6 +4914,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on flamingo (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus \u2014 tendons mechanically lock joints, zero muscle effort. Tested with dead flamingos \u2014 body stands balanced on one leg with no heartbeat. One-leg stance is easier than two legs. Most efficient animal at standing still. 6/6 Pexels clips (ALL real flamingos). Assembly ok:false (false negative \u2014 validated). Compressed 73MB->3.7MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-23-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "eca49bd8211335b8b27b6d6ada494b12dad2ef9f5a4b66b9bb20acd44b5149e2",
+      "status": "uploaded",
+      "startedAt": "2026-09-23T10:08:23.950972-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
+      "animal": "peacock",
+      "angle": "2nd (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color \u2014 no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades.",
+      "renderedAt": "2026-09-23T10:15:04.950497-04:00",
+      "uploadedAt": "2026-09-23T10:15:04.950497-04:00",
+      "youtube": {
+        "videoId": "d4KV2VtHjdQ",
+        "url": "https://www.youtube.com/watch?v=d4KV2VtHjdQ"
+      },
+      "duration": 64.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "MAKES BLUE WITHOUT BLUE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on peacock (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color \u2014 no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades \u2014 pigment breaks down, structure doesn't. Same principle as butterfly wings and opals. 6/6 Pexels clips (ALL real peacocks). Assembly ok:false (false negative \u2014 validated). Compressed 70MB->5.4MB (CRF 43)."
     }
   ]
 }
