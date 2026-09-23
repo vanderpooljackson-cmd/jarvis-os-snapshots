@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 161961,
-      "subscriberCount": 222,
-      "videoCount": 171
+      "viewCount": 162026,
+      "subscriberCount": 223,
+      "videoCount": 173
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-25",
-    "endDate": "2026-09-22",
+    "startDate": "2026-08-26",
+    "endDate": "2026-09-23",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 63927,
-    "estimatedMinutesWatched": 22630,
-    "subscribersGained": 110,
-    "subscribersLost": 11,
-    "likes": 2989,
+    "views": 62390,
+    "estimatedMinutesWatched": 22001,
+    "subscribersGained": 106,
+    "subscribersLost": 10,
+    "likes": 2938,
     "comments": 33,
-    "shares": 66,
-    "netSubscribers": 99
+    "shares": 64,
+    "netSubscribers": 96
   },
   "daily": [
-    {
-      "day": "2026-08-25",
-      "views": 2827,
-      "watched": 965,
-      "subsGained": 4,
-      "subsLost": 1,
-      "likes": 106
-    },
     {
       "day": "2026-08-26",
       "views": 2498,
@@ -215,7 +207,7 @@
     },
     {
       "day": "2026-09-17",
-      "views": 1546,
+      "views": 1520,
       "watched": 633,
       "subsGained": 3,
       "subsLost": 2,
@@ -223,8 +215,8 @@
     },
     {
       "day": "2026-09-18",
-      "views": 2435,
-      "watched": 983,
+      "views": 2403,
+      "watched": 979,
       "subsGained": 4,
       "subsLost": 0,
       "likes": 111
@@ -236,6 +228,14 @@
       "subsGained": 4,
       "subsLost": 0,
       "likes": 103
+    },
+    {
+      "day": "2026-09-20",
+      "views": 1348,
+      "watched": 340,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 55
     }
   ],
   "topVideos": [
@@ -264,9 +264,9 @@
     {
       "videoId": "2GZbLp5SP7g",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 2063,
-      "watched": 1051,
-      "likes": 126,
+      "views": 2074,
+      "watched": 1059,
+      "likes": 127,
       "comments": 1,
       "avgViewDuration": 49,
       "flag": "stable",
@@ -286,8 +286,8 @@
     {
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-      "views": 1511,
-      "watched": 731,
+      "views": 1519,
+      "watched": 732,
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 49,
@@ -297,8 +297,8 @@
     {
       "videoId": "epjoY2rCddc",
       "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
-      "views": 1493,
-      "watched": 420,
+      "views": 1502,
+      "watched": 421,
       "likes": 53,
       "comments": 0,
       "avgViewDuration": 30,
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-22T09:13:49.611955-04:00",
+  "fetchedAt": "2026-09-23T09:13:43.611778-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-22T09:13:49.611955-04:00",
+      "fetchedAt": "2026-09-23T09:13:43.611778-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 222,
+        "current": 223,
         "threshold": 1000,
-        "percent": 22.2
+        "percent": 22.3
       },
       "watchHours12mo": {
-        "current": 849.4,
+        "current": 855.1,
         "threshold": 4000,
-        "percent": 21.23,
+        "percent": 21.38,
         "window": "Last 12 months",
-        "minutesWatched": 50963
+        "minutesWatched": 51307
       },
       "shortsViews90d": {
-        "current": 141537,
+        "current": 143003,
         "threshold": 10000000,
-        "percent": 1.415,
+        "percent": 1.43,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
