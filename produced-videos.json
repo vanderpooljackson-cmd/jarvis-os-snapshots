@@ -4937,6 +4937,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on peacock (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color \u2014 no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades \u2014 pigment breaks down, structure doesn't. Same principle as butterfly wings and opals. 6/6 Pexels clips (ALL real peacocks). Assembly ok:false (false negative \u2014 validated). Compressed 70MB->5.4MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-23-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "ecffdb7df88382cd717c65973ca150288bbccb9995cb37de323fc907f3f2b706",
+      "status": "uploaded",
+      "startedAt": "2026-09-23T16:03:26.502514-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sea Turtle Holds Its Breath for 7 Hours #Shorts",
+      "animal": "turtle",
+      "angle": "2nd (1st: Finds the Beach Where It Was Born = navigation). Extreme survival: holds breath 4-7 hours while sleeping underwater. Heart rate slows to 1 beat per 9 minutes. Can absorb small amounts of oxygen through cloaca. Sleeps on ocean floor.",
+      "renderedAt": "2026-09-23T16:11:51.812381-04:00",
+      "uploadedAt": "2026-09-23T16:11:51.812381-04:00",
+      "youtube": {
+        "videoId": "9q2tIQpocVw",
+        "url": "https://www.youtube.com/watch?v=9q2tIQpocVw"
+      },
+      "duration": 72.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "HOLDS BREATH FOR 7 HOURS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on turtle (1st: Finds the Beach Where It Was Born = navigation). Extreme survival: holds breath 4-7 hours while sleeping underwater. Heart rate drops to 1 beat per 9 minutes. Absorbs oxygen through skin and throat lining. Slowed entire body to edge of death on single lungful. 6/6 Pexels clips (ALL real sea turtles incl. one resting on ocean floor). Assembly ok:false (false negative \u2014 validated). Compressed 86MB->8.2MB (CRF 43)."
     }
   ]
 }
