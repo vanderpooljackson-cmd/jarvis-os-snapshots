@@ -1,6 +1,109 @@
 {
-  "fetchedAt": "2026-09-21T17:35:14.268594-04:00",
+  "fetchedAt": "2026-09-23T17:34:22.001034-04:00",
   "videos": [
+    {
+      "videoId": "9q2tIQpocVw",
+      "title": "Why the Sea Turtle Holds Its Breath for 7 Hours #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Heart rate drops to one beat every 9 minutes",
+          "startSec": 23,
+          "endSec": 36,
+          "why": "Core reveal \u2014 the specific number (1 beat per 9 min) is the most surprising fact. 'One heartbeat, then 9 minutes of silence' is a vivid image.",
+          "hookRewrite": "Why a sea turtle's heart beats once every 9 minutes"
+        },
+        {
+          "momentLabel": "Slowed entire body to the edge of death on a single lungful of air",
+          "startSec": 59,
+          "endSec": 72,
+          "why": "Closing \u2014 the 'edge of death' framing is dramatic and memorable. Distills the entire concept into one image.",
+          "hookRewrite": "Why a sea turtle lives on the edge of death"
+        }
+      ]
+    },
+    {
+      "videoId": "d4KV2VtHjdQ",
+      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Grind a peacock feather into powder, the powder is brown and gray",
+          "startSec": 0,
+          "endSec": 17,
+          "why": "Core reveal \u2014 no blue pigment at all. The powder being brown is the most counterintuitive fact. Instant curiosity gap.",
+          "hookRewrite": "Why grinding a blue feather makes brown powder"
+        },
+        {
+          "momentLabel": "Pigment breaks down in sunlight, structure does not \u2014 a peacock never fades",
+          "startSec": 43,
+          "endSec": 55,
+          "why": "Practical implication \u2014 the 'never fades' angle connects to why structural color is superior to pigment. Memorable close.",
+          "hookRewrite": "Why a peacock's colors never fade"
+        }
+      ]
+    },
+    {
+      "videoId": "gw5ObbOirMA",
+      "title": "Why the Flamingo Can Sleep Standing on One Leg #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Scientists tested with dead flamingos \u2014 body stood balanced on one leg with no heartbeat",
+          "startSec": 22,
+          "endSec": 36,
+          "why": "Most surprising fact \u2014 dead flamingos standing on one leg is viscerally memorable. Proves the passive stay apparatus needs zero muscle.",
+          "hookRewrite": "Why a dead flamingo can still stand on one leg"
+        },
+        {
+          "momentLabel": "One-leg stance is easier than two legs \u2014 most efficient animal at standing still",
+          "startSec": 36,
+          "endSec": 53,
+          "why": "Paradox payoff \u2014 one leg is EASIER than two. Flips expectations. The 'most efficient animal at standing' is a strong close.",
+          "hookRewrite": "Why standing on one leg is easier than two"
+        }
+      ]
+    },
+    {
+      "videoId": "tK3MFFl9d40",
+      "title": "Why the Koala Eats Poison Every Day #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
+        {
+          "id": "UgzwI6ptOlE-K8wt_1h4AaABAg",
+          "author": "@vicleaken",
+          "text": "Can they also eat other things?",
+          "replyPosted": true,
+          "replyText": "Great question! Koalas are extremely specialized \u2014 eucalyptus makes up almost their entire diet. In rare cases they will nibble other leaves like mistletoe or certain gum trees, but their gut bacteria and liver are tuned specifically for eucalyptus. That is why habitat loss is so dangerous for them \u2014 they cannot just switch to another food source."
+        },
+        {
+          "id": "UgxPGTajE9WfDZnKmEJ4AaABAg",
+          "author": "@Watchingandlaughingorcrying",
+          "text": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+          "replyPosted": false,
+          "replyText": ""
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "A cow would die, a dog would die, a koala eats them for every meal",
+          "startSec": 7,
+          "endSec": 16,
+          "why": "Core reveal \u2014 the comparison to cows and dogs dying makes the koala's superpower concrete. Short, punchy, devastating.",
+          "hookRewrite": "Why a koala eats what would kill a cow"
+        },
+        {
+          "momentLabel": "Not lazy \u2014 surviving on a diet that would kill anything else",
+          "startSec": 54,
+          "endSec": 67,
+          "why": "Paradox payoff \u2014 reframes the 'lazy koala' stereotype as a survival strategy. Emotional close that changes how you see them.",
+          "hookRewrite": "Why koalas are not lazy \u2014 they are surviving"
+        }
+      ]
+    },
     {
       "videoId": "jEqJZgPc23M",
       "title": "Why the Butterfly Tastes With Its Feet #Shorts",
@@ -8,10 +111,10 @@
       "comments": [],
       "clipCandidates": [
         {
-          "momentLabel": "She is reading the leaf the way you read a label at the grocery store",
+          "momentLabel": "Reading the leaf the way you read a label at the grocery store",
           "startSec": 45,
           "endSec": 56,
-          "why": "Core metaphor \u2014 the grocery store analogy makes the abstract concept instantly relatable. Most memorable line in the script.",
+          "why": "Core metaphor \u2014 the grocery store analogy makes the abstract concept instantly relatable. Most memorable line.",
           "hookRewrite": "Why a butterfly reads leaves like grocery labels"
         },
         {
@@ -20,102 +123,6 @@
           "endSec": 20,
           "why": "Core reveal \u2014 flips the assumption that landing = resting. The surprise is immediate and visual.",
           "hookRewrite": "Why a butterfly landing is actually tasting"
-        }
-      ]
-    },
-    {
-      "videoId": "YkhLUofVR2g",
-      "title": "Why the Meerkat Eats Scorpions Like Snacks #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "They are not just immune, they are trained \u2014 adults pass down the technique",
-          "startSec": 51,
-          "endSec": 63,
-          "why": "Paradox payoff \u2014 immunity is genetic but the technique is cultural. The idea of animal culture is surprising and memorable.",
-          "hookRewrite": "Why meerkats teach their babies to hunt scorpions"
-        },
-        {
-          "momentLabel": "Adult catches scorpion, bites off stinger, hands rest to pup to practice",
-          "startSec": 34,
-          "endSec": 43,
-          "why": "Teaching moment \u2014 the step-by-step process is concrete and visual. A 10-week-old pup taking down a scorpion is a strong image.",
-          "hookRewrite": "How a meerkat mom teaches pups to kill scorpions"
-        }
-      ]
-    },
-    {
-      "videoId": "3vmsPSajHBE",
-      "title": "Why the Seal Follows Fish Trails We Can't See #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Blind seals still hunt successfully because they do not need their eyes",
-          "startSec": 23,
-          "endSec": 34,
-          "why": "Core reveal \u2014 blindness doesn't stop hunting. The whiskers alone are enough. Flips expectations about what senses matter underwater.",
-          "hookRewrite": "Why blind seals can still hunt fish"
-        },
-        {
-          "momentLabel": "It is sonar you can touch",
-          "startSec": 51,
-          "endSec": 60,
-          "why": "Closing metaphor \u2014 distills the entire concept into 6 words. Memorable and shareable.",
-          "hookRewrite": "Why a seal has sonar you can touch"
-        }
-      ]
-    },
-    {
-      "videoId": "epjoY2rCddc",
-      "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
-        {
-          "momentLabel": "Urine trails glow like neon arrows pointing straight down to dinner",
-          "startSec": 16,
-          "endSec": 24,
-          "why": "Core visual \u2014 the neon arrow metaphor makes UV vision tangible. A vole's hiding is futile against a glowing highway.",
-          "hookRewrite": "Why a hawk sees glowing trails to hidden prey"
-        },
-        {
-          "momentLabel": "Reading a map written in light you cannot even imagine",
-          "startSec": 47,
-          "endSec": 55,
-          "why": "Closing \u2014 the 4-vs-3 receptor comparison plus the 'map written in light' metaphor is the emotional payoff.",
-          "hookRewrite": "Why hawks see colors you will never see"
-        }
-      ]
-    },
-    {
-      "videoId": "oifKZFDCgAc",
-      "title": "Why the Bear Can Smell Food From 20 Miles Away #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgwgafBTHaajglbBtu54AaABAg",
-          "author": "@donhansen1751",
-          "text": "Thays incredible",
-          "replyPosted": true,
-          "replyText": "Thank you! It really is incredible. That smelling surface being 100 times larger than ours is hard to even imagine. A bear does not just smell food nearby \u2014 it reads a map of direction, distance, and what kind of food is waiting, all from molecules on the wind. Glad you enjoyed it!"
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "A bear does not just smell what is nearby, a bear smells a map",
-          "startSec": 28,
-          "endSec": 38,
-          "why": "Core reveal \u2014 the 'map' metaphor elevates from simple smell to spatial intelligence. Most surprising claim.",
-          "hookRewrite": "Why a bear doesn't just smell \u2014 it sees a map"
-        },
-        {
-          "momentLabel": "A sealed cooler will not fool one, a car trunk will not fool one",
-          "startSec": 38,
-          "endSec": 48,
-          "why": "Practical implication \u2014 relatable to campers. The ranger quote lands the point.",
-          "hookRewrite": "Why no cooler or car trunk can hide food from a bear"
         }
       ]
     }
