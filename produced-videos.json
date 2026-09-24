@@ -4960,6 +4960,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on turtle (1st: Finds the Beach Where It Was Born = navigation). Extreme survival: holds breath 4-7 hours while sleeping underwater. Heart rate drops to 1 beat per 9 minutes. Absorbs oxygen through skin and throat lining. Slowed entire body to edge of death on single lungful. 6/6 Pexels clips (ALL real sea turtles incl. one resting on ocean floor). Assembly ok:false (false negative \u2014 validated). Compressed 86MB->8.2MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-24-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "6c625dd8c88cfe85588a001d0e1a3eae0ab636e688ec77f85ae8d7e3fa3bec83",
+      "status": "uploaded",
+      "startedAt": "2026-09-24T10:09:16.674065-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
+      "animal": "deer",
+      "angle": "2nd (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision \u2014 310 degrees without moving head. Eyes on sides of skull. Only blind spot is directly behind. High density of motion-detecting cells. Nearly impossible to sneak up on.",
+      "renderedAt": "2026-09-24T10:15:17.810213-04:00",
+      "uploadedAt": "2026-09-24T10:15:17.810213-04:00",
+      "youtube": {
+        "videoId": "BDS46bo0SQw",
+        "url": "https://www.youtube.com/watch?v=BDS46bo0SQw"
+      },
+      "duration": 61.3,
+      "resolution": "1080x1920",
+      "hookOverlay": "SEES YOU FROM EVERY DIRECTION",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on deer (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision \u2014 310 degrees vs human 180. Eyes on sides of skull, each scanning different half. Only blind spot is directly behind. Packed with motion-detecting cells. Nearly impossible to sneak up on. 6/6 Pexels clips (ALL real deer incl. deer in snow, elk, grazing). Assembly ok:false (false negative \u2014 validated). Compressed 52MB->3.0MB (CRF 43)."
     }
   ]
 }
