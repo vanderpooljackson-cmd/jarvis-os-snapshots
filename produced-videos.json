@@ -4983,6 +4983,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on deer (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision \u2014 310 degrees vs human 180. Eyes on sides of skull, each scanning different half. Only blind spot is directly behind. Packed with motion-detecting cells. Nearly impossible to sneak up on. 6/6 Pexels clips (ALL real deer incl. deer in snow, elk, grazing). Assembly ok:false (false negative \u2014 validated). Compressed 52MB->3.0MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-24-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "56e26cb8aaa0536fe17c9308b8610d07ffe976897d38190f2919d003fad88ef7",
+      "status": "uploaded",
+      "startedAt": "2026-09-24T16:02:40.704357-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Parrot Can Sing Two Notes at Once #Shorts",
+      "animal": "parrot",
+      "angle": "2nd (1st: Smarter Than a Toddler = intelligence). Communication: syrinx at base of trachea where it splits into two bronchi. Each side produces sound independently. Parrot can sing two notes at once. This is how they mimic human speech so accurately.",
+      "renderedAt": "2026-09-24T16:18:13.739088-04:00",
+      "uploadedAt": "2026-09-24T16:18:13.739088-04:00",
+      "youtube": {
+        "videoId": "SxtMLKiyjSs",
+        "url": "https://www.youtube.com/watch?v=SxtMLKiyjSs"
+      },
+      "duration": 64.5,
+      "resolution": "1080x1920",
+      "hookOverlay": "SINGS TWO NOTES AT ONCE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on parrot (1st: Smarter Than a Toddler = intelligence). Communication: syrix at windpipe split into two bronchi. Each side is separate instrument with own membranes, muscles, nerve. Can sing two notes simultaneously on single breath. Dual-voice system is secret behind mimicry. No other animal can do this. 6/6 Pexels clips (ALL real parrots/macaws/cockatoo). Assembly ok:false (false negative \u2014 validated). Compressed 28MB->4.5MB (CRF 43)."
     }
   ]
 }
