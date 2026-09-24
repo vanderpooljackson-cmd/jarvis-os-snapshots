@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 162026,
-      "subscriberCount": 223,
-      "videoCount": 173
+      "viewCount": 162948,
+      "subscriberCount": 229,
+      "videoCount": 175
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-26",
-    "endDate": "2026-09-23",
+    "startDate": "2026-08-27",
+    "endDate": "2026-09-24",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 62390,
-    "estimatedMinutesWatched": 22001,
-    "subscribersGained": 106,
+    "views": 59887,
+    "estimatedMinutesWatched": 21127,
+    "subscribersGained": 101,
     "subscribersLost": 10,
-    "likes": 2938,
-    "comments": 33,
-    "shares": 64,
-    "netSubscribers": 96
+    "likes": 2804,
+    "comments": 32,
+    "shares": 60,
+    "netSubscribers": 91
   },
   "daily": [
-    {
-      "day": "2026-08-26",
-      "views": 2498,
-      "watched": 919,
-      "subsGained": 5,
-      "subsLost": 0,
-      "likes": 148
-    },
     {
       "day": "2026-08-27",
       "views": 4291,
@@ -191,8 +183,8 @@
     },
     {
       "day": "2026-09-15",
-      "views": 4253,
-      "watched": 2128,
+      "views": 4103,
+      "watched": 2121,
       "subsGained": 10,
       "subsLost": 0,
       "likes": 169
@@ -236,35 +228,43 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 55
+    },
+    {
+      "day": "2026-09-21",
+      "views": 145,
+      "watched": 52,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 14
     }
   ],
   "topVideos": [
     {
       "videoId": "JedGHLLl0pY",
       "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 4769,
-      "watched": 2340,
-      "likes": 209,
+      "views": 3450,
+      "watched": 1865,
+      "likes": 133,
       "comments": 2,
-      "avgViewDuration": 48,
+      "avgViewDuration": 54,
       "flag": "winner",
       "note": "Top combined views and retention"
     },
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2951,
-      "watched": 1912,
-      "likes": 126,
+      "views": 2961,
+      "watched": 1915,
+      "likes": 127,
       "comments": 4,
-      "avgViewDuration": 61,
+      "avgViewDuration": 60,
       "flag": "stable",
       "note": ""
     },
     {
       "videoId": "2GZbLp5SP7g",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 2074,
+      "views": 2075,
       "watched": 1059,
       "likes": 127,
       "comments": 1,
@@ -286,8 +286,8 @@
     {
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-      "views": 1519,
-      "watched": 732,
+      "views": 1523,
+      "watched": 734,
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 49,
@@ -297,7 +297,7 @@
     {
       "videoId": "epjoY2rCddc",
       "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
-      "views": 1502,
+      "views": 1505,
       "watched": 421,
       "likes": 53,
       "comments": 0,
@@ -350,28 +350,28 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-23T09:13:43.611778-04:00",
+  "fetchedAt": "2026-09-24T09:11:12.882665-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-23T09:13:43.611778-04:00",
+      "fetchedAt": "2026-09-24T09:11:12.882665-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 223,
+        "current": 229,
         "threshold": 1000,
-        "percent": 22.3
+        "percent": 22.9
       },
       "watchHours12mo": {
-        "current": 855.1,
+        "current": 855.9,
         "threshold": 4000,
-        "percent": 21.38,
+        "percent": 21.4,
         "window": "Last 12 months",
-        "minutesWatched": 51307
+        "minutesWatched": 51352
       },
       "shortsViews90d": {
-        "current": 143003,
+        "current": 142998,
         "threshold": 10000000,
         "percent": 1.43,
         "window": "Last 90 days",
