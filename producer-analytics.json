@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-24T11:05:44.029206-04:00",
-  "fetchedAt": "2026-09-24T11:05:44.029206-04:00",
+  "lastRunAt": "2026-09-25T11:02:50.893819-04:00",
+  "fetchedAt": "2026-09-25T11:02:50.893819-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -819,26 +819,18 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1272.8,
+      "ageHoursAtAnalysis": 1296.8,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -846,26 +838,18 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1266.9,
+      "ageHoursAtAnalysis": 1290.9,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1764,26 +1748,18 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 839.6,
+      "ageHoursAtAnalysis": 863.6,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 301.9,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -3455,26 +3431,18 @@
       "videoId": "jEqJZgPc23M",
       "title": "Why the Butterfly Tastes With Its Feet #Shorts",
       "uploadedAt": "2026-09-21T16:12:30.589794-04:00",
-      "ageHoursAtAnalysis": 66.9,
+      "ageHoursAtAnalysis": 90.8,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 66.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3482,80 +3450,70 @@
       "videoId": "tK3MFFl9d40",
       "title": "Why the Koala Eats Poison Every Day #Shorts",
       "uploadedAt": "2026-09-22T10:12:48.861807-04:00",
-      "ageHoursAtAnalysis": 48.9,
-      "analyticsStatus": "pending",
+      "ageHoursAtAnalysis": 72.8,
+      "analyticsStatus": "available",
       "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
+        "views": 254,
+        "estimatedMinutesWatched": 77,
+        "averageViewDuration": 34.0,
+        "likes": 19,
+        "comments": 1,
+        "shares": 0
       },
       "videoDurationSeconds": 63.4,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 53.6,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 1.08,
+        "note": "avd=34.0s vs baseline 31.5s"
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-09-22-SELF2",
       "videoId": "gw5ObbOirMA",
       "title": "Why the Flamingo Can Sleep Standing on One Leg #Shorts",
       "uploadedAt": "2026-09-22T16:11:46.364771-04:00",
-      "ageHoursAtAnalysis": 42.9,
-      "analyticsStatus": "pending",
+      "ageHoursAtAnalysis": 66.9,
+      "analyticsStatus": "available",
       "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
+        "views": 522,
+        "estimatedMinutesWatched": 175,
+        "averageViewDuration": 31.0,
+        "likes": 15,
+        "comments": 1,
+        "shares": 0
       },
       "videoDurationSeconds": 67.5,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
+      "retentionPercent": 45.9,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+        "ratioToBaselineAvgViewDuration": 0.98,
+        "note": "avd=31.0s vs baseline 31.5s"
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
-      "lastNotifiedLabel": null
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-09-23-SELF1",
       "videoId": "d4KV2VtHjdQ",
       "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
       "uploadedAt": "2026-09-23T10:15:04.950497-04:00",
-      "ageHoursAtAnalysis": 24.8,
+      "ageHoursAtAnalysis": 48.8,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 64.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3563,26 +3521,18 @@
       "videoId": "9q2tIQpocVw",
       "title": "Why the Sea Turtle Holds Its Breath for 7 Hours #Shorts",
       "uploadedAt": "2026-09-23T16:11:51.812381-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 42.8,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 72.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3590,26 +3540,56 @@
       "videoId": "BDS46bo0SQw",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
       "uploadedAt": "2026-09-24T10:15:17.810213-04:00",
-      "ageHoursAtAnalysis": 0.8,
+      "ageHoursAtAnalysis": 24.8,
       "analyticsStatus": "pending",
-      "metrics": {
-        "views": null,
-        "estimatedMinutesWatched": null,
-        "averageViewDuration": null,
-        "likes": null,
-        "comments": null,
-        "shares": null
-      },
+      "metrics": {},
       "videoDurationSeconds": 61.3,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 31.5,
-        "baselineTopVideosMedianViews": 1514.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-24-SELF2",
+      "videoId": "SxtMLKiyjSs",
+      "title": "Why the Parrot Can Sing Two Notes at Once #Shorts",
+      "uploadedAt": "2026-09-24T16:18:13.739088-04:00",
+      "ageHoursAtAnalysis": 18.7,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 64.5,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-25-SELF1",
+      "videoId": "b2g-BwBx3fA",
+      "title": "Why the Bee Makes the Only Food That Never Spoils #Shorts",
+      "uploadedAt": "2026-09-25T10:15:31.762269-04:00",
+      "ageHoursAtAnalysis": 0.8,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 76.6,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -3672,7 +3652,6 @@
         "stLW6k2r018",
         "F32twk3TlBI",
         "LF75Mu00CIQ",
-        "C1n3GyrwoFs",
         "YkhLUofVR2g"
       ],
       "sampleSize": 55,
@@ -3731,10 +3710,7 @@
         "h5fQjWuF_gU",
         "iCb97p7AJoI",
         "epjoY2rCddc",
-        "3vmsPSajHBE",
-        "jEqJZgPc23M",
-        "d4KV2VtHjdQ",
-        "BDS46bo0SQw"
+        "3vmsPSajHBE"
       ],
       "sampleSize": 47,
       "avgViewDurationMedian": 26.0,
@@ -3769,16 +3745,13 @@
         "xwB-Gbv6bAE",
         "uEWo-Q5jST8",
         "M95zB-4aYAQ",
-        "7uqPQXoOdtE",
-        "OMvgN3EM4yo",
         "tK3MFFl9d40",
-        "gw5ObbOirMA",
-        "9q2tIQpocVw"
+        "gw5ObbOirMA"
       ],
-      "sampleSize": 23,
-      "avgViewDurationMedian": 27.0,
-      "viewsMedian": 1051.0,
-      "verdict": "promising",
+      "sampleSize": 25,
+      "avgViewDurationMedian": 30.0,
+      "viewsMedian": 1045.0,
+      "verdict": "prioritize",
       "confidence": "high"
     }
   ],
@@ -3878,7 +3851,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 28.5,
       "viewsMedian": 495.5,
-      "verdict": "avoid",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -3962,9 +3935,9 @@
         "5skOplVQqVk",
         "tK3MFFl9d40"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 28.0,
-      "viewsMedian": 620.5,
+      "sampleSize": 3,
+      "avgViewDurationMedian": 34.0,
+      "viewsMedian": 254.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3994,7 +3967,7 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 32.0,
       "viewsMedian": 924.0,
-      "verdict": "promising",
+      "verdict": "prioritize",
       "confidence": "low"
     },
     {
@@ -4133,7 +4106,7 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 30.0,
       "viewsMedian": 922.5,
-      "verdict": "promising",
+      "verdict": "prioritize",
       "confidence": "low"
     },
     {
@@ -4158,8 +4131,7 @@
         "0jZSeW-87Gw",
         "6_LwoDgA6AI",
         "uack1HYnRco",
-        "2JHXOWVXXFo",
-        "9q2tIQpocVw"
+        "2JHXOWVXXFo"
       ],
       "sampleSize": 4,
       "avgViewDurationMedian": 25.5,
@@ -4172,13 +4144,12 @@
       "label": "Butterfly",
       "videos": [
         "SDOouEXJgQw",
-        "2_8g59HuiH4",
-        "jEqJZgPc23M"
+        "2_8g59HuiH4"
       ],
       "sampleSize": 2,
       "avgViewDurationMedian": 24.0,
       "viewsMedian": 380.0,
-      "verdict": "avoid",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4216,9 +4187,9 @@
         "F32twk3TlBI",
         "gw5ObbOirMA"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 32.5,
-      "viewsMedian": 806.0,
+      "sampleSize": 3,
+      "avgViewDurationMedian": 31.0,
+      "viewsMedian": 583.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4227,8 +4198,7 @@
       "label": "Peacock",
       "videos": [
         "Myb4_3AuIec",
-        "h5fQjWuF_gU",
-        "d4KV2VtHjdQ"
+        "h5fQjWuF_gU"
       ],
       "sampleSize": 2,
       "avgViewDurationMedian": 25.5,
@@ -4255,13 +4225,12 @@
       "label": "Deer",
       "videos": [
         "1XxTz8DJ_0Y",
-        "35ObWh3YP74",
-        "BDS46bo0SQw"
+        "35ObWh3YP74"
       ],
       "sampleSize": 2,
       "avgViewDurationMedian": 25.0,
       "viewsMedian": 497.0,
-      "verdict": "avoid",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4289,7 +4258,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 23.0,
       "viewsMedian": 162.0,
-      "verdict": "avoid",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4338,7 +4307,6 @@
       "key": "seal",
       "label": "Seal",
       "videos": [
-        "OMvgN3EM4yo",
         "YLO6Feao4Ug",
         "3vmsPSajHBE"
       ],
@@ -4358,7 +4326,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 24.0,
       "viewsMedian": 889.0,
-      "verdict": "avoid",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4391,14 +4359,13 @@
       "key": "meerkat",
       "label": "Meerkat",
       "videos": [
-        "7uqPQXoOdtE",
         "HzfM0V9SMw0",
         "YkhLUofVR2g"
       ],
       "sampleSize": 2,
       "avgViewDurationMedian": 43.0,
       "viewsMedian": 557.0,
-      "verdict": "prioritize",
+      "verdict": "promising",
       "confidence": "low"
     }
   ],
@@ -4461,7 +4428,6 @@
         "stLW6k2r018",
         "F32twk3TlBI",
         "LF75Mu00CIQ",
-        "C1n3GyrwoFs",
         "YkhLUofVR2g"
       ],
       "sampleSize": 55,
@@ -4520,10 +4486,7 @@
         "h5fQjWuF_gU",
         "iCb97p7AJoI",
         "epjoY2rCddc",
-        "3vmsPSajHBE",
-        "jEqJZgPc23M",
-        "d4KV2VtHjdQ",
-        "BDS46bo0SQw"
+        "3vmsPSajHBE"
       ],
       "sampleSize": 47,
       "avgViewDurationMedian": 26.0,
@@ -4558,16 +4521,13 @@
         "xwB-Gbv6bAE",
         "uEWo-Q5jST8",
         "M95zB-4aYAQ",
-        "7uqPQXoOdtE",
-        "OMvgN3EM4yo",
         "tK3MFFl9d40",
-        "gw5ObbOirMA",
-        "9q2tIQpocVw"
+        "gw5ObbOirMA"
       ],
-      "sampleSize": 23,
-      "avgViewDurationMedian": 27.0,
-      "viewsMedian": 1051.0,
-      "verdict": "promising",
+      "sampleSize": 25,
+      "avgViewDurationMedian": 30.0,
+      "viewsMedian": 1045.0,
+      "verdict": "prioritize",
       "confidence": "high"
     }
   ],
@@ -4584,8 +4544,8 @@
     },
     {
       "pattern": "Why the [animal] [survival adaptation] #Shorts",
-      "evidence": "23 available videos; median 1051.0 views and 27.0s average view duration versus 31.5s channel baseline; confidence high.",
-      "verdict": "promising"
+      "evidence": "25 available videos; median 1045.0 views and 30.0s average view duration versus 31.5s channel baseline; confidence high.",
+      "verdict": "prioritize"
     },
     {
       "pattern": "Topic: Elephant",
