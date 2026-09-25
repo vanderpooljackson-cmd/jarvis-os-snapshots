@@ -5006,6 +5006,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on parrot (1st: Smarter Than a Toddler = intelligence). Communication: syrix at windpipe split into two bronchi. Each side is separate instrument with own membranes, muscles, nerve. Can sing two notes simultaneously on single breath. Dual-voice system is secret behind mimicry. No other animal can do this. 6/6 Pexels clips (ALL real parrots/macaws/cockatoo). Assembly ok:false (false negative \u2014 validated). Compressed 28MB->4.5MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-25-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "1b9088540b9da739b70b832b3b5bb619d29aaed859eebcf86f27d36da6e2732b",
+      "status": "uploaded",
+      "startedAt": "2026-09-25T10:07:53.539707-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Bee Makes the Only Food That Never Spoils #Shorts",
+      "animal": "bee",
+      "angle": "2nd (1st: Speaks in Dance to Find Food = communication). Extreme survival: honey never spoils. Found in Egyptian tombs 3000+ years old, still edible. Low water + high sugar dehydrates bacteria. Bees add enzyme producing hydrogen peroxide. Only food that doesn't spoil. Single bee makes 1/12 tsp honey in lifetime.",
+      "renderedAt": "2026-09-25T10:15:31.762269-04:00",
+      "uploadedAt": "2026-09-25T10:15:31.762269-04:00",
+      "youtube": {
+        "videoId": "b2g-BwBx3fA",
+        "url": "https://www.youtube.com/watch?v=b2g-BwBx3fA"
+      },
+      "duration": 76.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "FOOD THAT NEVER SPOILS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on bee (1st: Speaks in Dance to Find Food = communication). Extreme survival: honey never spoils. Found in Egyptian tombs 3000+ years old still edible. Low water + high sugar dehydrates bacteria. Bees add glucose oxidase enzyme producing hydrogen peroxide. Only food that doesn't spoil. One bee makes 1/12 tsp honey in lifetime. 6/6 Pexels clips (bees on flowers, honey pouring, honeycomb, bee hive, bee pollinating). Assembly ok:false (false negative \u2014 validated). Compressed 32MB->3.8MB (CRF 43)."
     }
   ]
 }
