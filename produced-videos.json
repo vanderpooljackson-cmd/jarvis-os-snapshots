@@ -5029,6 +5029,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on bee (1st: Speaks in Dance to Find Food = communication). Extreme survival: honey never spoils. Found in Egyptian tombs 3000+ years old still edible. Low water + high sugar dehydrates bacteria. Bees add glucose oxidase enzyme producing hydrogen peroxide. Only food that doesn't spoil. One bee makes 1/12 tsp honey in lifetime. 6/6 Pexels clips (bees on flowers, honey pouring, honeycomb, bee hive, bee pollinating). Assembly ok:false (false negative \u2014 validated). Compressed 32MB->3.8MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-25-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "a83d04c3851632c55185da71fc16088739b7499308c4b04d64ff8f26a642fb0f",
+      "status": "uploaded",
+      "startedAt": "2026-09-25T16:04:46.283900-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Lemur Taps on Trees Like a Doctor #Shorts",
+      "animal": "lemur",
+      "angle": "2nd (1st: Has Eyes That Glow in the Dark = night vision/tapetum lucidum). Sensory: aye-aye percussive foraging. Skeletal middle finger taps tree bark, listens for hollow spaces where grubs hide. Gnaws hole, extracts grub with long finger. Uses finger as stethoscope + fishing tool. Only primate that uses hearing to find food inside wood.",
+      "renderedAt": "2026-09-25T16:11:17.212007-04:00",
+      "uploadedAt": "2026-09-25T16:11:17.212007-04:00",
+      "youtube": {
+        "videoId": "fcSd2iofxJs",
+        "url": "https://www.youtube.com/watch?v=fcSd2iofxJs"
+      },
+      "duration": 59.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "TAPS TREES TO FIND FOOD",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on lemur (1st: Has Eyes That Glow in the Dark = night vision/tapetum lucidum). Sensory: aye-aye percussive foraging. Skeletal middle finger taps tree bark, listens with enormous ears for hollow spaces where grubs hide. Gnaws hole with ever-growing teeth, extracts grub with long finger. Only primate that uses hearing to find food inside wood. 6/6 Pexels clips (ALL real ring-tailed lemurs in natural habitat, eating, relaxing). Assembly ok:true (clean). Compressed 35MB->3.8MB (CRF 43)."
     }
   ]
 }
