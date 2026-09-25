@@ -217,6 +217,30 @@
       "evaluatedAt": "2026-09-17T10:01:00-04:00",
       "decision": "inconclusive-keep",
       "evalNotes": "Inconclusive zero-traffic evaluation. Variant period (2026-09-14 to 2026-09-17) returned no rows in both the per-video and daily metrics queries: 0 total views, 0 estimated minutes watched, 0 likes, and no average-view-duration observations. The 14-day pre-test baseline (2026-09-01 to 2026-09-13) also returned no rows: 0 total views, 0 estimated minutes watched, 0 likes, and no average-view-duration observations. The video had no traffic before or during the test, so there is no evidence the variant hurt and reverting would be churn with no data. Decision: KEEP the variant title."
+    },
+    {
+      "id": "EXP-009",
+      "videoId": "v3KM5eDdnho",
+      "field": "title",
+      "baseline": "Why the Manatee Never Runs Out of Teeth #Shorts",
+      "variant": "How Can a Manatee Keep Replacing Its Teeth Forever? #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-09-25T09:03:25.213682-04:00",
+      "baselineMetrics": {
+        "windowDays": 28,
+        "views": 1855,
+        "watched": 596,
+        "likes": 88,
+        "comments": 1,
+        "avgViewDuration": 30,
+        "flag": "optimize"
+      },
+      "baselineDailyAverages": {
+        "views": 66.25,
+        "watched": 21.285714285714285,
+        "avgViewDuration": 30
+      },
+      "status": "running"
     }
   ],
   "policy": {
