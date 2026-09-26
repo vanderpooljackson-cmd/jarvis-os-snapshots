@@ -5052,6 +5052,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on lemur (1st: Has Eyes That Glow in the Dark = night vision/tapetum lucidum). Sensory: aye-aye percussive foraging. Skeletal middle finger taps tree bark, listens with enormous ears for hollow spaces where grubs hide. Gnaws hole with ever-growing teeth, extracts grub with long finger. Only primate that uses hearing to find food inside wood. 6/6 Pexels clips (ALL real ring-tailed lemurs in natural habitat, eating, relaxing). Assembly ok:true (clean). Compressed 35MB->3.8MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-26-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "3ad30c57645b55ea02b641e02adb0bfa3d57e262ccc232ce5bb750befcd30920",
+      "status": "uploaded",
+      "startedAt": "2026-09-26T10:04:15.591103-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
+      "animal": "elephant",
+      "angle": "3rd (1st: Hears With Its Feet = infrasound hearing, 2nd: Trunk 40k Muscles = anatomy). Cognition: elephant memory. Can remember water sources for 30+ years. Recognize individual humans years later. Matriarch leads herd to drought survival. Brain has 257 billion neurons vs human 86 billion.",
+      "renderedAt": "2026-09-26T10:10:14.864120-04:00",
+      "uploadedAt": "2026-09-26T10:10:14.864120-04:00",
+      "youtube": {
+        "videoId": "xQH2pDOHLCc",
+        "url": "https://www.youtube.com/watch?v=xQH2pDOHLCc"
+      },
+      "duration": 70.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "NEVER FORGETS FOR 30 YEARS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on elephant (1st: Hears With Its Feet = infrasound, 2nd: Trunk 40k Muscles = anatomy). Cognition: elephant memory. Brain 257 billion neurons vs human 86 billion. Two elephants recognized each other after 22 years apart. Matriarch carries mental map of water holes spanning 30-40 years, leads herd to springs during droughts. When matriarch dies, survival rate drops \u2014 knowledge dies with her. 6/6 Pexels clips (elephant close up, herd, family, drinking, walking, elephant with baby). Assembly ok:false (false negative \u2014 validated). Compressed 45MB->3.4MB (CRF 43)."
     }
   ]
 }
