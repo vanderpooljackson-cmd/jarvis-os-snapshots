@@ -3,40 +3,32 @@
     "id": "UCseGVATXCf7COWSj4eB_amA",
     "title": "JVOutdoors",
     "handle": "@jvoutdoors67",
-    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me. \n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
+    "description": "JV Outdoors brings you fun facts and valuable information about nature and everything wildlife.\n\nEvery video is published, edited and scripted by me.\n\nCopying of content is not permitted.\n\nIf needed please contact me at jtv149@gmail.com",
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 165825,
-      "subscriberCount": 235,
-      "videoCount": 177
+      "viewCount": 169186,
+      "subscriberCount": 243,
+      "videoCount": 179
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-28",
-    "endDate": "2026-09-25",
+    "startDate": "2026-08-29",
+    "endDate": "2026-09-26",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 56463,
-    "estimatedMinutesWatched": 19511,
-    "subscribersGained": 96,
-    "subscribersLost": 11,
-    "likes": 2651,
-    "comments": 30,
-    "shares": 54,
-    "netSubscribers": 85
+    "views": 56445,
+    "estimatedMinutesWatched": 19467,
+    "subscribersGained": 95,
+    "subscribersLost": 10,
+    "netSubscribers": 85,
+    "likes": 2699,
+    "comments": 32,
+    "shares": 57
   },
   "daily": [
-    {
-      "day": "2026-08-28",
-      "views": 2594,
-      "watched": 1085,
-      "subsGained": 7,
-      "subsLost": 1,
-      "likes": 129
-    },
     {
       "day": "2026-08-29",
       "views": 2981,
@@ -236,13 +228,21 @@
       "subsGained": 2,
       "subsLost": 2,
       "likes": 38
+    },
+    {
+      "day": "2026-09-23",
+      "views": 2576,
+      "watched": 1041,
+      "subsGained": 6,
+      "subsLost": 0,
+      "likes": 177
     }
   ],
   "topVideos": [
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2972,
+      "views": 2973,
       "watched": 1917,
       "likes": 127,
       "comments": 4,
@@ -253,7 +253,7 @@
     {
       "videoId": "2GZbLp5SP7g",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 2075,
+      "views": 2077,
       "watched": 1059,
       "likes": 127,
       "comments": 1,
@@ -270,12 +270,12 @@
       "comments": 1,
       "avgViewDuration": 30,
       "flag": "optimize",
-      "note": "Above-average views (1855, above 1682.9 top-10 average) but below-median retention (30s vs 31.5s)"
+      "note": "Above-average views (1855, above 1679.2 top-10 average) but below-median retention (30s vs 31s)"
     },
     {
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-      "views": 1523,
+      "views": 1525,
       "watched": 734,
       "likes": 74,
       "comments": 0,
@@ -286,7 +286,7 @@
     {
       "videoId": "epjoY2rCddc",
       "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
-      "views": 1512,
+      "views": 1514,
       "watched": 422,
       "likes": 53,
       "comments": 0,
@@ -328,17 +328,6 @@
       "note": ""
     },
     {
-      "videoId": "JedGHLLl0pY",
-      "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-      "views": 1336,
-      "watched": 782,
-      "likes": 51,
-      "comments": 0,
-      "avgViewDuration": 59,
-      "flag": "stable",
-      "note": ""
-    },
-    {
       "videoId": "7AqFSgZ_go8",
       "title": "Why the Monkey Uses Tools Like a Human #Shorts",
       "views": 1300,
@@ -348,32 +337,43 @@
       "avgViewDuration": 29,
       "flag": "stable",
       "note": ""
+    },
+    {
+      "videoId": "qmuReYJT06A",
+      "title": "Why the Octopus Has Three Hearts #Shorts",
+      "views": 1292,
+      "watched": 389,
+      "likes": 75,
+      "comments": 0,
+      "avgViewDuration": 32,
+      "flag": "stable",
+      "note": ""
     }
   ],
-  "fetchedAt": "2026-09-25T09:03:25.213682-04:00",
+  "fetchedAt": "2026-09-26T09:03:22.331422-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-25T09:03:25.213682-04:00",
+      "fetchedAt": "2026-09-26T09:03:22.331422-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 235,
+        "current": 243,
         "threshold": 1000,
-        "percent": 23.5
+        "percent": 24.3
       },
       "watchHours12mo": {
-        "current": 860.5,
+        "current": 877.9,
         "threshold": 4000,
-        "percent": 21.51,
+        "percent": 21.95,
         "window": "Last 12 months",
-        "minutesWatched": 51632
+        "minutesWatched": 52674
       },
       "shortsViews90d": {
-        "current": 143867,
+        "current": 146441,
         "threshold": 10000000,
-        "percent": 1.439,
+        "percent": 1.464,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
