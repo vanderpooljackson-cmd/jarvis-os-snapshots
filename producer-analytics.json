@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-25T11:02:50.893819-04:00",
-  "fetchedAt": "2026-09-25T11:02:50.893819-04:00",
+  "lastRunAt": "2026-09-26T11:07:28.379353-04:00",
+  "fetchedAt": "2026-09-26T11:07:28.379353-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -819,18 +819,18 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1296.8,
+      "ageHoursAtAnalysis": 1320.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -838,18 +838,18 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1290.9,
+      "ageHoursAtAnalysis": 1315.0,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1748,18 +1748,18 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 863.6,
+      "ageHoursAtAnalysis": 887.7,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 301.9,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -3431,18 +3431,18 @@
       "videoId": "jEqJZgPc23M",
       "title": "Why the Butterfly Tastes With Its Feet #Shorts",
       "uploadedAt": "2026-09-21T16:12:30.589794-04:00",
-      "ageHoursAtAnalysis": 90.8,
+      "ageHoursAtAnalysis": 114.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 66.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3502,56 +3502,70 @@
       "videoId": "d4KV2VtHjdQ",
       "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
       "uploadedAt": "2026-09-23T10:15:04.950497-04:00",
-      "ageHoursAtAnalysis": 48.8,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 64.6,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 72.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1279,
+        "estimatedMinutesWatched": 508,
+        "averageViewDuration": 39.0,
+        "likes": 98,
+        "comments": 1,
+        "shares": 12
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 64.6,
+      "retentionPercent": 60.4,
+      "performanceLabel": "winner",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.0,
+        "ratioToBaselineAvgViewDuration": 1.26,
+        "note": "Above baseline AVD with meaningful early views."
+      },
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "lastNotifiedLabel": "winner"
     },
     {
       "productionId": "JV-2026-09-23-SELF2",
       "videoId": "9q2tIQpocVw",
       "title": "Why the Sea Turtle Holds Its Breath for 7 Hours #Shorts",
       "uploadedAt": "2026-09-23T16:11:51.812381-04:00",
-      "ageHoursAtAnalysis": 42.8,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 72.6,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 66.9,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1096,
+        "estimatedMinutesWatched": 471,
+        "averageViewDuration": 39.0,
+        "likes": 73,
+        "comments": 0,
+        "shares": 1
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 72.6,
+      "retentionPercent": 53.7,
+      "performanceLabel": "winner",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.0,
+        "ratioToBaselineAvgViewDuration": 1.26,
+        "note": "Above baseline AVD with meaningful early views."
+      },
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "lastNotifiedLabel": "winner"
     },
     {
       "productionId": "JV-2026-09-24-SELF1",
       "videoId": "BDS46bo0SQw",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
       "uploadedAt": "2026-09-24T10:15:17.810213-04:00",
-      "ageHoursAtAnalysis": 24.8,
+      "ageHoursAtAnalysis": 48.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.3,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3559,18 +3573,18 @@
       "videoId": "SxtMLKiyjSs",
       "title": "Why the Parrot Can Sing Two Notes at Once #Shorts",
       "uploadedAt": "2026-09-24T16:18:13.739088-04:00",
-      "ageHoursAtAnalysis": 18.7,
+      "ageHoursAtAnalysis": 42.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 64.5,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3578,18 +3592,56 @@
       "videoId": "b2g-BwBx3fA",
       "title": "Why the Bee Makes the Only Food That Never Spoils #Shorts",
       "uploadedAt": "2026-09-25T10:15:31.762269-04:00",
-      "ageHoursAtAnalysis": 0.8,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 76.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.5,
+        "baselineAvgViewDuration": 31.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-25-SELF2",
+      "videoId": "fcSd2iofxJs",
+      "title": "Why the Lemur Taps on Trees Like a Doctor #Shorts",
+      "uploadedAt": "2026-09-25T16:11:17.212007-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 59.2,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-26-SELF1",
+      "videoId": "xQH2pDOHLCc",
+      "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
+      "uploadedAt": "2026-09-26T10:10:14.864120-04:00",
+      "ageHoursAtAnalysis": 1.0,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 70.6,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 31.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -3710,11 +3762,12 @@
         "h5fQjWuF_gU",
         "iCb97p7AJoI",
         "epjoY2rCddc",
-        "3vmsPSajHBE"
+        "3vmsPSajHBE",
+        "d4KV2VtHjdQ"
       ],
-      "sampleSize": 47,
+      "sampleSize": 48,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1027.0,
+      "viewsMedian": 1031.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -3746,11 +3799,12 @@
         "uEWo-Q5jST8",
         "M95zB-4aYAQ",
         "tK3MFFl9d40",
-        "gw5ObbOirMA"
+        "gw5ObbOirMA",
+        "9q2tIQpocVw"
       ],
-      "sampleSize": 25,
+      "sampleSize": 26,
       "avgViewDurationMedian": 30.0,
-      "viewsMedian": 1045.0,
+      "viewsMedian": 1048.0,
       "verdict": "prioritize",
       "confidence": "high"
     }
@@ -3770,6 +3824,46 @@
       "confidence": "low"
     },
     {
+      "key": "bear",
+      "label": "Bear",
+      "videos": [
+        "F39DdwKsONc",
+        "Kx882HdkE_4",
+        "oifKZFDCgAc"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 30.0,
+      "viewsMedian": 1035.0,
+      "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "bee",
+      "label": "Bee",
+      "videos": [
+        "MbGo7OdtqW8",
+        "KDSshVc584U"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 17.5,
+      "viewsMedian": 672.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "butterfly",
+      "label": "Butterfly",
+      "videos": [
+        "SDOouEXJgQw",
+        "2_8g59HuiH4"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 24.0,
+      "viewsMedian": 380.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
       "key": "camel",
       "label": "Camel",
       "videos": [
@@ -3784,6 +3878,20 @@
       "confidence": "low"
     },
     {
+      "key": "cheetah",
+      "label": "Cheetah",
+      "videos": [
+        "5i_2Sgugvpc",
+        "5grxfhqa-fg",
+        "f67CJOpAdOA"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 23.0,
+      "viewsMedian": 162.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
       "key": "crocodile",
       "label": "Crocodile",
       "videos": [
@@ -3794,6 +3902,19 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 27.0,
       "viewsMedian": 1050.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "deer",
+      "label": "Deer",
+      "videos": [
+        "1XxTz8DJ_0Y",
+        "35ObWh3YP74"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 497.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -3842,6 +3963,48 @@
       "confidence": "medium"
     },
     {
+      "key": "elephant's",
+      "label": "Elephant'S",
+      "videos": [
+        "EQW2nGlieuo",
+        "5p-ZHv0qxZQ"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 27.5,
+      "viewsMedian": 1219.5,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "flamingo",
+      "label": "Flamingo",
+      "videos": [
+        "MKT7UcL0gps",
+        "F32twk3TlBI",
+        "gw5ObbOirMA"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 31.0,
+      "viewsMedian": 583.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "fox",
+      "label": "Fox",
+      "videos": [
+        "RZ6qtnTpTiA",
+        "zgwDGPy32lg",
+        "H6x-o_inlJY",
+        "qmuReYJT06A"
+      ],
+      "sampleSize": 4,
+      "avgViewDurationMedian": 25.0,
+      "viewsMedian": 1280.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
       "key": "ghost crab",
       "label": "Ghost Crab",
       "videos": [
@@ -3865,6 +4028,19 @@
       ],
       "sampleSize": 4,
       "avgViewDurationMedian": 35.5,
+      "viewsMedian": 1087.5,
+      "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "giraffe's",
+      "label": "Giraffe'S",
+      "videos": [
+        "YOjP20H4hG4",
+        "mojAVHuMJXA"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 33.5,
       "viewsMedian": 1087.5,
       "verdict": "prioritize",
       "confidence": "low"
@@ -3895,6 +4071,35 @@
       "avgViewDurationMedian": 30.0,
       "viewsMedian": 1187.0,
       "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "hippo",
+      "label": "Hippo",
+      "videos": [
+        "36_7wDuALKU",
+        "yKKvd4LWCcE",
+        "N77GR0-J5C0",
+        "ff_lOxOwyBM"
+      ],
+      "sampleSize": 4,
+      "avgViewDurationMedian": 38.0,
+      "viewsMedian": 570.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "iguana",
+      "label": "Iguana",
+      "videos": [
+        "xwB-Gbv6bAE",
+        "MpzZGF77bkM",
+        "KFeeP9J-nAc"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 22.0,
+      "viewsMedian": 1060.0,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -3942,6 +4147,46 @@
       "confidence": "low"
     },
     {
+      "key": "lemur",
+      "label": "Lemur",
+      "videos": [
+        "L--6Wp8DivU",
+        "iCb97p7AJoI"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 25.5,
+      "viewsMedian": 852.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "manatee",
+      "label": "Manatee",
+      "videos": [
+        "YwMwXnf9u7I",
+        "v3KM5eDdnho",
+        "2Of2LGwZUcg"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 24.0,
+      "viewsMedian": 1105.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "meerkat",
+      "label": "Meerkat",
+      "videos": [
+        "HzfM0V9SMw0",
+        "YkhLUofVR2g"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 43.0,
+      "viewsMedian": 557.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
       "key": "monkey",
       "label": "Monkey",
       "videos": [
@@ -3971,6 +4216,20 @@
       "confidence": "low"
     },
     {
+      "key": "owl",
+      "label": "Owl",
+      "videos": [
+        "eD5uslCyTt4",
+        "f0dpKtBpIlw",
+        "Ke35_LxnMnM"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 38.0,
+      "viewsMedian": 1103.0,
+      "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
       "key": "parrot",
       "label": "Parrot",
       "videos": [
@@ -3981,6 +4240,49 @@
       "avgViewDurationMedian": 34.5,
       "viewsMedian": 1000.5,
       "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "peacock",
+      "label": "Peacock",
+      "videos": [
+        "Myb4_3AuIec",
+        "h5fQjWuF_gU",
+        "d4KV2VtHjdQ"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 33.0,
+      "viewsMedian": 1179.0,
+      "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "penguin",
+      "label": "Penguin",
+      "videos": [
+        "D2elbK2vCRE",
+        "Gk_HcgWxyIM",
+        "UcQS3DCyfCs",
+        "vrQvd89xsNA"
+      ],
+      "sampleSize": 4,
+      "avgViewDurationMedian": 30.0,
+      "viewsMedian": 922.5,
+      "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "polar",
+      "label": "Polar",
+      "videos": [
+        "g6Nmh2WuHDo",
+        "LF75Mu00CIQ",
+        "JutAKR5ZODg"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1218.0,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -3998,6 +4300,37 @@
       "confidence": "low"
     },
     {
+      "key": "rhino",
+      "label": "Rhino",
+      "videos": [
+        "idqWVEzP_Ps",
+        "-bpS7VaF_EI",
+        "stLW6k2r018"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 29.0,
+      "viewsMedian": 1414.0,
+      "verdict": "prioritize",
+      "confidence": "low"
+    },
+    {
+      "key": "sea",
+      "label": "Sea",
+      "videos": [
+        "6_LwoDgA6AI",
+        "2JHXOWVXXFo",
+        "zCiVupoWOVk",
+        "0onjfepA3F8",
+        "VI6zQ6ghUPQ",
+        "9q2tIQpocVw"
+      ],
+      "sampleSize": 6,
+      "avgViewDurationMedian": 24.0,
+      "viewsMedian": 1059.0,
+      "verdict": "promising",
+      "confidence": "medium"
+    },
+    {
       "key": "sea lion",
       "label": "Sea Lion",
       "videos": [
@@ -4008,6 +4341,19 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 22.0,
       "viewsMedian": 1022.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "seal",
+      "label": "Seal",
+      "videos": [
+        "YLO6Feao4Ug",
+        "3vmsPSajHBE"
+      ],
+      "sampleSize": 2,
+      "avgViewDurationMedian": 27.5,
+      "viewsMedian": 1233.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4068,6 +4414,22 @@
       "confidence": "low"
     },
     {
+      "key": "turtle",
+      "label": "Turtle",
+      "videos": [
+        "0jZSeW-87Gw",
+        "6_LwoDgA6AI",
+        "uack1HYnRco",
+        "2JHXOWVXXFo",
+        "9q2tIQpocVw"
+      ],
+      "sampleSize": 5,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1180.0,
+      "verdict": "promising",
+      "confidence": "medium"
+    },
+    {
       "key": "wood frog",
       "label": "Wood Frog",
       "videos": [
@@ -4078,294 +4440,6 @@
       "avgViewDurationMedian": 29.5,
       "viewsMedian": 1025.0,
       "verdict": "prioritize",
-      "confidence": "low"
-    },
-    {
-      "key": "owl",
-      "label": "Owl",
-      "videos": [
-        "eD5uslCyTt4",
-        "f0dpKtBpIlw",
-        "Ke35_LxnMnM"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 38.0,
-      "viewsMedian": 1103.0,
-      "verdict": "prioritize",
-      "confidence": "low"
-    },
-    {
-      "key": "penguin",
-      "label": "Penguin",
-      "videos": [
-        "D2elbK2vCRE",
-        "Gk_HcgWxyIM",
-        "UcQS3DCyfCs",
-        "vrQvd89xsNA"
-      ],
-      "sampleSize": 4,
-      "avgViewDurationMedian": 30.0,
-      "viewsMedian": 922.5,
-      "verdict": "prioritize",
-      "confidence": "low"
-    },
-    {
-      "key": "fox",
-      "label": "Fox",
-      "videos": [
-        "RZ6qtnTpTiA",
-        "zgwDGPy32lg",
-        "H6x-o_inlJY",
-        "qmuReYJT06A"
-      ],
-      "sampleSize": 4,
-      "avgViewDurationMedian": 25.0,
-      "viewsMedian": 1280.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "turtle",
-      "label": "Turtle",
-      "videos": [
-        "0jZSeW-87Gw",
-        "6_LwoDgA6AI",
-        "uack1HYnRco",
-        "2JHXOWVXXFo"
-      ],
-      "sampleSize": 4,
-      "avgViewDurationMedian": 25.5,
-      "viewsMedian": 1242.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "butterfly",
-      "label": "Butterfly",
-      "videos": [
-        "SDOouEXJgQw",
-        "2_8g59HuiH4"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 24.0,
-      "viewsMedian": 380.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "bear",
-      "label": "Bear",
-      "videos": [
-        "F39DdwKsONc",
-        "Kx882HdkE_4",
-        "oifKZFDCgAc"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 30.0,
-      "viewsMedian": 1035.0,
-      "verdict": "prioritize",
-      "confidence": "low"
-    },
-    {
-      "key": "bee",
-      "label": "Bee",
-      "videos": [
-        "MbGo7OdtqW8",
-        "KDSshVc584U"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 17.5,
-      "viewsMedian": 672.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "flamingo",
-      "label": "Flamingo",
-      "videos": [
-        "MKT7UcL0gps",
-        "F32twk3TlBI",
-        "gw5ObbOirMA"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 31.0,
-      "viewsMedian": 583.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "peacock",
-      "label": "Peacock",
-      "videos": [
-        "Myb4_3AuIec",
-        "h5fQjWuF_gU"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 25.5,
-      "viewsMedian": 883.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "rhino",
-      "label": "Rhino",
-      "videos": [
-        "idqWVEzP_Ps",
-        "-bpS7VaF_EI",
-        "stLW6k2r018"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 29.0,
-      "viewsMedian": 1414.0,
-      "verdict": "prioritize",
-      "confidence": "low"
-    },
-    {
-      "key": "deer",
-      "label": "Deer",
-      "videos": [
-        "1XxTz8DJ_0Y",
-        "35ObWh3YP74"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 25.0,
-      "viewsMedian": 497.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "iguana",
-      "label": "Iguana",
-      "videos": [
-        "xwB-Gbv6bAE",
-        "MpzZGF77bkM",
-        "KFeeP9J-nAc"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 22.0,
-      "viewsMedian": 1060.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "cheetah",
-      "label": "Cheetah",
-      "videos": [
-        "5i_2Sgugvpc",
-        "5grxfhqa-fg",
-        "f67CJOpAdOA"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 23.0,
-      "viewsMedian": 162.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "manatee",
-      "label": "Manatee",
-      "videos": [
-        "YwMwXnf9u7I",
-        "v3KM5eDdnho",
-        "2Of2LGwZUcg"
-      ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 24.0,
-      "viewsMedian": 1105.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "lemur",
-      "label": "Lemur",
-      "videos": [
-        "L--6Wp8DivU",
-        "iCb97p7AJoI"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 25.5,
-      "viewsMedian": 852.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "hippo",
-      "label": "Hippo",
-      "videos": [
-        "36_7wDuALKU",
-        "yKKvd4LWCcE",
-        "N77GR0-J5C0",
-        "ff_lOxOwyBM"
-      ],
-      "sampleSize": 4,
-      "avgViewDurationMedian": 38.0,
-      "viewsMedian": 570.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "seal",
-      "label": "Seal",
-      "videos": [
-        "YLO6Feao4Ug",
-        "3vmsPSajHBE"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 27.5,
-      "viewsMedian": 1233.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "sea",
-      "label": "Sea",
-      "videos": [
-        "6_LwoDgA6AI",
-        "2JHXOWVXXFo"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 24.0,
-      "viewsMedian": 889.0,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "elephant's",
-      "label": "Elephant'S",
-      "videos": [
-        "EQW2nGlieuo",
-        "5p-ZHv0qxZQ"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 27.5,
-      "viewsMedian": 1219.5,
-      "verdict": "promising",
-      "confidence": "low"
-    },
-    {
-      "key": "giraffe's",
-      "label": "Giraffe'S",
-      "videos": [
-        "YOjP20H4hG4",
-        "mojAVHuMJXA"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 33.5,
-      "viewsMedian": 1087.5,
-      "verdict": "prioritize",
-      "confidence": "low"
-    },
-    {
-      "key": "meerkat",
-      "label": "Meerkat",
-      "videos": [
-        "HzfM0V9SMw0",
-        "YkhLUofVR2g"
-      ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 43.0,
-      "viewsMedian": 557.0,
-      "verdict": "promising",
       "confidence": "low"
     }
   ],
@@ -4486,11 +4560,12 @@
         "h5fQjWuF_gU",
         "iCb97p7AJoI",
         "epjoY2rCddc",
-        "3vmsPSajHBE"
+        "3vmsPSajHBE",
+        "d4KV2VtHjdQ"
       ],
-      "sampleSize": 47,
+      "sampleSize": 48,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1027.0,
+      "viewsMedian": 1031.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4522,11 +4597,12 @@
         "uEWo-Q5jST8",
         "M95zB-4aYAQ",
         "tK3MFFl9d40",
-        "gw5ObbOirMA"
+        "gw5ObbOirMA",
+        "9q2tIQpocVw"
       ],
-      "sampleSize": 25,
+      "sampleSize": 26,
       "avgViewDurationMedian": 30.0,
-      "viewsMedian": 1045.0,
+      "viewsMedian": 1048.0,
       "verdict": "prioritize",
       "confidence": "high"
     }
@@ -4534,17 +4610,17 @@
   "summary": [
     {
       "pattern": "Why the [animal] [extreme ability] #Shorts",
-      "evidence": "55 available videos; median 1050.0 views and 29.0s average view duration versus 31.5s channel baseline; confidence high.",
+      "evidence": "55 available videos; median 1050.0 views and 29.0s average view duration versus 31.0s channel baseline; confidence high.",
       "verdict": "prioritize"
     },
     {
       "pattern": "Why the [animal] [sensory surprise] #Shorts",
-      "evidence": "47 available videos; median 1027.0 views and 26.0s average view duration versus 31.5s channel baseline; confidence high.",
+      "evidence": "48 available videos; median 1031.0 views and 26.0s average view duration versus 31.0s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [survival adaptation] #Shorts",
-      "evidence": "25 available videos; median 1045.0 views and 30.0s average view duration versus 31.5s channel baseline; confidence high.",
+      "evidence": "26 available videos; median 1048.0 views and 30.0s average view duration versus 31.0s channel baseline; confidence high.",
       "verdict": "prioritize"
     },
     {
@@ -4556,6 +4632,16 @@
       "pattern": "Topic: Jellyfish",
       "evidence": "5 available videos; median 1032.0 views and 30.0s average view duration; confidence medium.",
       "verdict": "prioritize"
+    },
+    {
+      "pattern": "Topic: Sea",
+      "evidence": "6 available videos; median 1059.0 views and 24.0s average view duration; confidence medium.",
+      "verdict": "promising"
+    },
+    {
+      "pattern": "Topic: Turtle",
+      "evidence": "5 available videos; median 1180.0 views and 26.0s average view duration; confidence medium.",
+      "verdict": "promising"
     }
   ]
 }
