@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-26T11:07:28.379353-04:00",
-  "fetchedAt": "2026-09-26T11:07:28.379353-04:00",
+  "lastRunAt": "2026-09-26T11:08:29.810524-04:00",
+  "fetchedAt": "2026-09-26T11:08:29.810524-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -830,7 +830,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -849,7 +849,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1759,7 +1759,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -3442,7 +3442,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3520,7 +3520,7 @@
         "ratioToBaselineAvgViewDuration": 1.26,
         "note": "Above baseline AVD with meaningful early views."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -3546,7 +3546,7 @@
         "ratioToBaselineAvgViewDuration": 1.26,
         "note": "Above baseline AVD with meaningful early views."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": "winner"
     },
     {
@@ -3565,7 +3565,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3584,7 +3584,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3603,7 +3603,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3611,7 +3611,7 @@
       "videoId": "fcSd2iofxJs",
       "title": "Why the Lemur Taps on Trees Like a Doctor #Shorts",
       "uploadedAt": "2026-09-25T16:11:17.212007-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 19.0,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 59.2,
@@ -3622,7 +3622,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3641,7 +3641,7 @@
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:07:28.379353-04:00",
+      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -4314,23 +4314,6 @@
       "confidence": "low"
     },
     {
-      "key": "sea",
-      "label": "Sea",
-      "videos": [
-        "6_LwoDgA6AI",
-        "2JHXOWVXXFo",
-        "zCiVupoWOVk",
-        "0onjfepA3F8",
-        "VI6zQ6ghUPQ",
-        "9q2tIQpocVw"
-      ],
-      "sampleSize": 6,
-      "avgViewDurationMedian": 24.0,
-      "viewsMedian": 1059.0,
-      "verdict": "promising",
-      "confidence": "medium"
-    },
-    {
       "key": "sea lion",
       "label": "Sea Lion",
       "videos": [
@@ -4341,6 +4324,20 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 22.0,
       "viewsMedian": 1022.0,
+      "verdict": "promising",
+      "confidence": "low"
+    },
+    {
+      "key": "sea turtle",
+      "label": "Sea Turtle",
+      "videos": [
+        "6_LwoDgA6AI",
+        "2JHXOWVXXFo",
+        "9q2tIQpocVw"
+      ],
+      "sampleSize": 3,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 1096.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4632,11 +4629,6 @@
       "pattern": "Topic: Jellyfish",
       "evidence": "5 available videos; median 1032.0 views and 30.0s average view duration; confidence medium.",
       "verdict": "prioritize"
-    },
-    {
-      "pattern": "Topic: Sea",
-      "evidence": "6 available videos; median 1059.0 views and 24.0s average view duration; confidence medium.",
-      "verdict": "promising"
     },
     {
       "pattern": "Topic: Turtle",
