@@ -5075,6 +5075,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on elephant (1st: Hears With Its Feet = infrasound, 2nd: Trunk 40k Muscles = anatomy). Cognition: elephant memory. Brain 257 billion neurons vs human 86 billion. Two elephants recognized each other after 22 years apart. Matriarch carries mental map of water holes spanning 30-40 years, leads herd to springs during droughts. When matriarch dies, survival rate drops \u2014 knowledge dies with her. 6/6 Pexels clips (elephant close up, herd, family, drinking, walking, elephant with baby). Assembly ok:false (false negative \u2014 validated). Compressed 45MB->3.4MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-26-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "bd9c205e4fcad130c9bd09a8435b1f9f829e9b81833f20409868f26520a658df",
+      "status": "uploaded",
+      "startedAt": "2026-09-26T16:03:17.661817-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sea Turtle Finds Its Birth Beach From 10000 Miles Away #Shorts",
+      "animal": "sea turtle",
+      "angle": "2nd (1st: Holds Its Breath for 7 Hours = extreme survival). Sensory: magnetoreception. Sea turtles detect Earth's magnetic field to navigate 10000+ miles across open ocean back to exact birth beach to lay eggs. Can detect both inclination and intensity of magnetic field \u2014 GPS-like sense. Females return 20-30 years later to within miles of where they started.",
+      "renderedAt": "2026-09-26T16:11:21.966715-04:00",
+      "uploadedAt": "2026-09-26T16:11:21.966715-04:00",
+      "youtube": {
+        "videoId": "jU32SQuswds",
+        "url": "https://www.youtube.com/watch?v=jU32SQuswds"
+      },
+      "duration": 75.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "NAVIGATES 10000 MILES HOME",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 2nd angle on sea turtle (1st: Holds Its Breath for 7 Hours = extreme survival, winner 1096v 39s AVD). Sensory: magnetoreception. Turtles detect Earth's magnetic field to navigate 10000+ miles back to exact birth beach. Every point has unique magnetic signature (angle + intensity). Scientists tested with simulated magnetic fields in pools \u2014 turtles turned in correct direction. Females return 20-30 years later to within miles of birth spot. 6/6 Pexels clips (close up, baby hatching, swimming, gliding over coral, underwater, hatchling on beach). Assembly ok:false (false negative \u2014 validated). Compressed 86MB->7.7MB (CRF 43)."
     }
   ]
 }
