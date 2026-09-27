@@ -1,28 +1,28 @@
 {
-  "weekOf": "2026-09-21",
+  "weekOf": "2026-09-28",
   "basedOn": {
     "topVideos": [
       {
-        "videoId": "JedGHLLl0pY",
-        "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-        "views": 4769,
-        "avgViewDuration": 48,
+        "videoId": "stLW6k2r018",
+        "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
+        "views": 2975,
+        "avgViewDuration": 60,
         "flag": "winner",
         "note": "Top combined views and retention"
       },
       {
-        "videoId": "stLW6k2r018",
-        "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-        "views": 2959,
-        "avgViewDuration": 60,
+        "videoId": "BDS46bo0SQw",
+        "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
+        "views": 2182,
+        "avgViewDuration": 48,
         "flag": "stable",
         "note": ""
       },
       {
-        "videoId": "60-lx8gRkxU",
-        "title": "Why the Starfish Has No Blood #Shorts",
-        "views": 2342,
-        "avgViewDuration": 33,
+        "videoId": "2GZbLp5SP7g",
+        "title": "Why the Elephant Hears With Its Feet #Shorts",
+        "views": 2077,
+        "avgViewDuration": 49,
         "flag": "stable",
         "note": ""
       }
@@ -31,24 +31,24 @@
       {
         "videoId": "stLW6k2r018",
         "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-        "views": 2959,
+        "views": 2975,
         "avgViewDuration": 60,
-        "flag": "stable",
-        "note": ""
-      },
-      {
-        "videoId": "JedGHLLl0pY",
-        "title": "Why the Giraffe Sleeps Only 30 Minutes a Day #Shorts",
-        "views": 4769,
-        "avgViewDuration": 48,
         "flag": "winner",
         "note": "Top combined views and retention"
       },
       {
+        "videoId": "2GZbLp5SP7g",
+        "title": "Why the Elephant Hears With Its Feet #Shorts",
+        "views": 2077,
+        "avgViewDuration": 49,
+        "flag": "stable",
+        "note": ""
+      },
+      {
         "videoId": "rte8AZ0LmAY",
         "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-        "views": 1303,
-        "avgViewDuration": 42,
+        "views": 1525,
+        "avgViewDuration": 49,
         "flag": "stable",
         "note": ""
       }
@@ -66,28 +66,28 @@
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why the Penguin Stands in the Dark at Minus 40 for Two Months #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-003",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "The Secret That Keeps Penguins Alive in Antarctica’s Winter #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-004",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "What Do Penguins Do for 2 Months in the Dark at −40? #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-005",
         "baseline": "Why the Penguin Survives the Coldest Winter on Earth #Shorts",
         "variant": "Why Do Penguins Stand in the Dark at −40°C for Months? #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-006",
@@ -101,7 +101,7 @@
         "baseline": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts",
         "variant": "What Keeps Emperor Penguins Alive Through 2 Months of Darkness at −40°C? #Shorts",
         "result": "reverted",
-        "lesson": "Variant lost or went to near-zero traffic with retention down; avoid repeating this exact framing."
+        "lesson": "Variant lost or fell to near-zero traffic with retention down; avoid repeating this exact framing."
       },
       {
         "experimentId": "EXP-008",
@@ -109,6 +109,13 @@
         "variant": "How Can a Shark Grow 30,000 Teeth? The Secret Is Wild #Shorts",
         "result": "inconclusive-keep",
         "lesson": "No meaningful traffic signal; keep the variant as a directional curiosity-gap bet, not a proven winner."
+      },
+      {
+        "experimentId": "EXP-009",
+        "baseline": "Why the Manatee Never Runs Out of Teeth #Shorts",
+        "variant": "How Can a Manatee Keep Replacing Its Teeth Forever? #Shorts",
+        "result": "running",
+        "lesson": "Newer test; no evaluated result yet, so treat the curiosity-gap wording as unproven."
       }
     ],
     "producerAnalytics": {
@@ -116,245 +123,60 @@
         {
           "key": "extreme_ability",
           "label": "Why the [animal] [extreme ability] #Shorts",
-          "sampleSize": 54,
-          "avgViewDurationMedian": 28.0,
-          "viewsMedian": 1081.5,
-          "verdict": "promising",
+          "sampleSize": 55,
+          "avgViewDurationMedian": 29.0,
+          "viewsMedian": 1050.0,
+          "verdict": "prioritize",
           "confidence": "high"
         },
         {
           "key": "sensory_surprise",
           "label": "Why the [animal] [sensory surprise] #Shorts",
-          "sampleSize": 43,
+          "sampleSize": 48,
           "avgViewDurationMedian": 26.0,
-          "viewsMedian": 999.0,
+          "viewsMedian": 1031.0,
           "verdict": "promising",
           "confidence": "high"
         },
         {
           "key": "survival_adaptation",
           "label": "Why the [animal] [survival adaptation] #Shorts",
-          "sampleSize": 21,
-          "avgViewDurationMedian": 27.0,
-          "viewsMedian": 1051.0,
-          "verdict": "promising",
+          "sampleSize": 26,
+          "avgViewDurationMedian": 30.0,
+          "viewsMedian": 1048.0,
+          "verdict": "prioritize",
           "confidence": "high"
         }
       ],
       "summary": [
         {
-          "pattern": "Current top performer (views × average view duration)",
-          "evidence": "Why the Polar Bear Swims 400 Miles Nonstop #Shorts — 13427 views, 41s avg view duration.",
-          "verdict": "winner"
-        },
-        {
           "pattern": "Why the [animal] [extreme ability] #Shorts",
-          "evidence": "54 available videos; median 28.0s average view duration and 1081.5 views; confidence high.",
-          "verdict": "promising"
+          "evidence": "55 available videos; median 1050.0 views and 29.0s average view duration versus 31.0s channel baseline; confidence high.",
+          "verdict": "prioritize"
         },
         {
           "pattern": "Why the [animal] [sensory surprise] #Shorts",
-          "evidence": "43 available videos; median 26.0s average view duration and 999.0 views; confidence high.",
+          "evidence": "48 available videos; median 1031.0 views and 26.0s average view duration versus 31.0s channel baseline; confidence high.",
           "verdict": "promising"
         },
         {
           "pattern": "Why the [animal] [survival adaptation] #Shorts",
-          "evidence": "21 available videos; median 27.0s average view duration and 1051.0 views; confidence high.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Alligator",
-          "evidence": "2 available videos; median 25.0s average view duration and 627.5 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Bear",
-          "evidence": "2 available videos; median 30.0s average view duration and 1117.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Bee",
-          "evidence": "2 available videos; median 17.5s average view duration and 672.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Butterfly",
-          "evidence": "2 available videos; median 24.0s average view duration and 380.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Camel",
-          "evidence": "3 available videos; median 21.0s average view duration and 880.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Cheetah",
-          "evidence": "3 available videos; median 23.0s average view duration and 162.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Crocodile",
-          "evidence": "3 available videos; median 27.0s average view duration and 1050.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Deer",
-          "evidence": "2 available videos; median 25.0s average view duration and 497.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Dolphin",
-          "evidence": "3 available videos; median 19.0s average view duration and 1559.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Eagle",
-          "evidence": "3 available videos; median 40.0s average view duration and 1273.0 views; confidence low.",
+          "evidence": "26 available videos; median 1048.0 views and 30.0s average view duration versus 31.0s channel baseline; confidence high.",
           "verdict": "prioritize"
         },
         {
           "pattern": "Topic: Elephant",
-          "evidence": "4 available videos; median 28.5s average view duration and 1119.5 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Flamingo",
-          "evidence": "2 available videos; median 32.5s average view duration and 806.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Fox",
-          "evidence": "4 available videos; median 25.0s average view duration and 1280.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Ghost Crab",
-          "evidence": "2 available videos; median 28.5s average view duration and 495.5 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Giraffe",
-          "evidence": "4 available videos; median 35.5s average view duration and 1087.5 views; confidence low.",
+          "evidence": "5 available videos; median 1088.0 views and 31.0s average view duration; confidence medium.",
           "verdict": "prioritize"
-        },
-        {
-          "pattern": "Topic: Gorilla",
-          "evidence": "3 available videos; median 36.0s average view duration and 1234.0 views; confidence low.",
-          "verdict": "prioritize"
-        },
-        {
-          "pattern": "Topic: Hawk",
-          "evidence": "2 available videos; median 31.0s average view duration and 597.5 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Hippo",
-          "evidence": "4 available videos; median 38.0s average view duration and 570.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Iguana",
-          "evidence": "3 available videos; median 22.0s average view duration and 1060.0 views; confidence low.",
-          "verdict": "promising"
         },
         {
           "pattern": "Topic: Jellyfish",
-          "evidence": "5 available videos; median 30.0s average view duration and 1032.0 views; confidence medium.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Kangaroo",
-          "evidence": "2 available videos; median 24.0s average view duration and 531.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Koala",
-          "evidence": "2 available videos; median 28.0s average view duration and 620.5 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Lemur",
-          "evidence": "2 available videos; median 25.5s average view duration and 852.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Manatee",
-          "evidence": "3 available videos; median 24.0s average view duration and 1105.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Monkey",
-          "evidence": "3 available videos; median 29.0s average view duration and 568.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Ostrich",
-          "evidence": "4 available videos; median 31.0s average view duration and 615.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Owl",
-          "evidence": "3 available videos; median 38.0s average view duration and 1103.0 views; confidence low.",
+          "evidence": "5 available videos; median 1032.0 views and 30.0s average view duration; confidence medium.",
           "verdict": "prioritize"
         },
         {
-          "pattern": "Topic: Parrot",
-          "evidence": "2 available videos; median 34.5s average view duration and 1000.5 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Peacock",
-          "evidence": "2 available videos; median 25.5s average view duration and 883.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Penguin",
-          "evidence": "3 available videos; median 26.0s average view duration and 1199.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Polar Bear",
-          "evidence": "3 available videos; median 26.0s average view duration and 1218.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Rhino",
-          "evidence": "3 available videos; median 29.0s average view duration and 1414.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Sea Lion",
-          "evidence": "3 available videos; median 22.0s average view duration and 1007.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Shark",
-          "evidence": "3 available videos; median 28.0s average view duration and 2276.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Spider",
-          "evidence": "2 available videos; median 20.0s average view duration and 907.5 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Starfish",
-          "evidence": "4 available videos; median 19.0s average view duration and 1034.0 views; confidence low.",
-          "verdict": "avoid"
-        },
-        {
-          "pattern": "Topic: Tiger",
-          "evidence": "3 available videos; median 26.0s average view duration and 1239.0 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
           "pattern": "Topic: Turtle",
-          "evidence": "4 available videos; median 25.5s average view duration and 1227.5 views; confidence low.",
-          "verdict": "promising"
-        },
-        {
-          "pattern": "Topic: Wood Frog",
-          "evidence": "2 available videos; median 29.5s average view duration and 1025.0 views; confidence low.",
+          "evidence": "5 available videos; median 1180.0 views and 26.0s average view duration; confidence medium.",
           "verdict": "promising"
         }
       ],
@@ -363,76 +185,76 @@
   },
   "ideas": [
     {
-      "id": "GP-2026-09-21-01",
-      "title": "Why the Humpback Whale's Song Travels for Miles #Shorts",
-      "concept": "Show how a humpback whale uses patterned, low-frequency song to communicate through the ocean over long distances.",
-      "hook": "A whale can send a song farther than your eyes can see.",
-      "keyVisual": "Real humpback whale underwater and at the surface, followed by a close-up of its blow and a wide ocean shot that sells the scale of the call.",
+      "id": "GP-2026-09-28-01",
+      "title": "Why the Elephant Cools Itself With Its Ears #Shorts",
+      "concept": "Explain how an elephant’s large, blood-vessel-rich ears release heat when they flap, helping the animal regulate body temperature in hot weather.",
+      "hook": "An elephant’s ears are not just for hearing—they work like two giant air conditioners.",
+      "keyVisual": "Real elephant close-up flapping its ears in bright savanna heat, with a tight shot of the ear surface and a wide herd shot near water.",
       "hashtagSets": [
         [
           "#AnimalFacts",
-          "#HumpbackWhale",
+          "#Elephant",
           "#Shorts"
         ],
         [
           "#Wildlife",
-          "#OceanLife",
           "#Nature",
+          "#AnimalAbilities",
           "#Shorts"
         ],
         [
           "#DidYouKnow",
-          "#MarineBiology",
+          "#Mammals",
           "#Shorts"
         ]
       ]
     },
     {
-      "id": "GP-2026-09-21-02",
-      "title": "Why the Gecko Walks on Glass Without Glue #Shorts",
-      "concept": "Explain how millions of microscopic hairs on a gecko foot create enough contact to grip smooth surfaces without glue or suction.",
-      "hook": "This lizard climbs glass without glue, claws, or suction cups.",
-      "keyVisual": "Real gecko close-up walking up a glass pane, macro footage of its toes, then a side view showing the animal moving upside down or vertically.",
+      "id": "GP-2026-09-28-02",
+      "title": "Why the Bat Finds Insects Without Seeing Them #Shorts",
+      "concept": "Show how echolocation lets a bat detect and track tiny flying insects in darkness by listening to returning high-frequency sounds.",
+      "hook": "A bat can catch a flying insect in total darkness without using its eyes.",
+      "keyVisual": "Real bat leaving a cave at dusk and flying through the night, intercut with close insect flight footage and a simple waveform-style overlay.",
       "hashtagSets": [
         [
           "#AnimalFacts",
-          "#Gecko",
-          "#Shorts"
-        ],
-        [
-          "#Wildlife",
-          "#Reptiles",
-          "#Nature",
-          "#Shorts"
-        ],
-        [
-          "#DidYouKnow",
-          "#Biology",
-          "#Shorts"
-        ]
-      ]
-    },
-    {
-      "id": "GP-2026-09-21-03",
-      "title": "Why the Mountain Goat Climbs Cliffs That Look Vertical #Shorts",
-      "concept": "Reveal how split hooves, flexible toes, and grippy hoof pads let mountain goats move across near-vertical rock.",
-      "hook": "That cliff looks vertical—this goat sees a staircase.",
-      "keyVisual": "Real mountain goat traversing a steep rocky ledge, tight shots of split hooves finding tiny footholds, and a wide view revealing the drop below.",
-      "hashtagSets": [
-        [
-          "#AnimalFacts",
-          "#MountainGoat",
+          "#Bat",
           "#Shorts"
         ],
         [
           "#Wildlife",
           "#Nature",
-          "#MountainLife",
+          "#NocturnalAnimals",
           "#Shorts"
         ],
         [
           "#DidYouKnow",
           "#AnimalAbilities",
+          "#Shorts"
+        ]
+      ]
+    },
+    {
+      "id": "GP-2026-09-28-03",
+      "title": "Why the Lizard Drops Its Tail to Escape Predators #Shorts",
+      "concept": "Explain tail autotomy: some lizards can detach a tail when seized, distracting the predator while the lizard escapes and later regrows a replacement.",
+      "hook": "If a predator grabs this lizard’s tail, the lizard can leave the tail behind and run.",
+      "keyVisual": "Real lizard close-up on a rock, a safe predator-avoidance sequence or lizard darting into cover, and footage of a regrown tail for comparison.",
+      "hashtagSets": [
+        [
+          "#AnimalFacts",
+          "#Lizard",
+          "#Shorts"
+        ],
+        [
+          "#Wildlife",
+          "#Nature",
+          "#Survival",
+          "#Shorts"
+        ],
+        [
+          "#DidYouKnow",
+          "#Reptiles",
           "#Shorts"
         ]
       ]
