@@ -5121,6 +5121,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on rhino (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: skin up to 5cm thick. Rapid wound healing \u2014 flesh wounds heal in days, no infection. Natural antibacterial compounds in skin secretions kill bacteria on contact. Mud bathing seals wounds like natural bandage + sunscreen + insect barrier. 6/6 Pexels clips (ALL real rhinos grazing, in habitat, crossing safari path). Assembly ok:false (false negative \u2014 validated). Compressed 97MB->7.1MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-27-SELF2",
+      "ideaId": "GP-2026-09-28-01",
+      "sourceHash": "5ca81f3dba66595f4e3706517dfd1aa6329a0284180210c29d51e4c719df049f",
+      "status": "uploaded",
+      "startedAt": "2026-09-27T16:04:05.428651-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Cools Itself With Its Ears #Shorts",
+      "animal": "elephant",
+      "angle": "4th (1st: Hears With Its Feet = infrasound, 2nd: Trunk 40k Muscles = anatomy, 3rd: Never Forgets a Face = cognition). Thermoregulation: elephants pump blood through ears full of capillaries, flapping cools blood by up to 10 degrees. Primary cooling mechanism since elephants can't sweat. From growth plan GP-2026-09-28-01.",
+      "renderedAt": "2026-09-27T16:10:05.705729-04:00",
+      "uploadedAt": "2026-09-27T16:10:05.705729-04:00",
+      "youtube": {
+        "videoId": "bXqV-m3q_Ek",
+        "url": "https://www.youtube.com/watch?v=bXqV-m3q_Ek"
+      },
+      "duration": 68.0,
+      "resolution": "1080x1920",
+      "hookOverlay": "COOLS ITSELF WITH ITS EARS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "From growth plan GP-2026-09-28-01. 4th angle on elephant (1st: Hears With Its Feet, 2nd: Trunk 40k Muscles, 3rd: Never Forgets a Face). Thermoregulation: elephants can't sweat, ears are giant radiators packed with capillaries. Flapping cools blood by up to 10 degrees. Blood in ears can drop 5 degrees in single pass. Spray water behind ears for evaporative cooling. African elephants have ears 3x size of Asian elephants. 6/6 Pexels clips (elephant bonding, drinking, African with baby, enjoying water, roaming, elephant in mud on savanna). Assembly ok:false (false negative \u2014 validated). Compressed 51MB->3.7MB (CRF 43)."
     }
   ]
 }
