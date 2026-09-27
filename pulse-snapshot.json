@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 169186,
-      "subscriberCount": 243,
-      "videoCount": 179
+      "viewCount": 170702,
+      "subscriberCount": 252,
+      "videoCount": 181
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-29",
-    "endDate": "2026-09-26",
+    "startDate": "2026-08-30",
+    "endDate": "2026-09-27",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 56445,
-    "estimatedMinutesWatched": 19467,
-    "subscribersGained": 95,
+    "views": 56803,
+    "estimatedMinutesWatched": 19886,
+    "subscribersGained": 98,
     "subscribersLost": 10,
-    "netSubscribers": 85,
-    "likes": 2699,
+    "likes": 2722,
     "comments": 32,
-    "shares": 57
+    "shares": 63,
+    "netSubscribers": 88
   },
   "daily": [
-    {
-      "day": "2026-08-29",
-      "views": 2981,
-      "watched": 1048,
-      "subsGained": 4,
-      "subsLost": 1,
-      "likes": 136
-    },
     {
       "day": "2026-08-30",
       "views": 2572,
@@ -215,8 +207,8 @@
     },
     {
       "day": "2026-09-21",
-      "views": 145,
-      "watched": 52,
+      "views": 140,
+      "watched": 53,
       "subsGained": 0,
       "subsLost": 0,
       "likes": 14
@@ -236,19 +228,38 @@
       "subsGained": 6,
       "subsLost": 0,
       "likes": 177
+    },
+    {
+      "day": "2026-09-24",
+      "views": 3344,
+      "watched": 1466,
+      "subsGained": 7,
+      "subsLost": 1,
+      "likes": 159
     }
   ],
   "topVideos": [
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2973,
-      "watched": 1917,
+      "views": 2975,
+      "watched": 1918,
       "likes": 127,
       "comments": 4,
       "avgViewDuration": 60,
       "flag": "winner",
       "note": "Top combined views and retention"
+    },
+    {
+      "videoId": "BDS46bo0SQw",
+      "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
+      "views": 2182,
+      "watched": 1089,
+      "likes": 90,
+      "comments": 0,
+      "avgViewDuration": 48,
+      "flag": "stable",
+      "note": ""
     },
     {
       "videoId": "2GZbLp5SP7g",
@@ -264,13 +275,13 @@
     {
       "videoId": "v3KM5eDdnho",
       "title": "How Can a Manatee Keep Replacing Its Teeth Forever? #Shorts",
-      "views": 1855,
-      "watched": 596,
+      "views": 1858,
+      "watched": 597,
       "likes": 88,
       "comments": 1,
       "avgViewDuration": 30,
       "flag": "optimize",
-      "note": "Above-average views (1855, above 1679.2 top-10 average) but below-median retention (30s vs 31s)"
+      "note": "Above-average views (1858, above 1778.7 top-10 average) but below-median retention (30s vs 35.5s)"
     },
     {
       "videoId": "rte8AZ0LmAY",
@@ -317,6 +328,17 @@
       "note": ""
     },
     {
+      "videoId": "d4KV2VtHjdQ",
+      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
+      "views": 1400,
+      "watched": 525,
+      "likes": 98,
+      "comments": 1,
+      "avgViewDuration": 38,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "-bpS7VaF_EI",
       "title": "Why the Rhino Charges at 40 MPH #Shorts",
       "views": 1398,
@@ -326,54 +348,32 @@
       "avgViewDuration": 29,
       "flag": "stable",
       "note": ""
-    },
-    {
-      "videoId": "7AqFSgZ_go8",
-      "title": "Why the Monkey Uses Tools Like a Human #Shorts",
-      "views": 1300,
-      "watched": 395,
-      "likes": 66,
-      "comments": 0,
-      "avgViewDuration": 29,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "qmuReYJT06A",
-      "title": "Why the Arctic Fox's Feet Work Like Snowshoes #Shorts",
-      "views": 1292,
-      "watched": 389,
-      "likes": 75,
-      "comments": 0,
-      "avgViewDuration": 32,
-      "flag": "stable",
-      "note": ""
     }
   ],
-  "fetchedAt": "2026-09-26T09:03:22.331422-04:00",
+  "fetchedAt": "2026-09-27T09:07:27.477879-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-26T09:03:22.331422-04:00",
+      "fetchedAt": "2026-09-27T09:07:27.477879-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 243,
+        "current": 252,
         "threshold": 1000,
-        "percent": 24.3
+        "percent": 25.2
       },
       "watchHours12mo": {
-        "current": 877.9,
+        "current": 902.4,
         "threshold": 4000,
-        "percent": 21.95,
+        "percent": 22.56,
         "window": "Last 12 months",
-        "minutesWatched": 52674
+        "minutesWatched": 54141
       },
       "shortsViews90d": {
-        "current": 146441,
+        "current": 149780,
         "threshold": 10000000,
-        "percent": 1.464,
+        "percent": 1.498,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
