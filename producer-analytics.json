@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-26T11:08:29.810524-04:00",
-  "fetchedAt": "2026-09-26T11:08:29.810524-04:00",
+  "lastRunAt": "2026-09-27T11:05:25.589466-04:00",
+  "fetchedAt": "2026-09-27T11:05:25.589466-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -819,18 +819,18 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1320.9,
+      "ageHoursAtAnalysis": 1344.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -838,18 +838,18 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1315.0,
+      "ageHoursAtAnalysis": 1338.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1748,18 +1748,18 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 887.7,
+      "ageHoursAtAnalysis": 911.6,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 301.9,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -3431,18 +3431,18 @@
       "videoId": "jEqJZgPc23M",
       "title": "Why the Butterfly Tastes With Its Feet #Shorts",
       "uploadedAt": "2026-09-21T16:12:30.589794-04:00",
-      "ageHoursAtAnalysis": 114.9,
+      "ageHoursAtAnalysis": 138.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 66.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3554,56 +3554,70 @@
       "videoId": "BDS46bo0SQw",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
       "uploadedAt": "2026-09-24T10:15:17.810213-04:00",
-      "ageHoursAtAnalysis": 48.9,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 61.3,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 72.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 2182,
+        "estimatedMinutesWatched": 1089,
+        "averageViewDuration": 48.0,
+        "likes": 90,
+        "comments": 0,
+        "shares": 4
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 61.3,
+      "retentionPercent": 78.3,
+      "performanceLabel": "winner",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.35,
+        "note": "avd=48.0s vs baseline 35.5s"
+      },
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
+      "lastNotifiedLabel": "winner"
     },
     {
       "productionId": "JV-2026-09-24-SELF2",
       "videoId": "SxtMLKiyjSs",
       "title": "Why the Parrot Can Sing Two Notes at Once #Shorts",
       "uploadedAt": "2026-09-24T16:18:13.739088-04:00",
-      "ageHoursAtAnalysis": 42.8,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 64.5,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 66.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 722,
+        "estimatedMinutesWatched": 284,
+        "averageViewDuration": 40.0,
+        "likes": 63,
+        "comments": 1,
+        "shares": 2
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 64.5,
+      "retentionPercent": 62.0,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.13,
+        "note": "avd=40.0s vs baseline 35.5s"
+      },
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-09-25-SELF1",
       "videoId": "b2g-BwBx3fA",
       "title": "Why the Bee Makes the Only Food That Never Spoils #Shorts",
       "uploadedAt": "2026-09-25T10:15:31.762269-04:00",
-      "ageHoursAtAnalysis": 24.9,
+      "ageHoursAtAnalysis": 48.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 76.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3611,18 +3625,18 @@
       "videoId": "fcSd2iofxJs",
       "title": "Why the Lemur Taps on Trees Like a Doctor #Shorts",
       "uploadedAt": "2026-09-25T16:11:17.212007-04:00",
-      "ageHoursAtAnalysis": 19.0,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 59.2,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3630,18 +3644,56 @@
       "videoId": "xQH2pDOHLCc",
       "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
       "uploadedAt": "2026-09-26T10:10:14.864120-04:00",
-      "ageHoursAtAnalysis": 1.0,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 70.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 31.0,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-26-SELF2",
+      "videoId": "jU32SQuswds",
+      "title": "Why the Sea Turtle Finds Its Birth Beach From 10000 Miles Away #Shorts",
+      "uploadedAt": "2026-09-26T16:11:21.966715-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 75.6,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-27-SELF1",
+      "videoId": "fpxnaqYxlMU",
+      "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
+      "uploadedAt": "2026-09-27T10:09:12.647843-04:00",
+      "ageHoursAtAnalysis": 0.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 68.3,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -3704,9 +3756,10 @@
         "stLW6k2r018",
         "F32twk3TlBI",
         "LF75Mu00CIQ",
-        "YkhLUofVR2g"
+        "YkhLUofVR2g",
+        "SxtMLKiyjSs"
       ],
-      "sampleSize": 55,
+      "sampleSize": 56,
       "avgViewDurationMedian": 29.0,
       "viewsMedian": 1050.0,
       "verdict": "prioritize",
@@ -3763,11 +3816,12 @@
         "iCb97p7AJoI",
         "epjoY2rCddc",
         "3vmsPSajHBE",
-        "d4KV2VtHjdQ"
+        "d4KV2VtHjdQ",
+        "BDS46bo0SQw"
       ],
-      "sampleSize": 48,
+      "sampleSize": 49,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1031.0,
+      "viewsMedian": 1035.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -3910,11 +3964,12 @@
       "label": "Deer",
       "videos": [
         "1XxTz8DJ_0Y",
-        "35ObWh3YP74"
+        "35ObWh3YP74",
+        "BDS46bo0SQw"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 25.0,
-      "viewsMedian": 497.0,
+      "sampleSize": 3,
+      "avgViewDurationMedian": 26.0,
+      "viewsMedian": 990.0,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4234,12 +4289,13 @@
       "label": "Parrot",
       "videos": [
         "CJuSSHjWmJY",
-        "dkhln2VoTNk"
+        "dkhln2VoTNk",
+        "SxtMLKiyjSs"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 34.5,
-      "viewsMedian": 1000.5,
-      "verdict": "prioritize",
+      "sampleSize": 3,
+      "avgViewDurationMedian": 40.0,
+      "viewsMedian": 844.0,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4499,9 +4555,10 @@
         "stLW6k2r018",
         "F32twk3TlBI",
         "LF75Mu00CIQ",
-        "YkhLUofVR2g"
+        "YkhLUofVR2g",
+        "SxtMLKiyjSs"
       ],
-      "sampleSize": 55,
+      "sampleSize": 56,
       "avgViewDurationMedian": 29.0,
       "viewsMedian": 1050.0,
       "verdict": "prioritize",
@@ -4558,11 +4615,12 @@
         "iCb97p7AJoI",
         "epjoY2rCddc",
         "3vmsPSajHBE",
-        "d4KV2VtHjdQ"
+        "d4KV2VtHjdQ",
+        "BDS46bo0SQw"
       ],
-      "sampleSize": 48,
+      "sampleSize": 49,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1031.0,
+      "viewsMedian": 1035.0,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4607,17 +4665,17 @@
   "summary": [
     {
       "pattern": "Why the [animal] [extreme ability] #Shorts",
-      "evidence": "55 available videos; median 1050.0 views and 29.0s average view duration versus 31.0s channel baseline; confidence high.",
+      "evidence": "56 available videos; median 1050.0 views and 29.0s average view duration versus 35.5s channel baseline; confidence high.",
       "verdict": "prioritize"
     },
     {
       "pattern": "Why the [animal] [sensory surprise] #Shorts",
-      "evidence": "48 available videos; median 1031.0 views and 26.0s average view duration versus 31.0s channel baseline; confidence high.",
+      "evidence": "49 available videos; median 1035.0 views and 26.0s average view duration versus 35.5s channel baseline; confidence high.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [survival adaptation] #Shorts",
-      "evidence": "26 available videos; median 1048.0 views and 30.0s average view duration versus 31.0s channel baseline; confidence high.",
+      "evidence": "26 available videos; median 1048.0 views and 30.0s average view duration versus 35.5s channel baseline; confidence high.",
       "verdict": "prioritize"
     },
     {
