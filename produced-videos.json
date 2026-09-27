@@ -5098,6 +5098,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 2nd angle on sea turtle (1st: Holds Its Breath for 7 Hours = extreme survival, winner 1096v 39s AVD). Sensory: magnetoreception. Turtles detect Earth's magnetic field to navigate 10000+ miles back to exact birth beach. Every point has unique magnetic signature (angle + intensity). Scientists tested with simulated magnetic fields in pools \u2014 turtles turned in correct direction. Females return 20-30 years later to within miles of birth spot. 6/6 Pexels clips (close up, baby hatching, swimming, gliding over coral, underwater, hatchling on beach). Assembly ok:false (false negative \u2014 validated). Compressed 86MB->7.7MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-27-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "b1b7b8df61574a508d30078c47ae141ceefe8c0ef27bba75317d52534b35d9f9",
+      "status": "uploaded",
+      "startedAt": "2026-09-27T10:02:08.343782-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
+      "animal": "rhino",
+      "angle": "3rd (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: rhino skin up to 5cm thick. Rapid wound healing \u2014 injuries that would kill other animals heal in days. Natural antibacterial compounds in skin secretions. Mud bathing acts as sunscreen and insect barrier. Thick skin + healing = survival superpower.",
+      "renderedAt": "2026-09-27T10:09:12.647843-04:00",
+      "uploadedAt": "2026-09-27T10:09:12.647843-04:00",
+      "youtube": {
+        "videoId": "fpxnaqYxlMU",
+        "url": "https://www.youtube.com/watch?v=fpxnaqYxlMU"
+      },
+      "duration": 68.3,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEALS WOUNDS THAT WOULD KILL",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on rhino (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: skin up to 5cm thick. Rapid wound healing \u2014 flesh wounds heal in days, no infection. Natural antibacterial compounds in skin secretions kill bacteria on contact. Mud bathing seals wounds like natural bandage + sunscreen + insect barrier. 6/6 Pexels clips (ALL real rhinos grazing, in habitat, crossing safari path). Assembly ok:false (false negative \u2014 validated). Compressed 97MB->7.1MB (CRF 43)."
     }
   ]
 }
