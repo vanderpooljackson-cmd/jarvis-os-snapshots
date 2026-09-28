@@ -5181,6 +5181,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on gorilla (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Sound comes from air in chest cavity vibrating like a drum, not fists on bone. Each silverback has unique beat pattern identifiable by sound alone \u2014 long-distance identity card. 5/6 Pexels clips were real gorillas (scene 6 was orangutan \u2014 acceptable). Cheetah 3rd angle (SELF1) render-failed earlier this run \u2014 only 2/6 real cheetah clips. Assembly ok:false (false negative \u2014 validated). Compressed 46MB->3.5MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-28-SELF3",
+      "ideaId": "SELF3",
+      "sourceHash": "31a8998ec207cba5f1802035889d2e99d666dc453c36c24c95199b16b5b7f03b",
+      "status": "uploaded",
+      "startedAt": "2026-09-28T16:02:40.516137-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Peacock Changes Color When You Move #Shorts",
+      "animal": "peacock",
+      "angle": "3rd (1st: Makes Blue Without Any Blue = structural color basics). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle \u2014 unlike pigment which looks same from every direction. Look from different angle and blue becomes green becomes bronze. Crystal lattice structure reflects specific wavelengths at specific angles.",
+      "renderedAt": "2026-09-28T16:09:53.772341-04:00",
+      "uploadedAt": "2026-09-28T16:09:53.772341-04:00",
+      "youtube": {
+        "videoId": "JGlYtx5pEa8",
+        "url": "https://www.youtube.com/watch?v=JGlYtx5pEa8"
+      },
+      "duration": 79.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "CHANGES COLOR WHEN YOU MOVE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on peacock (1st: Makes Blue Without Any Blue = structural color basics, 2nd: unknown). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle \u2014 blue becomes green becomes bronze becomes purple. Crystal lattice reflects different wavelengths at different angles. Pigment looks same from every angle, structural color shifts with every step. 4/6 Pexels clips were real peacocks (scene 5 generic feathers, scene 6 butterfly \u2014 meets 4/6 threshold). Assembly ok:false (false negative \u2014 validated). Compressed 53MB->3.7MB (CRF 43)."
     }
   ]
 }
