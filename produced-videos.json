@@ -5158,6 +5158,29 @@
       "renderedAt": "2026-09-28T10:10:24.983674-04:00",
       "error": "insufficient real cheetah footage: only 2/6 clips were actual cheetahs (scene 3=lemur, scene 4=lynx, scene 5=lioness, scene 6=woman with money). Pexels returned wrong species for tail/chasing/savanna/nature queries.",
       "note": "Cheetah 3rd angle (tail rudder at 70mph). Fetcher returned ok:true but clips were wrong species. Only scenes 1-2 were real cheetahs. Need better queries or different animal."
+    },
+    {
+      "productionId": "JV-2026-09-28-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "41a97dea2e6fd50a3ced028ac59fc20c7bc678b9b0d411303d7312fb28f06f62",
+      "status": "uploaded",
+      "startedAt": "2026-09-28T10:10:35.128308-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
+      "animal": "gorilla",
+      "angle": "3rd (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Each silverback has unique beat pattern others recognize. Not just display of power \u2014 it's a long-distance identity signal. Air-filled chest cavity amplifies sound like a drum.",
+      "renderedAt": "2026-09-28T10:17:37.585235-04:00",
+      "uploadedAt": "2026-09-28T10:17:37.585235-04:00",
+      "youtube": {
+        "videoId": "RjBYoCrIPuU",
+        "url": "https://www.youtube.com/watch?v=RjBYoCrIPuU"
+      },
+      "duration": 80.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "HEARD A MILE AWAY",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on gorilla (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Sound comes from air in chest cavity vibrating like a drum, not fists on bone. Each silverback has unique beat pattern identifiable by sound alone \u2014 long-distance identity card. 5/6 Pexels clips were real gorillas (scene 6 was orangutan \u2014 acceptable). Cheetah 3rd angle (SELF1) render-failed earlier this run \u2014 only 2/6 real cheetah clips. Assembly ok:false (false negative \u2014 validated). Compressed 46MB->3.5MB (CRF 43)."
     }
   ]
 }
