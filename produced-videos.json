@@ -5144,6 +5144,20 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "From growth plan GP-2026-09-28-01. 4th angle on elephant (1st: Hears With Its Feet, 2nd: Trunk 40k Muscles, 3rd: Never Forgets a Face). Thermoregulation: elephants can't sweat, ears are giant radiators packed with capillaries. Flapping cools blood by up to 10 degrees. Blood in ears can drop 5 degrees in single pass. Spray water behind ears for evaporative cooling. African elephants have ears 3x size of Asian elephants. 6/6 Pexels clips (elephant bonding, drinking, African with baby, enjoying water, roaming, elephant in mud on savanna). Assembly ok:false (false negative \u2014 validated). Compressed 51MB->3.7MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-28-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "c83702b880f4db72b448c667f8e61539fc6f70b8e9fac96f2c667a045b15fb8d",
+      "status": "render-failed",
+      "startedAt": "2026-09-28T10:08:44.701299-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Cheetah Steers With Its Tail at 70 MPH #Shorts",
+      "animal": "cheetah",
+      "angle": "3rd (1st: 0-60 in 3 seconds = acceleration, 2nd: spotted fur camouflage = vision). Speed engineering: tail acts as rudder for mid-air steering at 70mph. Swings opposite direction of turn to counterbalance. Without it cheetah would flip. Only cat that uses tail for mid-air steering. Also non-retractable claws act like cleats, flexible spine acts as spring.",
+      "renderedAt": "2026-09-28T10:10:24.983674-04:00",
+      "error": "insufficient real cheetah footage: only 2/6 clips were actual cheetahs (scene 3=lemur, scene 4=lynx, scene 5=lioness, scene 6=woman with money). Pexels returned wrong species for tail/chasing/savanna/nature queries.",
+      "note": "Cheetah 3rd angle (tail rudder at 70mph). Fetcher returned ok:true but clips were wrong species. Only scenes 1-2 were real cheetahs. Need better queries or different animal."
     }
   ]
 }
