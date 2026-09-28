@@ -1,101 +1,124 @@
 {
-  "fetchedAt": "2026-09-25T17:35:21.302819-04:00",
+  "fetchedAt": "2026-09-28T17:34:01.113366-04:00",
   "videos": [
     {
-      "videoId": "fcSd2iofxJs",
-      "title": "Why the Lemur Taps on Trees Like a Doctor #Shorts",
+      "videoId": "JGlYtx5pEa8",
+      "title": "Why the Peacock Changes Color When You Move #Shorts",
       "transcriptStatus": "extracted",
-      "comments": [],
-      "clipCandidates": [
+      "comments": [
         {
-          "momentLabel": "Taps bark like a stethoscope to find grubs",
-          "startSec": 17,
-          "endSec": 34,
-          "why": "The core mechanism \u2014 tapping bark, listening for hollow echo, gnawing hole with ever-growing teeth, hooking grub out. Highest curiosity density in the video.",
-          "hookRewrite": "This lemur taps trees like a doctor checking your heartbeat \u2014 and what it finds inside is terrifying"
-        },
-        {
-          "momentLabel": "Only primate that finds food by sound",
-          "startSec": 42,
-          "endSec": 51,
-          "why": "Superpower reveal \u2014 only primate on Earth that uses hearing to find food inside wood. Most primates use eyes, the aye-aye uses ears and one impossible finger.",
-          "hookRewrite": "No other primate on Earth can do what this one finger does"
+          "id": "UgwW3Ufnu5jDkOYQ0kV4AaABAg",
+          "author": "@MichaelGarner-hq1ky",
+          "text": "You're CC is Off rythm to the audio to the reel....",
+          "replyPosted": true,
+          "replyText": "Thanks for the heads up on the caption timing \u2014 we'll look into syncing them tighter to the audio. Appreciate you watching and taking the time to flag it"
         }
-      ]
-    },
-    {
-      "videoId": "b2g-BwBx3fA",
-      "title": "Why the Bee Makes the Only Food That Never Spoils #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [],
+      ],
       "clipCandidates": [
         {
-          "momentLabel": "3000-year-old honey still edible from Egyptian tombs",
+          "momentLabel": "No blue pigment \u2014 color made by structure",
           "startSec": 0,
-          "endSec": 21,
-          "why": "Mind-blowing opening fact \u2014 honey found in 3000-year-old tombs, still edible. Instant curiosity gap.",
-          "hookRewrite": "They found honey in a 3000-year-old tomb and it was still safe to eat"
+          "endSec": 19,
+          "why": "Mind-blowing opening \u2014 peacock feathers have zero blue pigment. Color is entirely structural. Instant curiosity gap.",
+          "hookRewrite": "This peacock feather has no blue in it at all \u2014 and the proof is in how it changes when you move"
         },
         {
-          "momentLabel": "One bee makes 1/12 teaspoon honey in lifetime",
-          "startSec": 104,
-          "endSec": 118,
-          "why": "Emotional scale payoff \u2014 every jar of honey is the life's work of hundreds of bees. Makes the viewer appreciate honey differently.",
-          "hookRewrite": "A single bee makes this much honey in its entire life \u2014 one-twelfth of a teaspoon"
+          "momentLabel": "Same feather reflects different colors at different angles",
+          "startSec": 27,
+          "endSec": 48,
+          "why": "Visual demonstration of the superpower \u2014 look straight on it's blue, tilt your head and it's green, then bronze, then purple. Photonic crystals shifting with viewing angle.",
+          "hookRewrite": "Watch this feather change from blue to green to purple \u2014 without any pigment at all"
         }
       ]
     },
     {
-      "videoId": "SxtMLKiyjSs",
-      "title": "Why the Parrot Can Sing Two Notes at Once #Shorts",
+      "videoId": "RjBYoCrIPuU",
+      "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
       "transcriptStatus": "failed",
       "comments": [],
       "clipCandidates": []
     },
     {
-      "videoId": "BDS46bo0SQw",
-      "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
+      "videoId": "bXqV-m3q_Ek",
+      "title": "Why the Elephant Cools Itself With Its Ears #Shorts",
       "transcriptStatus": "extracted",
-      "comments": [],
+      "comments": [
+        {
+          "id": "Ugyrbs-inJGpd9grO7V4AaABAg",
+          "author": "@princessdaisy5321",
+          "text": "Elephant is so social the mothers and kids create a safe herd for all members. Poor working elephant is abused, depressed, lonely and owners don't care about physical needs or emotions",
+          "replyPosted": true,
+          "replyText": "You're absolutely right that elephants are deeply social and emotional animals. The matriarch-led herds are incredible to study \u2014 they grieve, celebrate, and protect each other. All footage in this Short is from sanctuaries and wild habitats. Thanks for caring about these amazing animals"
+        }
+      ],
       "clipCandidates": [
         {
-          "momentLabel": "310 degree vision vs your 180",
+          "momentLabel": "Elephants can't sweat \u2014 ears are giant radiators",
           "startSec": 0,
-          "endSec": 15,
-          "why": "Immediate comparison with viewer's own vision \u2014 310 vs 180 degrees. Strong curiosity gap, relatable.",
-          "hookRewrite": "Your eyes can see 180 degrees. A deer can see almost double that without moving its head"
+          "endSec": 21,
+          "why": "Surprising fact \u2014 elephants have almost no sweat glands. On 50\u00b0C savanna that should kill them. But ears are giant radiators packed with capillaries.",
+          "hookRewrite": "Elephants can't sweat \u2014 so they cool their entire body using just their ears"
         },
         {
-          "momentLabel": "Cannot sneak up from any direction",
-          "startSec": 45,
-          "endSec": 59,
-          "why": "Dramatic payoff \u2014 the only approach that works is straight on, slowly, in plain sight. Makes the superpower tangible.",
-          "hookRewrite": "There is exactly one way to approach a deer without it seeing you \u2014 and no hunter wants to try it"
+          "momentLabel": "Blood drops 5 degrees in a single pass through ears",
+          "startSec": 28,
+          "endSec": 46,
+          "why": "Quantified superpower \u2014 air across ear capillary network cools blood by 10 degrees, blood in ears drops 5 degrees in single pass. African elephant ears 3x Asian elephants.",
+          "hookRewrite": "This elephant's blood drops 5 degrees every time it passes through its ears"
         }
       ]
     },
     {
-      "videoId": "9q2tIQpocVw",
-      "title": "Why the Sea Turtle Holds Its Breath for 7 Hours #Shorts",
-      "transcriptStatus": "extracted",
+      "videoId": "fpxnaqYxlMU",
+      "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
+      "transcriptStatus": "failed",
       "comments": [],
-      "clipCandidates": [
+      "clipCandidates": []
+    },
+    {
+      "videoId": "jU32SQuswds",
+      "title": "Why the Sea Turtle Finds Its Birth Beach From 10000 Miles Away #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [
         {
-          "momentLabel": "Heart beats once every 9 minutes",
-          "startSec": 22,
-          "endSec": 40,
-          "why": "Incredible fact \u2014 heart rate drops to one beat every 9 minutes. Not a typo. One heartbeat, then 9 minutes of silence. Peak surprise.",
-          "hookRewrite": "A sea turtle's heart beats once every 9 minutes \u2014 this is not a typo"
+          "id": "UgweN3r1bDYVRykPj794AaABAg",
+          "author": "@princessdaisy5321",
+          "text": "Very interesting and hopefully you will leave the turtle eggs alone and let them repopulate",
+          "replyPosted": true,
+          "replyText": "Absolutely \u2014 all the sea turtle footage here is from the wild, and sea turtles are protected species. Their magnetic navigation is one of nature's most incredible survival tools. Thanks for watching and caring about these amazing creatures"
         },
         {
-          "momentLabel": "Slowed body to edge of death on single breath",
-          "startSec": 62,
-          "endSec": 76,
-          "why": "Dramatic close \u2014 the turtle has slowed its entire body to the edge of death and holds it there calmly for hours. Visceral and poetic.",
-          "hookRewrite": "This turtle slows its body to the edge of death \u2014 and stays there for hours on purpose"
+          "id": "UgxrTXj-Mald7Ig0Ae54AaABAg",
+          "author": "@lynnfletcher3298",
+          "text": "Do you think these abilities came about by chance or by design? REVELATION 4:11",
+          "replyPosted": false,
+          "replyText": ""
+        },
+        {
+          "id": "Ugw9CzOODYlXppH9iDV4AaABAg",
+          "author": "@MyGoldenTheo",
+          "text": "That is the absolute majesty of God's wonderful creation! Praise Jesus!",
+          "replyPosted": false,
+          "replyText": ""
+        }
+      ],
+      "clipCandidates": [
+        {
+          "momentLabel": "Returns to exact birth beach 20-30 years later",
+          "startSec": 0,
+          "endSec": 16,
+          "why": "Incredible journey \u2014 hatches on beach, disappears into ocean, returns 20-30 years later to within miles of exact spot. Without landmarks, without a map.",
+          "hookRewrite": "This turtle returns to the exact beach it was born on \u2014 30 years and 10000 miles later"
+        },
+        {
+          "momentLabel": "Scientists proved turtles navigate by magnetism alone",
+          "startSec": 40,
+          "endSec": 70,
+          "why": "Scientific proof \u2014 researchers simulated magnetic fields in pools and turtles turned in exact direction they would travel. Navigating by magnetism alone, no map, no compass.",
+          "hookRewrite": "Scientists put turtles in pools and proved they navigate by reading the planet's magnetic field"
         }
       ]
     }
   ],
-  "postedReplies": 0
+  "postedReplies": 3
 }
