@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 170702,
-      "subscriberCount": 252,
-      "videoCount": 181
+      "viewCount": 172836,
+      "subscriberCount": 266,
+      "videoCount": 183
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-08-30",
-    "endDate": "2026-09-27",
+    "startDate": "2026-08-31",
+    "endDate": "2026-09-28",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 56803,
-    "estimatedMinutesWatched": 19886,
-    "subscribersGained": 98,
-    "subscribersLost": 10,
-    "likes": 2722,
-    "comments": 32,
+    "views": 56042,
+    "estimatedMinutesWatched": 19756,
+    "subscribersGained": 100,
+    "subscribersLost": 7,
+    "likes": 2706,
+    "comments": 33,
     "shares": 63,
-    "netSubscribers": 88
+    "netSubscribers": 93
   },
   "daily": [
-    {
-      "day": "2026-08-30",
-      "views": 2572,
-      "watched": 775,
-      "subsGained": 6,
-      "subsLost": 3,
-      "likes": 121
-    },
     {
       "day": "2026-08-31",
       "views": 2178,
@@ -223,8 +215,8 @@
     },
     {
       "day": "2026-09-23",
-      "views": 2576,
-      "watched": 1041,
+      "views": 2573,
+      "watched": 1040,
       "subsGained": 6,
       "subsLost": 0,
       "likes": 177
@@ -236,6 +228,14 @@
       "subsGained": 7,
       "subsLost": 1,
       "likes": 159
+    },
+    {
+      "day": "2026-09-25",
+      "views": 1814,
+      "watched": 646,
+      "subsGained": 8,
+      "subsLost": 0,
+      "likes": 105
     }
   ],
   "topVideos": [
@@ -253,11 +253,11 @@
     {
       "videoId": "BDS46bo0SQw",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
-      "views": 2182,
-      "watched": 1089,
-      "likes": 90,
+      "views": 2690,
+      "watched": 1262,
+      "likes": 105,
       "comments": 0,
-      "avgViewDuration": 48,
+      "avgViewDuration": 46,
       "flag": "stable",
       "note": ""
     },
@@ -275,13 +275,13 @@
     {
       "videoId": "v3KM5eDdnho",
       "title": "How Can a Manatee Keep Replacing Its Teeth Forever? #Shorts",
-      "views": 1858,
+      "views": 1860,
       "watched": 597,
       "likes": 88,
       "comments": 1,
       "avgViewDuration": 30,
       "flag": "optimize",
-      "note": "Above-average views (1858, above 1778.7 top-10 average) but below-median retention (30s vs 35.5s)"
+      "note": "Above-average views (1860, above 1831.1 top-10 average) but below-median retention (30s vs 35.5s)"
     },
     {
       "videoId": "rte8AZ0LmAY",
@@ -317,6 +317,17 @@
       "note": ""
     },
     {
+      "videoId": "d4KV2VtHjdQ",
+      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
+      "views": 1414,
+      "watched": 529,
+      "likes": 99,
+      "comments": 1,
+      "avgViewDuration": 38,
+      "flag": "stable",
+      "note": ""
+    },
+    {
       "videoId": "0onjfepA3F8",
       "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
       "views": 1409,
@@ -324,17 +335,6 @@
       "likes": 68,
       "comments": 0,
       "avgViewDuration": 26,
-      "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "d4KV2VtHjdQ",
-      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
-      "views": 1400,
-      "watched": 525,
-      "likes": 98,
-      "comments": 1,
-      "avgViewDuration": 38,
       "flag": "stable",
       "note": ""
     },
@@ -350,30 +350,30 @@
       "note": ""
     }
   ],
-  "fetchedAt": "2026-09-27T09:07:27.477879-04:00",
+  "fetchedAt": "2026-09-28T09:19:58.074326-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-27T09:07:27.477879-04:00",
+      "fetchedAt": "2026-09-28T09:19:58.074326-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 252,
+        "current": 266,
         "threshold": 1000,
-        "percent": 25.2
+        "percent": 26.6
       },
       "watchHours12mo": {
-        "current": 902.4,
+        "current": 913.1,
         "threshold": 4000,
-        "percent": 22.56,
+        "percent": 22.83,
         "window": "Last 12 months",
-        "minutesWatched": 54141
+        "minutesWatched": 54787
       },
       "shortsViews90d": {
-        "current": 149780,
+        "current": 151591,
         "threshold": 10000000,
-        "percent": 1.498,
+        "percent": 1.516,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
