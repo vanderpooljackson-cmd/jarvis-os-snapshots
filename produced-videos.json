@@ -5204,6 +5204,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on peacock (1st: Makes Blue Without Any Blue = structural color basics, 2nd: unknown). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle \u2014 blue becomes green becomes bronze becomes purple. Crystal lattice reflects different wavelengths at different angles. Pigment looks same from every angle, structural color shifts with every step. 4/6 Pexels clips were real peacocks (scene 5 generic feathers, scene 6 butterfly \u2014 meets 4/6 threshold). Assembly ok:false (false negative \u2014 validated). Compressed 53MB->3.7MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-29-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "52858b86c6bbb88d3ea4ab28dc7e4ca5c3711244aa6690fe9fb2d7d7efd224d7",
+      "status": "uploaded",
+      "startedAt": "2026-09-29T10:07:47.560727-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Tiger Sees Six Times Better Than You in the Dark #Shorts",
+      "animal": "tiger",
+      "angle": "3rd (1st: stripes camouflage = vision/camouflage, 2nd: roar travels 2 miles = communication). Sensory: night vision 6x better than humans. Tapetum lucidum reflects light back through retina, doubling available light. Tigers hunt at dawn/dusk when advantage is maximized. Can see in light levels where humans are effectively blind.",
+      "renderedAt": "2026-09-29T10:18:41.140815-04:00",
+      "uploadedAt": "2026-09-29T10:18:41.140815-04:00",
+      "youtube": {
+        "videoId": "e4bzKftxKVU",
+        "url": "https://www.youtube.com/watch?v=e4bzKftxKVU"
+      },
+      "duration": 70.8,
+      "resolution": "1080x1920",
+      "hookOverlay": "SEES SIX TIMES BETTER IN DARK",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on tiger (1st: stripes camouflage, 2nd: roar travels 2 miles). Sensory: night vision 6x better than humans. Tapetum lucidum reflects light back through retina \u2014 every photon used twice. Eyes glow at night from reflection. Hunt at dawn/dusk when advantage maximized. 6/6 Pexels clips (ALL real tigers incl. Bengal, tiger with cub, white tiger). Assembly ok:false (false negative \u2014 validated). Compressed 94MB->7.6MB (CRF 43). Disk was full mid-run \u2014 cleaned old clips caches and temp files to free 3.8GB."
     }
   ]
 }
