@@ -5227,6 +5227,20 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on tiger (1st: stripes camouflage, 2nd: roar travels 2 miles). Sensory: night vision 6x better than humans. Tapetum lucidum reflects light back through retina \u2014 every photon used twice. Eyes glow at night from reflection. Hunt at dawn/dusk when advantage maximized. 6/6 Pexels clips (ALL real tigers incl. Bengal, tiger with cub, white tiger). Assembly ok:false (false negative \u2014 validated). Compressed 94MB->7.6MB (CRF 43). Disk was full mid-run \u2014 cleaned old clips caches and temp files to free 3.8GB."
+    },
+    {
+      "productionId": "JV-2026-09-29-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "df7e68e6e043bad9d1def868d6f0cacb39e5e86331a4fcea635bb676aa3a3567",
+      "status": "render-failed",
+      "startedAt": "2026-09-29T16:04:19.529277-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Sea Lion Feels Fish Swimming 30 Feet Away #Shorts",
+      "animal": "sea lion",
+      "angle": "3rd (1st: Never Forgets a Voice = hearing/memory, 2nd: unknown). Sensory: whiskers detect fish swimming 30 feet away in complete darkness. Each whisker independently mobile, packed with nerve endings. Sense water displacement \u2014 hydrodynamic trail. Can track fish wake in pitch black water.",
+      "renderedAt": "2026-09-29T16:05:49.262905-04:00",
+      "error": "insufficient real sea lion footage: only 3/6 clips were sea lions (scene 2=sea otters, scene 3=dolphin, scene 6=lion cubs). Pexels returned wrong species for whiskers/swimming/nature queries.",
+      "note": "Sea lion 3rd angle (whiskers detect fish 30ft away). Only 3/6 real sea lions \u2014 below 4/6 threshold."
     }
   ]
 }
