@@ -245,6 +245,28 @@
       "evaluatedAt": "2026-09-28T10:03:47-04:00",
       "decision": "revert",
       "evalNotes": "Variant-period analytics for 2026-09-25 to 2026-09-28 inclusive returned one per-video row: 2 views, 0 estimated minutes watched, 0 likes, and 4s averageViewDuration. The daily query returned one active day (2026-09-25: 2 views, 0 estimated minutes watched, 0 likes, 4s averageViewDuration); the other queried days had no returned rows. Variant daily averages over the four-day window were 0.5 views/day, 0.0 estimated minutes watched/day, and 0.0 likes/day; averageViewDuration was 4s on the reported active day. Baseline daily averages from the experiment record were 66.25 views/day, 21.285714 estimated minutes watched/day, and 30s averageViewDuration. Views fell 99.25% versus baseline and averageViewDuration fell 86.67%, so REVERT per policy (views dropped >15% and retention dropped). Action taken: updated the YouTube title back to the baseline string via youtube_data_api-update-video-details. The update response confirmed the restored title: \"Why the Manatee Never Runs Out of Teeth #Shorts\"."
+    },
+    {
+      "id": "EXP-010",
+      "videoId": "v3KM5eDdnho",
+      "field": "title",
+      "baseline": "Why the Manatee Never Runs Out of Teeth #Shorts",
+      "variant": "Manatee Teeth March Forward—But Why? #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-09-29T09:04:53.307287-04:00",
+      "baselineMetrics": {
+        "views": 1861,
+        "watched": 597,
+        "likes": 88,
+        "comments": 1,
+        "avgViewDuration": 30
+      },
+      "baselineDailyAverages": {
+        "views": 66.46428571428571,
+        "watched": 21.321428571428573,
+        "avgViewDuration": 30
+      },
+      "status": "running"
     }
   ],
   "policy": {
