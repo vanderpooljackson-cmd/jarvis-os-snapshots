@@ -5241,6 +5241,29 @@
       "renderedAt": "2026-09-29T16:05:49.262905-04:00",
       "error": "insufficient real sea lion footage: only 3/6 clips were sea lions (scene 2=sea otters, scene 3=dolphin, scene 6=lion cubs). Pexels returned wrong species for whiskers/swimming/nature queries.",
       "note": "Sea lion 3rd angle (whiskers detect fish 30ft away). Only 3/6 real sea lions \u2014 below 4/6 threshold."
+    },
+    {
+      "productionId": "JV-2026-09-29-SELF3",
+      "ideaId": "SELF3",
+      "sourceHash": "e9a30930faa5ab4f92934126a2bc6e246a1bf04a55e80f2238e47150bfe57727",
+      "status": "uploaded",
+      "startedAt": "2026-09-29T16:06:02.676758-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Owl Turns Its Head Almost All the Way Around #Shorts",
+      "animal": "owl",
+      "angle": "3rd (1st: silent flight = hearing/stealth, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Blood pools in reservoirs to keep brain supplied during extreme rotation. Eyes are fixed in sockets \u2014 can't move, so head must turn. Adapted for hunting.",
+      "renderedAt": "2026-09-29T16:14:40.362509-04:00",
+      "uploadedAt": "2026-09-29T16:14:40.362509-04:00",
+      "youtube": {
+        "videoId": "XH76CH_AWNk",
+        "url": "https://www.youtube.com/watch?v=XH76CH_AWNk"
+      },
+      "duration": 83.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "TURNS HEAD ALL THE WAY AROUND",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on owl (1st: silent flight, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Eyes are fixed tubes \u2014 can't move, so head must turn. Arteries widen into blood reservoirs keeping brain supplied at maximum rotation. 6/6 Pexels clips (ALL real owls incl. Eurasian eagle owl, screech owl in tree hollow, camouflaged). Assembly ok:false (false negative \u2014 validated). Compressed 82MB->8.9MB (CRF 43). Sea lion 3rd angle (SELF2) render-failed earlier \u2014 only 3/6 real sea lions (otter, dolphin, lion cubs returned)."
     }
   ]
 }
