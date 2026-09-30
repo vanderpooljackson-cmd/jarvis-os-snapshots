@@ -5287,6 +5287,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on penguin (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital gland filters salt from seawater. Concentrates into solution 5x saltier than ocean. Excretes through nasal passages, runs out beak. Filters salt through face not kidneys. Never needs fresh water. 5/6 Pexels clips were real penguins (scene 2 was fish in aquarium). Assembly ok:false (false negative \u2014 validated). Compressed 99MB->6.2MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-09-30-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "16d3b574819030dbe0d920c96eb25ad51e317face36080fd01780aea76232de2",
+      "status": "uploaded",
+      "startedAt": "2026-09-30T16:04:53.965043-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Bear Sleeps for Six Months Without Losing Any Muscle #Shorts",
+      "animal": "bear",
+      "angle": "3rd (1st: Smell Food From 20 Miles = sensory, 2nd: unknown). Extreme survival: hibernation 6 months without eating/drinking/urinating. No muscle loss, no bone density loss. Body recycles waste back into protein. Bedridden humans lose 1% muscle per day. Bears lose almost nothing.",
+      "renderedAt": "2026-09-30T16:11:19.740369-04:00",
+      "uploadedAt": "2026-09-30T16:11:19.740369-04:00",
+      "youtube": {
+        "videoId": "StlobryjZ3E",
+        "url": "https://www.youtube.com/watch?v=StlobryjZ3E"
+      },
+      "duration": 75.1,
+      "resolution": "1080x1920",
+      "hookOverlay": "SLEEPS SIX MONTHS NO MUSCLE LOSS",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on bear (1st: Smell Food From 20 Miles = sensory, 2nd: unknown). Extreme survival: hibernation 6 months without eating/drinking/urinating. No muscle loss, no bone density loss. Body recycles urea back into nitrogen for new protein/muscle. Metabolism drops to quarter. Bedridden humans lose 1% muscle/day, bears lose almost nothing. 6/6 Pexels clips (ALL real bears incl. polar bear relaxing, Asian black bear, black bear climbing). Assembly ok:false (false negative \u2014 validated). Compressed 40MB->2.9MB (CRF 43)."
     }
   ]
 }
