@@ -8,35 +8,27 @@
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
       "viewCount": 176901,
-      "subscriberCount": 275,
-      "videoCount": 185
+      "subscriberCount": 286,
+      "videoCount": 187
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-09-01",
-    "endDate": "2026-09-29",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-30",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 56181,
-    "estimatedMinutesWatched": 20415,
-    "subscribersGained": 106,
+    "views": 57652,
+    "estimatedMinutesWatched": 21705,
+    "subscribersGained": 117,
     "subscribersLost": 9,
-    "likes": 2775,
-    "comments": 33,
-    "shares": 62,
-    "netSubscribers": 97
+    "likes": 2907,
+    "comments": 37,
+    "shares": 68,
+    "netSubscribers": 108
   },
   "daily": [
-    {
-      "day": "2026-09-01",
-      "views": 2311,
-      "watched": 693,
-      "subsGained": 3,
-      "subsLost": 0,
-      "likes": 119
-    },
     {
       "day": "2026-09-02",
       "views": 2450,
@@ -236,14 +228,22 @@
       "subsGained": 11,
       "subsLost": 2,
       "likes": 191
+    },
+    {
+      "day": "2026-09-27",
+      "views": 3782,
+      "watched": 1983,
+      "subsGained": 14,
+      "subsLost": 0,
+      "likes": 251
     }
   ],
   "topVideos": [
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2975,
-      "watched": 1918,
+      "views": 2977,
+      "watched": 1919,
       "likes": 127,
       "comments": 4,
       "avgViewDuration": 60,
@@ -253,24 +253,35 @@
     {
       "videoId": "BDS46bo0SQw",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
-      "views": 2778,
-      "watched": 1312,
-      "likes": 106,
+      "views": 2869,
+      "watched": 1344,
+      "likes": 107,
       "comments": 0,
-      "avgViewDuration": 46,
+      "avgViewDuration": 45,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
+    },
+    {
+      "videoId": "xQH2pDOHLCc",
+      "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
+      "views": 2530,
+      "watched": 1570,
+      "likes": 215,
+      "comments": 2,
+      "avgViewDuration": 63,
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "2GZbLp5SP7g",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 2077,
+      "views": 2078,
       "watched": 1059,
       "likes": 127,
       "comments": 1,
       "avgViewDuration": 49,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "v3KM5eDdnho",
@@ -280,41 +291,30 @@
       "likes": 88,
       "comments": 1,
       "avgViewDuration": 30,
-      "flag": "optimize",
-      "note": "Above-average views (1,861; top-10 average 1852.2) but below-median retention (30s vs 42s)"
+      "flag": "stable",
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-      "views": 1525,
+      "views": 1526,
       "watched": 734,
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 49,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "epjoY2rCddc",
       "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
-      "views": 1515,
+      "views": 1516,
       "watched": 422,
       "likes": 53,
       "comments": 0,
       "avgViewDuration": 29,
       "flag": "stable",
-      "note": ""
-    },
-    {
-      "videoId": "xQH2pDOHLCc",
-      "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
-      "views": 1514,
-      "watched": 782,
-      "likes": 137,
-      "comments": 1,
-      "avgViewDuration": 52,
-      "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "5p-ZHv0qxZQ",
@@ -325,55 +325,55 @@
       "comments": 3,
       "avgViewDuration": 33,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
       "videoId": "d4KV2VtHjdQ",
       "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
-      "views": 1419,
-      "watched": 529,
+      "views": 1422,
+      "watched": 530,
       "likes": 99,
       "comments": 1,
       "avgViewDuration": 38,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     },
     {
-      "videoId": "0onjfepA3F8",
-      "title": "Why the Sea Lion Never Forgets a Voice #Shorts",
-      "views": 1409,
-      "watched": 401,
-      "likes": 68,
-      "comments": 0,
-      "avgViewDuration": 26,
+      "videoId": "-bpS7VaF_EI",
+      "title": "Why the Rhino Charges at 40 MPH #Shorts",
+      "views": 1398,
+      "watched": 434,
+      "likes": 66,
+      "comments": 1,
+      "avgViewDuration": 29,
       "flag": "stable",
-      "note": ""
+      "note": "Within the normal top-10 performance range"
     }
   ],
-  "fetchedAt": "2026-09-29T09:04:53.307287-04:00",
+  "fetchedAt": "2026-09-30T09:05:46.095027-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-29T09:04:53.307287-04:00",
+      "fetchedAt": "2026-09-30T09:05:46.095027-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 275,
+        "current": 286,
         "threshold": 1000,
-        "percent": 27.5
+        "percent": 28.6
       },
       "watchHours12mo": {
-        "current": 933.5,
+        "current": 966.5,
         "threshold": 4000,
-        "percent": 23.34,
+        "percent": 24.16,
         "window": "Last 12 months",
-        "minutesWatched": 56009
+        "minutesWatched": 57993
       },
       "shortsViews90d": {
-        "current": 153908,
+        "current": 157690,
         "threshold": 10000000,
-        "percent": 1.539,
+        "percent": 1.577,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
