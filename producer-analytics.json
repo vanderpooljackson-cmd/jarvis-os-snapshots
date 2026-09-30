@@ -23,8 +23,8 @@
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 2.8,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 3.27,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -49,8 +49,8 @@
       "retentionPercent": null,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.45,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.69,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -75,8 +75,8 @@
       "retentionPercent": 59.2,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -101,8 +101,8 @@
       "retentionPercent": 44.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.43,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.51,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -127,8 +127,8 @@
       "retentionPercent": 50.4,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -153,8 +153,8 @@
       "retentionPercent": 59.6,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.67,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.79,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -179,8 +179,8 @@
       "retentionPercent": 49.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -203,11 +203,11 @@
       },
       "videoDurationSeconds": 53.0,
       "retentionPercent": 69.8,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.89,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.04,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -231,8 +231,8 @@
       "retentionPercent": 57.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.67,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.79,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -255,11 +255,11 @@
       },
       "videoDurationSeconds": 51.8,
       "retentionPercent": 84.9,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.06,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.24,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "winner"
@@ -283,8 +283,8 @@
       "retentionPercent": 52.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -309,8 +309,8 @@
       "retentionPercent": 47.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.6,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.7,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -335,8 +335,8 @@
       "retentionPercent": 40.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -361,8 +361,8 @@
       "retentionPercent": 73.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.94,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.1,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -387,8 +387,8 @@
       "retentionPercent": 56.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.8,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.93,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -413,8 +413,8 @@
       "retentionPercent": 29.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.34,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.39,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -439,8 +439,8 @@
       "retentionPercent": 36.5,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.48,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.56,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -465,8 +465,8 @@
       "retentionPercent": 75.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.89,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.04,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -491,8 +491,8 @@
       "retentionPercent": 56.3,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.84,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.99,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -517,8 +517,8 @@
       "retentionPercent": 55.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.92,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.07,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -543,8 +543,8 @@
       "retentionPercent": 28.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.43,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.51,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -569,8 +569,8 @@
       "retentionPercent": 42.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -595,8 +595,8 @@
       "retentionPercent": 27.3,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.39,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.45,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -621,8 +621,8 @@
       "retentionPercent": 23.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.34,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.39,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -647,8 +647,8 @@
       "retentionPercent": 21.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.39,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.45,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -673,8 +673,8 @@
       "retentionPercent": 9.6,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.17,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.2,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -699,8 +699,8 @@
       "retentionPercent": 29.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.58,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.68,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -725,8 +725,8 @@
       "retentionPercent": 4.3,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.07,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.08,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -751,8 +751,8 @@
       "retentionPercent": 52.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.87,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.01,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -777,7 +777,7 @@
       "retentionPercent": 0.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 35.5,
         "ratioToBaselineAvgViewDuration": 0.0,
         "note": "Within normal range or not enough view volume for a strong call."
       },
@@ -841,8 +841,8 @@
       "retentionPercent": 24.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.31,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.37,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -867,8 +867,8 @@
       "retentionPercent": 38.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -893,8 +893,8 @@
       "retentionPercent": 56.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -919,8 +919,8 @@
       "retentionPercent": 9.5,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.12,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.14,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -945,8 +945,8 @@
       "retentionPercent": 6.4,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.07,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.08,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -971,8 +971,8 @@
       "retentionPercent": 38.2,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.43,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.51,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -997,8 +997,8 @@
       "retentionPercent": 39.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.55,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.65,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1023,8 +1023,8 @@
       "retentionPercent": 36.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.48,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.56,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1049,8 +1049,8 @@
       "retentionPercent": 41.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.51,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.59,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1075,8 +1075,8 @@
       "retentionPercent": 42.4,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.55,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.65,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1101,8 +1101,8 @@
       "retentionPercent": 44.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.55,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.65,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1125,11 +1125,11 @@
       },
       "videoDurationSeconds": 45.4,
       "retentionPercent": 88.1,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.96,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.13,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -1153,8 +1153,8 @@
       "retentionPercent": 50.4,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1179,8 +1179,8 @@
       "retentionPercent": 50.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1205,8 +1205,8 @@
       "retentionPercent": 30.2,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.41,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.48,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1231,8 +1231,8 @@
       "retentionPercent": 43.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1257,8 +1257,8 @@
       "retentionPercent": 41.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.51,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.59,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1281,11 +1281,11 @@
       },
       "videoDurationSeconds": 46.93,
       "retentionPercent": 87.4,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.99,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.15,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -1309,8 +1309,8 @@
       "retentionPercent": 65.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1333,11 +1333,11 @@
       },
       "videoDurationSeconds": 51.6,
       "retentionPercent": 89.1,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.11,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.3,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "winner"
@@ -1361,8 +1361,8 @@
       "retentionPercent": 43.2,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.51,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.59,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1387,8 +1387,8 @@
       "retentionPercent": 54.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.58,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.68,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1411,11 +1411,11 @@
       },
       "videoDurationSeconds": 52.33,
       "retentionPercent": 74.5,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.94,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.1,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -1439,8 +1439,8 @@
       "retentionPercent": 77.5,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1465,8 +1465,8 @@
       "retentionPercent": 34.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.43,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.51,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1491,8 +1491,8 @@
       "retentionPercent": 38.5,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.46,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.54,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1517,8 +1517,8 @@
       "retentionPercent": 58.7,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.6,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.7,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1543,8 +1543,8 @@
       "retentionPercent": 77.0,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1569,8 +1569,8 @@
       "retentionPercent": 31.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.36,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.42,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1595,8 +1595,8 @@
       "retentionPercent": 62.2,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.6,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.7,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1621,8 +1621,8 @@
       "retentionPercent": 33.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.36,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.42,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1647,8 +1647,8 @@
       "retentionPercent": 97.6,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.16,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.35,
         "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1673,8 +1673,8 @@
       "retentionPercent": 43.9,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1718,8 +1718,8 @@
       "retentionPercent": 55.1,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.67,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.79,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1744,8 +1744,8 @@
       "retentionPercent": 52.0,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1768,11 +1768,11 @@
       },
       "videoDurationSeconds": 53.73,
       "retentionPercent": 67.0,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.87,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.01,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -1796,8 +1796,8 @@
       "retentionPercent": 59.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.72,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.85,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1822,8 +1822,8 @@
       "retentionPercent": 63.9,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1848,8 +1848,8 @@
       "retentionPercent": 49.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1874,8 +1874,8 @@
       "retentionPercent": 62.8,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.8,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.93,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1900,8 +1900,8 @@
       "retentionPercent": 49.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1926,8 +1926,8 @@
       "retentionPercent": 58.7,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.8,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.93,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1952,8 +1952,8 @@
       "retentionPercent": 56.4,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.75,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.87,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -1978,8 +1978,8 @@
       "retentionPercent": 68.5,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2002,11 +2002,11 @@
       },
       "videoDurationSeconds": 61.77,
       "retentionPercent": 74.5,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.11,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.3,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "winner"
@@ -2030,8 +2030,8 @@
       "retentionPercent": 83.7,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.16,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.35,
         "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2054,11 +2054,11 @@
       },
       "videoDurationSeconds": 69.4,
       "retentionPercent": 60.5,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.01,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.18,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "winner"
@@ -2082,8 +2082,8 @@
       "retentionPercent": 59.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.77,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.9,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2108,8 +2108,8 @@
       "retentionPercent": 48.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2134,8 +2134,8 @@
       "retentionPercent": 42.8,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.6,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.7,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2160,8 +2160,8 @@
       "retentionPercent": 47.0,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2186,8 +2186,8 @@
       "retentionPercent": 53.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2212,8 +2212,8 @@
       "retentionPercent": 39.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2236,11 +2236,11 @@
       },
       "videoDurationSeconds": 55.8,
       "retentionPercent": 77.1,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.04,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.21,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "winner"
@@ -2264,8 +2264,8 @@
       "retentionPercent": 43.8,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2290,8 +2290,8 @@
       "retentionPercent": 46.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2316,8 +2316,8 @@
       "retentionPercent": 41.1,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2342,8 +2342,8 @@
       "retentionPercent": 60.6,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.84,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.99,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2368,8 +2368,8 @@
       "retentionPercent": 51.1,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.7,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.82,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2394,8 +2394,8 @@
       "retentionPercent": 57.5,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.7,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.82,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2420,8 +2420,8 @@
       "retentionPercent": 68.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.92,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.07,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2446,8 +2446,8 @@
       "retentionPercent": 54.2,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.72,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.85,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2470,11 +2470,11 @@
       },
       "videoDurationSeconds": 58.1,
       "retentionPercent": 51.6,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.72,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.85,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -2498,8 +2498,8 @@
       "retentionPercent": 39.3,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.51,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.59,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2522,11 +2522,11 @@
       },
       "videoDurationSeconds": 57.6,
       "retentionPercent": 76.4,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.06,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.24,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "winner"
@@ -2550,8 +2550,8 @@
       "retentionPercent": 56.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.77,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.9,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2576,8 +2576,8 @@
       "retentionPercent": 63.5,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.75,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.87,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2602,8 +2602,8 @@
       "retentionPercent": 59.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.77,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.9,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2626,11 +2626,11 @@
       },
       "videoDurationSeconds": 56.57,
       "retentionPercent": 67.2,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.92,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.07,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -2654,8 +2654,8 @@
       "retentionPercent": 78.5,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.11,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.3,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2680,8 +2680,8 @@
       "retentionPercent": 35.3,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.46,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.54,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2706,8 +2706,8 @@
       "retentionPercent": 48.4,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2732,8 +2732,8 @@
       "retentionPercent": 48.9,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.65,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.76,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2758,8 +2758,8 @@
       "retentionPercent": 44.4,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.58,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.68,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2784,8 +2784,8 @@
       "retentionPercent": 64.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.87,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.01,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2810,8 +2810,8 @@
       "retentionPercent": 42.4,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.46,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.54,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2834,11 +2834,11 @@
       },
       "videoDurationSeconds": 62.9,
       "retentionPercent": 63.6,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.96,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.13,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
       "lastNotifiedLabel": "stable"
@@ -2862,8 +2862,8 @@
       "retentionPercent": 57.6,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.84,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.99,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-14T11:13:49.761460-04:00",
@@ -2888,8 +2888,8 @@
       "retentionPercent": 37.2,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.58,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.68,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-15T11:05:42.470826-04:00",
@@ -2914,8 +2914,8 @@
       "retentionPercent": 65.5,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.84,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.99,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-15T11:05:42.470826-04:00",
@@ -2940,8 +2940,8 @@
       "retentionPercent": 42.6,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.55,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.65,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-16T11:04:57.406395-04:00",
@@ -2966,8 +2966,8 @@
       "retentionPercent": 50.2,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.75,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.87,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-16T11:04:57.406395-04:00",
@@ -2992,8 +2992,8 @@
       "retentionPercent": 56.2,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.72,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.85,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
@@ -3018,8 +3018,8 @@
       "retentionPercent": 40.4,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.63,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.73,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
@@ -3044,8 +3044,8 @@
       "retentionPercent": 33.6,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.53,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.62,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
@@ -3070,8 +3070,8 @@
       "retentionPercent": 87.7,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.45,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.69,
         "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
@@ -3094,11 +3094,11 @@
       },
       "videoDurationSeconds": 64.6,
       "retentionPercent": 72.8,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.13,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.32,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
       "lastNotifiedLabel": "winner"
@@ -3120,11 +3120,11 @@
       },
       "videoDurationSeconds": 62.9,
       "retentionPercent": 66.8,
-      "performanceLabel": "stable",
+      "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.01,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.18,
+        "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
       "lastNotifiedLabel": "winner"
@@ -3148,8 +3148,8 @@
       "retentionPercent": 67.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.99,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.15,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
@@ -3174,8 +3174,8 @@
       "retentionPercent": 56.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.87,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.01,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-20T11:05:19.683742-04:00",
@@ -3200,8 +3200,8 @@
       "retentionPercent": 63.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.94,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.1,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-21T11:10:34.889412-04:00",
@@ -3226,8 +3226,8 @@
       "retentionPercent": 58.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.72,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.85,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-21T11:10:34.889412-04:00",
@@ -3252,8 +3252,8 @@
       "retentionPercent": 54.1,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.72,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.85,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-22T11:09:05.185314-04:00",
@@ -3278,8 +3278,8 @@
       "retentionPercent": 37.2,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.51,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.59,
         "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
       },
       "analyzedAt": "2026-09-23T11:06:43.621340-04:00",
@@ -3304,8 +3304,8 @@
       "retentionPercent": 75.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.16,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.35,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-24T11:05:44.029206-04:00",
@@ -3356,8 +3356,8 @@
       "retentionPercent": 53.6,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.82,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.96,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
@@ -3382,8 +3382,8 @@
       "retentionPercent": 45.9,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.75,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.87,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-25T11:02:50.893819-04:00",
@@ -3406,11 +3406,11 @@
       },
       "videoDurationSeconds": 64.6,
       "retentionPercent": 60.4,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.94,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.1,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": "stable"
@@ -3432,11 +3432,11 @@
       },
       "videoDurationSeconds": 72.6,
       "retentionPercent": 53.7,
-      "performanceLabel": "optimize",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.94,
-        "note": "Views are above the available-video average, but AVD is below baseline; tighten hook/pacing."
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.1,
+        "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-26T11:08:29.810524-04:00",
       "lastNotifiedLabel": "stable"
@@ -3460,8 +3460,8 @@
       "retentionPercent": 78.3,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.16,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.35,
         "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
@@ -3486,8 +3486,8 @@
       "retentionPercent": 62.0,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.96,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.13,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-27T11:05:25.589466-04:00",
@@ -3512,8 +3512,8 @@
       "retentionPercent": 69.2,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.28,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 1.49,
         "note": "Above baseline AVD with meaningful early views."
       },
       "analyzedAt": "2026-09-28T11:10:05-04:00",
@@ -3538,8 +3538,8 @@
       "retentionPercent": 55.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 0.8,
+        "baselineAvgViewDuration": 35.5,
+        "ratioToBaselineAvgViewDuration": 0.93,
         "note": "Within normal range or not enough view volume for a strong call."
       },
       "analyzedAt": "2026-09-28T11:10:05-04:00",
@@ -3564,9 +3564,10 @@
       "retentionPercent": 73.7,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.25,
-        "note": "Above baseline AVD with meaningful early views."
+        "baselineAvgViewDuration": 42.0,
+        "ratioToBaselineAvgViewDuration": 1.24,
+        "baselineTopVideosMedianViews": 1520.0,
+        "note": "73.7% retention; 52s average view duration vs 42s channel top-video median; 1514 views."
       },
       "analyzedAt": "2026-09-29T11:05:00-04:00",
       "lastNotifiedLabel": "winner"
@@ -3590,9 +3591,10 @@
       "retentionPercent": 74.1,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": 1.35,
-        "note": "Above baseline AVD with meaningful early views."
+        "baselineAvgViewDuration": 42.0,
+        "ratioToBaselineAvgViewDuration": 1.33,
+        "baselineTopVideosMedianViews": 1520.0,
+        "note": "74.1% retention; 56s average view duration vs 42s channel top-video median; 493 views."
       },
       "analyzedAt": "2026-09-29T11:05:00-04:00",
       "lastNotifiedLabel": "winner"
