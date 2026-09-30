@@ -1,6 +1,79 @@
 {
-  "fetchedAt": "2026-09-28T17:34:01.113366-04:00",
+  "fetchedAt": "2026-09-30T17:34:48.933266-04:00",
   "videos": [
+    {
+      "videoId": "StlobryjZ3E",
+      "title": "Why the Bear Sleeps for Six Months Without Losing Any Muscle #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Recycles own waste into new muscle while asleep",
+          "startSec": 24,
+          "endSec": 42,
+          "why": "Core mechanism \u2014 urea broken down into nitrogen, used to build new protein and muscle. Body recycles everything. Peak curiosity.",
+          "hookRewrite": "This bear turns its own waste into muscle while it sleeps for six months straight"
+        },
+        {
+          "momentLabel": "Bedridden humans lose 1% muscle/day, bears lose nothing",
+          "startSec": 49,
+          "endSec": 75,
+          "why": "Direct comparison with humans \u2014 if we understood how, we could help astronauts and hospital patients. Emotional payoff.",
+          "hookRewrite": "Humans lose 1% muscle per day in bed. This bear loses nothing after six months."
+        }
+      ]
+    },
+    {
+      "videoId": "_sTGXU-lDUw",
+      "title": "Why the Penguin Drinks Saltwater and Survives #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Supraorbital gland makes salt solution 5x saltier than ocean",
+          "startSec": 22,
+          "endSec": 44,
+          "why": "Core mechanism \u2014 gland behind eyes pulls salt from blood, concentrates 5x saltier than ocean, drips out through beak. Filters salt through face not kidneys.",
+          "hookRewrite": "This penguin filters salt through its face \u2014 not its kidneys \u2014 using a gland behind its eyes"
+        },
+        {
+          "momentLabel": "Turned its face into a desalination plant",
+          "startSec": 52,
+          "endSec": 68,
+          "why": "Poetic close \u2014 animal on ice surrounded by undrinkable water made the entire ocean its drinking fountain. Never needs fresh water.",
+          "hookRewrite": "This animal never drinks fresh water \u2014 it turned its own face into a desalination plant"
+        }
+      ]
+    },
+    {
+      "videoId": "XH76CH_AWNk",
+      "title": "Why the Owl Turns Its Head Almost All the Way Around #Shorts",
+      "transcriptStatus": "extracted",
+      "comments": [],
+      "clipCandidates": [
+        {
+          "momentLabel": "Eyes are fixed tubes \u2014 head must turn 270 degrees",
+          "startSec": 0,
+          "endSec": 27,
+          "why": "Opening fact \u2014 owl eyes are tube-shaped and locked in skull, can't move. To look anywhere else, entire head rotates 270 degrees. Instant curiosity gap.",
+          "hookRewrite": "An owl's eyes are locked in place \u2014 it can't move them at all, so it does this instead"
+        },
+        {
+          "momentLabel": "Arteries widen into blood reservoirs at maximum rotation",
+          "startSec": 50,
+          "endSec": 83,
+          "why": "Survival mechanism \u2014 arteries would twist shut in humans but owls have pooling reservoirs keeping brain supplied. Backup blood system.",
+          "hookRewrite": "This owl's arteries would kill a human \u2014 but it has a backup blood system that makes it work"
+        }
+      ]
+    },
+    {
+      "videoId": "e4bzKftxKVU",
+      "title": "Why the Tiger Sees Six Times Better Than You in the Dark #Shorts",
+      "transcriptStatus": "failed",
+      "comments": [],
+      "clipCandidates": []
+    },
     {
       "videoId": "JGlYtx5pEa8",
       "title": "Why the Peacock Changes Color When You Move #Shorts",
@@ -11,114 +84,40 @@
           "author": "@MichaelGarner-hq1ky",
           "text": "You're CC is Off rythm to the audio to the reel....",
           "replyPosted": true,
-          "replyText": "Thanks for the heads up on the caption timing \u2014 we'll look into syncing them tighter to the audio. Appreciate you watching and taking the time to flag it"
+          "replyText": "Already replied in sweep #37 (caption timing feedback)"
+        },
+        {
+          "id": "UgwuoD6EdL7QoMdI5494AaABAg",
+          "author": "@therandals",
+          "text": "no it doesn't",
+          "replyPosted": true,
+          "replyText": "It actually does \u2014 this is measurable with a spectrometer. The color shift is called iridescence, and it happens because peacock feathers have photonic crystal structures that reflect different wavelengths at different angles. Look at the same feather from straight on vs from the side and you'll see blue shift to green to bronze. It's not opinion \u2014 it's physics"
+        },
+        {
+          "id": "UgxpG5n3dwBZKk9rvaJ4AaABAg",
+          "author": "@CocoOPNY",
+          "text": "Evidence of design \nGenesis 1:1\nPsalm 83:18",
+          "replyPosted": false,
+          "replyText": ""
         }
       ],
       "clipCandidates": [
         {
-          "momentLabel": "No blue pigment \u2014 color made by structure",
+          "momentLabel": "No blue pigment \u2014 color made entirely by structure",
           "startSec": 0,
           "endSec": 19,
-          "why": "Mind-blowing opening \u2014 peacock feathers have zero blue pigment. Color is entirely structural. Instant curiosity gap.",
-          "hookRewrite": "This peacock feather has no blue in it at all \u2014 and the proof is in how it changes when you move"
+          "why": "Mind-blowing opening \u2014 peacock feather has zero blue pigment. Color is structural. Photonic crystals reflect one wavelength and cancel rest.",
+          "hookRewrite": "This feather has no blue in it at all \u2014 and the proof is in how it changes when you move"
         },
         {
-          "momentLabel": "Same feather reflects different colors at different angles",
+          "momentLabel": "Same feather reflects blue then green then bronze then purple",
           "startSec": 27,
           "endSec": 48,
-          "why": "Visual demonstration of the superpower \u2014 look straight on it's blue, tilt your head and it's green, then bronze, then purple. Photonic crystals shifting with viewing angle.",
+          "why": "Visual demonstration \u2014 look straight on it's blue, tilt head and it's green, bronze, purple. Color shifts because crystal lattice bounces different wavelengths at different angles.",
           "hookRewrite": "Watch this feather change from blue to green to purple \u2014 without any pigment at all"
-        }
-      ]
-    },
-    {
-      "videoId": "RjBYoCrIPuU",
-      "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "bXqV-m3q_Ek",
-      "title": "Why the Elephant Cools Itself With Its Ears #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "Ugyrbs-inJGpd9grO7V4AaABAg",
-          "author": "@princessdaisy5321",
-          "text": "Elephant is so social the mothers and kids create a safe herd for all members. Poor working elephant is abused, depressed, lonely and owners don't care about physical needs or emotions",
-          "replyPosted": true,
-          "replyText": "You're absolutely right that elephants are deeply social and emotional animals. The matriarch-led herds are incredible to study \u2014 they grieve, celebrate, and protect each other. All footage in this Short is from sanctuaries and wild habitats. Thanks for caring about these amazing animals"
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Elephants can't sweat \u2014 ears are giant radiators",
-          "startSec": 0,
-          "endSec": 21,
-          "why": "Surprising fact \u2014 elephants have almost no sweat glands. On 50\u00b0C savanna that should kill them. But ears are giant radiators packed with capillaries.",
-          "hookRewrite": "Elephants can't sweat \u2014 so they cool their entire body using just their ears"
-        },
-        {
-          "momentLabel": "Blood drops 5 degrees in a single pass through ears",
-          "startSec": 28,
-          "endSec": 46,
-          "why": "Quantified superpower \u2014 air across ear capillary network cools blood by 10 degrees, blood in ears drops 5 degrees in single pass. African elephant ears 3x Asian elephants.",
-          "hookRewrite": "This elephant's blood drops 5 degrees every time it passes through its ears"
-        }
-      ]
-    },
-    {
-      "videoId": "fpxnaqYxlMU",
-      "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
-      "transcriptStatus": "failed",
-      "comments": [],
-      "clipCandidates": []
-    },
-    {
-      "videoId": "jU32SQuswds",
-      "title": "Why the Sea Turtle Finds Its Birth Beach From 10000 Miles Away #Shorts",
-      "transcriptStatus": "extracted",
-      "comments": [
-        {
-          "id": "UgweN3r1bDYVRykPj794AaABAg",
-          "author": "@princessdaisy5321",
-          "text": "Very interesting and hopefully you will leave the turtle eggs alone and let them repopulate",
-          "replyPosted": true,
-          "replyText": "Absolutely \u2014 all the sea turtle footage here is from the wild, and sea turtles are protected species. Their magnetic navigation is one of nature's most incredible survival tools. Thanks for watching and caring about these amazing creatures"
-        },
-        {
-          "id": "UgxrTXj-Mald7Ig0Ae54AaABAg",
-          "author": "@lynnfletcher3298",
-          "text": "Do you think these abilities came about by chance or by design? REVELATION 4:11",
-          "replyPosted": false,
-          "replyText": ""
-        },
-        {
-          "id": "Ugw9CzOODYlXppH9iDV4AaABAg",
-          "author": "@MyGoldenTheo",
-          "text": "That is the absolute majesty of God's wonderful creation! Praise Jesus!",
-          "replyPosted": false,
-          "replyText": ""
-        }
-      ],
-      "clipCandidates": [
-        {
-          "momentLabel": "Returns to exact birth beach 20-30 years later",
-          "startSec": 0,
-          "endSec": 16,
-          "why": "Incredible journey \u2014 hatches on beach, disappears into ocean, returns 20-30 years later to within miles of exact spot. Without landmarks, without a map.",
-          "hookRewrite": "This turtle returns to the exact beach it was born on \u2014 30 years and 10000 miles later"
-        },
-        {
-          "momentLabel": "Scientists proved turtles navigate by magnetism alone",
-          "startSec": 40,
-          "endSec": 70,
-          "why": "Scientific proof \u2014 researchers simulated magnetic fields in pools and turtles turned in exact direction they would travel. Navigating by magnetism alone, no map, no compass.",
-          "hookRewrite": "Scientists put turtles in pools and proved they navigate by reading the planet's magnetic field"
         }
       ]
     }
   ],
-  "postedReplies": 3
+  "postedReplies": 1
 }
