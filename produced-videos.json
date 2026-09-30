@@ -5264,6 +5264,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on owl (1st: silent flight, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Eyes are fixed tubes \u2014 can't move, so head must turn. Arteries widen into blood reservoirs keeping brain supplied at maximum rotation. 6/6 Pexels clips (ALL real owls incl. Eurasian eagle owl, screech owl in tree hollow, camouflaged). Assembly ok:false (false negative \u2014 validated). Compressed 82MB->8.9MB (CRF 43). Sea lion 3rd angle (SELF2) render-failed earlier \u2014 only 3/6 real sea lions (otter, dolphin, lion cubs returned)."
+    },
+    {
+      "productionId": "JV-2026-09-30-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "b4f085706079a0302946e460f3a3c50d4119128e96b1efcb1a0247d4c580283d",
+      "status": "uploaded",
+      "startedAt": "2026-09-30T10:08:12.189738-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Penguin Drinks Saltwater and Survives #Shorts",
+      "animal": "penguin",
+      "angle": "3rd (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital salt gland filters salt from seawater. Excretes concentrated salt solution through nasal passages. Can drink pure ocean water \u2014 would dehydrate and kill most animals. Lives on saltwater its entire life.",
+      "renderedAt": "2026-09-30T10:16:10.782409-04:00",
+      "uploadedAt": "2026-09-30T10:16:10.782409-04:00",
+      "youtube": {
+        "videoId": "_sTGXU-lDUw",
+        "url": "https://www.youtube.com/watch?v=_sTGXU-lDUw"
+      },
+      "duration": 68.6,
+      "resolution": "1080x1920",
+      "hookOverlay": "DRINKS SALTWATER AND SURVIVES",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on penguin (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital gland filters salt from seawater. Concentrates into solution 5x saltier than ocean. Excretes through nasal passages, runs out beak. Filters salt through face not kidneys. Never needs fresh water. 5/6 Pexels clips were real penguins (scene 2 was fish in aquarium). Assembly ok:false (false negative \u2014 validated). Compressed 99MB->6.2MB (CRF 43)."
     }
   ]
 }
