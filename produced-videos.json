@@ -5310,6 +5310,29 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "note": "Self-generated 3rd angle on bear (1st: Smell Food From 20 Miles = sensory, 2nd: unknown). Extreme survival: hibernation 6 months without eating/drinking/urinating. No muscle loss, no bone density loss. Body recycles urea back into nitrogen for new protein/muscle. Metabolism drops to quarter. Bedridden humans lose 1% muscle/day, bears lose almost nothing. 6/6 Pexels clips (ALL real bears incl. polar bear relaxing, Asian black bear, black bear climbing). Assembly ok:false (false negative \u2014 validated). Compressed 40MB->2.9MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-10-01-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "db22d77edb677f6abe73089224659f954a216723f74700359422a58bc32ab2af",
+      "status": "uploaded",
+      "startedAt": "2026-10-01T10:16:20.013819-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Monkey Uses Medicine From the Jungle Floor #Shorts",
+      "animal": "monkey",
+      "angle": "3rd (1st: Uses Tools Like a Human = cognition, 2nd: unknown). Cognition/sensory: self-medication. Capuchins rub specific plants and insects on fur for medicinal purposes. Millipedes secrete benzoquinones as insect repellent. Certain leaves have antibacterial properties. Only animal besides humans known to self-medicate systematically.",
+      "renderedAt": "2026-10-01T10:23:59.321068-04:00",
+      "uploadedAt": "2026-10-01T10:23:59.321068-04:00",
+      "youtube": {
+        "videoId": "tjJk98ktyEU",
+        "url": "https://www.youtube.com/watch?v=tjJk98ktyEU"
+      },
+      "duration": 84.2,
+      "resolution": "1080x1920",
+      "hookOverlay": "USES MEDICINE FROM THE JUNGLE",
+      "footageSource": "pexels",
+      "clipsFetched": 6,
+      "note": "Self-generated 3rd angle on monkey (1st: Uses Tools Like a Human = cognition, 2nd: unknown). Cognition/sensory: self-medication. Capuchins catch millipedes, chew to release benzoquinones, rub on fur as insect repellent. Crush plants with antibacterial/antifungal compounds, apply to wounds. Eat specific barks when sick, avoid when well. Only animal besides humans known to self-medicate systematically. 6/6 Pexels clips (ALL real monkeys incl. macaques grooming, baby monkeys, family on tree). Assembly ok:false (false negative \u2014 validated). Compressed 68MB->6.4MB (CRF 43)."
     }
   ]
 }
