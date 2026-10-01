@@ -7,36 +7,28 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 176901,
-      "subscriberCount": 286,
-      "videoCount": 187
+      "viewCount": 182368,
+      "subscriberCount": 289,
+      "videoCount": 189
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-09-02",
-    "endDate": "2026-09-30",
+    "startDate": "2026-09-03",
+    "endDate": "2026-10-01",
     "label": "Last 28 days"
   },
   "totals": {
-    "views": 57652,
-    "estimatedMinutesWatched": 21705,
-    "subscribersGained": 117,
+    "views": 58258,
+    "estimatedMinutesWatched": 22578,
+    "subscribersGained": 120,
     "subscribersLost": 9,
-    "likes": 2907,
-    "comments": 37,
-    "shares": 68,
-    "netSubscribers": 108
+    "likes": 2952,
+    "comments": 40,
+    "shares": 72,
+    "netSubscribers": 111
   },
   "daily": [
-    {
-      "day": "2026-09-02",
-      "views": 2450,
-      "watched": 729,
-      "subsGained": 5,
-      "subsLost": 0,
-      "likes": 125
-    },
     {
       "day": "2026-09-03",
       "views": 2222,
@@ -236,14 +228,22 @@
       "subsGained": 14,
       "subsLost": 0,
       "likes": 251
+    },
+    {
+      "day": "2026-09-28",
+      "views": 3056,
+      "watched": 1602,
+      "subsGained": 8,
+      "subsLost": 0,
+      "likes": 170
     }
   ],
   "topVideos": [
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2977,
-      "watched": 1919,
+      "views": 2979,
+      "watched": 1920,
       "likes": 127,
       "comments": 4,
       "avgViewDuration": 60,
@@ -253,8 +253,8 @@
     {
       "videoId": "BDS46bo0SQw",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
-      "views": 2869,
-      "watched": 1344,
+      "views": 2885,
+      "watched": 1351,
       "likes": 107,
       "comments": 0,
       "avgViewDuration": 45,
@@ -264,9 +264,9 @@
     {
       "videoId": "xQH2pDOHLCc",
       "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
-      "views": 2530,
-      "watched": 1570,
-      "likes": 215,
+      "views": 2594,
+      "watched": 1603,
+      "likes": 218,
       "comments": 2,
       "avgViewDuration": 63,
       "flag": "stable",
@@ -275,8 +275,8 @@
     {
       "videoId": "2GZbLp5SP7g",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "views": 2078,
-      "watched": 1059,
+      "views": 2083,
+      "watched": 1068,
       "likes": 127,
       "comments": 1,
       "avgViewDuration": 49,
@@ -286,7 +286,7 @@
     {
       "videoId": "v3KM5eDdnho",
       "title": "Manatee Teeth March Forward—But Why? #Shorts",
-      "views": 1861,
+      "views": 1862,
       "watched": 597,
       "likes": 88,
       "comments": 1,
@@ -297,8 +297,8 @@
     {
       "videoId": "rte8AZ0LmAY",
       "title": "Why the Gorilla Is 10 Times Stronger Than a Human #Shorts",
-      "views": 1526,
-      "watched": 734,
+      "views": 1528,
+      "watched": 735,
       "likes": 74,
       "comments": 0,
       "avgViewDuration": 49,
@@ -308,8 +308,8 @@
     {
       "videoId": "epjoY2rCddc",
       "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
-      "views": 1516,
-      "watched": 422,
+      "views": 1518,
+      "watched": 423,
       "likes": 53,
       "comments": 0,
       "avgViewDuration": 29,
@@ -319,8 +319,8 @@
     {
       "videoId": "5p-ZHv0qxZQ",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1449,
-      "watched": 546,
+      "views": 1451,
+      "watched": 547,
       "likes": 108,
       "comments": 3,
       "avgViewDuration": 33,
@@ -330,8 +330,8 @@
     {
       "videoId": "d4KV2VtHjdQ",
       "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
-      "views": 1422,
-      "watched": 530,
+      "views": 1425,
+      "watched": 532,
       "likes": 99,
       "comments": 1,
       "avgViewDuration": 38,
@@ -339,41 +339,41 @@
       "note": "Within the normal top-10 performance range"
     },
     {
-      "videoId": "-bpS7VaF_EI",
-      "title": "Why the Rhino Charges at 40 MPH #Shorts",
-      "views": 1398,
-      "watched": 434,
-      "likes": 66,
-      "comments": 1,
-      "avgViewDuration": 29,
+      "videoId": "fpxnaqYxlMU",
+      "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
+      "views": 1377,
+      "watched": 667,
+      "likes": 81,
+      "comments": 0,
+      "avgViewDuration": 45,
       "flag": "stable",
       "note": "Within the normal top-10 performance range"
     }
   ],
-  "fetchedAt": "2026-09-30T09:05:46.095027-04:00",
+  "fetchedAt": "2026-10-01T09:13:01.538757-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-09-30T09:05:46.095027-04:00",
+      "fetchedAt": "2026-10-01T09:13:01.538757-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Either path qualifies: (A) 1,000 subs + 4,000 public watch hours in 12 months, OR (B) 1,000 subs + 10M Shorts views in 90 days. Subscribers is common to both.",
       "subscribers": {
-        "current": 286,
+        "current": 289,
         "threshold": 1000,
-        "percent": 28.6
+        "percent": 28.9
       },
       "watchHours12mo": {
-        "current": 966.5,
+        "current": 993.3,
         "threshold": 4000,
-        "percent": 24.16,
+        "percent": 24.83,
         "window": "Last 12 months",
-        "minutesWatched": 57993
+        "minutesWatched": 59595
       },
       "shortsViews90d": {
-        "current": 157690,
+        "current": 160746,
         "threshold": 10000000,
-        "percent": 1.577,
+        "percent": 1.607,
         "window": "Last 90 days",
         "note": "proxy: total 90-day views"
       }
