@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-09-30T11:09:25-04:00",
-  "fetchedAt": "2026-09-30T11:09:25-04:00",
+  "lastRunAt": "2026-10-01T11:07:43-04:00",
+  "fetchedAt": "2026-10-01T11:07:43-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -789,18 +789,18 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1416.9,
+      "ageHoursAtAnalysis": 1440.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 45.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -808,18 +808,18 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1411.0,
+      "ageHoursAtAnalysis": 1435.0,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 45.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -1685,18 +1685,18 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 983.7,
+      "ageHoursAtAnalysis": 1007.7,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 301.9,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 45.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
       "lastNotifiedLabel": "stable"
     },
     {
@@ -3656,56 +3656,70 @@
       "videoId": "RjBYoCrIPuU",
       "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
       "uploadedAt": "2026-09-28T10:17:37.585235-04:00",
-      "ageHoursAtAnalysis": 48.9,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 80.6,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 72.8,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1273,
+        "estimatedMinutesWatched": 751,
+        "averageViewDuration": 53,
+        "likes": 77,
+        "comments": 1,
+        "shares": 1
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 80.6,
+      "retentionPercent": 65.8,
+      "performanceLabel": "winner",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 45.0,
+        "ratioToBaselineAvgViewDuration": 1.18,
+        "note": "Above baseline AVD with meaningful early views."
+      },
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
+      "lastNotifiedLabel": "winner"
     },
     {
       "productionId": "JV-2026-09-28-SELF3",
       "videoId": "JGlYtx5pEa8",
       "title": "Why the Peacock Changes Color When You Move #Shorts",
       "uploadedAt": "2026-09-28T16:09:53.772341-04:00",
-      "ageHoursAtAnalysis": 43.0,
-      "analyticsStatus": "pending",
-      "metrics": {},
-      "videoDurationSeconds": 79.6,
-      "retentionPercent": null,
-      "performanceLabel": "pending",
-      "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      "ageHoursAtAnalysis": 67.0,
+      "analyticsStatus": "available",
+      "metrics": {
+        "views": 1146,
+        "estimatedMinutesWatched": 479,
+        "averageViewDuration": 47,
+        "likes": 71,
+        "comments": 3,
+        "shares": 4
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
-      "lastNotifiedLabel": null
+      "videoDurationSeconds": 79.6,
+      "retentionPercent": 59.0,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 45.0,
+        "ratioToBaselineAvgViewDuration": 1.04,
+        "note": "Within normal range or not enough view volume for a strong call."
+      },
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
+      "lastNotifiedLabel": "stable"
     },
     {
       "productionId": "JV-2026-09-29-SELF1",
       "videoId": "e4bzKftxKVU",
       "title": "Why the Tiger Sees Six Times Better Than You in the Dark #Shorts",
       "uploadedAt": "2026-09-29T10:18:41.140815-04:00",
-      "ageHoursAtAnalysis": 24.8,
+      "ageHoursAtAnalysis": 48.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 70.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 45.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3713,18 +3727,18 @@
       "videoId": "XH76CH_AWNk",
       "title": "Why the Owl Turns Its Head Almost All the Way Around #Shorts",
       "uploadedAt": "2026-09-29T16:14:40.362509-04:00",
-      "ageHoursAtAnalysis": 18.9,
+      "ageHoursAtAnalysis": 42.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 83.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 45.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
       "lastNotifiedLabel": null
     },
     {
@@ -3732,18 +3746,56 @@
       "videoId": "_sTGXU-lDUw",
       "title": "Why the Penguin Drinks Saltwater and Survives #Shorts",
       "uploadedAt": "2026-09-30T10:16:10.782409-04:00",
-      "ageHoursAtAnalysis": 0.9,
+      "ageHoursAtAnalysis": 24.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 68.6,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 41.5,
+        "baselineAvgViewDuration": 45.0,
         "ratioToBaselineAvgViewDuration": null,
         "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
       },
-      "analyzedAt": "2026-09-30T11:09:25-04:00",
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-09-30-SELF2",
+      "videoId": "StlobryjZ3E",
+      "title": "Why the Bear Sleeps for Six Months Without Losing Any Muscle #Shorts",
+      "uploadedAt": "2026-09-30T16:11:19.740369-04:00",
+      "ageHoursAtAnalysis": 18.9,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 75.1,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 45.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
+      "lastNotifiedLabel": null
+    },
+    {
+      "productionId": "JV-2026-10-01-SELF1",
+      "videoId": "tjJk98ktyEU",
+      "title": "Why the Monkey Uses Medicine From the Jungle Floor #Shorts",
+      "uploadedAt": "2026-10-01T10:23:59.321068-04:00",
+      "ageHoursAtAnalysis": 0.7,
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "videoDurationSeconds": 84.2,
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 45.0,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No analytics rows yet (YouTube Analytics aggregation lag)."
+      },
+      "analyzedAt": "2026-10-01T11:07:43-04:00",
       "lastNotifiedLabel": null
     }
   ],
@@ -3811,14 +3863,15 @@
         "b2g-BwBx3fA",
         "fcSd2iofxJs",
         "xQH2pDOHLCc",
-        "jU32SQuswds"
+        "jU32SQuswds",
+        "JGlYtx5pEa8"
       ],
-      "sampleSize": 60,
-      "avgViewDurationMedian": 30.5,
-      "viewsMedian": 1045.5,
-      "avgRetentionPercent": 55.3,
-      "retentionSampleSize": 60,
-      "avgViews": 1219.1,
+      "sampleSize": 61,
+      "avgViewDurationMedian": 31.0,
+      "viewsMedian": 1050.0,
+      "avgRetentionPercent": 55.4,
+      "retentionSampleSize": 61,
+      "avgViews": 1217.9,
       "verdict": "avoid",
       "confidence": "high"
     },
@@ -3875,14 +3928,15 @@
         "3vmsPSajHBE",
         "d4KV2VtHjdQ",
         "BDS46bo0SQw",
-        "jEqJZgPc23M"
+        "jEqJZgPc23M",
+        "RjBYoCrIPuU"
       ],
-      "sampleSize": 50,
+      "sampleSize": 51,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1031.0,
-      "avgRetentionPercent": 49.0,
-      "retentionSampleSize": 48,
-      "avgViews": 1041.5,
+      "viewsMedian": 1035.0,
+      "avgRetentionPercent": 49.3,
+      "retentionSampleSize": 49,
+      "avgViews": 1046.0,
       "verdict": "avoid",
       "confidence": "high"
     },
@@ -4195,14 +4249,15 @@
       "videos": [
         "SqPXwvRa7bk",
         "NrsllcvY400",
-        "rte8AZ0LmAY"
+        "rte8AZ0LmAY",
+        "RjBYoCrIPuU"
       ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 36.0,
-      "viewsMedian": 1268.0,
-      "avgRetentionPercent": 54.2,
-      "retentionSampleSize": 3,
-      "avgViews": 857.7,
+      "sampleSize": 4,
+      "avgViewDurationMedian": 39.0,
+      "viewsMedian": 1270.5,
+      "avgRetentionPercent": 57.1,
+      "retentionSampleSize": 4,
+      "avgViews": 961.5,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4358,7 +4413,7 @@
       "avgRetentionPercent": 71.9,
       "retentionSampleSize": 2,
       "avgViews": 557.0,
-      "verdict": "promising",
+      "verdict": "avoid",
       "confidence": "low"
     },
     {
@@ -4436,14 +4491,15 @@
       "videos": [
         "Myb4_3AuIec",
         "h5fQjWuF_gU",
-        "d4KV2VtHjdQ"
+        "d4KV2VtHjdQ",
+        "JGlYtx5pEa8"
       ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 33.0,
-      "viewsMedian": 1179.0,
-      "avgRetentionPercent": 49.1,
-      "retentionSampleSize": 3,
-      "avgViews": 1015.0,
+      "sampleSize": 4,
+      "avgViewDurationMedian": 36.0,
+      "viewsMedian": 1162.5,
+      "avgRetentionPercent": 51.5,
+      "retentionSampleSize": 4,
+      "avgViews": 1047.8,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4716,14 +4772,15 @@
         "b2g-BwBx3fA",
         "fcSd2iofxJs",
         "xQH2pDOHLCc",
-        "jU32SQuswds"
+        "jU32SQuswds",
+        "JGlYtx5pEa8"
       ],
-      "sampleSize": 60,
-      "avgViewDurationMedian": 30.5,
-      "viewsMedian": 1045.5,
-      "avgRetentionPercent": 55.3,
-      "retentionSampleSize": 60,
-      "avgViews": 1219.1,
+      "sampleSize": 61,
+      "avgViewDurationMedian": 31.0,
+      "viewsMedian": 1050.0,
+      "avgRetentionPercent": 55.4,
+      "retentionSampleSize": 61,
+      "avgViews": 1217.9,
       "verdict": "avoid",
       "confidence": "high"
     },
@@ -4780,14 +4837,15 @@
         "3vmsPSajHBE",
         "d4KV2VtHjdQ",
         "BDS46bo0SQw",
-        "jEqJZgPc23M"
+        "jEqJZgPc23M",
+        "RjBYoCrIPuU"
       ],
-      "sampleSize": 50,
+      "sampleSize": 51,
       "avgViewDurationMedian": 26.0,
-      "viewsMedian": 1031.0,
-      "avgRetentionPercent": 49.0,
-      "retentionSampleSize": 48,
-      "avgViews": 1041.5,
+      "viewsMedian": 1035.0,
+      "avgRetentionPercent": 49.3,
+      "retentionSampleSize": 49,
+      "avgViews": 1046.0,
       "verdict": "avoid",
       "confidence": "high"
     },
@@ -4837,17 +4895,17 @@
   "summary": [
     {
       "pattern": "Why the [animal] [extreme ability] #Shorts",
-      "evidence": "60 available videos; median 1045.5 views and 30.5s average view duration versus 41.5s channel top-video median; mean retention 55.3% across 60 duration-known videos; confidence high.",
+      "evidence": "61 available videos; median 1050.0 views and 31.0s average view duration versus 45.0s channel top-video median; mean retention 55.4% across 61 duration-known videos; confidence high.",
       "verdict": "avoid"
     },
     {
       "pattern": "Why the [animal] [sensory surprise] #Shorts",
-      "evidence": "50 available videos; median 1031.0 views and 26.0s average view duration versus 41.5s channel top-video median; mean retention 49.0% across 48 duration-known videos; confidence high.",
+      "evidence": "51 available videos; median 1035.0 views and 26.0s average view duration versus 45.0s channel top-video median; mean retention 49.3% across 49 duration-known videos; confidence high.",
       "verdict": "avoid"
     },
     {
       "pattern": "Why the [animal] [survival adaptation] #Shorts",
-      "evidence": "28 available videos; median 1055.5 views and 30.5s average view duration versus 41.5s channel top-video median; mean retention 53.3% across 28 duration-known videos; confidence high.",
+      "evidence": "28 available videos; median 1055.5 views and 30.5s average view duration versus 45.0s channel top-video median; mean retention 53.3% across 28 duration-known videos; confidence high.",
       "verdict": "avoid"
     },
     {
