@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-08-20T10:08:19.596604-04:00",
+  "lastRunAt": "2026-10-01T16:08:08-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -10,7 +10,7 @@
       "status": "uploaded",
       "mode": "slideshow",
       "title": "Why the Mantis Shrimp Sees Colors We Can't #Shorts",
-      "concept": "Mantis shrimp vision \u2014 up to 16 photoreceptor types, sees UV/polarized light, plus the 50+ mph cavitation punch. Self-generated from Pulse winner pattern (animal senses/curiosity-gap).",
+      "concept": "Mantis shrimp vision — up to 16 photoreceptor types, sees UV/polarized light, plus the 50+ mph cavitation punch. Self-generated from Pulse winner pattern (animal senses/curiosity-gap).",
       "startedAt": "2026-07-05T10:02:00-04:00",
       "renderedAt": "2026-07-05T10:14:00-04:00",
       "uploadedAt": "2026-07-05T10:18:31-04:00",
@@ -41,7 +41,7 @@
       "status": "uploaded",
       "mode": "slideshow",
       "title": "Why the Owl Hunts in Total Silence #Shorts",
-      "concept": "Owl silent flight \u2014 comb-like feather serrations + velvety coating break turbulence; asymmetric ears enable 3D-sound hunting. Pulled from growth-plan.json GP-001 (winning 'Why [animal] [sensory surprise]' pattern).",
+      "concept": "Owl silent flight — comb-like feather serrations + velvety coating break turbulence; asymmetric ears enable 3D-sound hunting. Pulled from growth-plan.json GP-001 (winning 'Why [animal] [sensory surprise]' pattern).",
       "startedAt": "2026-07-05T16:01:00-04:00",
       "renderedAt": "2026-07-05T16:08:00-04:00",
       "uploadedAt": "2026-07-05T16:10:00-04:00",
@@ -73,7 +73,7 @@
       "startedAt": "2026-07-08T19:50:07-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Wood Frog Freezes Solid and Survives #Shorts",
-      "concept": "Wood frog freeze survival \u2014 liver floods cells with glucose antifreeze; heart stops, brain flatlines, thaws in spring. GP-002 from growth plan, winning 'Why [animal] [superpower]' pattern.",
+      "concept": "Wood frog freeze survival — liver floods cells with glucose antifreeze; heart stops, brain flatlines, thaws in spring. GP-002 from growth plan, winning 'Why [animal] [superpower]' pattern.",
       "renderedAt": "2026-07-08T19:53:00-04:00",
       "uploadedAt": "2026-07-08T19:54:46-04:00",
       "youtube": {
@@ -498,7 +498,7 @@
             "provider": "pexels",
             "providerId": "36619755",
             "sourceUrl": "https://www.pexels.com/video/camels-walking-in-desert-at-sunset-36619755/",
-            "photographer": "Nicol\u00f3 Monterotondo",
+            "photographer": "Nicoló Monterotondo",
             "queryUsed": "camel walking",
             "license": "Pexels (free commercial use, no attribution required)"
           },
@@ -802,7 +802,7 @@
       "startedAt": "2026-07-22T10:09:48.606405-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Elephant Hears With Its Feet #Shorts",
-      "sourceType": "self-generated (elephant seismic/infrasound superpower \u2014 sensory sense, filmable per pexels-footage-index, not yet produced)",
+      "sourceType": "self-generated (elephant seismic/infrasound superpower — sensory sense, filmable per pexels-footage-index, not yet produced)",
       "assetManifest": {
         "mode": "stock-footage+captions",
         "script": "/tmp/jvshorts/JV-2026-07-22-SELFN/script.txt",
@@ -826,7 +826,7 @@
             "sourceUrl": "https://www.pexels.com/video/two-asian-elephants-interacting-in-enclosure-35764996/",
             "photographer": "Joolsmagools",
             "duration": 63,
-            "note": "re-fetched \u2014 original scene-2 returned a human face"
+            "note": "re-fetched — original scene-2 returned a human face"
           },
           {
             "scene": 3,
@@ -880,7 +880,7 @@
       "startedAt": "2026-07-22T16:02:56.401095-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Jellyfish Never Actually Dies #Shorts",
-      "sourceType": "self-generated (jellyfish biological immortality \u2014 extreme survival angle, filmable per pexels-footage-index, not yet produced)",
+      "sourceType": "self-generated (jellyfish biological immortality — extreme survival angle, filmable per pexels-footage-index, not yet produced)",
       "assetManifest": {
         "mode": "stock-footage+captions",
         "script": "/tmp/jvshorts/JV-2026-07-22-SELFN2/script.txt",
@@ -1165,7 +1165,7 @@
       "title": "Why the Snake Sees Body Heat in Total Darkness #Shorts",
       "sourceType": "selfgen",
       "renderedAt": "2026-07-26T10:04:30.373808-04:00",
-      "error": "insufficient stock footage: 1/6 \u2014 snake effectively unfilmable on Pexels (returns humans holding snakes, squirrels, mushrooms)"
+      "error": "insufficient stock footage: 1/6 — snake effectively unfilmable on Pexels (returns humans holding snakes, squirrels, mushrooms)"
     },
     {
       "productionId": "JV-2026-07-26-SELFN2",
@@ -1312,7 +1312,7 @@
       "title": "Why the Whale Talks Across Entire Oceans #Shorts",
       "sourceType": "selfgen",
       "renderedAt": "2026-07-28T16:05:04.832264-04:00",
-      "error": "insufficient stock footage: 3/6 \u2014 whale effectively unfilmable on Pexels (returns dolphins, seals, seagulls, boats)"
+      "error": "insufficient stock footage: 3/6 — whale effectively unfilmable on Pexels (returns dolphins, seals, seagulls, boats)"
     },
     {
       "productionId": "JV-2026-07-28-SELFN3",
@@ -1378,7 +1378,7 @@
       "title": "Why the Zebra Stripes Confuse Every Predator #Shorts",
       "sourceType": "selfgen",
       "renderedAt": "2026-07-29T16:05:10.404881-04:00",
-      "error": "insufficient stock footage: 3/6 \u2014 zebra effectively unfilmable on Pexels (returns giraffes, man face, only 3 unique zebra clips across 2 fetch attempts)"
+      "error": "insufficient stock footage: 3/6 — zebra effectively unfilmable on Pexels (returns giraffes, man face, only 3 unique zebra clips across 2 fetch attempts)"
     },
     {
       "productionId": "JV-2026-07-29-SELFN3",
@@ -1417,7 +1417,7 @@
       "title": "Why the Beaver Has Iron Teeth That Never Dull #Shorts",
       "sourceType": "selfgen",
       "renderedAt": "2026-07-30T10:12:52.380458-04:00",
-      "error": "insufficient stock footage: 3/6 \u2014 Pexels returns otters, ducks, man for beaver queries. Only 3 unique beaver clips across 2 fetch attempts."
+      "error": "insufficient stock footage: 3/6 — Pexels returns otters, ducks, man for beaver queries. Only 3 unique beaver clips across 2 fetch attempts."
     },
     {
       "productionId": "JV-2026-07-30-SELFN2",
@@ -1483,7 +1483,7 @@
       "title": "Why the Seahorse Male Gets Pregnant #Shorts",
       "sourceType": "selfgen",
       "renderedAt": "2026-07-31T10:09:25.247243-04:00",
-      "error": "insufficient stock footage: 0/6 \u2014 Pexels has NO seahorse footage. Returns marine worms, turtles, boy with cardboard seahorse, generic ocean views."
+      "error": "insufficient stock footage: 0/6 — Pexels has NO seahorse footage. Returns marine worms, turtles, boy with cardboard seahorse, generic ocean views."
     },
     {
       "productionId": "JV-2026-07-31-SELFN2",
@@ -1849,7 +1849,7 @@
       "status": "render-failed",
       "startedAt": "2026-08-04T16:05:16.861343-04:00",
       "mode": "stock-footage+captions",
-      "error": "abandoned: footage source transition (Pexels\u2192Coverr/Wikimedia). TTS generated but footage never fetched.",
+      "error": "abandoned: footage source transition (Pexels→Coverr/Wikimedia). TTS generated but footage never fetched.",
       "renderedAt": null
     },
     {
@@ -1859,7 +1859,7 @@
       "status": "uploaded",
       "mode": "stock-footage+captions",
       "title": "Why the Cheetah Outruns a Sports Car From a Standstill #Shorts",
-      "concept": "Cheetah speed superpower \u2014 0-60 mph in 3 seconds, spring-like spine, non-retractable claws, rudder tail, 30-second sprint limit due to overheating.",
+      "concept": "Cheetah speed superpower — 0-60 mph in 3 seconds, spring-like spine, non-retractable claws, rudder tail, 30-second sprint limit due to overheating.",
       "startedAt": "2026-08-05T10:06:50.298724-04:00",
       "renderedAt": "2026-08-05T10:13:16.063954-04:00",
       "uploadedAt": "2026-08-05T10:13:16.063954-04:00",
@@ -1923,7 +1923,7 @@
       "status": "uploaded",
       "mode": "stock-footage+captions",
       "title": "Why the Starfish Regrows Its Whole Body From a Single Arm #Shorts",
-      "concept": "Starfish regeneration superpower \u2014 can regrow entire body from one arm, no brain, nerve net, external stomach digestion.",
+      "concept": "Starfish regeneration superpower — can regrow entire body from one arm, no brain, nerve net, external stomach digestion.",
       "startedAt": "2026-08-05T16:04:56.602868-04:00",
       "renderedAt": "2026-08-05T16:11:41.515684-04:00",
       "uploadedAt": "2026-08-05T16:11:41.515684-04:00",
@@ -1935,7 +1935,7 @@
       "assetManifest": {
         "script": "/tmp/jvshorts/JV-2026-08-05-SELFN2/script.txt",
         "narration": "/tmp/jvshorts/JV-2026-08-05-SELFN2/narration.mp3",
-        "footage": "Pexels (3 unique starfish clips, duplicated to fill 6 scenes \u2014 Pexels returned non-starfish content for most queries)",
+        "footage": "Pexels (3 unique starfish clips, duplicated to fill 6 scenes — Pexels returned non-starfish content for most queries)",
         "finalVideo": "/tmp/jvshorts/JV-2026-08-05-SELFN2/final.mp4"
       },
       "duration": 47.2,
@@ -2078,7 +2078,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Manta Ray Recognizes Itself in a Mirror #Shorts",
       "concept": "Manta rays are the only fish to pass the mirror self-recognition test. They have the largest brain-to-body ratio of any fish. Self-generated from remaining filmable animals.",
-      "error": "insufficient real manta ray footage: 2/6 (Wikimedia returned military drone, praying mantis, fishing net \u2014 only Pexels had actual manta ray clips)",
+      "error": "insufficient real manta ray footage: 2/6 (Wikimedia returned military drone, praying mantis, fishing net — only Pexels had actual manta ray clips)",
       "failedAt": "2026-08-07T10:11:13.600846-04:00"
     },
     {
@@ -2149,7 +2149,7 @@
       "startedAt": "2026-08-07T16:05:53.874609-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Lemur Wins Fights With Its Smell #Shorts",
-      "concept": "Ring-tailed lemurs have stink fights \u2014 they rub their tails with wrist/shoulder musk and fling scent at rivals. The strongest smell wins without physical combat. Self-generated from remaining filmable animals.",
+      "concept": "Ring-tailed lemurs have stink fights — they rub their tails with wrist/shoulder musk and fling scent at rivals. The strongest smell wins without physical combat. Self-generated from remaining filmable animals.",
       "error": null,
       "renderedAt": "2026-08-07T20:11:00-04:00",
       "uploadedAt": "2026-08-07T20:12:01-04:00",
@@ -2170,7 +2170,7 @@
           {
             "scene": 2,
             "source": "wikimedia",
-            "title": "Lemur catta at Tiergarten Sch\u00f6nbrunn"
+            "title": "Lemur catta at Tiergarten Schönbrunn"
           },
           {
             "scene": 3,
@@ -2268,7 +2268,7 @@
       "startedAt": "2026-08-08T16:03:37.416144-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Chameleon Fires Its Tongue at 60 MPH #Shorts",
-      "concept": "Chameleon tongue is a biological slingshot \u2014 bone spring fires at 60 mph in 1/100th second, with 360-degree independent eye vision. Self-generated from filmableWithQuery animals.",
+      "concept": "Chameleon tongue is a biological slingshot — bone spring fires at 60 mph in 1/100th second, with 360-degree independent eye vision. Self-generated from filmableWithQuery animals.",
       "error": null,
       "renderedAt": "2026-08-08T20:09:00-04:00",
       "uploadedAt": "2026-08-08T20:10:30-04:00",
@@ -2328,7 +2328,7 @@
       "startedAt": "2026-08-09T10:08:31.694669-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Eagle Spots a Rabbit From 2 Miles Away #Shorts",
-      "concept": "Eagle vision: 1M photoreceptors/mm\u00b2 (5x human), two fovea per eye, UV vision for tracking mouse urine trails. Self-generated from filmableWithQuery animals.",
+      "concept": "Eagle vision: 1M photoreceptors/mm² (5x human), two fovea per eye, UV vision for tracking mouse urine trails. Self-generated from filmableWithQuery animals.",
       "error": null,
       "renderedAt": "2026-08-09T14:14:00-04:00",
       "uploadedAt": "2026-08-09T14:14:55-04:00",
@@ -2447,7 +2447,7 @@
       "startedAt": "2026-08-10T10:15:05.994065-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Raccoon Sees With Its Hands Underwater #Shorts",
-      "concept": "Raccoons have 4x more touch receptors than humans; water softens paw pads to unlock tactile vision \u2014 they 'see' objects underwater by touch alone.",
+      "concept": "Raccoons have 4x more touch receptors than humans; water softens paw pads to unlock tactile vision — they 'see' objects underwater by touch alone.",
       "error": null,
       "renderedAt": "2026-08-10T14:20:30-04:00",
       "uploadedAt": "2026-08-10T14:21:02-04:00",
@@ -2660,7 +2660,7 @@
       "startedAt": "2026-08-12T10:12:01.529432-04:00",
       "mode": "stock-footage+captions",
       "title": "Why the Fox Climbs Trees Like a Cat #Shorts",
-      "concept": "Second-angle fox story: foxes have retractable curved claws and rotating ankles that let them climb trees \u2014 the only canid that routinely does. First angle was magnetic compass hunting.",
+      "concept": "Second-angle fox story: foxes have retractable curved claws and rotating ankles that let them climb trees — the only canid that routinely does. First angle was magnetic compass hunting.",
       "error": null,
       "renderedAt": "2026-08-12T14:19:00-04:00",
       "uploadedAt": "2026-08-12T14:19:54-04:00",
@@ -2742,7 +2742,7 @@
         "wikimedia"
       ],
       "secondAngle": true,
-      "firstAngleTitle": "How Do Penguins Survive Months of Darkness at \u221240\u00b0C? #Shorts"
+      "firstAngleTitle": "How Do Penguins Survive Months of Darkness at −40°C? #Shorts"
     },
     {
       "productionId": "JV-2026-08-13-SELFN2",
@@ -3150,7 +3150,7 @@
       "assetManifest": {
         "script": "/tmp/jvshorts/JV-2026-08-19-SELFN2/script.txt",
         "narration": "/tmp/jvshorts/JV-2026-08-19-SELFN2/narration.mp3",
-        "clips": "6 clips: 1 Coverr (pink elephant CGI \u2014 scene 1 only) + 5 Wikimedia (Indian elephant Kaziranga, bathing elephant, Pinnawala orphanage, Dharmasthala elephant shed x2)",
+        "clips": "6 clips: 1 Coverr (pink elephant CGI — scene 1 only) + 5 Wikimedia (Indian elephant Kaziranga, bathing elephant, Pinnawala orphanage, Dharmasthala elephant shed x2)",
         "finalVideo": "/tmp/jvshorts/JV-2026-08-19-SELFN2/final.mp4"
       },
       "duration": 49.2,
@@ -3219,7 +3219,7 @@
         },
         {
           "type": "animal",
-          "title": "Jellyfish \u2014 24 Eyes, No Brain",
+          "title": "Jellyfish — 24 Eyes, No Brain",
           "duration": 51.5,
           "clipsSource": "fresh-fetch"
         },
@@ -3229,7 +3229,7 @@
         },
         {
           "type": "animal",
-          "title": "Shark \u2014 Skin Made of Teeth",
+          "title": "Shark — Skin Made of Teeth",
           "duration": 60.0,
           "clipsSource": "fresh-fetch"
         },
@@ -3239,7 +3239,7 @@
         },
         {
           "type": "animal",
-          "title": "Dolphin \u2014 Never Fully Sleeps",
+          "title": "Dolphin — Never Fully Sleeps",
           "duration": 55.4,
           "clipsSource": "cached-M95zB-4aYAQ"
         },
@@ -3249,7 +3249,7 @@
         },
         {
           "type": "animal",
-          "title": "Turtle \u2014 Breathes Through Its Butt",
+          "title": "Turtle — Breathes Through Its Butt",
           "duration": 32.8,
           "clipsSource": "cached-0jZSeW-87Gw"
         },
@@ -3259,7 +3259,7 @@
         },
         {
           "type": "animal",
-          "title": "Flamingo \u2014 Survives Toxic Boiling Water",
+          "title": "Flamingo — Survives Toxic Boiling Water",
           "duration": 56.6,
           "clipsSource": "fresh-fetch"
         },
@@ -3280,7 +3280,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-20T16:03:25.463897-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on owl \u2014 270 degree head rotation superpower. Owl only has 1 angle (hunts in silence).",
+      "concept": "Second angle on owl — 270 degree head rotation superpower. Owl only has 1 angle (hunts in silence).",
       "renderedAt": "2026-08-20T16:07:53.686516-04:00",
       "uploadedAt": "2026-08-20T16:07:53.686516-04:00",
       "secondAngle": true,
@@ -3431,7 +3431,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-23T16:02:23.019241-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on starfish. Paradox: starfish have no blood \u2014 they pump seawater through a water vascular system instead.",
+      "concept": "Second angle on starfish. Paradox: starfish have no blood — they pump seawater through a water vascular system instead.",
       "renderedAt": "2026-08-23T16:07:46.571146-04:00",
       "uploadedAt": "2026-08-23T16:07:46.571146-04:00",
       "secondAngle": true,
@@ -3456,7 +3456,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-24T10:05:35.361687-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on flamingo. Paradox: flamingos are actually white \u2014 the pink comes from beta-carotene in their diet.",
+      "concept": "Second angle on flamingo. Paradox: flamingos are actually white — the pink comes from beta-carotene in their diet.",
       "renderedAt": "2026-08-24T10:13:20.802618-04:00",
       "uploadedAt": "2026-08-24T10:13:20.802618-04:00",
       "secondAngle": true,
@@ -3506,7 +3506,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-25T10:06:12.325084-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on cheetah. Paradox: the fastest land animal can't roar \u2014 it purrs and meows like a house cat.",
+      "concept": "Second angle on cheetah. Paradox: the fastest land animal can't roar — it purrs and meows like a house cat.",
       "renderedAt": "2026-08-25T10:11:59.883025-04:00",
       "uploadedAt": "2026-08-25T10:11:59.883025-04:00",
       "secondAngle": true,
@@ -3521,7 +3521,7 @@
       "clipsFetched": 6,
       "animal": "cheetah",
       "angle": "2nd (can't roar, purrs like house cat)",
-      "note": "Second angle on cheetah (first: Outruns a Sports Car). Paradox: fastest land animal can't roar \u2014 purrs and meows like a domestic cat due to ossified hyoid bone. 6/6 Pexels clips, 3 re-fetches (zebras, human face, dog). Scene 5 is leopard footage (visually similar spotted cat)."
+      "note": "Second angle on cheetah (first: Outruns a Sports Car). Paradox: fastest land animal can't roar — purrs and meows like a domestic cat due to ossified hyoid bone. 6/6 Pexels clips, 3 re-fetches (zebras, human face, dog). Scene 5 is leopard footage (visually similar spotted cat)."
     },
     {
       "productionId": "JV-2026-08-25-SELF2",
@@ -3531,7 +3531,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-25T16:02:18.800402-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on ostrich. Paradox: ostrich kick generates 2,000 lbs of force \u2014 enough to kill a lion.",
+      "concept": "Second angle on ostrich. Paradox: ostrich kick generates 2,000 lbs of force — enough to kill a lion.",
       "renderedAt": "2026-08-25T16:06:29.826613-04:00",
       "uploadedAt": "2026-08-25T16:06:29.826613-04:00",
       "secondAngle": true,
@@ -3556,7 +3556,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-26T10:09:43.560326-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on parrot. Paradox: African grey parrot Alex demonstrated cognitive abilities beyond a human toddler \u2014 counting, naming colors, understanding zero.",
+      "concept": "Second angle on parrot. Paradox: African grey parrot Alex demonstrated cognitive abilities beyond a human toddler — counting, naming colors, understanding zero.",
       "renderedAt": "2026-08-26T10:14:23.378872-04:00",
       "uploadedAt": "2026-08-26T10:14:23.378872-04:00",
       "secondAngle": true,
@@ -3571,7 +3571,7 @@
       "clipsFetched": 6,
       "animal": "parrot",
       "angle": "2nd (cognitive superpower, Alex the African grey)",
-      "note": "Second angle on parrot (first: Sees Colors We Can't Imagine). Paradox: African grey parrot Alex could count, name 50 objects, understand zero \u2014 beyond a human toddler. 6/6 Pexels clips, zero re-fetches. Assembly returned ok:false but file validated fine (H.264+AAC, decode test passed)."
+      "note": "Second angle on parrot (first: Sees Colors We Can't Imagine). Paradox: African grey parrot Alex could count, name 50 objects, understand zero — beyond a human toddler. 6/6 Pexels clips, zero re-fetches. Assembly returned ok:false but file validated fine (H.264+AAC, decode test passed)."
     },
     {
       "productionId": "JV-2026-08-26-SELF2",
@@ -3631,7 +3631,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-27T16:03:40.388717-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on kangaroo. Paradox: kangaroos walk on five legs \u2014 their tail functions as a separate limb, supporting body weight during slow movement (pentapedal locomotion).",
+      "concept": "Second angle on kangaroo. Paradox: kangaroos walk on five legs — their tail functions as a separate limb, supporting body weight during slow movement (pentapedal locomotion).",
       "renderedAt": "2026-08-27T16:07:25.881186-04:00",
       "uploadedAt": "2026-08-27T16:07:25.881186-04:00",
       "secondAngle": true,
@@ -3646,7 +3646,7 @@
       "clipsFetched": 6,
       "animal": "kangaroo",
       "angle": "2nd (pentapedal locomotion, tail as fifth leg)",
-      "note": "Second angle on kangaroo (first: Can Pause Her Own Pregnancy). Paradox: kangaroos walk on five legs using tail as crutch (pentapedal locomotion). Tendons act as rubber bands \u2014 faster = more efficient. 6/6 Pexels clips (2 wallaby clips, close relatives), zero re-fetches."
+      "note": "Second angle on kangaroo (first: Can Pause Her Own Pregnancy). Paradox: kangaroos walk on five legs using tail as crutch (pentapedal locomotion). Tendons act as rubber bands — faster = more efficient. 6/6 Pexels clips (2 wallaby clips, close relatives), zero re-fetches."
     },
     {
       "productionId": "JV-2026-08-28-SELFN",
@@ -3731,7 +3731,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-29T16:02:45.453685-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on seal. Paradox: elephant seals dive to 5000 feet \u2014 lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells on demand. Extreme survival superpower.",
+      "concept": "Second angle on seal. Paradox: elephant seals dive to 5000 feet — lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells on demand. Extreme survival superpower.",
       "renderedAt": "2026-08-29T16:09:35.504091-04:00",
       "uploadedAt": "2026-08-29T16:09:35.504091-04:00",
       "secondAngle": true,
@@ -3746,7 +3746,7 @@
       "clipsFetched": 6,
       "animal": "seal",
       "angle": "2nd (dives 5000ft, lungs collapse on purpose, spleen releases oxygen, heart rate drops to 4bpm)",
-      "note": "Second angle on seal (first: Holds Its Breath for 100 Minutes). Paradox: elephant seals dive 5000ft, lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells, heart rate drops from 90 to 4 bpm. 6/6 Pexels clips (5 seal + 1 underwater diving), zero re-fetches. Assembly ok:false false negative \u2014 validated with ffprobe+decode test (H.264+AAC, 1080x1920, 63.8s, clean decode). Compressed 60.8MB->7MB (CRF 38) for connector upload."
+      "note": "Second angle on seal (first: Holds Its Breath for 100 Minutes). Paradox: elephant seals dive 5000ft, lungs collapse on purpose to prevent nitrogen narcosis, spleen releases stored oxygen-rich red blood cells, heart rate drops from 90 to 4 bpm. 6/6 Pexels clips (5 seal + 1 underwater diving), zero re-fetches. Assembly ok:false false negative — validated with ffprobe+decode test (H.264+AAC, 1080x1920, 63.8s, clean decode). Compressed 60.8MB->7MB (CRF 38) for connector upload."
     },
     {
       "productionId": "JV-2026-08-30-SELFN",
@@ -3781,7 +3781,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-30T16:03:16.478514-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on ostrich. Paradox: ostriches run 43 mph and sustain 30 mph for 30 minutes \u2014 faster than a horse can sustain. Fastest two-legged animal on Earth. Speed superpower.",
+      "concept": "Second angle on ostrich. Paradox: ostriches run 43 mph and sustain 30 mph for 30 minutes — faster than a horse can sustain. Fastest two-legged animal on Earth. Speed superpower.",
       "renderedAt": "2026-08-30T16:11:10.038545-04:00",
       "uploadedAt": "2026-08-30T16:11:10.038545-04:00",
       "secondAngle": true,
@@ -3806,7 +3806,7 @@
       "status": "uploaded",
       "startedAt": "2026-08-31T10:16:16.835761-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on spider. Paradox: jumping spiders have 4 pairs of eyes with 360-degree vision and can see the moon \u2014 best vision of any spider. Sensory superpower.",
+      "concept": "Second angle on spider. Paradox: jumping spiders have 4 pairs of eyes with 360-degree vision and can see the moon — best vision of any spider. Sensory superpower.",
       "renderedAt": "2026-08-31T10:24:04.973367-04:00",
       "uploadedAt": "2026-08-31T10:24:04.973367-04:00",
       "secondAngle": true,
@@ -3856,7 +3856,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-01T10:11:02.838288-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on sea lion. Paradox: sea lions can remember individual voices for decades \u2014 a mother identifies her pup's call among thousands in a crowded rookery, even after years apart. Hearing/memory superpower distinct from first angle (hunting in darkness).",
+      "concept": "Second angle on sea lion. Paradox: sea lions can remember individual voices for decades — a mother identifies her pup's call among thousands in a crowded rookery, even after years apart. Hearing/memory superpower distinct from first angle (hunting in darkness).",
       "renderedAt": "2026-09-01T10:21:15.913642-04:00",
       "uploadedAt": "2026-09-01T10:21:15.913642-04:00",
       "secondAngle": true,
@@ -3870,8 +3870,8 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "sea lion",
-      "angle": "2nd (vocal memory \u2014 mothers and pups recognize each other's calls for years, pick out individual voice from thousands in a rookery, rivals dolphins and elephants)",
-      "note": "Second angle on sea lion (first: Hunts in Total Darkness). Hearing/memory superpower: sea lions remember individual voices for years, mothers pick out pup's call from thousands in a crowded rookery in seconds, vocal memory rivals dolphins and elephants. 6/6 Pexels clips (4 genuine sea lion/seal + 1 lion + 1 dolphin that slipped through), zero re-fetches. Assembly ok:false false negative \u2014 validated with ffprobe+decode test (H.264+AAC, 1896 frames, clean decode). Compressed 85.8MB->9.1MB (CRF 40) for connector upload."
+      "angle": "2nd (vocal memory — mothers and pups recognize each other's calls for years, pick out individual voice from thousands in a rookery, rivals dolphins and elephants)",
+      "note": "Second angle on sea lion (first: Hunts in Total Darkness). Hearing/memory superpower: sea lions remember individual voices for years, mothers pick out pup's call from thousands in a crowded rookery in seconds, vocal memory rivals dolphins and elephants. 6/6 Pexels clips (4 genuine sea lion/seal + 1 lion + 1 dolphin that slipped through), zero re-fetches. Assembly ok:false false negative — validated with ffprobe+decode test (H.264+AAC, 1896 frames, clean decode). Compressed 85.8MB->9.1MB (CRF 40) for connector upload."
     },
     {
       "productionId": "JV-2026-09-01-SELF2",
@@ -3882,7 +3882,7 @@
       "startedAt": "2026-09-01T16:04:47.993791-04:00",
       "mode": "stock-footage+captions",
       "concept": "Second angle on raccoon. Paradox: raccoons remember solutions to complex tasks for up to 3 years, outperform dogs and cats in intelligence tests, and can open locks/latches/jars. Cognitive superpower distinct from first angle (seeing with hands underwater).",
-      "error": "insufficient stock footage: 0/6 actual raccoon clips (Pexels returned squirrel, coati, cat, dogs, lemur \u2014 no raccoons despite filmableWithQuery baseQuery 'raccoon climbing tree')",
+      "error": "insufficient stock footage: 0/6 actual raccoon clips (Pexels returned squirrel, coati, cat, dogs, lemur — no raccoons despite filmableWithQuery baseQuery 'raccoon climbing tree')",
       "failedAt": "2026-09-01T16:06:38.099171-04:00"
     },
     {
@@ -3893,7 +3893,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-01T16:06:48.403042-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on hawk. Paradox: hawks have 8x sharper vision than humans \u2014 they can spot a mouse from 3 miles away. Their eyes have 5x more photoreceptors and two foveae for depth perception. Vision superpower distinct from first angle (2-mile mouse detection).",
+      "concept": "Second angle on hawk. Paradox: hawks have 8x sharper vision than humans — they can spot a mouse from 3 miles away. Their eyes have 5x more photoreceptors and two foveae for depth perception. Vision superpower distinct from first angle (2-mile mouse detection).",
       "renderedAt": "2026-09-01T16:12:17.306826-04:00",
       "uploadedAt": "2026-09-01T16:12:17.306826-04:00",
       "secondAngle": true,
@@ -3932,7 +3932,7 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "monkey",
-      "angle": "2nd (capuchin tool use \u2014 stones as hammers/anvils, leaves as sponges, sticks as probes, cultural transmission across generations, most skilled tool user among non-ape primates)",
+      "angle": "2nd (capuchin tool use — stones as hammers/anvils, leaves as sponges, sticks as probes, cultural transmission across generations, most skilled tool user among non-ape primates)",
       "note": "Second angle on monkey (first: Has a Tail That Grabs). Cognitive superpower: capuchin monkeys are the most skilled tool users among non-ape primates. They select specific stones as hammers and flat rocks as anvils, use leaves as sponges, craft sticks as probes, and choose different stones for different nuts. Young monkeys learn by watching adults for years. 6/6 Pexels clips (all monkeys), zero re-fetches. Compressed 31.2MB->4.7MB (CRF 37) for connector upload."
     },
     {
@@ -3943,7 +3943,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-02T16:04:55.692551-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on rhino. Paradox: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph \u2014 faster than most predators. Speed/power superpower distinct from first angle (smell).",
+      "concept": "Second angle on rhino. Paradox: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph — faster than most predators. Speed/power superpower distinct from first angle (smell).",
       "renderedAt": "2026-09-02T16:13:49.096098-04:00",
       "uploadedAt": "2026-09-02T16:13:49.096098-04:00",
       "secondAngle": true,
@@ -3958,7 +3958,7 @@
       "clipsFetched": 6,
       "animal": "rhino",
       "angle": "2nd (5,000 lbs animal charges at 40mph, bones denser than steel, largest muscle attachments of any land mammal, redirects mass without slowing down)",
-      "note": "Second angle on rhino (first: Smells Danger From Miles Away). Speed/power superpower: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph \u2014 faster than a lion or hyena. Bones denser than steel, largest muscle attachments of any land mammal relative to body size, can redirect 5,000 lbs of mass without slowing down. 6/6 Pexels clips (all rhinos), zero re-fetches. Compressed 66MB->7.3MB (CRF 40) for connector upload."
+      "note": "Second angle on rhino (first: Smells Danger From Miles Away). Speed/power superpower: despite weighing up to 5,000 pounds, rhinos can charge at 40 mph — faster than a lion or hyena. Bones denser than steel, largest muscle attachments of any land mammal relative to body size, can redirect 5,000 lbs of mass without slowing down. 6/6 Pexels clips (all rhinos), zero re-fetches. Compressed 66MB->7.3MB (CRF 40) for connector upload."
     },
     {
       "productionId": "JV-2026-09-03-SELFN",
@@ -3983,7 +3983,7 @@
       "clipsFetched": 6,
       "animal": "meerkat",
       "angle": "2nd (dark patches around eyes act like built-in sunglasses, absorb sunlight, cut glare, sharpen contrast for spotting aerial predators against bright desert sky)",
-      "note": "Second angle on meerkat (first: Is Immune to Deadly Venom). Vision/sensory superpower: meerkats have dark patches around their eyes that act like built-in sunglasses, absorbing harsh sunlight and cutting glare. This lets them scan the sky for hawks and eagles without squinting, detecting aerial predators from hundreds of yards away. 6/6 Pexels clips (all meerkats), zero re-fetches. Disk was full during first assembly attempt \u2014 cleaned old clip caches and /tmp dirs to free 4GB, re-ran assembly successfully. Compressed 39.8MB->5.9MB (CRF 38)."
+      "note": "Second angle on meerkat (first: Is Immune to Deadly Venom). Vision/sensory superpower: meerkats have dark patches around their eyes that act like built-in sunglasses, absorbing harsh sunlight and cutting glare. This lets them scan the sky for hawks and eagles without squinting, detecting aerial predators from hundreds of yards away. 6/6 Pexels clips (all meerkats), zero re-fetches. Disk was full during first assembly attempt — cleaned old clip caches and /tmp dirs to free 4GB, re-ran assembly successfully. Compressed 39.8MB->5.9MB (CRF 38)."
     },
     {
       "productionId": "JV-2026-09-03-SELF2",
@@ -3993,7 +3993,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-03T17:08:55.844567-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on manatee. Paradox: manatees have marching molars \u2014 new teeth continuously grow at the back of the jaw and move forward like a conveyor belt, replacing worn ones throughout their life. Regeneration superpower distinct from first angle (body-wide touch sensitivity).",
+      "concept": "Second angle on manatee. Paradox: manatees have marching molars — new teeth continuously grow at the back of the jaw and move forward like a conveyor belt, replacing worn ones throughout their life. Regeneration superpower distinct from first angle (body-wide touch sensitivity).",
       "renderedAt": "2026-09-03T17:15:39.880228-04:00",
       "uploadedAt": "2026-09-03T17:15:39.880228-04:00",
       "secondAngle": true,
@@ -4007,8 +4007,8 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "manatee",
-      "angle": "2nd (marching molars \u2014 new teeth continuously grow at back of jaw and slide forward like conveyor belt, replacing worn ones throughout life, dozens of teeth in a lifetime)",
-      "note": "Second angle on manatee (first: Feels With Its Entire Body). Regeneration superpower: manatees have marching molars \u2014 new teeth continuously grow at the back of their jaw and move forward like a conveyor belt, pushing worn ones out the front. A single manatee can go through dozens of teeth in a lifetime. 6/6 Pexels clips (2 manatees + 4 aquatic/water scenes \u2014 fish, sea otters, capybara, turtle). Compressed 81.6MB->9.3MB (CRF 40)."
+      "angle": "2nd (marching molars — new teeth continuously grow at back of jaw and slide forward like conveyor belt, replacing worn ones throughout life, dozens of teeth in a lifetime)",
+      "note": "Second angle on manatee (first: Feels With Its Entire Body). Regeneration superpower: manatees have marching molars — new teeth continuously grow at the back of their jaw and move forward like a conveyor belt, pushing worn ones out the front. A single manatee can go through dozens of teeth in a lifetime. 6/6 Pexels clips (2 manatees + 4 aquatic/water scenes — fish, sea otters, capybara, turtle). Compressed 81.6MB->9.3MB (CRF 40)."
     },
     {
       "productionId": "JV-2026-09-04-SELFN",
@@ -4018,7 +4018,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-04T10:07:48.618965-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on lemur. Paradox: lemurs have a tapetum lucidum \u2014 reflective layer behind retina that bounces light back through photoreceptors, giving extraordinary night vision. Eyes glow in dark because of this mirror-like layer. Vision/sensory superpower distinct from first angle (smell).",
+      "concept": "Second angle on lemur. Paradox: lemurs have a tapetum lucidum — reflective layer behind retina that bounces light back through photoreceptors, giving extraordinary night vision. Eyes glow in dark because of this mirror-like layer. Vision/sensory superpower distinct from first angle (smell).",
       "renderedAt": "2026-09-04T10:13:09.794341-04:00",
       "uploadedAt": "2026-09-04T10:13:09.794341-04:00",
       "secondAngle": true,
@@ -4032,7 +4032,7 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "lemur",
-      "angle": "2nd (tapetum lucidum \u2014 reflective mirror layer behind retina bounces light back through eye twice, giving extraordinary night vision, eyes glow in dark from biological mirror)",
+      "angle": "2nd (tapetum lucidum — reflective mirror layer behind retina bounces light back through eye twice, giving extraordinary night vision, eyes glow in dark from biological mirror)",
       "note": "Second angle on lemur (first: Wins Fights With Its Smell). Vision/sensory superpower: lemurs have a tapetum lucidum, a reflective layer behind their retina that bounces light back through photoreceptors a second time. Every photon gets two chances to be detected, giving them night vision so sharp they can navigate dense forest canopy in near total darkness. 6/6 Pexels clips (all lemurs), zero re-fetches. Compressed 36.7MB->6.1MB (CRF 38)."
     },
     {
@@ -4043,7 +4043,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-04T16:06:24.638380-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on bee. Paradox: bees perform a waggle dance \u2014 figure-8 movement telling other bees exact direction and distance of food source relative to the sun. Communication/cognitive superpower distinct from first angle (vision).",
+      "concept": "Second angle on bee. Paradox: bees perform a waggle dance — figure-8 movement telling other bees exact direction and distance of food source relative to the sun. Communication/cognitive superpower distinct from first angle (vision).",
       "renderedAt": "2026-09-04T16:11:32.786457-04:00",
       "uploadedAt": "2026-09-04T16:11:32.786457-04:00",
       "secondAngle": true,
@@ -4057,7 +4057,7 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "bee",
-      "angle": "2nd (waggle dance \u2014 figure-8 movement encoding exact direction and distance of food source relative to sun, 1 second of waggling = ~1km, one of most complex symbolic communication systems in animal kingdom)",
+      "angle": "2nd (waggle dance — figure-8 movement encoding exact direction and distance of food source relative to sun, 1 second of waggling = ~1km, one of most complex symbolic communication systems in animal kingdom)",
       "note": "Second angle on bee (first: Sees Colors Invisible to Human Eyes). Communication/cognitive superpower: bees perform the waggle dance, a figure-eight movement that encodes exact directions. The angle relative to the hive tells other bees which way to fly compared to the sun, and the duration of the waggle tells them how far to go. One second of waggling equals roughly one kilometer. 6/6 Pexels clips (all bees), zero re-fetches. Content filter rejected several 'shot' slugs. Compressed 27.2MB->5.9MB (CRF 37)."
     },
     {
@@ -4068,7 +4068,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-05T10:02:35.263589-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on ghost crab. Paradox: ghost crabs are the fastest crustaceans, sprinting at 10 mph \u2014 relative to body size, like a human running at 450 mph. Speed superpower distinct from first angle (vision).",
+      "concept": "Second angle on ghost crab. Paradox: ghost crabs are the fastest crustaceans, sprinting at 10 mph — relative to body size, like a human running at 450 mph. Speed superpower distinct from first angle (vision).",
       "renderedAt": "2026-09-05T10:08:04.580639-04:00",
       "uploadedAt": "2026-09-05T10:08:04.580639-04:00",
       "secondAngle": true,
@@ -4083,7 +4083,7 @@
       "clipsFetched": 6,
       "animal": "ghost crab",
       "angle": "2nd (fastest crustacean on Earth, 10 mph = 100+ body lengths per second, scaled to human = 450 mph, changes direction instantly without slowing)",
-      "note": "Second angle on ghost crab (first: Sees in Every Direction at Once). Speed superpower: ghost crabs are the fastest crustaceans, sprinting at 10 mph \u2014 over 100 body lengths per second. Scaled to human size, that would be running at 450 mph. They can change direction instantly, darting sideways, forward, and backward without slowing down. 6/6 Pexels clips (5 crabs + 1 beach scene). Compressed 36.1MB->6.7MB (CRF 38)."
+      "note": "Second angle on ghost crab (first: Sees in Every Direction at Once). Speed superpower: ghost crabs are the fastest crustaceans, sprinting at 10 mph — over 100 body lengths per second. Scaled to human size, that would be running at 450 mph. They can change direction instantly, darting sideways, forward, and backward without slowing down. 6/6 Pexels clips (5 crabs + 1 beach scene). Compressed 36.1MB->6.7MB (CRF 38)."
     },
     {
       "productionId": "JV-2026-09-05-SELF2",
@@ -4093,7 +4093,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-05T16:02:24.304356-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on wood frog. Paradox: wood frogs absorb oxygen directly through their moist skin, surviving underwater for months during winter hibernation when lungs shut down. They also never drink \u2014 absorbing water through skin. Respiration/survival superpower distinct from first angle (freezing solid).",
+      "concept": "Second angle on wood frog. Paradox: wood frogs absorb oxygen directly through their moist skin, surviving underwater for months during winter hibernation when lungs shut down. They also never drink — absorbing water through skin. Respiration/survival superpower distinct from first angle (freezing solid).",
       "renderedAt": "2026-09-05T16:08:35.704254-04:00",
       "uploadedAt": "2026-09-05T16:08:35.704254-04:00",
       "secondAngle": true,
@@ -4107,8 +4107,8 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "wood frog",
-      "angle": "2nd (cutaneous respiration \u2014 absorbs oxygen through skin, survives underwater for months during hibernation, never drinks \u2014 absorbs water through skin)",
-      "note": "Second angle on wood frog (first: Freezes Solid and Survives). Respiration/survival superpower: wood frogs absorb oxygen directly through their moist skin, bypassing lungs entirely during winter hibernation. They also never drink \u2014 absorbing water through their belly skin. 6/6 Pexels clips (all frogs). Compressed 37.5MB->7.2MB (CRF 38)."
+      "angle": "2nd (cutaneous respiration — absorbs oxygen through skin, survives underwater for months during hibernation, never drinks — absorbs water through skin)",
+      "note": "Second angle on wood frog (first: Freezes Solid and Survives). Respiration/survival superpower: wood frogs absorb oxygen directly through their moist skin, bypassing lungs entirely during winter hibernation. They also never drink — absorbing water through their belly skin. 6/6 Pexels clips (all frogs). Compressed 37.5MB->7.2MB (CRF 38)."
     },
     {
       "productionId": "JV-2026-09-06-SELF1",
@@ -4130,7 +4130,7 @@
       "status": "render-failed",
       "startedAt": "2026-09-06T10:06:59.305977-04:00",
       "mode": "stock-footage+captions",
-      "concept": "Second angle on axolotl. Neoteny superpower: axolotls never undergo metamorphosis, staying in larval form forever with gills and aquatic lifestyle. They are Peter Pan salamanders \u2014 other salamanders metamorphose and lose their gills, but axolotls stay young forever. Combined with their regeneration ability, they are essentially biologically immortal in their juvenile stage. Distinct from first angle (regrow brain).",
+      "concept": "Second angle on axolotl. Neoteny superpower: axolotls never undergo metamorphosis, staying in larval form forever with gills and aquatic lifestyle. They are Peter Pan salamanders — other salamanders metamorphose and lose their gills, but axolotls stay young forever. Combined with their regeneration ability, they are essentially biologically immortal in their juvenile stage. Distinct from first angle (regrow brain).",
       "renderedAt": "2026-09-06T10:08:25.382764-04:00",
       "error": "insufficient axolotl footage: only 1/6 clips possibly axolotl (rest were generic fish, penguin, leaf). Pexels has very limited axolotl content despite filmableWithQuery designation."
     },
@@ -4142,7 +4142,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-06T10:08:25.382764-04:00",
       "mode": "stock-footage+captions",
-      "concept": "From growth plan week 2026-09-07. Explain how a giraffe\u2019s powerful heart, thick blood vessels, and one-way valves keep blood moving safely to its brain despite its towering neck.",
+      "concept": "From growth plan week 2026-09-07. Explain how a giraffe’s powerful heart, thick blood vessels, and one-way valves keep blood moving safely to its brain despite its towering neck.",
       "fromGrowthPlan": true,
       "renderedAt": "2026-09-06T10:13:33.098610-04:00",
       "uploadedAt": "2026-09-06T10:13:33.098610-04:00",
@@ -4168,7 +4168,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-06T16:02:41.138229-04:00",
       "mode": "stock-footage+captions",
-      "concept": "From growth plan week 2026-09-07. Reveal how dense fur on an Arctic fox\u2019s paws, compact foot shape, and heat-conserving circulation help it travel and hunt across freezing snow.",
+      "concept": "From growth plan week 2026-09-07. Reveal how dense fur on an Arctic fox’s paws, compact foot shape, and heat-conserving circulation help it travel and hunt across freezing snow.",
       "fromGrowthPlan": true,
       "note": "From growth plan week 2026-09-07. 4th angle on fox. Used 'fox' as baseQuery since 'arctic fox' not in filmable index. 6/6 Pexels clips (4+ foxes, 1 unclear, 1 man in snow). Compressed 55.9MB->7.3MB (CRF 38).",
       "renderedAt": "2026-09-06T16:08:12.300464-04:00",
@@ -4210,7 +4210,7 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "owl",
-      "angle": "3rd (1st: Hunts in Total Silence, 2nd: Turns Head 270 Degrees). Feather mechanism: comb-like serrations on feather edges break up air turbulence, velvety surface absorbs sound. Distinct from hunting behavior angle \u2014 focuses on HOW feathers work, not WHAT owls do."
+      "angle": "3rd (1st: Hunts in Total Silence, 2nd: Turns Head 270 Degrees). Feather mechanism: comb-like serrations on feather edges break up air turbulence, velvety surface absorbs sound. Distinct from hunting behavior angle — focuses on HOW feathers work, not WHAT owls do."
     },
     {
       "productionId": "JV-2026-09-07-SELF1",
@@ -4220,7 +4220,7 @@
       "status": "uploaded",
       "startedAt": "2026-09-07T16:02:10.091813-04:00",
       "mode": "stock-footage+captions",
-      "concept": "3rd angle on hippo (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos can sprint at 30 mph on land despite weighing 3,000+ lbs \u2014 faster than most humans. Distinct from chemical defense and underwater locomotion angles.",
+      "concept": "3rd angle on hippo (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos can sprint at 30 mph on land despite weighing 3,000+ lbs — faster than most humans. Distinct from chemical defense and underwater locomotion angles.",
       "renderedAt": "2026-09-07T16:08:00.936219-04:00",
       "uploadedAt": "2026-09-07T16:08:00.936219-04:00",
       "secondAngle": true,
@@ -4234,7 +4234,7 @@
       "footageSource": "pexels",
       "clipsFetched": 6,
       "animal": "hippo",
-      "angle": "3rd (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos sprint at 30 mph on land despite 3,000 lbs \u2014 short dense bones, massive muscle attachments, gallop gait. Faster than most humans.",
+      "angle": "3rd (1st: Sweats Red Like Blood, 2nd: Runs Underwater Instead of Swimming). Speed superpower: hippos sprint at 30 mph on land despite 3,000 lbs — short dense bones, massive muscle attachments, gallop gait. Faster than most humans.",
       "note": "Self-generated from pulse data. Hippo was #8 in pulse top videos (1,728 views, 36s AVD). 3rd angle on hippo. 6/6 Pexels clips (all hippos). Compressed 54MB->5.5MB (CRF 40)."
     },
     {
@@ -4346,7 +4346,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Giraffe's Spots Are Living Radiators #Shorts",
       "animal": "giraffe",
-      "angle": "3rd (1st: Sleeps Only 30 Minutes a Day, 2nd: Heart Beats Against Gravity). Thermoregulation superpower: giraffe spots are living radiators \u2014 each patch has a large blood vessel beneath that opens to release heat and closes to conserve it.",
+      "angle": "3rd (1st: Sleeps Only 30 Minutes a Day, 2nd: Heart Beats Against Gravity). Thermoregulation superpower: giraffe spots are living radiators — each patch has a large blood vessel beneath that opens to release heat and closes to conserve it.",
       "renderedAt": "2026-09-10T10:13:19.198822-04:00",
       "uploadedAt": "2026-09-10T10:13:19.198822-04:00",
       "youtube": {
@@ -4369,7 +4369,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Starfish Regrows Its Entire Body From One Arm #Shorts",
       "animal": "starfish",
-      "angle": "3rd (1st: Has No Blood, 2nd: Eats With Stomach Inside Out). Regeneration superpower: starfish can regrow entire body from a single detached arm \u2014 each arm contains most vital organs and a nerve ring.",
+      "angle": "3rd (1st: Has No Blood, 2nd: Eats With Stomach Inside Out). Regeneration superpower: starfish can regrow entire body from a single detached arm — each arm contains most vital organs and a nerve ring.",
       "renderedAt": "2026-09-10T16:09:38.881004-04:00",
       "uploadedAt": "2026-09-10T16:09:38.881004-04:00",
       "youtube": {
@@ -4404,7 +4404,7 @@
       "hookOverlay": "SWEATS RED SUNSCREEN",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated from pulse data. 3rd angle on hippo (pulse #9: 1,728 views, 36s AVD). Skin superpower: hippo secretes red 'blood sweat' that acts as natural sunscreen (absorbs UV) and antibiotic (kills bacteria, keeps wounds clean in muddy water). 6/6 Pexels hippo clips (ALL real hippos). Assembly returned ok:false (false negative \u2014 validated with ffprobe + decode test, file was valid). Compressed 58MB->4.6MB (CRF 42)."
+      "note": "Self-generated from pulse data. 3rd angle on hippo (pulse #9: 1,728 views, 36s AVD). Skin superpower: hippo secretes red 'blood sweat' that acts as natural sunscreen (absorbs UV) and antibiotic (kills bacteria, keeps wounds clean in muddy water). 6/6 Pexels hippo clips (ALL real hippos). Assembly returned ok:false (false negative — validated with ffprobe + decode test, file was valid). Compressed 58MB->4.6MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-11-SELF2",
@@ -4415,7 +4415,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Jellyfish Stings at 5 Million Gs #Shorts",
       "animal": "jellyfish",
-      "angle": "3rd (1st: Never Dies of Old Age, 2nd: Has 24 Eyes But No Brain). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration \u2014 fastest cellular mechanism in nature.",
+      "angle": "3rd (1st: Never Dies of Old Age, 2nd: Has 24 Eyes But No Brain). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration — fastest cellular mechanism in nature.",
       "renderedAt": "2026-09-11T16:11:09.678200-04:00",
       "uploadedAt": "2026-09-11T16:11:09.678200-04:00",
       "youtube": {
@@ -4427,7 +4427,7 @@
       "hookOverlay": "STINGS AT 5 MILLION GS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated from pulse data. 3rd angle on jellyfish (pulse #2: 6,210 views, 39s AVD \u2014 strongest 1-tagged-angle animal). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration \u2014 100x faster than a bullet. 6/6 Pexels jellyfish clips (ALL real jellyfish). Assembly returned ok:false (false negative \u2014 validated with decode test). Compressed 45MB->3.6MB (CRF 42)."
+      "note": "Self-generated from pulse data. 3rd angle on jellyfish (pulse #2: 6,210 views, 39s AVD — strongest 1-tagged-angle animal). Stinging superpower: nematocysts fire in 700 nanoseconds at 5 million G acceleration — 100x faster than a bullet. 6/6 Pexels jellyfish clips (ALL real jellyfish). Assembly returned ok:false (false negative — validated with decode test). Compressed 45MB->3.6MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-12-SELF1",
@@ -4438,7 +4438,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Manatee Uses Whiskers Like Fingers #Shorts",
       "animal": "manatee",
-      "angle": "2nd (1st: Never Runs Out of Teeth). Sensory superpower: manatee facial whiskers (vibrissae) work like fingers \u2014 prehensile, each with 200+ nerve fibers, used to grasp and manipulate food in murky water.",
+      "angle": "2nd (1st: Never Runs Out of Teeth). Sensory superpower: manatee facial whiskers (vibrissae) work like fingers — prehensile, each with 200+ nerve fibers, used to grasp and manipulate food in murky water.",
       "renderedAt": "2026-09-12T10:10:39.671723-04:00",
       "uploadedAt": "2026-09-12T10:10:39.671723-04:00",
       "youtube": {
@@ -4450,7 +4450,7 @@
       "hookOverlay": "WHISKERS WORK LIKE FINGERS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated from pulse data. 2nd angle on manatee (pulse #6: 1,853 views, 30s AVD). Sensory superpower: facial whiskers (vibrissae) are prehensile \u2014 work like fingers to grasp food, each wired to 200+ nerve fibers, 5x cat whisker sensitivity. 6/6 Pexels clips (2 real manatees + 4 wrong: sea otters, fish, alligators, stone). Assembly ok:false (false negative \u2014 validated). Compressed 75MB->6.5MB (CRF 42)."
+      "note": "Self-generated from pulse data. 2nd angle on manatee (pulse #6: 1,853 views, 30s AVD). Sensory superpower: facial whiskers (vibrissae) are prehensile — work like fingers to grasp food, each wired to 200+ nerve fibers, 5x cat whisker sensitivity. 6/6 Pexels clips (2 real manatees + 4 wrong: sea otters, fish, alligators, stone). Assembly ok:false (false negative — validated). Compressed 75MB->6.5MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-12-SELF2",
@@ -4519,7 +4519,7 @@
       "hookOverlay": "40,000 MUSCLES NO BONES",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "From growth plan GP-2026-09-14-01. 1st angle on elephant. Superpower: trunk has 40,000 muscles, no bones, can lift tree branch and pick up single blade of grass. 6/6 Pexels clips (ALL real elephants \u2014 excellent footage). Assembly ok:false (false negative \u2014 validated with decode test). Compressed 52MB->4.2MB (CRF 42)."
+      "note": "From growth plan GP-2026-09-14-01. 1st angle on elephant. Superpower: trunk has 40,000 muscles, no bones, can lift tree branch and pick up single blade of grass. 6/6 Pexels clips (ALL real elephants — excellent footage). Assembly ok:false (false negative — validated with decode test). Compressed 52MB->4.2MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-14-GP02",
@@ -4553,7 +4553,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Sea Turtle Finds the Beach Where It Was Born #Shorts",
       "animal": "turtle",
-      "angle": "2nd angle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetic navigation \u2014 sea turtle uses Earth's magnetic field as a map to return to exact beach where it hatched.",
+      "angle": "2nd angle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetic navigation — sea turtle uses Earth's magnetic field as a map to return to exact beach where it hatched.",
       "renderedAt": "2026-09-14T16:10:32.185248-04:00",
       "uploadedAt": "2026-09-14T16:10:32.185248-04:00",
       "youtube": {
@@ -4565,7 +4565,7 @@
       "hookOverlay": "COMPASS WIRED INTO ITS SKULL",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "From growth plan GP-2026-09-14-03. 2nd angle on turtle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetite in brain = built-in compass, reads Earth's magnetic field as a map, memorizes beach magnetic signature at birth, returns decades later. 6/6 Pexels clips (ALL real sea turtles incl. baby turtle crawling to shore). Assembly ok:false (false negative \u2014 validated). Compressed 71MB->8.3MB (CRF 42)."
+      "note": "From growth plan GP-2026-09-14-03. 2nd angle on turtle (1st: Navigates 10,000 Miles Without a Map). Sensory/superpower: magnetite in brain = built-in compass, reads Earth's magnetic field as a map, memorizes beach magnetic signature at birth, returns decades later. 6/6 Pexels clips (ALL real sea turtles incl. baby turtle crawling to shore). Assembly ok:false (false negative — validated). Compressed 71MB->8.3MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-15-SELF1",
@@ -4588,7 +4588,7 @@
       "hookOverlay": "DIVES 900 FEET ONE BREATH",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on sea lion (1st: Never Forgets a Voice = hearing). Extreme survival: myoglobin in muscles stores oxygen at 10x human concentration, exhales before diving, slows heart to 10 bpm, hunts by whisker touch in darkness, 20 min on one breath. 6/6 Pexels clips (2 seals + dolphin + scuba divers + sea turtles + bird catching fish \u2014 poor match). Assembly ok:false (false negative \u2014 validated). Compressed 102MB->7.4MB (CRF 43)."
+      "note": "Self-generated 2nd angle on sea lion (1st: Never Forgets a Voice = hearing). Extreme survival: myoglobin in muscles stores oxygen at 10x human concentration, exhales before diving, slows heart to 10 bpm, hunts by whisker touch in darkness, 20 min on one breath. 6/6 Pexels clips (2 seals + dolphin + scuba divers + sea turtles + bird catching fish — poor match). Assembly ok:false (false negative — validated). Compressed 102MB->7.4MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-15-SELF2",
@@ -4611,7 +4611,7 @@
       "hookOverlay": "HORN MADE OF HAIR",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on rhino (1st: Charges at 40 MPH = speed, #8 in pulse with 1,397 views). Regeneration: horn is keratin (same as hair/fingernails), not bone, no bone core, grows from skin, regrows 2-3 inches/year if cut above root, conservation dehorning. 6/6 Pexels clips (ALL real rhinos \u2014 excellent footage). Assembly ok:false (false negative \u2014 validated). Compressed 95MB->7.8MB (CRF 43)."
+      "note": "Self-generated 2nd angle on rhino (1st: Charges at 40 MPH = speed, #8 in pulse with 1,397 views). Regeneration: horn is keratin (same as hair/fingernails), not bone, no bone core, grows from skin, regrows 2-3 inches/year if cut above root, conservation dehorning. 6/6 Pexels clips (ALL real rhinos — excellent footage). Assembly ok:false (false negative — validated). Compressed 95MB->7.8MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-16-SELF1",
@@ -4622,7 +4622,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Monkey Has a Word for Every Predator #Shorts",
       "animal": "monkey",
-      "angle": "2nd (1st: Uses Tools Like a Human = intelligence). Communication: vervet monkeys have distinct alarm calls for leopard/eagle/snake, each triggering different escape response \u2014 primitive language with specific words.",
+      "angle": "2nd (1st: Uses Tools Like a Human = intelligence). Communication: vervet monkeys have distinct alarm calls for leopard/eagle/snake, each triggering different escape response — primitive language with specific words.",
       "renderedAt": "2026-09-16T10:09:32.708490-04:00",
       "uploadedAt": "2026-09-16T10:09:32.708490-04:00",
       "youtube": {
@@ -4634,7 +4634,7 @@
       "hookOverlay": "A WORD FOR EVERY PREDATOR",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on monkey (1st: Uses Tools Like a Human = intelligence, #9 in pulse with 1,300 views). Communication: vervet monkeys have 3 distinct alarm calls (leopard/eagle/snake), each triggering different escape response. Scientists played recordings with no predator \u2014 monkeys still did the right escape move, proving calls carry meaning. Primitive language. 6/6 Pexels clips (ALL real monkeys \u2014 macaques, tropical forest monkeys). Assembly ok:false (false negative \u2014 validated). Compressed 44MB->4.5MB (CRF 42). TTS required SDK reinstall (protobuf version conflict)."
+      "note": "Self-generated 2nd angle on monkey (1st: Uses Tools Like a Human = intelligence, #9 in pulse with 1,300 views). Communication: vervet monkeys have 3 distinct alarm calls (leopard/eagle/snake), each triggering different escape response. Scientists played recordings with no predator — monkeys still did the right escape move, proving calls carry meaning. Primitive language. 6/6 Pexels clips (ALL real monkeys — macaques, tropical forest monkeys). Assembly ok:false (false negative — validated). Compressed 44MB->4.5MB (CRF 42). TTS required SDK reinstall (protobuf version conflict)."
     },
     {
       "productionId": "JV-2026-09-16-SELF2",
@@ -4657,7 +4657,7 @@
       "hookOverlay": "TEN TIMES HUMAN STRENGTH",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on gorilla (1st: Sings While It Eats = communication, #10 pulse 1,268v). Strength: silverback 10x human, lifts 2,000 kg, bite 1,300 PSI, arms longer than legs, dense muscle fibers, peaceful vegetarian. 6/6 Pexels clips (5 real gorillas from Connor Scott McManus + 1 rainforest waterfall). Assembly ok:false (false negative \u2014 validated). Compressed 35MB->3.9MB (CRF 42)."
+      "note": "Self-generated 2nd angle on gorilla (1st: Sings While It Eats = communication, #10 pulse 1,268v). Strength: silverback 10x human, lifts 2,000 kg, bite 1,300 PSI, arms longer than legs, dense muscle fibers, peaceful vegetarian. 6/6 Pexels clips (5 real gorillas from Connor Scott McManus + 1 rainforest waterfall). Assembly ok:false (false negative — validated). Compressed 35MB->3.9MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-17-SELF1",
@@ -4680,7 +4680,7 @@
       "hookOverlay": "HEARS WITH ITS FEET",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on elephant (1st: Trunk Has 40,000 Muscles, #6 pulse 1,412v). Hearing/sensory: infrasound below 20 Hz inaudible to humans, travels through ground for miles, nerve endings in foot pads detect vibrations, mother calls calf without noise predators hear, herds coordinate over 10 km. 6/6 Pexels clips (5 real elephants + 1 human woman walking on toes \u2014 wrong). Assembly ok:false (false negative \u2014 validated). Compressed 37MB->3.9MB (CRF 42)."
+      "note": "Self-generated 2nd angle on elephant (1st: Trunk Has 40,000 Muscles, #6 pulse 1,412v). Hearing/sensory: infrasound below 20 Hz inaudible to humans, travels through ground for miles, nerve endings in foot pads detect vibrations, mother calls calf without noise predators hear, herds coordinate over 10 km. 6/6 Pexels clips (5 real elephants + 1 human woman walking on toes — wrong). Assembly ok:false (false negative — validated). Compressed 37MB->3.9MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-17-SELF2",
@@ -4691,7 +4691,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Kangaroo Can Pause Its Own Pregnancy #Shorts",
       "animal": "kangaroo",
-      "angle": "2nd (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause \u2014 can pause pregnancy at embryo stage during drought, resume when conditions improve. Can have joey at foot + joey in pouch + paused embryo simultaneously.",
+      "angle": "2nd (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause — can pause pregnancy at embryo stage during drought, resume when conditions improve. Can have joey at foot + joey in pouch + paused embryo simultaneously.",
       "renderedAt": "2026-09-17T16:07:45.235313-04:00",
       "uploadedAt": "2026-09-17T16:07:45.235313-04:00",
       "youtube": {
@@ -4703,7 +4703,7 @@
       "hookOverlay": "PAUSES ITS OWN PREGNANCY",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on kangaroo (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause \u2014 embryo stays dormant during drought, resumes when rain returns. Can run 3 young simultaneously: joey at foot + joey in pouch + paused embryo. If pouch joey dies, paused embryo restarts within days. 6/6 Pexels clips (kangaroos + wallabies). Assembly ok:false (false negative \u2014 validated). Compressed 46MB->4.0MB (CRF 42)."
+      "note": "Self-generated 2nd angle on kangaroo (1st: Walks on Five Legs = biomechanics). Extreme survival: embryonic diapause — embryo stays dormant during drought, resumes when rain returns. Can run 3 young simultaneously: joey at foot + joey in pouch + paused embryo. If pouch joey dies, paused embryo restarts within days. 6/6 Pexels clips (kangaroos + wallabies). Assembly ok:false (false negative — validated). Compressed 46MB->4.0MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-18-SELF1",
@@ -4737,7 +4737,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Bear Can Smell Food From 20 Miles Away #Shorts",
       "animal": "bear",
-      "angle": "2nd (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal \u2014 polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human.",
+      "angle": "2nd (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal — polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human.",
       "renderedAt": "2026-09-18T16:06:46.393868-04:00",
       "uploadedAt": "2026-09-18T16:06:46.393868-04:00",
       "youtube": {
@@ -4749,7 +4749,7 @@
       "hookOverlay": "SMELLS FROM 20 MILES",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on bear (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal \u2014 polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human, 1000x scent receptors. Bear smells a map of direction, distance, food type. 6/6 Pexels clips (ALL real bears incl. polar bear). Assembly ok:true. Compressed 30MB->2.4MB (CRF 42)."
+      "note": "Self-generated 2nd angle on bear (1st: Doesn't Pee for Six Months = hibernation). Sensory: most powerful smell of any land animal — polar bear smells seal under 3ft ice from 20 miles, grizzly smells carcass from 18 miles, smelling area 100x human, 1000x scent receptors. Bear smells a map of direction, distance, food type. 6/6 Pexels clips (ALL real bears incl. polar bear). Assembly ok:true. Compressed 30MB->2.4MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-19-SELF1",
@@ -4760,7 +4760,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Hawk Sees Invisible Trails to Its Prey #Shorts",
       "animal": "hawk",
-      "angle": "2nd (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision \u2014 hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, so hawk sees glowing neon paths leading to hidden prey.",
+      "angle": "2nd (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision — hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, so hawk sees glowing neon paths leading to hidden prey.",
       "renderedAt": "2026-09-19T10:07:31.172569-04:00",
       "uploadedAt": "2026-09-19T10:07:31.172569-04:00",
       "youtube": {
@@ -4772,7 +4772,7 @@
       "hookOverlay": "SEES INVISIBLE PREY TRAILS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on hawk (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision \u2014 hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, hawk sees glowing neon arrows pointing to hidden prey. 4 color receptors vs human 3. 6/6 Pexels clips (hawks + eagles, both raptors). Assembly ok:true. Compressed 24MB->3.3MB (CRF 42)."
+      "note": "Self-generated 2nd angle on hawk (1st: Spots Prey From 3 Miles Away = vision/distance). Sensory: UV vision — hawks see ultraviolet light invisible to humans, rodent urine trails reflect UV, hawk sees glowing neon arrows pointing to hidden prey. 4 color receptors vs human 3. 6/6 Pexels clips (hawks + eagles, both raptors). Assembly ok:true. Compressed 24MB->3.3MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-19-SELF2",
@@ -4785,7 +4785,7 @@
       "animal": "alligator",
       "angle": "2nd (1st: Can Climb Trees = ability). Regeneration: each tooth replaced up to 50x, 3000 teeth in lifetime. Stem cells at base continuously generate new teeth. New tooth moves up within days. Humans get 2 sets, alligator gets 50+.",
       "renderedAt": "2026-09-19T16:04:17.939289-04:00",
-      "error": "insufficient stock footage: 2/6 real alligator clips (scenes 1,4 = alligator/crocodile; scenes 2=hippo, 3=orthodontist, 5=otter, 6=turtles \u2014 all wrong)"
+      "error": "insufficient stock footage: 2/6 real alligator clips (scenes 1,4 = alligator/crocodile; scenes 2=hippo, 3=orthodontist, 5=otter, 6=turtles — all wrong)"
     },
     {
       "productionId": "JV-2026-09-20-SELF1",
@@ -4821,7 +4821,7 @@
       "animal": "spider",
       "angle": "2nd (1st: Sees the Moon = vision). Superpower: spider silk stronger than steel by weight, stronger than Kevlar, stretchier than rubber. Strand thick enough to circle Earth weighs less than a pound. Single spider produces 7 types of silk.",
       "renderedAt": "2026-09-20T16:05:04.932390-04:00",
-      "error": "insufficient stock footage: 3/6 real spider clips (scenes 1,3,5 = real spider/web; scenes 2,4,6 = staged horror videos of women trapped in spider webs from MART PRODUCTION \u2014 not wildlife)"
+      "error": "insufficient stock footage: 3/6 real spider clips (scenes 1,3,5 = real spider/web; scenes 2,4,6 = staged horror videos of women trapped in spider webs from MART PRODUCTION — not wildlife)"
     },
     {
       "productionId": "JV-2026-09-21-SELF1",
@@ -4844,7 +4844,7 @@
       "hookOverlay": "EATS SCORPIONS LIKE SNACKS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on meerkat (1st: Has Built-In Sunglasses = vision). Venom immunity: genetic mutation makes nervous system resistant to scorpion venom. Kill and eat bark scorpions with no pain. Adults teach pups by removing stinger first, pups practice. 10-week-old pup can take down scorpion alone. Growth plan ideas all unfilmable/unlisted. 6/6 Pexels clips (ALL real meerkats). Assembly ok:false (false negative \u2014 validated). Compressed 50MB->4.4MB (CRF 42)."
+      "note": "Self-generated 2nd angle on meerkat (1st: Has Built-In Sunglasses = vision). Venom immunity: genetic mutation makes nervous system resistant to scorpion venom. Kill and eat bark scorpions with no pain. Adults teach pups by removing stinger first, pups practice. 10-week-old pup can take down scorpion alone. Growth plan ideas all unfilmable/unlisted. 6/6 Pexels clips (ALL real meerkats). Assembly ok:false (false negative — validated). Compressed 50MB->4.4MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-21-SELF2",
@@ -4855,7 +4855,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Butterfly Tastes With Its Feet #Shorts",
       "animal": "butterfly",
-      "angle": "2nd (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet \u2014 taste receptors on tarsi let them identify host plants by landing on them. They decide where to lay eggs by tasting the leaf with their feet.",
+      "angle": "2nd (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet — taste receptors on tarsi let them identify host plants by landing on them. They decide where to lay eggs by tasting the leaf with their feet.",
       "renderedAt": "2026-09-21T16:12:30.589794-04:00",
       "uploadedAt": "2026-09-21T16:12:30.589794-04:00",
       "youtube": {
@@ -4867,7 +4867,7 @@
       "hookOverlay": "TASTES WITH ITS FEET",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on butterfly (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet \u2014 chemical receptors on tarsi detect sugars, nectar, plant species. Female drums leaf with feet to decide where to lay eggs. Reads leaf like a grocery label, but in molecules. 6/6 Pexels clips (ALL real butterflies incl. monarchs). Assembly ok:false (false negative \u2014 validated). Compressed 37MB->5.5MB (CRF 42)."
+      "note": "Self-generated 2nd angle on butterfly (1st: Navigates 3000 Miles Without a Map = navigation). Sensory: butterflies taste with their feet — chemical receptors on tarsi detect sugars, nectar, plant species. Female drums leaf with feet to decide where to lay eggs. Reads leaf like a grocery label, but in molecules. 6/6 Pexels clips (ALL real butterflies incl. monarchs). Assembly ok:false (false negative — validated). Compressed 37MB->5.5MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-22-SELF1",
@@ -4890,7 +4890,7 @@
       "hookOverlay": "EATS POISON EVERY DAY",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on koala (1st: Has Human Fingerprints = biometrics). Extreme survival: koalas eat eucalyptus leaves toxic to almost every other mammal. Specialized liver detoxifies terpenes and phenols. Gut bacteria ferment tough fibers. Low calorie = 18-22h sleep. Not lazy, surviving on diet that would kill anything else. 6/6 Pexels clips (ALL real koalas eating eucalyptus \u2014 perfect match). Assembly ok:false (false negative \u2014 validated). Compressed 55MB->6.4MB (CRF 42)."
+      "note": "Self-generated 2nd angle on koala (1st: Has Human Fingerprints = biometrics). Extreme survival: koalas eat eucalyptus leaves toxic to almost every other mammal. Specialized liver detoxifies terpenes and phenols. Gut bacteria ferment tough fibers. Low calorie = 18-22h sleep. Not lazy, surviving on diet that would kill anything else. 6/6 Pexels clips (ALL real koalas eating eucalyptus — perfect match). Assembly ok:false (false negative — validated). Compressed 55MB->6.4MB (CRF 42)."
     },
     {
       "productionId": "JV-2026-09-22-SELF2",
@@ -4901,7 +4901,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Flamingo Can Sleep Standing on One Leg #Shorts",
       "animal": "flamingo",
-      "angle": "2nd (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus \u2014 tendons mechanically lock joints so flamingo stands on one leg with zero muscle effort. So stable they can do it when dead. One-leg stance is more stable than two legs.",
+      "angle": "2nd (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus — tendons mechanically lock joints so flamingo stands on one leg with zero muscle effort. So stable they can do it when dead. One-leg stance is more stable than two legs.",
       "renderedAt": "2026-09-22T16:11:46.364771-04:00",
       "uploadedAt": "2026-09-22T16:11:46.364771-04:00",
       "youtube": {
@@ -4913,7 +4913,7 @@
       "hookOverlay": "SLEEPS ON ONE LEG",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on flamingo (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus \u2014 tendons mechanically lock joints, zero muscle effort. Tested with dead flamingos \u2014 body stands balanced on one leg with no heartbeat. One-leg stance is easier than two legs. Most efficient animal at standing still. 6/6 Pexels clips (ALL real flamingos). Assembly ok:false (false negative \u2014 validated). Compressed 73MB->3.7MB (CRF 43)."
+      "note": "Self-generated 2nd angle on flamingo (1st: Is Not Actually Pink = color/diet). Biomechanics: passive stay apparatus — tendons mechanically lock joints, zero muscle effort. Tested with dead flamingos — body stands balanced on one leg with no heartbeat. One-leg stance is easier than two legs. Most efficient animal at standing still. 6/6 Pexels clips (ALL real flamingos). Assembly ok:false (false negative — validated). Compressed 73MB->3.7MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-23-SELF1",
@@ -4924,7 +4924,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
       "animal": "peacock",
-      "angle": "2nd (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color \u2014 no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades.",
+      "angle": "2nd (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color — no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades.",
       "renderedAt": "2026-09-23T10:15:04.950497-04:00",
       "uploadedAt": "2026-09-23T10:15:04.950497-04:00",
       "youtube": {
@@ -4936,7 +4936,7 @@
       "hookOverlay": "MAKES BLUE WITHOUT BLUE",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on peacock (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color \u2014 no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades \u2014 pigment breaks down, structure doesn't. Same principle as butterfly wings and opals. 6/6 Pexels clips (ALL real peacocks). Assembly ok:false (false negative \u2014 validated). Compressed 70MB->5.4MB (CRF 43)."
+      "note": "Self-generated 2nd angle on peacock (1st: Makes a Sound You Can't Hear = infrasound). Superpower: structural color — no blue/green pigment in feathers. Nanoscale photonic crystals reflect specific wavelengths through interference. Grind up feather = brown powder. Color changes with viewing angle. Never fades — pigment breaks down, structure doesn't. Same principle as butterfly wings and opals. 6/6 Pexels clips (ALL real peacocks). Assembly ok:false (false negative — validated). Compressed 70MB->5.4MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-23-SELF2",
@@ -4959,7 +4959,7 @@
       "hookOverlay": "HOLDS BREATH FOR 7 HOURS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on turtle (1st: Finds the Beach Where It Was Born = navigation). Extreme survival: holds breath 4-7 hours while sleeping underwater. Heart rate drops to 1 beat per 9 minutes. Absorbs oxygen through skin and throat lining. Slowed entire body to edge of death on single lungful. 6/6 Pexels clips (ALL real sea turtles incl. one resting on ocean floor). Assembly ok:false (false negative \u2014 validated). Compressed 86MB->8.2MB (CRF 43)."
+      "note": "Self-generated 2nd angle on turtle (1st: Finds the Beach Where It Was Born = navigation). Extreme survival: holds breath 4-7 hours while sleeping underwater. Heart rate drops to 1 beat per 9 minutes. Absorbs oxygen through skin and throat lining. Slowed entire body to edge of death on single lungful. 6/6 Pexels clips (ALL real sea turtles incl. one resting on ocean floor). Assembly ok:false (false negative — validated). Compressed 86MB->8.2MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-24-SELF1",
@@ -4970,7 +4970,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
       "animal": "deer",
-      "angle": "2nd (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision \u2014 310 degrees without moving head. Eyes on sides of skull. Only blind spot is directly behind. High density of motion-detecting cells. Nearly impossible to sneak up on.",
+      "angle": "2nd (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision — 310 degrees without moving head. Eyes on sides of skull. Only blind spot is directly behind. High density of motion-detecting cells. Nearly impossible to sneak up on.",
       "renderedAt": "2026-09-24T10:15:17.810213-04:00",
       "uploadedAt": "2026-09-24T10:15:17.810213-04:00",
       "youtube": {
@@ -4982,7 +4982,7 @@
       "hookOverlay": "SEES YOU FROM EVERY DIRECTION",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on deer (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision \u2014 310 degrees vs human 180. Eyes on sides of skull, each scanning different half. Only blind spot is directly behind. Packed with motion-detecting cells. Nearly impossible to sneak up on. 6/6 Pexels clips (ALL real deer incl. deer in snow, elk, grazing). Assembly ok:false (false negative \u2014 validated). Compressed 52MB->3.0MB (CRF 43)."
+      "note": "Self-generated 2nd angle on deer (1st: Hears What You Can't = hearing). Sensory: near-panoramic vision — 310 degrees vs human 180. Eyes on sides of skull, each scanning different half. Only blind spot is directly behind. Packed with motion-detecting cells. Nearly impossible to sneak up on. 6/6 Pexels clips (ALL real deer incl. deer in snow, elk, grazing). Assembly ok:false (false negative — validated). Compressed 52MB->3.0MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-24-SELF2",
@@ -5005,7 +5005,7 @@
       "hookOverlay": "SINGS TWO NOTES AT ONCE",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on parrot (1st: Smarter Than a Toddler = intelligence). Communication: syrix at windpipe split into two bronchi. Each side is separate instrument with own membranes, muscles, nerve. Can sing two notes simultaneously on single breath. Dual-voice system is secret behind mimicry. No other animal can do this. 6/6 Pexels clips (ALL real parrots/macaws/cockatoo). Assembly ok:false (false negative \u2014 validated). Compressed 28MB->4.5MB (CRF 43)."
+      "note": "Self-generated 2nd angle on parrot (1st: Smarter Than a Toddler = intelligence). Communication: syrix at windpipe split into two bronchi. Each side is separate instrument with own membranes, muscles, nerve. Can sing two notes simultaneously on single breath. Dual-voice system is secret behind mimicry. No other animal can do this. 6/6 Pexels clips (ALL real parrots/macaws/cockatoo). Assembly ok:false (false negative — validated). Compressed 28MB->4.5MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-25-SELF1",
@@ -5028,7 +5028,7 @@
       "hookOverlay": "FOOD THAT NEVER SPOILS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on bee (1st: Speaks in Dance to Find Food = communication). Extreme survival: honey never spoils. Found in Egyptian tombs 3000+ years old still edible. Low water + high sugar dehydrates bacteria. Bees add glucose oxidase enzyme producing hydrogen peroxide. Only food that doesn't spoil. One bee makes 1/12 tsp honey in lifetime. 6/6 Pexels clips (bees on flowers, honey pouring, honeycomb, bee hive, bee pollinating). Assembly ok:false (false negative \u2014 validated). Compressed 32MB->3.8MB (CRF 43)."
+      "note": "Self-generated 2nd angle on bee (1st: Speaks in Dance to Find Food = communication). Extreme survival: honey never spoils. Found in Egyptian tombs 3000+ years old still edible. Low water + high sugar dehydrates bacteria. Bees add glucose oxidase enzyme producing hydrogen peroxide. Only food that doesn't spoil. One bee makes 1/12 tsp honey in lifetime. 6/6 Pexels clips (bees on flowers, honey pouring, honeycomb, bee hive, bee pollinating). Assembly ok:false (false negative — validated). Compressed 32MB->3.8MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-25-SELF2",
@@ -5074,7 +5074,7 @@
       "hookOverlay": "NEVER FORGETS FOR 30 YEARS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on elephant (1st: Hears With Its Feet = infrasound, 2nd: Trunk 40k Muscles = anatomy). Cognition: elephant memory. Brain 257 billion neurons vs human 86 billion. Two elephants recognized each other after 22 years apart. Matriarch carries mental map of water holes spanning 30-40 years, leads herd to springs during droughts. When matriarch dies, survival rate drops \u2014 knowledge dies with her. 6/6 Pexels clips (elephant close up, herd, family, drinking, walking, elephant with baby). Assembly ok:false (false negative \u2014 validated). Compressed 45MB->3.4MB (CRF 43)."
+      "note": "Self-generated 3rd angle on elephant (1st: Hears With Its Feet = infrasound, 2nd: Trunk 40k Muscles = anatomy). Cognition: elephant memory. Brain 257 billion neurons vs human 86 billion. Two elephants recognized each other after 22 years apart. Matriarch carries mental map of water holes spanning 30-40 years, leads herd to springs during droughts. When matriarch dies, survival rate drops — knowledge dies with her. 6/6 Pexels clips (elephant close up, herd, family, drinking, walking, elephant with baby). Assembly ok:false (false negative — validated). Compressed 45MB->3.4MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-26-SELF2",
@@ -5085,7 +5085,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Sea Turtle Finds Its Birth Beach From 10000 Miles Away #Shorts",
       "animal": "sea turtle",
-      "angle": "2nd (1st: Holds Its Breath for 7 Hours = extreme survival). Sensory: magnetoreception. Sea turtles detect Earth's magnetic field to navigate 10000+ miles across open ocean back to exact birth beach to lay eggs. Can detect both inclination and intensity of magnetic field \u2014 GPS-like sense. Females return 20-30 years later to within miles of where they started.",
+      "angle": "2nd (1st: Holds Its Breath for 7 Hours = extreme survival). Sensory: magnetoreception. Sea turtles detect Earth's magnetic field to navigate 10000+ miles across open ocean back to exact birth beach to lay eggs. Can detect both inclination and intensity of magnetic field — GPS-like sense. Females return 20-30 years later to within miles of where they started.",
       "renderedAt": "2026-09-26T16:11:21.966715-04:00",
       "uploadedAt": "2026-09-26T16:11:21.966715-04:00",
       "youtube": {
@@ -5097,7 +5097,7 @@
       "hookOverlay": "NAVIGATES 10000 MILES HOME",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 2nd angle on sea turtle (1st: Holds Its Breath for 7 Hours = extreme survival, winner 1096v 39s AVD). Sensory: magnetoreception. Turtles detect Earth's magnetic field to navigate 10000+ miles back to exact birth beach. Every point has unique magnetic signature (angle + intensity). Scientists tested with simulated magnetic fields in pools \u2014 turtles turned in correct direction. Females return 20-30 years later to within miles of birth spot. 6/6 Pexels clips (close up, baby hatching, swimming, gliding over coral, underwater, hatchling on beach). Assembly ok:false (false negative \u2014 validated). Compressed 86MB->7.7MB (CRF 43)."
+      "note": "Self-generated 2nd angle on sea turtle (1st: Holds Its Breath for 7 Hours = extreme survival, winner 1096v 39s AVD). Sensory: magnetoreception. Turtles detect Earth's magnetic field to navigate 10000+ miles back to exact birth beach. Every point has unique magnetic signature (angle + intensity). Scientists tested with simulated magnetic fields in pools — turtles turned in correct direction. Females return 20-30 years later to within miles of birth spot. 6/6 Pexels clips (close up, baby hatching, swimming, gliding over coral, underwater, hatchling on beach). Assembly ok:false (false negative — validated). Compressed 86MB->7.7MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-27-SELF1",
@@ -5108,7 +5108,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
       "animal": "rhino",
-      "angle": "3rd (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: rhino skin up to 5cm thick. Rapid wound healing \u2014 injuries that would kill other animals heal in days. Natural antibacterial compounds in skin secretions. Mud bathing acts as sunscreen and insect barrier. Thick skin + healing = survival superpower.",
+      "angle": "3rd (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: rhino skin up to 5cm thick. Rapid wound healing — injuries that would kill other animals heal in days. Natural antibacterial compounds in skin secretions. Mud bathing acts as sunscreen and insect barrier. Thick skin + healing = survival superpower.",
       "renderedAt": "2026-09-27T10:09:12.647843-04:00",
       "uploadedAt": "2026-09-27T10:09:12.647843-04:00",
       "youtube": {
@@ -5120,7 +5120,7 @@
       "hookOverlay": "HEALS WOUNDS THAT WOULD KILL",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on rhino (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: skin up to 5cm thick. Rapid wound healing \u2014 flesh wounds heal in days, no infection. Natural antibacterial compounds in skin secretions kill bacteria on contact. Mud bathing seals wounds like natural bandage + sunscreen + insect barrier. 6/6 Pexels clips (ALL real rhinos grazing, in habitat, crossing safari path). Assembly ok:false (false negative \u2014 validated). Compressed 97MB->7.1MB (CRF 43)."
+      "note": "Self-generated 3rd angle on rhino (1st: Horn Made of Hair Not Bone = anatomy, 2nd: Charges at 40 MPH = speed). Extreme survival: skin up to 5cm thick. Rapid wound healing — flesh wounds heal in days, no infection. Natural antibacterial compounds in skin secretions kill bacteria on contact. Mud bathing seals wounds like natural bandage + sunscreen + insect barrier. 6/6 Pexels clips (ALL real rhinos grazing, in habitat, crossing safari path). Assembly ok:false (false negative — validated). Compressed 97MB->7.1MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-27-SELF2",
@@ -5143,7 +5143,7 @@
       "hookOverlay": "COOLS ITSELF WITH ITS EARS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "From growth plan GP-2026-09-28-01. 4th angle on elephant (1st: Hears With Its Feet, 2nd: Trunk 40k Muscles, 3rd: Never Forgets a Face). Thermoregulation: elephants can't sweat, ears are giant radiators packed with capillaries. Flapping cools blood by up to 10 degrees. Blood in ears can drop 5 degrees in single pass. Spray water behind ears for evaporative cooling. African elephants have ears 3x size of Asian elephants. 6/6 Pexels clips (elephant bonding, drinking, African with baby, enjoying water, roaming, elephant in mud on savanna). Assembly ok:false (false negative \u2014 validated). Compressed 51MB->3.7MB (CRF 43)."
+      "note": "From growth plan GP-2026-09-28-01. 4th angle on elephant (1st: Hears With Its Feet, 2nd: Trunk 40k Muscles, 3rd: Never Forgets a Face). Thermoregulation: elephants can't sweat, ears are giant radiators packed with capillaries. Flapping cools blood by up to 10 degrees. Blood in ears can drop 5 degrees in single pass. Spray water behind ears for evaporative cooling. African elephants have ears 3x size of Asian elephants. 6/6 Pexels clips (elephant bonding, drinking, African with baby, enjoying water, roaming, elephant in mud on savanna). Assembly ok:false (false negative — validated). Compressed 51MB->3.7MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-28-SELF1",
@@ -5168,7 +5168,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
       "animal": "gorilla",
-      "angle": "3rd (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Each silverback has unique beat pattern others recognize. Not just display of power \u2014 it's a long-distance identity signal. Air-filled chest cavity amplifies sound like a drum.",
+      "angle": "3rd (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Each silverback has unique beat pattern others recognize. Not just display of power — it's a long-distance identity signal. Air-filled chest cavity amplifies sound like a drum.",
       "renderedAt": "2026-09-28T10:17:37.585235-04:00",
       "uploadedAt": "2026-09-28T10:17:37.585235-04:00",
       "youtube": {
@@ -5180,7 +5180,7 @@
       "hookOverlay": "HEARD A MILE AWAY",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on gorilla (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Sound comes from air in chest cavity vibrating like a drum, not fists on bone. Each silverback has unique beat pattern identifiable by sound alone \u2014 long-distance identity card. 5/6 Pexels clips were real gorillas (scene 6 was orangutan \u2014 acceptable). Cheetah 3rd angle (SELF1) render-failed earlier this run \u2014 only 2/6 real cheetah clips. Assembly ok:false (false negative \u2014 validated). Compressed 46MB->3.5MB (CRF 43)."
+      "note": "Self-generated 3rd angle on gorilla (1st: 10x Stronger Than Human = strength, 2nd: unknown). Communication: silverback chest-beating travels over a mile through jungle. Sound comes from air in chest cavity vibrating like a drum, not fists on bone. Each silverback has unique beat pattern identifiable by sound alone — long-distance identity card. 5/6 Pexels clips were real gorillas (scene 6 was orangutan — acceptable). Cheetah 3rd angle (SELF1) render-failed earlier this run — only 2/6 real cheetah clips. Assembly ok:false (false negative — validated). Compressed 46MB->3.5MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-28-SELF3",
@@ -5191,7 +5191,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Peacock Changes Color When You Move #Shorts",
       "animal": "peacock",
-      "angle": "3rd (1st: Makes Blue Without Any Blue = structural color basics). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle \u2014 unlike pigment which looks same from every direction. Look from different angle and blue becomes green becomes bronze. Crystal lattice structure reflects specific wavelengths at specific angles.",
+      "angle": "3rd (1st: Makes Blue Without Any Blue = structural color basics). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle — unlike pigment which looks same from every direction. Look from different angle and blue becomes green becomes bronze. Crystal lattice structure reflects specific wavelengths at specific angles.",
       "renderedAt": "2026-09-28T16:09:53.772341-04:00",
       "uploadedAt": "2026-09-28T16:09:53.772341-04:00",
       "youtube": {
@@ -5203,7 +5203,7 @@
       "hookOverlay": "CHANGES COLOR WHEN YOU MOVE",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on peacock (1st: Makes Blue Without Any Blue = structural color basics, 2nd: unknown). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle \u2014 blue becomes green becomes bronze becomes purple. Crystal lattice reflects different wavelengths at different angles. Pigment looks same from every angle, structural color shifts with every step. 4/6 Pexels clips were real peacocks (scene 5 generic feathers, scene 6 butterfly \u2014 meets 4/6 threshold). Assembly ok:false (false negative \u2014 validated). Compressed 53MB->3.7MB (CRF 43)."
+      "note": "Self-generated 3rd angle on peacock (1st: Makes Blue Without Any Blue = structural color basics, 2nd: unknown). Sensory: photonic crystals in feather barbules. Iridescent color shifts with viewing angle — blue becomes green becomes bronze becomes purple. Crystal lattice reflects different wavelengths at different angles. Pigment looks same from every angle, structural color shifts with every step. 4/6 Pexels clips were real peacocks (scene 5 generic feathers, scene 6 butterfly — meets 4/6 threshold). Assembly ok:false (false negative — validated). Compressed 53MB->3.7MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-29-SELF1",
@@ -5226,7 +5226,7 @@
       "hookOverlay": "SEES SIX TIMES BETTER IN DARK",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on tiger (1st: stripes camouflage, 2nd: roar travels 2 miles). Sensory: night vision 6x better than humans. Tapetum lucidum reflects light back through retina \u2014 every photon used twice. Eyes glow at night from reflection. Hunt at dawn/dusk when advantage maximized. 6/6 Pexels clips (ALL real tigers incl. Bengal, tiger with cub, white tiger). Assembly ok:false (false negative \u2014 validated). Compressed 94MB->7.6MB (CRF 43). Disk was full mid-run \u2014 cleaned old clips caches and temp files to free 3.8GB."
+      "note": "Self-generated 3rd angle on tiger (1st: stripes camouflage, 2nd: roar travels 2 miles). Sensory: night vision 6x better than humans. Tapetum lucidum reflects light back through retina — every photon used twice. Eyes glow at night from reflection. Hunt at dawn/dusk when advantage maximized. 6/6 Pexels clips (ALL real tigers incl. Bengal, tiger with cub, white tiger). Assembly ok:false (false negative — validated). Compressed 94MB->7.6MB (CRF 43). Disk was full mid-run — cleaned old clips caches and temp files to free 3.8GB."
     },
     {
       "productionId": "JV-2026-09-29-SELF2",
@@ -5237,10 +5237,10 @@
       "mode": "stock-footage+captions",
       "title": "Why the Sea Lion Feels Fish Swimming 30 Feet Away #Shorts",
       "animal": "sea lion",
-      "angle": "3rd (1st: Never Forgets a Voice = hearing/memory, 2nd: unknown). Sensory: whiskers detect fish swimming 30 feet away in complete darkness. Each whisker independently mobile, packed with nerve endings. Sense water displacement \u2014 hydrodynamic trail. Can track fish wake in pitch black water.",
+      "angle": "3rd (1st: Never Forgets a Voice = hearing/memory, 2nd: unknown). Sensory: whiskers detect fish swimming 30 feet away in complete darkness. Each whisker independently mobile, packed with nerve endings. Sense water displacement — hydrodynamic trail. Can track fish wake in pitch black water.",
       "renderedAt": "2026-09-29T16:05:49.262905-04:00",
       "error": "insufficient real sea lion footage: only 3/6 clips were sea lions (scene 2=sea otters, scene 3=dolphin, scene 6=lion cubs). Pexels returned wrong species for whiskers/swimming/nature queries.",
-      "note": "Sea lion 3rd angle (whiskers detect fish 30ft away). Only 3/6 real sea lions \u2014 below 4/6 threshold."
+      "note": "Sea lion 3rd angle (whiskers detect fish 30ft away). Only 3/6 real sea lions — below 4/6 threshold."
     },
     {
       "productionId": "JV-2026-09-29-SELF3",
@@ -5251,7 +5251,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Owl Turns Its Head Almost All the Way Around #Shorts",
       "animal": "owl",
-      "angle": "3rd (1st: silent flight = hearing/stealth, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Blood pools in reservoirs to keep brain supplied during extreme rotation. Eyes are fixed in sockets \u2014 can't move, so head must turn. Adapted for hunting.",
+      "angle": "3rd (1st: silent flight = hearing/stealth, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Blood pools in reservoirs to keep brain supplied during extreme rotation. Eyes are fixed in sockets — can't move, so head must turn. Adapted for hunting.",
       "renderedAt": "2026-09-29T16:14:40.362509-04:00",
       "uploadedAt": "2026-09-29T16:14:40.362509-04:00",
       "youtube": {
@@ -5263,7 +5263,7 @@
       "hookOverlay": "TURNS HEAD ALL THE WAY AROUND",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on owl (1st: silent flight, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Eyes are fixed tubes \u2014 can't move, so head must turn. Arteries widen into blood reservoirs keeping brain supplied at maximum rotation. 6/6 Pexels clips (ALL real owls incl. Eurasian eagle owl, screech owl in tree hollow, camouflaged). Assembly ok:false (false negative \u2014 validated). Compressed 82MB->8.9MB (CRF 43). Sea lion 3rd angle (SELF2) render-failed earlier \u2014 only 3/6 real sea lions (otter, dolphin, lion cubs returned)."
+      "note": "Self-generated 3rd angle on owl (1st: silent flight, 2nd: unknown). Anatomy/sensory: neck rotates 270 degrees. 14 cervical vertebrae vs human 7. Eyes are fixed tubes — can't move, so head must turn. Arteries widen into blood reservoirs keeping brain supplied at maximum rotation. 6/6 Pexels clips (ALL real owls incl. Eurasian eagle owl, screech owl in tree hollow, camouflaged). Assembly ok:false (false negative — validated). Compressed 82MB->8.9MB (CRF 43). Sea lion 3rd angle (SELF2) render-failed earlier — only 3/6 real sea lions (otter, dolphin, lion cubs returned)."
     },
     {
       "productionId": "JV-2026-09-30-SELF1",
@@ -5274,7 +5274,7 @@
       "mode": "stock-footage+captions",
       "title": "Why the Penguin Drinks Saltwater and Survives #Shorts",
       "animal": "penguin",
-      "angle": "3rd (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital salt gland filters salt from seawater. Excretes concentrated salt solution through nasal passages. Can drink pure ocean water \u2014 would dehydrate and kill most animals. Lives on saltwater its entire life.",
+      "angle": "3rd (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital salt gland filters salt from seawater. Excretes concentrated salt solution through nasal passages. Can drink pure ocean water — would dehydrate and kill most animals. Lives on saltwater its entire life.",
       "renderedAt": "2026-09-30T10:16:10.782409-04:00",
       "uploadedAt": "2026-09-30T10:16:10.782409-04:00",
       "youtube": {
@@ -5286,7 +5286,7 @@
       "hookOverlay": "DRINKS SALTWATER AND SURVIVES",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on penguin (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital gland filters salt from seawater. Concentrates into solution 5x saltier than ocean. Excretes through nasal passages, runs out beak. Filters salt through face not kidneys. Never needs fresh water. 5/6 Pexels clips were real penguins (scene 2 was fish in aquarium). Assembly ok:false (false negative \u2014 validated). Compressed 99MB->6.2MB (CRF 43)."
+      "note": "Self-generated 3rd angle on penguin (1st: Stands in -40 Degrees = extreme survival, 2nd: unknown). Extreme survival: supraorbital gland filters salt from seawater. Concentrates into solution 5x saltier than ocean. Excretes through nasal passages, runs out beak. Filters salt through face not kidneys. Never needs fresh water. 5/6 Pexels clips were real penguins (scene 2 was fish in aquarium). Assembly ok:false (false negative — validated). Compressed 99MB->6.2MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-09-30-SELF2",
@@ -5309,7 +5309,7 @@
       "hookOverlay": "SLEEPS SIX MONTHS NO MUSCLE LOSS",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on bear (1st: Smell Food From 20 Miles = sensory, 2nd: unknown). Extreme survival: hibernation 6 months without eating/drinking/urinating. No muscle loss, no bone density loss. Body recycles urea back into nitrogen for new protein/muscle. Metabolism drops to quarter. Bedridden humans lose 1% muscle/day, bears lose almost nothing. 6/6 Pexels clips (ALL real bears incl. polar bear relaxing, Asian black bear, black bear climbing). Assembly ok:false (false negative \u2014 validated). Compressed 40MB->2.9MB (CRF 43)."
+      "note": "Self-generated 3rd angle on bear (1st: Smell Food From 20 Miles = sensory, 2nd: unknown). Extreme survival: hibernation 6 months without eating/drinking/urinating. No muscle loss, no bone density loss. Body recycles urea back into nitrogen for new protein/muscle. Metabolism drops to quarter. Bedridden humans lose 1% muscle/day, bears lose almost nothing. 6/6 Pexels clips (ALL real bears incl. polar bear relaxing, Asian black bear, black bear climbing). Assembly ok:false (false negative — validated). Compressed 40MB->2.9MB (CRF 43)."
     },
     {
       "productionId": "JV-2026-10-01-SELF1",
@@ -5332,7 +5332,153 @@
       "hookOverlay": "USES MEDICINE FROM THE JUNGLE",
       "footageSource": "pexels",
       "clipsFetched": 6,
-      "note": "Self-generated 3rd angle on monkey (1st: Uses Tools Like a Human = cognition, 2nd: unknown). Cognition/sensory: self-medication. Capuchins catch millipedes, chew to release benzoquinones, rub on fur as insect repellent. Crush plants with antibacterial/antifungal compounds, apply to wounds. Eat specific barks when sick, avoid when well. Only animal besides humans known to self-medicate systematically. 6/6 Pexels clips (ALL real monkeys incl. macaques grooming, baby monkeys, family on tree). Assembly ok:false (false negative \u2014 validated). Compressed 68MB->6.4MB (CRF 43)."
+      "note": "Self-generated 3rd angle on monkey (1st: Uses Tools Like a Human = cognition, 2nd: unknown). Cognition/sensory: self-medication. Capuchins catch millipedes, chew to release benzoquinones, rub on fur as insect repellent. Crush plants with antibacterial/antifungal compounds, apply to wounds. Eat specific barks when sick, avoid when well. Only animal besides humans known to self-medicate systematically. 6/6 Pexels clips (ALL real monkeys incl. macaques grooming, baby monkeys, family on tree). Assembly ok:false (false negative — validated). Compressed 68MB->6.4MB (CRF 43)."
+    },
+    {
+      "productionId": "JV-2026-10-01-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "6ba656a749a032440beab9553b3b1498810eb64040228658a0770820189afa8a",
+      "status": "uploaded",
+      "startedAt": "2026-10-01T16:00:59-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Koala Hugs Trees to Beat the Heat #Shorts",
+      "animal": "koala",
+      "concept": "Cool tree trunks let koalas transfer heat by contact and reduce water spent on evaporative cooling.",
+      "hookOverlay": "HUGS TREES TO STAY COOL",
+      "factSources": [
+        "https://royalsociety.org/news/2014/tree-hugging-keeps-koalas-cool/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4090547/"
+      ],
+      "selectionNote": "Growth-plan elephant already produced; bat excluded by footage index; generic lizard not prequalified. New mammal-survival mechanism inspired by pulse physiology topics; no prior koala cooling title.",
+      "renderedAt": "2026-10-01T16:08:08-04:00",
+      "uploadedAt": "2026-10-01T16:07:52-04:00",
+      "youtube": {
+        "videoId": "CB34Voi_pR0",
+        "url": "https://www.youtube.com/watch?v=CB34Voi_pR0",
+        "privacyStatus": "public"
+      },
+      "duration": 51.6,
+      "videoDurationSeconds": 51.6,
+      "resolution": "1080x1920",
+      "scriptWordCount": 115,
+      "clipsFetched": 6,
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "Why does a hot koala hug a tree? It is not just getting comfortable. On hot days, some tree trunks stay cooler than the surrounding air. By pressing its body against that cooler surface, a koala can transfer heat directly into the tree. Researchers used thermal cameras to reveal this hidden cooling system. They found koalas resting lower on trunks during hot weather, spreading out to make more contact. That matters because panting and licking fur use precious water. A cool trunk can reduce how much evaporative cooling a koala needs. And the best cooling tree is not always a food tree. For a koala, protecting a forest means protecting more than its next meal.\n",
+        "narration": "/tmp/jvshorts/JV-2026-10-01-SELF2/narration.mp3",
+        "stockClips": [
+          {
+            "scene": 1,
+            "ok": true,
+            "queryUsed": "koala",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "36134032",
+            "sourceUrl": "https://www.pexels.com/video/adorable-koala-eating-eucalyptus-in-zoo-36134032/",
+            "user": "Joolsmagools  ®️",
+            "duration": 52,
+            "filePath": "/tmp/jvshorts/JV-2026-10-01-SELF2/scene_01.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "ok": true,
+            "queryUsed": "koala tree trunk",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "37501817",
+            "sourceUrl": "https://www.pexels.com/video/relaxed-koala-in-native-habitat-37501817/",
+            "user": "Joolsmagools  ®️",
+            "duration": 15,
+            "filePath": "/tmp/jvshorts/JV-2026-10-01-SELF2/scene_02.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "ok": true,
+            "queryUsed": "koala hugging tree",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "37701111",
+            "sourceUrl": "https://www.pexels.com/video/koala-climbing-tree-in-natural-habitat-37701111/",
+            "user": "Joolsmagools  ®️",
+            "duration": 15,
+            "filePath": "/tmp/jvshorts/JV-2026-10-01-SELF2/scene_03.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "ok": true,
+            "queryUsed": "koala resting branch",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "37701061",
+            "sourceUrl": "https://www.pexels.com/video/koala-resting-on-tree-branch-in-natural-habitat-37701061/",
+            "user": "Joolsmagools  ®️",
+            "duration": 11,
+            "filePath": "/tmp/jvshorts/JV-2026-10-01-SELF2/scene_04.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "ok": true,
+            "queryUsed": "koala close up",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "35882829",
+            "sourceUrl": "https://www.pexels.com/video/cute-koala-eating-eucalyptus-leaves-close-up-35882829/",
+            "user": "Joolsmagools  ®️",
+            "duration": 19,
+            "filePath": "/tmp/jvshorts/JV-2026-10-01-SELF2/scene_05.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "ok": true,
+            "queryUsed": "koala in tree",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "36133640",
+            "sourceUrl": "https://www.pexels.com/video/cute-koala-eating-leaves-in-natural-habitat-36133640/",
+            "user": "Joolsmagools  ®️",
+            "duration": 22,
+            "filePath": "/tmp/jvshorts/JV-2026-10-01-SELF2/scene_06.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-10-01-SELF2/final.mp4",
+        "uploadedFile": "/tmp/jvshorts/JV-2026-10-01-SELF2/upload.mp4"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1080,
+        "height": 1920,
+        "duration": 51.6,
+        "hasVideo": true,
+        "hasAudio": true,
+        "decodePassed": true,
+        "footageVisualCheck": "Six sampled frames show koalas; URLs identify koalas; illustrative stock, not study footage",
+        "uploadBytes": 8347390
+      },
+      "error": null
     }
   ]
 }
