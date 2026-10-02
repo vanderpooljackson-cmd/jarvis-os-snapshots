@@ -266,7 +266,49 @@
         "watched": 21.321428571428573,
         "avgViewDuration": 30
       },
-      "status": "running"
+      "status": "running",
+      "lastEvaluationAttemptAt": "2026-10-02T10:01:35-04:00",
+      "evaluationStatus": "deferred-data-lag",
+      "evalNotes": "72-hour wall-clock gate passed, but both video-level daily analytics and same-metric channel-wide daily analytics for 2026-09-29 through 2026-10-02 return data only for 2026-09-29, the launch date. Variant available totals: 3 views, 1 estimated minute watched, 0 likes, 33s average view duration. Baseline daily averages: 66.4643 views, 21.3214 minutes watched, 30s average view duration. Variant AVD is 10% higher, but the complete post-launch observation window is not available. Do not divide by four calendar days or treat unreported September 30 through October 2 as zero traffic. September 29 also mixes pre-launch and post-launch hours. No keep/revert decision or external title change; retain running and retry on the regular daily evaluation schedule.",
+      "partialEvaluation": {
+        "queryStartDate": "2026-09-29",
+        "queryEndDate": "2026-10-02",
+        "availableThrough": "2026-09-29",
+        "videoRows": [
+          [
+            "v3KM5eDdnho",
+            3,
+            1,
+            0,
+            33
+          ]
+        ],
+        "dailyRows": [
+          [
+            "2026-09-29",
+            3,
+            1,
+            0,
+            33
+          ]
+        ],
+        "channelCoverageRows": [
+          [
+            "2026-09-29",
+            2539,
+            1126,
+            141,
+            42
+          ]
+        ],
+        "metrics": [
+          "views",
+          "estimatedMinutesWatched",
+          "likes",
+          "averageViewDuration"
+        ],
+        "completeVariantDailyAverages": null
+      }
     }
   ],
   "policy": {
