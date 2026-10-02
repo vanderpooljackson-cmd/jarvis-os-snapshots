@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-01T16:08:08-04:00",
+  "lastRunAt": "2026-10-02T10:12:18-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -5477,6 +5477,152 @@
         "decodePassed": true,
         "footageVisualCheck": "Six sampled frames show koalas; URLs identify koalas; illustrative stock, not study footage",
         "uploadBytes": 8347390
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-10-02-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "d5ea1ac35d8c5ef12767567a51510372bcfa2bfa96f7634b29a83680ee517050",
+      "status": "uploaded",
+      "startedAt": "2026-10-02T10:06:06-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Uses Its Trunk Like a Vacuum #Shorts",
+      "animal": "elephant",
+      "concept": "Controlled suction lets an elephant lift delicate food with its trunk.",
+      "hookOverlay": "POWERFUL ENOUGH TO BE GENTLE",
+      "factSources": [
+        "https://biosciences.gatech.edu/news/how-elephants-trunk-manipulates-air-eat-and-drink",
+        "https://hu.gatech.edu/wp-content/uploads/2021/09/Hu21-suction.pdf"
+      ],
+      "selectionNote": "Queued elephant cooling already produced; bat unfilmable; generic lizard not prequalified. New trunk suction mechanism combines successful anatomy frame with elephant topic; no previous suction/vacuum title.",
+      "renderedAt": "2026-10-02T10:12:18-04:00",
+      "uploadedAt": "2026-10-02T10:12:03-04:00",
+      "youtube": {
+        "videoId": "aOalL2JtCaM",
+        "url": "https://www.youtube.com/watch?v=aOalL2JtCaM",
+        "privacyStatus": "public"
+      },
+      "duration": 49,
+      "videoDurationSeconds": 49,
+      "resolution": "1080x1920",
+      "scriptWordCount": 109,
+      "clipsFetched": 6,
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "Why can an elephant lift a chip without crushing it? Its trunk can work like a vacuum. Researchers at Zoo Atlanta offered an elephant a fragile tortilla chip. Instead of squeezing it, the animal used suction to lift it toward the trunk's tip. Sometimes it made contact first. Other times it pulled the chip up from a short distance. The trick is controlled airflow, not just brute strength. Researchers also used ultrasound to see how the nasal passages expand while drawing in liquid. So this extraordinary nose can grip objects, move water, and delicately lift food using air. An elephant's trunk is not simply powerful. It is remarkably precise.\n",
+        "narration": "/tmp/jvshorts/JV-2026-10-02-SELF1/narration.mp3",
+        "stockClips": [
+          {
+            "scene": 1,
+            "ok": true,
+            "queryUsed": "elephant",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "11760786",
+            "sourceUrl": "https://www.pexels.com/video/an-african-elephant-and-its-baby-11760786/",
+            "user": "ROMAN ODINTSOV",
+            "duration": 21,
+            "filePath": "/tmp/jvshorts/JV-2026-10-02-SELF1/scene_01.mp4",
+            "fileHeight": 2048,
+            "fileWidth": 1080,
+            "photographer": "ROMAN ODINTSOV",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "ok": true,
+            "queryUsed": "elephant trunk eating",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "34643880",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephant-feeding-at-zoo-habitat-34643880/",
+            "user": "Joolsmagools  ®️",
+            "duration": 44,
+            "filePath": "/tmp/jvshorts/JV-2026-10-02-SELF1/scene_02.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "ok": true,
+            "queryUsed": "elephant trunk close up",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "34785949",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephant-walking-in-australian-zoo-34785949/",
+            "user": "Joolsmagools  ®️",
+            "duration": 10,
+            "filePath": "/tmp/jvshorts/JV-2026-10-02-SELF1/scene_03.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "ok": true,
+            "queryUsed": "elephant feeding",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "34785841",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephant-at-werribee-zoo-habitat-34785841/",
+            "user": "Joolsmagools  ®️",
+            "duration": 18,
+            "filePath": "/tmp/jvshorts/JV-2026-10-02-SELF1/scene_04.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "ok": true,
+            "queryUsed": "elephant drinking water",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "37331929",
+            "sourceUrl": "https://www.pexels.com/video/majestic-elephant-drinking-at-zoo-habitat-37331929/",
+            "user": "Paul Bredt",
+            "duration": 25,
+            "filePath": "/tmp/jvshorts/JV-2026-10-02-SELF1/scene_05.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Paul Bredt",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "ok": true,
+            "queryUsed": "elephant trunk grass",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "35351450",
+            "sourceUrl": "https://www.pexels.com/video/heartwarming-asian-elephants-feeding-at-zoo-35351450/",
+            "user": "Joolsmagools  ®️",
+            "duration": 58,
+            "filePath": "/tmp/jvshorts/JV-2026-10-02-SELF1/scene_06.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-10-02-SELF1/final.mp4",
+        "uploadedFile": "/tmp/jvshorts/JV-2026-10-02-SELF1/upload.mp4"
+      },
+      "validation": {
+        "ok": true,
+        "width": 1080,
+        "height": 1920,
+        "duration": 49,
+        "hasVideo": true,
+        "hasAudio": true,
+        "decodePassed": true,
+        "footageVisualCheck": "Six sampled frames show real elephants; stock footage is explicitly illustrative, not the cited experiment",
+        "uploadBytes": 7498222
       },
       "error": null
     }
