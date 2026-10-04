@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-02T10:12:18-04:00",
+  "lastRunAt": "2026-10-04T16:13:58-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -972,7 +972,7 @@
         "narration": "narration.mp3",
         "hookCard": "TASTES WITH ITS FEET",
         "finalVideo": "final.mp4",
-        "videoDurationSeconds": 55.0,
+        "videoDurationSeconds": 55,
         "stockClips": [
           {
             "scene": 1,
@@ -1298,7 +1298,7 @@
         "narration": "charon TTS",
         "hookCard": "COLORS WITHOUT PIGMENT",
         "finalVideo": "/tmp/jvshorts/JV-2026-07-28-SELFN/final.mp4",
-        "videoDurationSeconds": 64.0,
+        "videoDurationSeconds": 64,
         "stockClips": 6
       }
     },
@@ -2931,7 +2931,7 @@
         "clips": "6 clips all Wikimedia: 5 Polar Bear Swim event clips + 1 Wuppertal Zoo polar bear",
         "finalVideo": "/tmp/jvshorts/JV-2026-08-16-SELFN/final.mp4"
       },
-      "duration": 53.0,
+      "duration": 53,
       "footageSources": [
         "wikimedia"
       ],
@@ -3230,7 +3230,7 @@
         {
           "type": "animal",
           "title": "Shark — Skin Made of Teeth",
-          "duration": 60.0,
+          "duration": 60,
           "clipsSource": "fresh-fetch"
         },
         {
@@ -3314,7 +3314,7 @@
         "videoId": "kZfSFw7Rk9o",
         "url": "https://www.youtube.com/watch?v=kZfSFw7Rk9o"
       },
-      "duration": 50.0,
+      "duration": 50,
       "resolution": "1080x1920",
       "hookOverlay": "STRIPES GO THROUGH THE SKIN",
       "footageSource": "pexels",
@@ -3764,7 +3764,7 @@
         "videoId": "MpzZGF77bkM",
         "url": "https://www.youtube.com/watch?v=MpzZGF77bkM"
       },
-      "duration": 56.0,
+      "duration": 56,
       "resolution": "1080x1920",
       "hookOverlay": "HAS A THIRD EYE",
       "footageSource": "pexels",
@@ -4178,7 +4178,7 @@
         "videoId": "qmuReYJT06A",
         "url": "https://www.youtube.com/watch?v=qmuReYJT06A"
       },
-      "duration": 54.0,
+      "duration": 54,
       "resolution": "1080x1920",
       "hookOverlay": "FEET LIKE SNOWSHOES",
       "footageSource": "pexels",
@@ -4328,7 +4328,7 @@
         "videoId": "52JefgjjfoE",
         "url": "https://www.youtube.com/watch?v=52JefgjjfoE"
       },
-      "duration": 54.0,
+      "duration": 54,
       "resolution": "1080x1920",
       "hookOverlay": "DISSOLVES BONES IN ITS STOMACH",
       "footageSource": "pexels",
@@ -4491,7 +4491,7 @@
         "videoId": "f67CJOpAdOA",
         "url": "https://www.youtube.com/watch?v=f67CJOpAdOA"
       },
-      "duration": 54.0,
+      "duration": 54,
       "resolution": "1080x1920",
       "hookOverlay": "BORN WITH EYE BLACK",
       "footageSource": "pexels",
@@ -4721,7 +4721,7 @@
         "videoId": "vrQvd89xsNA",
         "url": "https://www.youtube.com/watch?v=vrQvd89xsNA"
       },
-      "duration": 61.0,
+      "duration": 61,
       "resolution": "1080x1920",
       "hookOverlay": "FROZEN FOR TWO MONTHS",
       "footageSource": "pexels",
@@ -5138,7 +5138,7 @@
         "videoId": "bXqV-m3q_Ek",
         "url": "https://www.youtube.com/watch?v=bXqV-m3q_Ek"
       },
-      "duration": 68.0,
+      "duration": 68,
       "resolution": "1080x1920",
       "hookOverlay": "COOLS ITSELF WITH ITS EARS",
       "footageSource": "pexels",
@@ -5623,6 +5623,156 @@
         "decodePassed": true,
         "footageVisualCheck": "Six sampled frames show real elephants; stock footage is explicitly illustrative, not the cited experiment",
         "uploadBytes": 7498222
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-10-04-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "adae22feac0fc7663c4af2ad07397007bee905f2e68d5df0d79ad9055c48d474",
+      "status": "uploaded",
+      "startedAt": "2026-10-04T16:06:33-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Rhino Points Its Ears in Opposite Directions #Shorts",
+      "animal": "rhino",
+      "concept": "Independently swiveling ears help a rhino monitor sounds around it despite poor eyesight.",
+      "hookOverlay": "TWO EARS TWO DIRECTIONS",
+      "scriptWordCount": 107,
+      "factSources": [
+        "https://animals.sandiegozoo.org/animals/rhinoceros",
+        "https://www.cabq.gov/artsculture/biopark/documents/White%20Rhinoceros%20Background%20Information.pdf"
+      ],
+      "selectionNote": "Queued elephant cooling already uploaded, bat unfilmable, generic lizard not prequalified. New sensory/anatomy angle combines top-viewed rhino topic with successful mammal sensory framing; no previous rhino hearing title.",
+      "renderedAt": "2026-10-04T16:13:34-04:00",
+      "duration": 49.5,
+      "videoDurationSeconds": 49.5,
+      "resolution": "1080x1920",
+      "clipsFetched": 6,
+      "validation": {
+        "ok": true,
+        "width": 1080,
+        "height": 1920,
+        "duration": 49.5,
+        "hasVideo": true,
+        "hasAudio": true,
+        "scenes": 6,
+        "mode": "video+captions",
+        "finalPath": "/tmp/jvshorts/JV-2026-10-04-SELF1/final.mp4",
+        "decodePassed": true,
+        "uploadBytes": 8230729,
+        "footageVisualCheck": "Six sampled source frames and six final frames show rhinos. Narration concerns rhinos generally; no species-specific claim. Stock is illustrative.",
+        "audio": "Narration only; assembler music replaced with original Charon narration."
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "Why can a rhino point its ears in opposite directions? Those ears move independently. One can face forward while the other listens behind. Both can perk up when a sound grabs the animal's attention. Rhinos have poor eyesight, but excellent hearing helps them monitor their surroundings. They even respond to warning calls from sharper eyed neighbors, including oxpeckers. So a rhino that looks relaxed may still be listening closely. The horn gets all the attention, yet these swiveling ears are another remarkable part of its survival toolkit. Next time you watch a rhino, look above the horn. Its ears might be following a world you cannot see.\n",
+        "narration": "/tmp/jvshorts/JV-2026-10-04-SELF1/narration.mp3",
+        "stockClips": [
+          {
+            "scene": 1,
+            "ok": true,
+            "queryUsed": "rhinoceros",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "35818409",
+            "sourceUrl": "https://www.pexels.com/video/african-rhinos-grazing-on-open-plains-35818409/",
+            "user": "Joolsmagools  ®️",
+            "duration": 9,
+            "filePath": "/tmp/jvshorts/JV-2026-10-04-SELF1/scene_01.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Joolsmagools  ®️",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "ok": true,
+            "queryUsed": "rhinoceros ears close up",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "34479391",
+            "sourceUrl": "https://www.pexels.com/video/close-up-of-a-rhino-grazing-in-the-wild-34479391/",
+            "user": "Peter Smit",
+            "duration": 13,
+            "filePath": "/tmp/jvshorts/JV-2026-10-04-SELF1/scene_02.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Peter Smit",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "ok": true,
+            "queryUsed": "rhino head close up",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "34436053",
+            "sourceUrl": "https://www.pexels.com/video/gentle-black-rhino-grazing-in-grassland-34436053/",
+            "user": "Peter Smit",
+            "duration": 15,
+            "filePath": "/tmp/jvshorts/JV-2026-10-04-SELF1/scene_03.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Peter Smit",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "ok": true,
+            "queryUsed": "rhinoceros grazing savanna",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "11455085",
+            "sourceUrl": "https://www.pexels.com/video/rhinoceros-eating-green-grass-11455085/",
+            "user": "lifeofhicham Globetrotter Culture",
+            "duration": 21,
+            "filePath": "/tmp/jvshorts/JV-2026-10-04-SELF1/scene_04.mp4",
+            "fileHeight": 1922,
+            "fileWidth": 1080,
+            "photographer": "lifeofhicham Globetrotter Culture",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "ok": true,
+            "queryUsed": "rhino resting",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "16912922",
+            "sourceUrl": "https://www.pexels.com/video/rare-atnimal-rhino-16912922/",
+            "user": "Huu Huynh",
+            "duration": 30,
+            "filePath": "/tmp/jvshorts/JV-2026-10-04-SELF1/scene_05.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Huu Huynh",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "ok": true,
+            "queryUsed": "rhinoceros walking",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "27540346",
+            "sourceUrl": "https://www.pexels.com/video/a-rhino-is-standing-in-the-grass-in-an-enclosure-27540346/",
+            "user": "OleksiiPexel",
+            "duration": 9,
+            "filePath": "/tmp/jvshorts/JV-2026-10-04-SELF1/scene_06.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "OleksiiPexel",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-10-04-SELF1/upload.mp4"
+      },
+      "uploadedAt": "2026-10-04T16:13:58-04:00",
+      "youtube": {
+        "videoId": "7YYo8F1KSns",
+        "url": "https://www.youtube.com/watch?v=7YYo8F1KSns",
+        "privacyStatus": "public",
+        "publishedAt": "2026-10-04T16:13:48-04:00"
       },
       "error": null
     }
