@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-04T16:13:58-04:00",
+  "lastRunAt": "2026-10-05T10:12:14-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -5773,6 +5773,160 @@
         "url": "https://www.youtube.com/watch?v=7YYo8F1KSns",
         "privacyStatus": "public",
         "publishedAt": "2026-10-04T16:13:48-04:00"
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-10-05-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "1ed1b18be0fc3ae7ff1d8bdfc4849ffc14d418e9d88bd5287a29f29efb502231",
+      "status": "uploaded",
+      "startedAt": "2026-10-05T10:06:11-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the African Elephant's Cracked Skin Keeps It Cool #Shorts",
+      "animal": "elephant",
+      "species": "African bush elephant",
+      "concept": "Tiny cracks in African bush elephant skin retain water and mud, supporting evaporative cooling.",
+      "hookOverlay": "CRACKED SKIN KEEPS IT COOL",
+      "scriptWordCount": 107,
+      "factSources": [
+        "https://www.unige.ch/medias/en/2018/comment-lelephant-craque-sa-peau-pour-se-refroidir"
+      ],
+      "selectionNote": "Queue elephant-ear topic already uploaded; bat unfilmable; generic lizard not prequalified. New protective-anatomy angle combines top-viewed rhino anatomy framing with best-retention elephant topic. Distinct from prior elephant ear cooling and trunk videos.",
+      "experimentLesson": "EXP-010 reverted on five variant views; insufficient evidence to infer a general title-pattern lesson.",
+      "renderedAt": "2026-10-05T10:11:50-04:00",
+      "duration": 48.133333,
+      "videoDurationSeconds": 48.133333,
+      "resolution": "1080x1920",
+      "clipsFetched": 6,
+      "clipsAccepted": 4,
+      "validation": {
+        "ok": true,
+        "width": 1080,
+        "height": 1920,
+        "duration": 48.133333,
+        "hasVideo": true,
+        "hasAudio": true,
+        "scenes": 4,
+        "mode": "video+captions",
+        "finalPath": "/tmp/jvshorts/JV-2026-10-05-SELF1/final.mp4",
+        "decodePassed": true,
+        "uploadBytes": 7990287,
+        "footageVisualCheck": "Accepted scenes 1,4,5,6 show African elephants. Scene 4 additionally checked at 8 seconds. Rejected scene 2 shows human face; rejected scene 3 shows Asian elephants. Final contact sheet confirms accepted scenes only.",
+        "audio": "Original Charon narration only; assembler music replaced."
+      },
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "Why does an elephant need cracked skin? For African bush elephants, those tiny cracks are a cooling advantage. Their outer skin forms a network of narrow channels that hold water and mud. Researchers found this textured surface can retain five to ten times more water than a flat surface. As that water slowly evaporates, it carries heat away. The channels also help mud cling to the skin, adding protection from harsh sunlight and parasites. So a mud bath is more than a messy habit. It helps a huge animal manage heat in a hot environment. Sometimes nature's cleverest cooling system looks like a surface full of cracks.\n",
+        "narration": "/tmp/jvshorts/JV-2026-10-05-SELF1/narration.mp3",
+        "stockClips": [
+          {
+            "scene": 1,
+            "ok": true,
+            "queryUsed": "elephant",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "11760786",
+            "sourceUrl": "https://www.pexels.com/video/an-african-elephant-and-its-baby-11760786/",
+            "user": "ROMAN ODINTSOV",
+            "duration": 21,
+            "filePath": "/tmp/jvshorts/JV-2026-10-05-SELF1/scene_01.mp4",
+            "fileHeight": 2048,
+            "fileWidth": 1080,
+            "photographer": "ROMAN ODINTSOV",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "ok": true,
+            "queryUsed": "African elephant spraying water",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "17195993",
+            "sourceUrl": "https://www.pexels.com/video/a-large-elephant-walking-on-the-road-with-a-person-17195993/",
+            "user": "Shoeb Suryani",
+            "duration": 24,
+            "filePath": "/tmp/jvshorts/JV-2026-10-05-SELF1/scene_04.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "photographer": "Shoeb Suryani",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "ok": true,
+            "queryUsed": "African elephant mud bath",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "11760749",
+            "sourceUrl": "https://www.pexels.com/video/an-elephant-scratching-against-a-fallen-tree-11760749/",
+            "user": "ROMAN ODINTSOV",
+            "duration": 40,
+            "filePath": "/tmp/jvshorts/JV-2026-10-05-SELF1/scene_05.mp4",
+            "fileHeight": 2048,
+            "fileWidth": 1080,
+            "photographer": "ROMAN ODINTSOV",
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "ok": true,
+            "queryUsed": "African elephant walking savanna",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "11760754",
+            "sourceUrl": "https://www.pexels.com/video/an-elephant-covered-in-mud-walking-in-the-african-savannah-11760754/",
+            "user": "ROMAN ODINTSOV",
+            "duration": 50,
+            "filePath": "/tmp/jvshorts/JV-2026-10-05-SELF1/scene_06.mp4",
+            "fileHeight": 2048,
+            "fileWidth": 1080,
+            "photographer": "ROMAN ODINTSOV",
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "rejectedClips": [
+          {
+            "scene": 2,
+            "ok": true,
+            "queryUsed": "African elephant skin close up",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "7299417",
+            "sourceUrl": "https://www.pexels.com/video/extreme-close-up-of-a-man-s-face-7299417/",
+            "user": "Kindel Media",
+            "duration": 18,
+            "filePath": "/tmp/jvshorts/JV-2026-10-05-SELF1/scene_02.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "reason": "Human face, not elephant",
+            "includedInFinal": false
+          },
+          {
+            "scene": 3,
+            "ok": true,
+            "queryUsed": "African elephant bathing water",
+            "orientation": "portrait",
+            "provider": "pexels",
+            "providerId": "36435533",
+            "sourceUrl": "https://www.pexels.com/video/elephant-family-gathering-at-watering-hole-36435533/",
+            "user": "Joolsmagools  ®️",
+            "duration": 54,
+            "filePath": "/tmp/jvshorts/JV-2026-10-05-SELF1/scene_03.mp4",
+            "fileHeight": 1920,
+            "fileWidth": 1080,
+            "reason": "Asian elephants; narration is about African bush elephant skin",
+            "includedInFinal": false
+          }
+        ],
+        "finalVideo": "/tmp/jvshorts/JV-2026-10-05-SELF1/upload.mp4"
+      },
+      "uploadedAt": "2026-10-05T10:12:14-04:00",
+      "youtube": {
+        "videoId": "Nd4Vbjk8TjM",
+        "url": "https://www.youtube.com/watch?v=Nd4Vbjk8TjM",
+        "privacyStatus": "public",
+        "publishedAt": "2026-10-05T10:12:03-04:00"
       },
       "error": null
     }
