@@ -266,11 +266,94 @@
         "watched": 21.321428571428573,
         "avgViewDuration": 30
       },
-      "status": "running",
-      "lastEvaluationAttemptAt": "2026-10-02T10:01:35-04:00",
-      "evaluationStatus": "deferred-data-lag",
-      "evalNotes": "72-hour wall-clock gate passed, but both video-level daily analytics and same-metric channel-wide daily analytics for 2026-09-29 through 2026-10-02 return data only for 2026-09-29, the launch date. Variant available totals: 3 views, 1 estimated minute watched, 0 likes, 33s average view duration. Baseline daily averages: 66.4643 views, 21.3214 minutes watched, 30s average view duration. Variant AVD is 10% higher, but the complete post-launch observation window is not available. Do not divide by four calendar days or treat unreported September 30 through October 2 as zero traffic. September 29 also mixes pre-launch and post-launch hours. No keep/revert decision or external title change; retain running and retry on the regular daily evaluation schedule.",
-      "partialEvaluation": {
+      "status": "reverted",
+      "lastEvaluationAttemptAt": "2026-10-05T10:03:44-04:00",
+      "evaluationStatus": "completed",
+      "evalNotes": "REVERT per saved decision rule. Requested September 29 through October 5; channel-wide same-metric daily query confirms reporting through October 2, providing three full post-launch calendar days plus the mixed launch day. Video totals: 5 views, 1 estimated minute watched, 1 like, 29s average view duration. Daily rows: September 29, 3 views/1 minute/0 likes/33s AVD; October 1, 2 views/0 minutes/1 like/25s AVD. September 30 and October 2 have no video rows but channel coverage is available; include these reported zero-traffic days in the four-day denominator. Exclude unreported October 3-5 entirely, not zero traffic. Baseline: 66.4643 views/day, 21.3214 minutes/day, 30s AVD. Variant: 1.25 views/day, 0.25 minutes/day, 0.25 likes/day, 29s AVD. Views/day declined 98.12%; AVD declined 3.33%. Both revert thresholds are met. Nonzero traffic means the zero-traffic inconclusive rule does not apply. This is a sequential comparison with only five views and a mixed launch day, not proof the title caused the decline. Restored baseline title using the YouTube Data connector; both update response and uncached watch page confirmed it.",
+      "decision": "revert",
+      "evaluatedAt": "2026-10-05T10:03:44-04:00",
+      "evaluation": {
+        "queryStartDate": "2026-09-29",
+        "queryEndDate": "2026-10-05",
+        "availableThrough": "2026-10-02",
+        "denominatorDays": 4,
+        "videoRows": [
+          [
+            "v3KM5eDdnho",
+            5,
+            1,
+            1,
+            29
+          ]
+        ],
+        "dailyRows": [
+          [
+            "2026-09-29",
+            3,
+            1,
+            0,
+            33
+          ],
+          [
+            "2026-10-01",
+            2,
+            0,
+            1,
+            25
+          ]
+        ],
+        "channelCoverageRows": [
+          [
+            "2026-09-29",
+            2539,
+            1126,
+            141,
+            42
+          ],
+          [
+            "2026-09-30",
+            1545,
+            647,
+            62,
+            42
+          ],
+          [
+            "2026-10-01",
+            1491,
+            779,
+            95,
+            52
+          ],
+          [
+            "2026-10-02",
+            1910,
+            474,
+            111,
+            25
+          ]
+        ],
+        "metrics": [
+          "views",
+          "estimatedMinutesWatched",
+          "likes",
+          "averageViewDuration"
+        ],
+        "variantDailyAverages": {
+          "views": 1.25,
+          "watched": 0.25,
+          "likes": 0.25,
+          "avgViewDuration": 29
+        },
+        "viewsChangePercent": -98.11929070392263,
+        "averageViewDurationChangePercent": -3.3333333333333326,
+        "titleVerification": {
+          "via": "youtube_data_api-update-video-details response and uncached watch-page fetch",
+          "title": "Why the Manatee Never Runs Out of Teeth #Shorts",
+          "url": "https://www.youtube.com/watch?v=v3KM5eDdnho",
+          "verifiedAt": "2026-10-05T10:03:44-04:00"
+        }
+      },
+      "previousDeferredEvaluation": {
         "queryStartDate": "2026-09-29",
         "queryEndDate": "2026-10-02",
         "availableThrough": "2026-09-29",
