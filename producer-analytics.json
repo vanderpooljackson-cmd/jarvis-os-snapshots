@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-04T15:05:27-04:00",
-  "fetchedAt": "2026-10-04T15:05:27-04:00",
+  "lastRunAt": "2026-10-05T11:02:40-04:00",
+  "fetchedAt": "2026-10-05T11:02:40-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -789,7 +789,7 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1516.8,
+      "ageHoursAtAnalysis": 1536.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
@@ -798,14 +798,14 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 45,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned. Pending data, not an authentication failure; cause is unconfirmed for older uploads."
+        "note": "No rows returned; not an API/authentication error. Cause unconfirmed for older uploads."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": null,
       "queryWindow": {
         "startDate": "2026-08-02",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
     {
@@ -813,7 +813,7 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1510.9,
+      "ageHoursAtAnalysis": 1530.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
@@ -822,14 +822,14 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 45,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned. Pending data, not an authentication failure; cause is unconfirmed for older uploads."
+        "note": "No rows returned; not an API/authentication error. Cause unconfirmed for older uploads."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": null,
       "queryWindow": {
         "startDate": "2026-08-02",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 1083.6,
+      "ageHoursAtAnalysis": 1103.6,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 301.9,
@@ -1704,14 +1704,14 @@
       "comparisonToBaseline": {
         "baselineAvgViewDuration": 45,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned. Pending data, not an authentication failure; cause is unconfirmed for older uploads."
+        "note": "No rows returned; not an API/authentication error. Cause unconfirmed for older uploads."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-08-20",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
     {
@@ -3684,7 +3684,7 @@
       "videoId": "RjBYoCrIPuU",
       "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
       "uploadedAt": "2026-09-28T10:17:37.585235-04:00",
-      "ageHoursAtAnalysis": 148.8,
+      "ageHoursAtAnalysis": 168.8,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1422,
@@ -3703,12 +3703,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "winner",
       "queryWindow": {
         "startDate": "2026-09-28",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
     {
@@ -3716,7 +3716,7 @@
       "videoId": "JGlYtx5pEa8",
       "title": "Why the Peacock Changes Color When You Move #Shorts",
       "uploadedAt": "2026-09-28T16:09:53.772341-04:00",
-      "ageHoursAtAnalysis": 142.9,
+      "ageHoursAtAnalysis": 162.9,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1429,
@@ -3735,12 +3735,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "optimize",
       "queryWindow": {
         "startDate": "2026-09-28",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00"
     },
@@ -3749,7 +3749,7 @@
       "videoId": "e4bzKftxKVU",
       "title": "Why the Tiger Sees Six Times Better Than You in the Dark #Shorts",
       "uploadedAt": "2026-09-29T10:18:41.140815-04:00",
-      "ageHoursAtAnalysis": 124.8,
+      "ageHoursAtAnalysis": 144.7,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1093,
@@ -3768,12 +3768,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-09-29",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
       "notifiedThresholds": [
@@ -3785,7 +3785,7 @@
       "videoId": "XH76CH_AWNk",
       "title": "Why the Owl Turns Its Head Almost All the Way Around #Shorts",
       "uploadedAt": "2026-09-29T16:14:40.362509-04:00",
-      "ageHoursAtAnalysis": 118.8,
+      "ageHoursAtAnalysis": 138.8,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1377,
@@ -3804,12 +3804,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "winner",
       "queryWindow": {
         "startDate": "2026-09-29",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
       "notifiedThresholds": [
@@ -3821,7 +3821,7 @@
       "videoId": "_sTGXU-lDUw",
       "title": "Why the Penguin Drinks Saltwater and Survives #Shorts",
       "uploadedAt": "2026-09-30T10:16:10.782409-04:00",
-      "ageHoursAtAnalysis": 100.8,
+      "ageHoursAtAnalysis": 120.8,
       "analyticsStatus": "available",
       "metrics": {
         "views": 15,
@@ -3840,12 +3840,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": null,
       "queryWindow": {
         "startDate": "2026-09-30",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "dataQualityNote": "Reported AVD exceeds video duration; retain the raw metric, do not interpret as unique-viewer completion. Small samples and repeat viewing can distort interpretation."
     },
@@ -3854,7 +3854,7 @@
       "videoId": "StlobryjZ3E",
       "title": "Why the Bear Sleeps for Six Months Without Losing Any Muscle #Shorts",
       "uploadedAt": "2026-09-30T16:11:19.740369-04:00",
-      "ageHoursAtAnalysis": 94.9,
+      "ageHoursAtAnalysis": 114.9,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1114,
@@ -3873,12 +3873,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "optimize",
       "queryWindow": {
         "startDate": "2026-09-30",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
       "notifiedThresholds": [
@@ -3890,7 +3890,7 @@
       "videoId": "tjJk98ktyEU",
       "title": "Why the Monkey Uses Medicine From the Jungle Floor #Shorts",
       "uploadedAt": "2026-10-01T10:23:59.321068-04:00",
-      "ageHoursAtAnalysis": 76.7,
+      "ageHoursAtAnalysis": 96.6,
       "analyticsStatus": "available",
       "metrics": {
         "views": 1081,
@@ -3909,12 +3909,12 @@
         "availableProducedVideosMeanViews": 1093,
         "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "lastNotifiedLabel": "winner",
       "queryWindow": {
         "startDate": "2026-10-01",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
       "notifiedThresholds": [
@@ -3926,14 +3926,14 @@
       "videoId": "CB34Voi_pR0",
       "title": "Why the Koala Hugs Trees to Beat the Heat #Shorts",
       "uploadedAt": "2026-10-01T16:07:52-04:00",
-      "ageHoursAtAnalysis": 71,
+      "ageHoursAtAnalysis": 90.9,
       "videoDurationSeconds": 51.6,
       "lastNotifiedLabel": "stable",
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "queryWindow": {
         "startDate": "2026-10-01",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "metrics": {
         "views": 949,
@@ -3962,14 +3962,14 @@
       "videoId": "aOalL2JtCaM",
       "title": "Why the Elephant Uses Its Trunk Like a Vacuum #Shorts",
       "uploadedAt": "2026-10-02T10:12:03-04:00",
-      "ageHoursAtAnalysis": 52.9,
+      "ageHoursAtAnalysis": 72.8,
       "videoDurationSeconds": 49,
       "lastNotifiedLabel": "stable",
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
       "queryWindow": {
         "startDate": "2026-10-02",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
       "metrics": {
         "views": 1070,
@@ -3992,6 +3992,54 @@
       "notifiedThresholds": [
         "views100"
       ]
+    },
+    {
+      "productionId": "JV-2026-10-04-SELF1",
+      "videoId": "7YYo8F1KSns",
+      "title": "Why the Rhino Points Its Ears in Opposite Directions #Shorts",
+      "uploadedAt": "2026-10-04T16:13:58-04:00",
+      "ageHoursAtAnalysis": 18.8,
+      "videoDurationSeconds": 49.5,
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "lastNotifiedLabel": null,
+      "queryWindow": {
+        "startDate": "2026-10-04",
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "metrics": {},
+      "analyticsStatus": "pending",
+      "performanceLabel": "pending",
+      "retentionPercent": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 45,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No rows returned for upload less than 24 hours old; expected aggregation lag."
+      }
+    },
+    {
+      "productionId": "JV-2026-10-05-SELF1",
+      "videoId": "Nd4Vbjk8TjM",
+      "title": "Why the African Elephant's Cracked Skin Keeps It Cool #Shorts",
+      "uploadedAt": "2026-10-05T10:12:14-04:00",
+      "ageHoursAtAnalysis": 0.8,
+      "videoDurationSeconds": 48.133333,
+      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "lastNotifiedLabel": null,
+      "queryWindow": {
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-05",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "metrics": {},
+      "analyticsStatus": "pending",
+      "performanceLabel": "pending",
+      "retentionPercent": null,
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 45,
+        "ratioToBaselineAvgViewDuration": null,
+        "note": "No rows returned for upload less than 24 hours old; expected aggregation lag."
+      }
     }
   ],
   "hookFrames": [
@@ -5032,16 +5080,18 @@
   ],
   "methodology": {
     "refreshedVideos": 14,
-    "carriedForwardVideos": 136,
+    "carriedForwardVideos": 138,
     "availableVideos": 147,
-    "pendingVideos": 3,
-    "refreshPolicy": "Refresh pending records and uploads since 2026-09-27; retain older available records and their original analyzedAt timestamps.",
+    "pendingVideos": 5,
+    "refreshPolicy": "Refresh pending/new records and uploads since 2026-09-28; preserve older available records and their original analyzedAt timestamps.",
     "baselineAvgViewDuration": 45,
-    "baselineSnapshotFetchedAt": "2026-10-02T09:01:39-04:00",
+    "baselineSnapshotFetchedAt": "2026-10-05T09:04:36-04:00",
     "producedMeanViews": 1093,
     "learningMinimumViews": 100,
     "learningCohortMedianAVD": 30,
     "learningCohortMedianViews": 1095,
-    "caveats": "No same-age normalization; cached older metrics retained. AVD favors longer videos; retention percentages reported separately. Exclude long-form compilation from Shorts learning aggregates. Confidence tiers describe sample count, not statistical significance."
+    "caveats": "No same-age normalization; cached older metrics retained. AVD favors longer videos; retention percentages reported separately. Exclude long-form compilation from Shorts learning aggregates. Confidence tiers describe sample count, not statistical significance.",
+    "learningRefreshNote": "All nine refreshed available metric rows and duration-normalized retention values match the previous run. Two newly added records are pending. Available learning cohort and 45-second baseline are unchanged, so hookFrames, topics, titlePatterns and evidence summaries are preserved.",
+    "notificationDecision": "No meaningful label transitions or threshold crossings. Pending videos are excluded; unchanged low-volume penguin remains below the 100-view reliability gate."
   }
 }
