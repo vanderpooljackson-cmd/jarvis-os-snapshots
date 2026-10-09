@@ -1,17 +1,38 @@
 {
-  "fetchedAt": "2026-10-05T17:38:10-04:00",
+  "fetchedAt": "2026-10-09T17:38:31-04:00",
   "videos": [
     {
-      "videoId": "WorDCNXkdT0",
-      "title": "Why the Deer Can Regrow Entire Antlers #Shorts",
+      "videoId": "xQET5AxN1P4",
+      "title": "Why the Elephant Feels With Whiskers on Its Trunk #Shorts",
       "transcriptStatus": "failed",
       "transcript": null,
       "comments": [],
       "commentsStatus": "blocked",
       "commentCount": null,
       "clipCandidates": [],
-      "extractionAttempted": true,
-      "extractionError": "Desktop and mobile watch-page navigation redirected to Google unusual-traffic reCAPTCHA. Comments and transcript controls unavailable."
+      "error": "Desktop and mobile YouTube watch pages redirected to unusual-traffic CAPTCHA; comments and transcript unavailable."
+    },
+    {
+      "videoId": "uGMJ6cR3lnA",
+      "title": "Why the Rhino Wears Mud Like Armor #Shorts",
+      "transcriptStatus": "failed",
+      "transcript": null,
+      "comments": [],
+      "commentsStatus": "not-attempted",
+      "commentCount": null,
+      "clipCandidates": [],
+      "error": "Not attempted after desktop/mobile CAPTCHA confirmed a browser access block; no transcript or comments retrieved."
+    },
+    {
+      "videoId": "WorDCNXkdT0",
+      "title": "Why the Deer Can Regrow Entire Antlers #Shorts",
+      "transcriptStatus": "failed",
+      "transcript": null,
+      "comments": [],
+      "commentsStatus": "not-attempted",
+      "commentCount": null,
+      "clipCandidates": [],
+      "error": "Not attempted after desktop/mobile CAPTCHA confirmed a browser access block; no transcript or comments retrieved."
     },
     {
       "videoId": "Nd4Vbjk8TjM",
@@ -22,8 +43,7 @@
       "commentsStatus": "not-attempted",
       "commentCount": null,
       "clipCandidates": [],
-      "extractionAttempted": false,
-      "extractionError": "Not attempted after the same YouTube cloud-browser source was blocked on desktop and mobile; bounded-retry policy stopped further browsing."
+      "error": "Not attempted after desktop/mobile CAPTCHA confirmed a browser access block; no transcript or comments retrieved."
     },
     {
       "videoId": "7YYo8F1KSns",
@@ -34,40 +54,23 @@
       "commentsStatus": "not-attempted",
       "commentCount": null,
       "clipCandidates": [],
-      "extractionAttempted": false,
-      "extractionError": "Not attempted after the same YouTube cloud-browser source was blocked on desktop and mobile; bounded-retry policy stopped further browsing."
-    },
-    {
-      "videoId": "aOalL2JtCaM",
-      "title": "Why the Elephant Uses Its Trunk Like a Vacuum #Shorts",
-      "transcriptStatus": "failed",
-      "transcript": null,
-      "comments": [],
-      "commentsStatus": "not-attempted",
-      "commentCount": null,
-      "clipCandidates": [],
-      "extractionAttempted": false,
-      "extractionError": "Not attempted after the same YouTube cloud-browser source was blocked on desktop and mobile; bounded-retry policy stopped further browsing."
-    },
-    {
-      "videoId": "CB34Voi_pR0",
-      "title": "Why the Koala Hugs Trees to Beat the Heat #Shorts",
-      "transcriptStatus": "failed",
-      "transcript": null,
-      "comments": [],
-      "commentsStatus": "not-attempted",
-      "commentCount": null,
-      "clipCandidates": [],
-      "extractionAttempted": false,
-      "extractionError": "Not attempted after the same YouTube cloud-browser source was blocked on desktop and mobile; bounded-retry policy stopped further browsing."
+      "error": "Not attempted after desktop/mobile CAPTCHA confirmed a browser access block; no transcript or comments retrieved."
     }
   ],
   "postedReplies": 0,
-  "sweepStatus": "blocked",
-  "commentsExtracted": 0,
-  "commentsAvailable": null,
-  "transcriptsExtracted": 0,
-  "newClipCandidates": 0,
-  "notificationDecision": "No custom notification: no new comments or transcripts were extracted. Suppress this run completion notification per no-work instructions. Do not interpret this as verified absence of viewer activity.",
-  "note": "The uploads connector successfully identified the five latest videos. No comment IDs or timestamps were invented, no replies were posted, and no comments were hidden or deleted. Existing local narration scripts were not substituted for extracted YouTube transcripts."
+  "status": "blocked",
+  "commentsFound": 0,
+  "commentsFoundNote": "Zero extracted comments, not a verified absence of comments. Actual comment counts unknown.",
+  "clipCandidatesGenerated": 0,
+  "notificationSuppressedReason": "No new comments or transcripts extracted.",
+  "browserAttempts": [
+    {
+      "url": "https://www.youtube.com/watch?v=xQET5AxN1P4",
+      "result": "unusual-traffic CAPTCHA"
+    },
+    {
+      "url": "https://m.youtube.com/watch?v=xQET5AxN1P4",
+      "result": "unusual-traffic CAPTCHA"
+    }
+  ]
 }
