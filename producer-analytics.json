@@ -1,8 +1,8 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-05T11:02:40-04:00",
-  "fetchedAt": "2026-10-05T11:02:40-04:00",
+  "lastRunAt": "2026-10-09T11:03:07-04:00",
+  "fetchedAt": "2026-10-09T11:03:07-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -789,22 +789,22 @@
       "videoId": "7uqPQXoOdtE",
       "title": "Why the Meerkat Is Immune to Deadly Venom #Shorts",
       "uploadedAt": "2026-08-02T10:14:47.950656-04:00",
-      "ageHoursAtAnalysis": 1536.8,
+      "ageHoursAtAnalysis": 1632.8,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 75.4,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
+        "baselineAvgViewDuration": 47,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned; not an API/authentication error. Cause unconfirmed for older uploads."
+        "note": "No rows returned; not an API/authentication failure. Cause unconfirmed for older uploads."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": null,
       "queryWindow": {
         "startDate": "2026-08-02",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
@@ -813,22 +813,22 @@
       "videoId": "OMvgN3EM4yo",
       "title": "Why the Seal Holds Its Breath for 100 Minutes #Shorts",
       "uploadedAt": "2026-08-02T16:09:23.011230-04:00",
-      "ageHoursAtAnalysis": 1530.9,
+      "ageHoursAtAnalysis": 1626.9,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 61.8,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
+        "baselineAvgViewDuration": 47,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned; not an API/authentication error. Cause unconfirmed for older uploads."
+        "note": "No rows returned; not an API/authentication failure. Cause unconfirmed for older uploads."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": null,
       "queryWindow": {
         "startDate": "2026-08-02",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
@@ -1695,22 +1695,22 @@
       "videoId": "C1n3GyrwoFs",
       "title": "5 Animal Superpowers That Sound Made Up",
       "uploadedAt": "2026-08-20T11:26:55.560700-04:00",
-      "ageHoursAtAnalysis": 1103.6,
+      "ageHoursAtAnalysis": 1199.6,
       "analyticsStatus": "pending",
       "metrics": {},
       "videoDurationSeconds": 301.9,
       "retentionPercent": null,
       "performanceLabel": "pending",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
+        "baselineAvgViewDuration": 47,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned; not an API/authentication error. Cause unconfirmed for older uploads."
+        "note": "No rows returned; not an API/authentication failure. Cause unconfirmed for older uploads."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-08-20",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
@@ -3513,39 +3513,46 @@
       "videoId": "b2g-BwBx3fA",
       "title": "Why the Bee Makes the Only Food That Never Spoils #Shorts",
       "uploadedAt": "2026-09-25T10:15:31.762269-04:00",
-      "ageHoursAtAnalysis": 96.8,
+      "ageHoursAtAnalysis": 336.8,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 132,
-        "estimatedMinutesWatched": 62,
-        "averageViewDuration": 53,
-        "likes": 13,
-        "comments": 0,
-        "shares": 0
+        "views": 221,
+        "estimatedMinutesWatched": 111,
+        "averageViewDuration": 57,
+        "likes": 21,
+        "comments": 1,
+        "shares": 1
       },
       "videoDurationSeconds": 76.6,
-      "retentionPercent": 69.2,
+      "retentionPercent": 74.4,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 35.5,
-        "ratioToBaselineAvgViewDuration": 1.49,
-        "note": "Above baseline AVD with meaningful early views."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 1.21,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-09-28T11:10:05-04:00",
-      "lastNotifiedLabel": "winner"
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "winner",
+      "queryWindow": {
+        "startDate": "2026-09-25",
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      }
     },
     {
       "productionId": "JV-2026-09-25-SELF2",
       "videoId": "fcSd2iofxJs",
       "title": "Why the Lemur Taps on Trees Like a Doctor #Shorts",
       "uploadedAt": "2026-09-25T16:11:17.212007-04:00",
-      "ageHoursAtAnalysis": 90.9,
+      "ageHoursAtAnalysis": 330.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 999,
-        "estimatedMinutesWatched": 325,
+        "views": 1049,
+        "estimatedMinutesWatched": 340,
         "averageViewDuration": 33,
-        "likes": 67,
+        "likes": 71,
         "comments": 1,
         "shares": 1
       },
@@ -3553,77 +3560,114 @@
       "retentionPercent": 55.7,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 35.5,
-        "ratioToBaselineAvgViewDuration": 0.93,
-        "note": "Within normal range or not enough view volume for a strong call."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.7,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-09-28T11:10:05-04:00",
-      "lastNotifiedLabel": "stable"
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "stable",
+      "queryWindow": {
+        "startDate": "2026-09-25",
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      }
     },
     {
       "productionId": "JV-2026-09-26-SELF1",
       "videoId": "xQH2pDOHLCc",
       "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
       "uploadedAt": "2026-09-26T10:10:14.864120-04:00",
-      "ageHoursAtAnalysis": 72.9,
+      "ageHoursAtAnalysis": 312.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1514,
-        "estimatedMinutesWatched": 782,
-        "averageViewDuration": 52,
-        "likes": 137,
-        "comments": 1,
-        "shares": 1
+        "views": 2615,
+        "estimatedMinutesWatched": 1611,
+        "averageViewDuration": 62,
+        "likes": 219,
+        "comments": 2,
+        "shares": 6
       },
       "videoDurationSeconds": 70.6,
-      "retentionPercent": 73.7,
+      "retentionPercent": 87.8,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 42,
-        "ratioToBaselineAvgViewDuration": 1.24,
-        "baselineTopVideosMedianViews": 1520,
-        "note": "73.7% retention; 52s average view duration vs 42s channel top-video median; 1514 views."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 1.32,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-09-29T11:05:00-04:00",
-      "lastNotifiedLabel": "winner"
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "winner",
+      "queryWindow": {
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 2615,
+        "averageViewDuration": 62,
+        "retentionPercent": 87.8
+      }
     },
     {
       "productionId": "JV-2026-09-26-SELF2",
       "videoId": "jU32SQuswds",
       "title": "Why the Sea Turtle Finds Its Birth Beach From 10000 Miles Away #Shorts",
       "uploadedAt": "2026-09-26T16:11:21.966715-04:00",
-      "ageHoursAtAnalysis": 66.9,
+      "ageHoursAtAnalysis": 306.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 493,
-        "estimatedMinutesWatched": 245,
-        "averageViewDuration": 56,
-        "likes": 39,
-        "comments": 1,
-        "shares": 0
+        "views": 861,
+        "estimatedMinutesWatched": 502,
+        "averageViewDuration": 66,
+        "likes": 73,
+        "comments": 3,
+        "shares": 1
       },
       "videoDurationSeconds": 75.6,
-      "retentionPercent": 74.1,
+      "retentionPercent": 87.3,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 42,
-        "ratioToBaselineAvgViewDuration": 1.33,
-        "baselineTopVideosMedianViews": 1520,
-        "note": "74.1% retention; 56s average view duration vs 42s channel top-video median; 493 views."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 1.4,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-09-29T11:05:00-04:00",
-      "lastNotifiedLabel": "winner"
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "winner",
+      "queryWindow": {
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 861,
+        "averageViewDuration": 66,
+        "retentionPercent": 87.3
+      }
     },
     {
       "productionId": "JV-2026-09-27-SELF1",
       "videoId": "fpxnaqYxlMU",
       "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
       "uploadedAt": "2026-09-27T10:09:12.647843-04:00",
-      "ageHoursAtAnalysis": 172.9,
+      "ageHoursAtAnalysis": 288.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1537,
-        "estimatedMinutesWatched": 743,
+        "views": 1540,
+        "estimatedMinutesWatched": 744,
         "averageViewDuration": 45,
         "likes": 84,
         "comments": 0,
@@ -3631,31 +3675,40 @@
       },
       "videoDurationSeconds": 68.3,
       "retentionPercent": 65.9,
-      "performanceLabel": "stable",
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 1,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.96,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
-      "lastNotifiedLabel": "stable",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "optimize",
       "queryWindow": {
         "startDate": "2026-09-27",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
       },
-      "lastNotifiedAt": "2026-10-04T15:05:27-04:00"
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 1540,
+        "averageViewDuration": 45,
+        "retentionPercent": 65.9
+      }
     },
     {
       "productionId": "JV-2026-09-27-SELF2",
       "videoId": "bXqV-m3q_Ek",
       "title": "Why the Elephant Cools Itself With Its Ears #Shorts",
       "uploadedAt": "2026-09-27T16:10:05.705729-04:00",
-      "ageHoursAtAnalysis": 166.9,
+      "ageHoursAtAnalysis": 282.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1353,
+        "views": 1355,
         "estimatedMinutesWatched": 499,
         "averageViewDuration": 34,
         "likes": 75,
@@ -3666,17 +3719,18 @@
       "retentionPercent": 50,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 0.76,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.72,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-04T15:05:27-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": "optimize",
       "queryWindow": {
         "startDate": "2026-09-27",
-        "endDate": "2026-10-04",
-        "note": "End date requested; latest days may not yet be aggregated."
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
       }
     },
     {
@@ -3684,31 +3738,41 @@
       "videoId": "RjBYoCrIPuU",
       "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
       "uploadedAt": "2026-09-28T10:17:37.585235-04:00",
-      "ageHoursAtAnalysis": 168.8,
+      "ageHoursAtAnalysis": 264.8,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1422,
-        "estimatedMinutesWatched": 800,
-        "averageViewDuration": 53,
+        "views": 1428,
+        "estimatedMinutesWatched": 802,
+        "averageViewDuration": 52,
         "likes": 82,
         "comments": 1,
         "shares": 1
       },
       "videoDurationSeconds": 80.6,
-      "retentionPercent": 65.8,
-      "performanceLabel": "winner",
+      "retentionPercent": 64.5,
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 1.18,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 1.11,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
-      "lastNotifiedLabel": "winner",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-09-28",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 1428,
+        "averageViewDuration": 52,
+        "retentionPercent": 64.5
       }
     },
     {
@@ -3716,10 +3780,10 @@
       "videoId": "JGlYtx5pEa8",
       "title": "Why the Peacock Changes Color When You Move #Shorts",
       "uploadedAt": "2026-09-28T16:09:53.772341-04:00",
-      "ageHoursAtAnalysis": 162.9,
+      "ageHoursAtAnalysis": 258.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1429,
+        "views": 1437,
         "estimatedMinutesWatched": 518,
         "averageViewDuration": 42,
         "likes": 78,
@@ -3730,16 +3794,17 @@
       "retentionPercent": 52.8,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 0.93,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.89,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": "optimize",
       "queryWindow": {
         "startDate": "2026-09-28",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00"
@@ -3749,11 +3814,11 @@
       "videoId": "e4bzKftxKVU",
       "title": "Why the Tiger Sees Six Times Better Than You in the Dark #Shorts",
       "uploadedAt": "2026-09-29T10:18:41.140815-04:00",
-      "ageHoursAtAnalysis": 144.7,
+      "ageHoursAtAnalysis": 240.7,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1093,
-        "estimatedMinutesWatched": 415,
+        "views": 1097,
+        "estimatedMinutesWatched": 417,
         "averageViewDuration": 34,
         "likes": 53,
         "comments": 2,
@@ -3763,16 +3828,17 @@
       "retentionPercent": 48,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 0.76,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.72,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-09-29",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
@@ -3785,11 +3851,11 @@
       "videoId": "XH76CH_AWNk",
       "title": "Why the Owl Turns Its Head Almost All the Way Around #Shorts",
       "uploadedAt": "2026-09-29T16:14:40.362509-04:00",
-      "ageHoursAtAnalysis": 138.8,
+      "ageHoursAtAnalysis": 234.8,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1377,
-        "estimatedMinutesWatched": 780,
+        "views": 1382,
+        "estimatedMinutesWatched": 781,
         "averageViewDuration": 53,
         "likes": 95,
         "comments": 0,
@@ -3797,67 +3863,74 @@
       },
       "videoDurationSeconds": 83.6,
       "retentionPercent": 63.4,
-      "performanceLabel": "winner",
+      "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 1.18,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 1.13,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
-      "lastNotifiedLabel": "winner",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-09-29",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
-      "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
       "notifiedThresholds": [
         "views100"
-      ]
+      ],
+      "lastNotifiedMetrics": {
+        "views": 1382,
+        "averageViewDuration": 53,
+        "retentionPercent": 63.4
+      }
     },
     {
       "productionId": "JV-2026-09-30-SELF1",
       "videoId": "_sTGXU-lDUw",
       "title": "Why the Penguin Drinks Saltwater and Survives #Shorts",
       "uploadedAt": "2026-09-30T10:16:10.782409-04:00",
-      "ageHoursAtAnalysis": 120.8,
+      "ageHoursAtAnalysis": 216.8,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 15,
-        "estimatedMinutesWatched": 14,
-        "averageViewDuration": 214,
+        "views": 24,
+        "estimatedMinutesWatched": 27,
+        "averageViewDuration": 323,
         "likes": 2,
         "comments": 0,
         "shares": 0
       },
       "videoDurationSeconds": 68.6,
-      "retentionPercent": 312,
+      "retentionPercent": 470.8,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 4.76,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 6.87,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": null,
       "queryWindow": {
         "startDate": "2026-09-30",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
-      "dataQualityNote": "Reported AVD exceeds video duration; retain the raw metric, do not interpret as unique-viewer completion. Small samples and repeat viewing can distort interpretation."
+      "dataQualityNote": "Reported AVD exceeds duration; preserve raw metric, but repeat viewing and small samples prevent a unique-viewer completion interpretation."
     },
     {
       "productionId": "JV-2026-09-30-SELF2",
       "videoId": "StlobryjZ3E",
       "title": "Why the Bear Sleeps for Six Months Without Losing Any Muscle #Shorts",
       "uploadedAt": "2026-09-30T16:11:19.740369-04:00",
-      "ageHoursAtAnalysis": 114.9,
+      "ageHoursAtAnalysis": 210.9,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1114,
+        "views": 1115,
         "estimatedMinutesWatched": 459,
         "averageViewDuration": 40,
         "likes": 42,
@@ -3868,16 +3941,17 @@
       "retentionPercent": 53.3,
       "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 0.89,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.85,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": "optimize",
       "queryWindow": {
         "startDate": "2026-09-30",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
@@ -3890,11 +3964,11 @@
       "videoId": "tjJk98ktyEU",
       "title": "Why the Monkey Uses Medicine From the Jungle Floor #Shorts",
       "uploadedAt": "2026-10-01T10:23:59.321068-04:00",
-      "ageHoursAtAnalysis": 96.6,
+      "ageHoursAtAnalysis": 192.7,
       "analyticsStatus": "available",
       "metrics": {
-        "views": 1081,
-        "estimatedMinutesWatched": 646,
+        "views": 1098,
+        "estimatedMinutesWatched": 652,
         "averageViewDuration": 55,
         "likes": 76,
         "comments": 3,
@@ -3904,16 +3978,17 @@
       "retentionPercent": 65.3,
       "performanceLabel": "winner",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 1.22,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 1.17,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "lastNotifiedLabel": "winner",
       "queryWindow": {
         "startDate": "2026-10-01",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
@@ -3926,20 +4001,20 @@
       "videoId": "CB34Voi_pR0",
       "title": "Why the Koala Hugs Trees to Beat the Heat #Shorts",
       "uploadedAt": "2026-10-01T16:07:52-04:00",
-      "ageHoursAtAnalysis": 90.9,
+      "ageHoursAtAnalysis": 186.9,
       "videoDurationSeconds": 51.6,
       "lastNotifiedLabel": "stable",
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "queryWindow": {
         "startDate": "2026-10-01",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
       "metrics": {
-        "views": 949,
-        "estimatedMinutesWatched": 245,
+        "views": 967,
+        "estimatedMinutesWatched": 251,
         "averageViewDuration": 30,
-        "likes": 41,
+        "likes": 42,
         "comments": 1,
         "shares": 0
       },
@@ -3947,10 +4022,11 @@
       "retentionPercent": 58.1,
       "performanceLabel": "stable",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 0.67,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.64,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
       "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
       "notifiedThresholds": [
@@ -3962,18 +4038,18 @@
       "videoId": "aOalL2JtCaM",
       "title": "Why the Elephant Uses Its Trunk Like a Vacuum #Shorts",
       "uploadedAt": "2026-10-02T10:12:03-04:00",
-      "ageHoursAtAnalysis": 72.8,
+      "ageHoursAtAnalysis": 168.9,
       "videoDurationSeconds": 49,
-      "lastNotifiedLabel": "stable",
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
+      "lastNotifiedLabel": "optimize",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
       "queryWindow": {
         "startDate": "2026-10-02",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
       "metrics": {
-        "views": 1070,
-        "estimatedMinutesWatched": 260,
+        "views": 1112,
+        "estimatedMinutesWatched": 265,
         "averageViewDuration": 22,
         "likes": 81,
         "comments": 0,
@@ -3981,40 +4057,64 @@
       },
       "analyticsStatus": "available",
       "retentionPercent": 44.9,
-      "performanceLabel": "stable",
+      "performanceLabel": "optimize",
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": 0.49,
-        "availableProducedVideosMeanViews": 1093,
-        "note": "AVD seconds compared with channel top-video median seconds. Winner needs >115% of that median and >=100 views; optimize needs above-produced-cohort mean views and below-median AVD. Cohorts have different ages and durations; labels are descriptive, not causal."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.47,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
       },
-      "lastNotifiedAt": "2026-10-04T15:05:27-04:00",
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
       "notifiedThresholds": [
         "views100"
-      ]
+      ],
+      "lastNotifiedMetrics": {
+        "views": 1112,
+        "averageViewDuration": 22,
+        "retentionPercent": 44.9
+      }
     },
     {
       "productionId": "JV-2026-10-04-SELF1",
       "videoId": "7YYo8F1KSns",
       "title": "Why the Rhino Points Its Ears in Opposite Directions #Shorts",
       "uploadedAt": "2026-10-04T16:13:58-04:00",
-      "ageHoursAtAnalysis": 18.8,
+      "ageHoursAtAnalysis": 114.8,
       "videoDurationSeconds": 49.5,
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
-      "lastNotifiedLabel": null,
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-10-04",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
-      "metrics": {},
-      "analyticsStatus": "pending",
-      "performanceLabel": "pending",
-      "retentionPercent": null,
+      "metrics": {
+        "views": 1065,
+        "estimatedMinutesWatched": 473,
+        "averageViewDuration": 37,
+        "likes": 38,
+        "comments": 0,
+        "shares": 0
+      },
+      "analyticsStatus": "available",
+      "performanceLabel": "stable",
+      "retentionPercent": 74.7,
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
-        "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned for upload less than 24 hours old; expected aggregation lag."
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.79,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
+      },
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 1065,
+        "averageViewDuration": 37,
+        "retentionPercent": 74.7
       }
     },
     {
@@ -4022,23 +4122,107 @@
       "videoId": "Nd4Vbjk8TjM",
       "title": "Why the African Elephant's Cracked Skin Keeps It Cool #Shorts",
       "uploadedAt": "2026-10-05T10:12:14-04:00",
-      "ageHoursAtAnalysis": 0.8,
+      "ageHoursAtAnalysis": 96.8,
       "videoDurationSeconds": 48.133333,
-      "analyzedAt": "2026-10-05T11:02:40-04:00",
-      "lastNotifiedLabel": null,
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "lastNotifiedLabel": "stable",
       "queryWindow": {
         "startDate": "2026-10-05",
-        "endDate": "2026-10-05",
+        "endDate": "2026-10-09",
         "note": "Requested end date; latest days may not yet be aggregated."
       },
-      "metrics": {},
-      "analyticsStatus": "pending",
-      "performanceLabel": "pending",
-      "retentionPercent": null,
+      "metrics": {
+        "views": 970,
+        "estimatedMinutesWatched": 345,
+        "averageViewDuration": 35,
+        "likes": 47,
+        "comments": 0,
+        "shares": 0
+      },
+      "analyticsStatus": "available",
+      "performanceLabel": "stable",
+      "retentionPercent": 72.7,
       "comparisonToBaseline": {
-        "baselineAvgViewDuration": 45,
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.74,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
+      },
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 970,
+        "averageViewDuration": 35,
+        "retentionPercent": 72.7
+      }
+    },
+    {
+      "productionId": "JV-2026-10-05-SELF2",
+      "videoId": "WorDCNXkdT0",
+      "title": "Why the Deer Can Regrow Entire Antlers #Shorts",
+      "uploadedAt": "2026-10-05T16:13:29-04:00",
+      "ageHoursAtAnalysis": 90.8,
+      "videoDurationSeconds": 46,
+      "lastNotifiedLabel": "stable",
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "queryWindow": {
+        "startDate": "2026-10-05",
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "metrics": {
+        "views": 988,
+        "estimatedMinutesWatched": 321,
+        "averageViewDuration": 38,
+        "likes": 56,
+        "comments": 1,
+        "shares": 0
+      },
+      "analyticsStatus": "available",
+      "retentionPercent": 82.6,
+      "performanceLabel": "stable",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 47,
+        "ratioToBaselineAvgViewDuration": 0.81,
+        "availableProducedVideosMeanViews": 1102.8,
+        "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+        "note": "Compare AVD seconds to median AVD seconds, never retention percent to seconds. Winner: >115% of median and >=100 views. Optimize: above produced-cohort mean views and below baseline AVD. Mixed ages/durations; labels are descriptive, not causal."
+      },
+      "lastNotifiedAt": "2026-10-09T11:03:26-04:00",
+      "notifiedThresholds": [
+        "views100"
+      ],
+      "lastNotifiedMetrics": {
+        "views": 988,
+        "averageViewDuration": 38,
+        "retentionPercent": 82.6
+      }
+    },
+    {
+      "productionId": "JV-2026-10-09-SELF1",
+      "videoId": "uGMJ6cR3lnA",
+      "title": "Why the Rhino Wears Mud Like Armor #Shorts",
+      "uploadedAt": "2026-10-09T10:12:30-04:00",
+      "ageHoursAtAnalysis": 0.8,
+      "videoDurationSeconds": 52.6,
+      "lastNotifiedLabel": null,
+      "analyzedAt": "2026-10-09T11:03:07-04:00",
+      "queryWindow": {
+        "startDate": "2026-10-09",
+        "endDate": "2026-10-09",
+        "note": "Requested end date; latest days may not yet be aggregated."
+      },
+      "analyticsStatus": "pending",
+      "metrics": {},
+      "retentionPercent": null,
+      "performanceLabel": "pending",
+      "comparisonToBaseline": {
+        "baselineAvgViewDuration": 47,
         "ratioToBaselineAvgViewDuration": null,
-        "note": "No rows returned for upload less than 24 hours old; expected aggregation lag."
+        "note": "No rows for an upload under 24 hours old; expected aggregation lag."
       }
     }
   ],
@@ -4101,14 +4285,16 @@
         "JGlYtx5pEa8",
         "XH76CH_AWNk",
         "tjJk98ktyEU",
-        "aOalL2JtCaM"
+        "aOalL2JtCaM",
+        "WorDCNXkdT0"
       ],
-      "sampleSize": 55,
+      "sampleSize": 56,
       "avgViewDurationMedian": 31,
-      "viewsMedian": 1122,
-      "avgRetentionPercent": 57.9,
-      "retentionSampleSize": 55,
-      "avgViews": 1417.3,
+      "viewsMedian": 1117,
+      "avgViewDuration": 33.7,
+      "avgRetentionPercent": 58.9,
+      "retentionSampleSize": 56,
+      "avgViews": 1439.6,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4159,14 +4345,16 @@
         "d4KV2VtHjdQ",
         "BDS46bo0SQw",
         "RjBYoCrIPuU",
-        "e4bzKftxKVU"
+        "e4bzKftxKVU",
+        "7YYo8F1KSns"
       ],
-      "sampleSize": 44,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1087,
-      "avgRetentionPercent": 52.8,
-      "retentionSampleSize": 44,
-      "avgViews": 1239.2,
+      "sampleSize": 45,
+      "avgViewDurationMedian": 28,
+      "viewsMedian": 1081,
+      "avgViewDuration": 29.6,
+      "avgRetentionPercent": 53.3,
+      "retentionSampleSize": 45,
+      "avgViews": 1235.6,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4199,14 +4387,16 @@
         "fpxnaqYxlMU",
         "bXqV-m3q_Ek",
         "StlobryjZ3E",
-        "CB34Voi_pR0"
+        "CB34Voi_pR0",
+        "Nd4Vbjk8TjM"
       ],
-      "sampleSize": 26,
-      "avgViewDurationMedian": 32.5,
-      "viewsMedian": 1092,
-      "avgRetentionPercent": 56.3,
-      "retentionSampleSize": 26,
-      "avgViews": 1074.8,
+      "sampleSize": 27,
+      "avgViewDurationMedian": 34,
+      "viewsMedian": 1088,
+      "avgViewDuration": 32.1,
+      "avgRetentionPercent": 56.9,
+      "retentionSampleSize": 27,
+      "avgViews": 1071.8,
       "verdict": "promising",
       "confidence": "high"
     }
@@ -4223,14 +4413,16 @@
         "2GZbLp5SP7g",
         "xQH2pDOHLCc",
         "bXqV-m3q_Ek",
-        "aOalL2JtCaM"
+        "aOalL2JtCaM",
+        "Nd4Vbjk8TjM"
       ],
-      "sampleSize": 8,
-      "avgViewDurationMedian": 32.5,
-      "viewsMedian": 1119.5,
-      "avgRetentionPercent": 61.3,
-      "retentionSampleSize": 8,
-      "avgViews": 1175.9,
+      "sampleSize": 9,
+      "avgViewDurationMedian": 34,
+      "viewsMedian": 1112,
+      "avgViewDuration": 35.9,
+      "avgRetentionPercent": 64.1,
+      "retentionSampleSize": 9,
+      "avgViews": 1280.2,
       "verdict": "promising",
       "confidence": "medium"
     },
@@ -4247,6 +4439,7 @@
       "sampleSize": 5,
       "avgViewDurationMedian": 30,
       "viewsMedian": 1032,
+      "avgViewDuration": 28.8,
       "avgRetentionPercent": 54.5,
       "retentionSampleSize": 5,
       "avgViews": 2064,
@@ -4264,10 +4457,11 @@
       ],
       "sampleSize": 4,
       "avgViewDurationMedian": 31.5,
-      "viewsMedian": 1074.5,
+      "viewsMedian": 1075,
+      "avgViewDuration": 32.5,
       "avgRetentionPercent": 53.8,
       "retentionSampleSize": 4,
-      "avgViews": 1095.8,
+      "avgViews": 1096,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4283,6 +4477,7 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 25,
       "viewsMedian": 1280,
+      "avgViewDuration": 25.8,
       "avgRetentionPercent": 51.2,
       "retentionSampleSize": 4,
       "avgViews": 1110.5,
@@ -4301,6 +4496,7 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 35.5,
       "viewsMedian": 1087.5,
+      "avgViewDuration": 37.5,
       "avgRetentionPercent": 66.9,
       "retentionSampleSize": 4,
       "avgViews": 1780.5,
@@ -4319,9 +4515,10 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 36,
       "viewsMedian": 1229,
+      "avgViewDuration": 33,
       "avgRetentionPercent": 50,
       "retentionSampleSize": 4,
-      "avgViews": 1118.5,
+      "avgViews": 1120.5,
       "verdict": "prioritize",
       "confidence": "low"
     },
@@ -4337,6 +4534,7 @@
       "sampleSize": 4,
       "avgViewDurationMedian": 30,
       "viewsMedian": 922.5,
+      "avgViewDuration": 29.3,
       "avgRetentionPercent": 55.4,
       "retentionSampleSize": 4,
       "avgViews": 931,
@@ -4354,10 +4552,11 @@
       ],
       "sampleSize": 4,
       "avgViewDurationMedian": 32.5,
-      "viewsMedian": 847,
-      "avgRetentionPercent": 52.8,
+      "viewsMedian": 978.5,
+      "avgViewDuration": 38.3,
+      "avgRetentionPercent": 56.1,
       "retentionSampleSize": 4,
-      "avgViews": 841.8,
+      "avgViews": 933.8,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4372,10 +4571,11 @@
       ],
       "sampleSize": 4,
       "avgViewDurationMedian": 26.5,
-      "viewsMedian": 1166,
+      "viewsMedian": 1168,
+      "avgViewDuration": 28.3,
       "avgRetentionPercent": 47.8,
       "retentionSampleSize": 4,
-      "avgViews": 1122,
+      "avgViews": 1123,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4390,9 +4590,10 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 21,
       "viewsMedian": 303,
-      "avgRetentionPercent": 46.1,
+      "avgViewDuration": 30.7,
+      "avgRetentionPercent": 47.9,
       "retentionSampleSize": 3,
-      "avgViews": 492,
+      "avgViews": 521.7,
       "verdict": "avoid",
       "confidence": "low"
     },
@@ -4407,6 +4608,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 21,
       "viewsMedian": 880,
+      "avgViewDuration": 19.3,
       "avgRetentionPercent": 41.2,
       "retentionSampleSize": 3,
       "avgViews": 928,
@@ -4424,6 +4626,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 19,
       "viewsMedian": 1559,
+      "avgViewDuration": 26.7,
       "avgRetentionPercent": 51.2,
       "retentionSampleSize": 3,
       "avgViews": 1399.7,
@@ -4441,6 +4644,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 40,
       "viewsMedian": 1273,
+      "avgViewDuration": 40,
       "avgRetentionPercent": 84.7,
       "retentionSampleSize": 3,
       "avgViews": 1350.3,
@@ -4458,6 +4662,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 31,
       "viewsMedian": 583,
+      "avgViewDuration": 32,
       "avgRetentionPercent": 50.5,
       "retentionSampleSize": 3,
       "avgViews": 711.3,
@@ -4475,9 +4680,10 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 42,
       "viewsMedian": 1303,
-      "avgRetentionPercent": 58.5,
+      "avgViewDuration": 39.7,
+      "avgRetentionPercent": 58,
       "retentionSampleSize": 3,
-      "avgViews": 1331,
+      "avgViews": 1333,
       "verdict": "prioritize",
       "confidence": "low"
     },
@@ -4491,10 +4697,11 @@
       ],
       "sampleSize": 3,
       "avgViewDurationMedian": 34,
-      "viewsMedian": 949,
+      "viewsMedian": 967,
+      "avgViewDuration": 35.3,
       "avgRetentionPercent": 57.4,
       "retentionSampleSize": 3,
-      "avgViews": 813,
+      "avgViews": 819,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4508,10 +4715,11 @@
       ],
       "sampleSize": 3,
       "avgViewDurationMedian": 30,
-      "viewsMedian": 999,
+      "viewsMedian": 1049,
+      "avgViewDuration": 28,
       "avgRetentionPercent": 49.7,
       "retentionSampleSize": 3,
-      "avgViews": 901,
+      "avgViews": 917.7,
       "verdict": "promising",
       "confidence": "low"
     },
@@ -4526,6 +4734,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 24,
       "viewsMedian": 1105,
+      "avgViewDuration": 25.7,
       "avgRetentionPercent": 43.5,
       "retentionSampleSize": 3,
       "avgViews": 1078,
@@ -4542,11 +4751,12 @@
       ],
       "sampleSize": 3,
       "avgViewDurationMedian": 47,
-      "viewsMedian": 1081,
+      "viewsMedian": 1098,
+      "avgViewDuration": 43.7,
       "avgRetentionPercent": 63.1,
       "retentionSampleSize": 3,
-      "avgViews": 1143.7,
-      "verdict": "promising",
+      "avgViews": 1149.3,
+      "verdict": "prioritize",
       "confidence": "low"
     },
     {
@@ -4560,6 +4770,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 34,
       "viewsMedian": 1132,
+      "avgViewDuration": 35.7,
       "avgRetentionPercent": 67.3,
       "retentionSampleSize": 3,
       "avgViews": 997.3,
@@ -4577,9 +4788,10 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 38,
       "viewsMedian": 1212,
+      "avgViewDuration": 39.7,
       "avgRetentionPercent": 61.9,
       "retentionSampleSize": 3,
-      "avgViews": 1230.7,
+      "avgViews": 1232.3,
       "verdict": "prioritize",
       "confidence": "low"
     },
@@ -4594,6 +4806,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 40,
       "viewsMedian": 844,
+      "avgViewDuration": 36.3,
       "avgRetentionPercent": 59.6,
       "retentionSampleSize": 3,
       "avgViews": 907.7,
@@ -4611,6 +4824,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 26,
       "viewsMedian": 1218,
+      "avgViewDuration": 28.3,
       "avgRetentionPercent": 57.3,
       "retentionSampleSize": 3,
       "avgViews": 5234,
@@ -4623,14 +4837,16 @@
       "videos": [
         "-bpS7VaF_EI",
         "stLW6k2r018",
-        "fpxnaqYxlMU"
+        "fpxnaqYxlMU",
+        "7YYo8F1KSns"
       ],
-      "sampleSize": 3,
-      "avgViewDurationMedian": 45,
-      "viewsMedian": 1537,
-      "avgRetentionPercent": 70.4,
-      "retentionSampleSize": 3,
-      "avgViews": 1970,
+      "sampleSize": 4,
+      "avgViewDurationMedian": 41,
+      "viewsMedian": 1477,
+      "avgViewDuration": 42.8,
+      "avgRetentionPercent": 71.5,
+      "retentionSampleSize": 4,
+      "avgViews": 1744.5,
       "verdict": "prioritize",
       "confidence": "low"
     },
@@ -4645,10 +4861,11 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 22,
       "viewsMedian": 1022,
+      "avgViewDuration": 22.7,
       "avgRetentionPercent": 37.2,
       "retentionSampleSize": 3,
       "avgViews": 1028,
-      "verdict": "avoid",
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4662,6 +4879,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 28,
       "viewsMedian": 2276,
+      "avgViewDuration": 29,
       "avgRetentionPercent": 65.9,
       "retentionSampleSize": 3,
       "avgViews": 2633.3,
@@ -4679,6 +4897,7 @@
       "sampleSize": 3,
       "avgViewDurationMedian": 19,
       "viewsMedian": 1125,
+      "avgViewDuration": 23.7,
       "avgRetentionPercent": 46.8,
       "retentionSampleSize": 3,
       "avgViews": 1470,
@@ -4695,6 +4914,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 24,
       "viewsMedian": 380,
+      "avgViewDuration": 24,
       "avgRetentionPercent": 44,
       "retentionSampleSize": 2,
       "avgViews": 380,
@@ -4711,6 +4931,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 27,
       "viewsMedian": 606,
+      "avgViewDuration": 27,
       "avgRetentionPercent": 49.5,
       "retentionSampleSize": 2,
       "avgViews": 606,
@@ -4727,6 +4948,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 25.5,
       "viewsMedian": 1088,
+      "avgViewDuration": 25.5,
       "avgRetentionPercent": 47.1,
       "retentionSampleSize": 2,
       "avgViews": 1088,
@@ -4738,15 +4960,17 @@
       "label": "Deer",
       "videos": [
         "35ObWh3YP74",
-        "BDS46bo0SQw"
+        "BDS46bo0SQw",
+        "WorDCNXkdT0"
       ],
-      "sampleSize": 2,
-      "avgViewDurationMedian": 37,
-      "viewsMedian": 1586,
-      "avgRetentionPercent": 62.6,
-      "retentionSampleSize": 2,
-      "avgViews": 1586,
-      "verdict": "prioritize",
+      "sampleSize": 3,
+      "avgViewDurationMedian": 38,
+      "viewsMedian": 990,
+      "avgViewDuration": 37.3,
+      "avgRetentionPercent": 69.3,
+      "retentionSampleSize": 3,
+      "avgViews": 1386.7,
+      "verdict": "promising",
       "confidence": "low"
     },
     {
@@ -4759,6 +4983,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 32.5,
       "viewsMedian": 1340,
+      "avgViewDuration": 32.5,
       "avgRetentionPercent": 57.4,
       "retentionSampleSize": 2,
       "avgViews": 1340,
@@ -4775,6 +5000,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 38,
       "viewsMedian": 1431.5,
+      "avgViewDuration": 38,
       "avgRetentionPercent": 65.3,
       "retentionSampleSize": 2,
       "avgViews": 1431.5,
@@ -4791,6 +5017,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 28.5,
       "viewsMedian": 1113.5,
+      "avgViewDuration": 28.5,
       "avgRetentionPercent": 52.4,
       "retentionSampleSize": 2,
       "avgViews": 1113.5,
@@ -4807,6 +5034,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 27.5,
       "viewsMedian": 1233,
+      "avgViewDuration": 27.5,
       "avgRetentionPercent": 45.3,
       "retentionSampleSize": 2,
       "avgViews": 1233,
@@ -4823,6 +5051,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 20,
       "viewsMedian": 907.5,
+      "avgViewDuration": 20,
       "avgRetentionPercent": 41,
       "retentionSampleSize": 2,
       "avgViews": 907.5,
@@ -4839,6 +5068,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 31,
       "viewsMedian": 1472.5,
+      "avgViewDuration": 31,
       "avgRetentionPercent": 64.3,
       "retentionSampleSize": 2,
       "avgViews": 1472.5,
@@ -4855,6 +5085,7 @@
       "sampleSize": 2,
       "avgViewDurationMedian": 29.5,
       "viewsMedian": 1025,
+      "avgViewDuration": 29.5,
       "avgRetentionPercent": 58,
       "retentionSampleSize": 2,
       "avgViews": 1025,
@@ -4921,14 +5152,16 @@
         "JGlYtx5pEa8",
         "XH76CH_AWNk",
         "tjJk98ktyEU",
-        "aOalL2JtCaM"
+        "aOalL2JtCaM",
+        "WorDCNXkdT0"
       ],
-      "sampleSize": 55,
+      "sampleSize": 56,
       "avgViewDurationMedian": 31,
-      "viewsMedian": 1122,
-      "avgRetentionPercent": 57.9,
-      "retentionSampleSize": 55,
-      "avgViews": 1417.3,
+      "viewsMedian": 1117,
+      "avgViewDuration": 33.7,
+      "avgRetentionPercent": 58.9,
+      "retentionSampleSize": 56,
+      "avgViews": 1439.6,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -4979,14 +5212,16 @@
         "d4KV2VtHjdQ",
         "BDS46bo0SQw",
         "RjBYoCrIPuU",
-        "e4bzKftxKVU"
+        "e4bzKftxKVU",
+        "7YYo8F1KSns"
       ],
-      "sampleSize": 44,
-      "avgViewDurationMedian": 27,
-      "viewsMedian": 1087,
-      "avgRetentionPercent": 52.8,
-      "retentionSampleSize": 44,
-      "avgViews": 1239.2,
+      "sampleSize": 45,
+      "avgViewDurationMedian": 28,
+      "viewsMedian": 1081,
+      "avgViewDuration": 29.6,
+      "avgRetentionPercent": 53.3,
+      "retentionSampleSize": 45,
+      "avgViews": 1235.6,
       "verdict": "promising",
       "confidence": "high"
     },
@@ -5019,14 +5254,16 @@
         "fpxnaqYxlMU",
         "bXqV-m3q_Ek",
         "StlobryjZ3E",
-        "CB34Voi_pR0"
+        "CB34Voi_pR0",
+        "Nd4Vbjk8TjM"
       ],
-      "sampleSize": 26,
-      "avgViewDurationMedian": 32.5,
-      "viewsMedian": 1092,
-      "avgRetentionPercent": 56.3,
-      "retentionSampleSize": 26,
-      "avgViews": 1074.8,
+      "sampleSize": 27,
+      "avgViewDurationMedian": 34,
+      "viewsMedian": 1088,
+      "avgViewDuration": 32.1,
+      "avgRetentionPercent": 56.9,
+      "retentionSampleSize": 27,
+      "avgViews": 1071.8,
       "verdict": "promising",
       "confidence": "high"
     }
@@ -5034,64 +5271,93 @@
   "summary": [
     {
       "pattern": "Why the [animal] [extreme ability] #Shorts",
-      "evidence": "55 videos with >=100 views; median 31s AVD and 1122 views; mean retention 57.9%. Sample-count confidence high. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
+      "evidence": "56 videos with >=100 views; median 31s AVD and 1117 views; mean retention 58.9%. Sample-count confidence high. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [sensory surprise] #Shorts",
-      "evidence": "44 videos with >=100 views; median 27s AVD and 1087 views; mean retention 52.8%. Sample-count confidence high. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
+      "evidence": "45 videos with >=100 views; median 28s AVD and 1081 views; mean retention 53.3%. Sample-count confidence high. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
       "verdict": "promising"
     },
     {
       "pattern": "Why the [animal] [survival adaptation] #Shorts",
-      "evidence": "26 videos with >=100 views; median 32.5s AVD and 1092 views; mean retention 56.3%. Sample-count confidence high. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
+      "evidence": "27 videos with >=100 views; median 34s AVD and 1088 views; mean retention 56.9%. Sample-count confidence high. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
       "verdict": "promising"
     },
     {
-      "pattern": "Elephant",
-      "evidence": "8 videos with >=100 views; median 32.5s AVD and 1119.5 views; mean retention 61.3%. Sample-count confidence medium. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
-      "verdict": "promising"
+      "pattern": "Peacock",
+      "evidence": "4 videos with >=100 views; median 36s AVD and 1229 views; mean retention 50%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
     },
     {
-      "pattern": "Jellyfish",
-      "evidence": "5 videos with >=100 views; median 30s AVD and 1032 views; mean retention 54.5%. Sample-count confidence medium. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
-      "verdict": "promising"
+      "pattern": "Bee",
+      "evidence": "3 videos with >=100 views; median 21s AVD and 303 views; mean retention 47.9%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "avoid"
     },
     {
-      "pattern": "Bear",
-      "evidence": "4 videos with >=100 views; median 31.5s AVD and 1074.5 views; mean retention 53.8%. Sample-count confidence low. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
-      "verdict": "promising"
+      "pattern": "Camel",
+      "evidence": "3 videos with >=100 views; median 21s AVD and 880 views; mean retention 41.2%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "avoid"
     },
     {
-      "pattern": "Fox",
-      "evidence": "4 videos with >=100 views; median 25s AVD and 1280 views; mean retention 51.2%. Sample-count confidence low. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
-      "verdict": "promising"
+      "pattern": "Eagle",
+      "evidence": "3 videos with >=100 views; median 40s AVD and 1273 views; mean retention 84.7%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
     },
     {
-      "pattern": "Giraffe",
-      "evidence": "4 videos with >=100 views; median 35.5s AVD and 1087.5 views; mean retention 66.9%. Sample-count confidence low. Compared with produced cohort medians 30s and 1095 views, not the selected channel top ten. Mixed ages, lengths and cached analysis dates limit comparisons; this is not a causal hook test.",
-      "verdict": "promising"
+      "pattern": "Gorilla",
+      "evidence": "3 videos with >=100 views; median 42s AVD and 1303 views; mean retention 58%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
     },
     {
-      "pattern": "Low-volume penguin result",
-      "evidence": "Penguin saltwater Short: 15 views, reported AVD 214s on a 68.6s video. Raw metrics retained; excluded from pattern learnings and winner promotion because volume is below 100 views.",
-      "verdict": "insufficient-data"
+      "pattern": "Monkey",
+      "evidence": "3 videos with >=100 views; median 47s AVD and 1098 views; mean retention 63.1%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Owl",
+      "evidence": "3 videos with >=100 views; median 38s AVD and 1212 views; mean retention 61.9%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Rhino",
+      "evidence": "4 videos with >=100 views; median 41s AVD and 1477 views; mean retention 71.5%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Butterfly",
+      "evidence": "2 videos with >=100 views; median 24s AVD and 380 views; mean retention 44%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Hippo",
+      "evidence": "2 videos with >=100 views; median 38s AVD and 1431.5 views; mean retention 65.3%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "prioritize"
+    },
+    {
+      "pattern": "Spider",
+      "evidence": "2 videos with >=100 views; median 20s AVD and 907.5 views; mean retention 41%. Sample-count confidence low. Produced cohort medians: 30.5s AVD and 1096.5 views. Mixed ages, durations, and cached analysis dates; not causal evidence.",
+      "verdict": "avoid"
+    },
+    {
+      "pattern": "Recent sub-60-second real-footage Shorts",
+      "evidence": "Rhino ear movement: 1065 views, 37s AVD, 74.7% retention; elephant cracked skin: 970 views, 35s AVD, 72.7%; deer antler regeneration: 988 views, 38s AVD, 82.6%. Three descriptive observations only, not a controlled hook test; low confidence. Today’s rhino mud Short remains pending.",
+      "verdict": "promising"
     }
   ],
   "methodology": {
-    "refreshedVideos": 14,
-    "carriedForwardVideos": 138,
-    "availableVideos": 147,
-    "pendingVideos": 5,
-    "refreshPolicy": "Refresh pending/new records and uploads since 2026-09-28; preserve older available records and their original analyzedAt timestamps.",
-    "baselineAvgViewDuration": 45,
-    "baselineSnapshotFetchedAt": "2026-10-05T09:04:36-04:00",
-    "producedMeanViews": 1093,
+    "refreshedVideos": 22,
+    "carriedForwardVideos": 132,
+    "availableVideos": 150,
+    "pendingVideos": 4,
+    "refreshPolicy": "Refresh all pending/new records and uploads from the past 14 days (2026-09-25 onward); preserve older available records and original timestamps.",
+    "baselineAvgViewDuration": 47,
+    "baselineSnapshotFetchedAt": "2026-10-09T09:05:07-04:00",
+    "producedMeanViews": 1102.8,
     "learningMinimumViews": 100,
-    "learningCohortMedianAVD": 30,
-    "learningCohortMedianViews": 1095,
-    "caveats": "No same-age normalization; cached older metrics retained. AVD favors longer videos; retention percentages reported separately. Exclude long-form compilation from Shorts learning aggregates. Confidence tiers describe sample count, not statistical significance.",
-    "learningRefreshNote": "All nine refreshed available metric rows and duration-normalized retention values match the previous run. Two newly added records are pending. Available learning cohort and 45-second baseline are unchanged, so hookFrames, topics, titlePatterns and evidence summaries are preserved.",
-    "notificationDecision": "No meaningful label transitions or threshold crossings. Pending videos are excluded; unchanged low-volume penguin remains below the 100-view reliability gate."
+    "learningCohortMedianAVD": 30.5,
+    "learningCohortMedianViews": 1096.5,
+    "caveats": "AVD in seconds compared with seconds; retention percentages reported separately. No same-age or length normalization. Historical metrics carried forward. Long-form compilation and <100-view observations excluded from pattern learning. Confidence tiers are sample count, not statistical significance. Legacy durations above 60s are retained as historical observations, not validation approvals.",
+    "notificationDecision": "9 meaningful transitions or threshold changes; pending and <100-view videos excluded. Higher current 47s baseline can change labels without a material video performance decline."
   }
 }
