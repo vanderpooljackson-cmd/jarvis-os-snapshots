@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-05T16:13:29-04:00",
+  "lastRunAt": "2026-10-09T10:12:30-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -6079,6 +6079,128 @@
         "url": "https://www.youtube.com/watch?v=WorDCNXkdT0",
         "privacyStatus": "public",
         "publishedAt": "2026-10-05T16:13:17-04:00"
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-10-09-SELF1",
+      "ideaId": "SELF1",
+      "sourceHash": "c7624e6c728dbf8700b4a2f853db943940250d1d9e59f69cbd738b0f2f5823e9",
+      "title": "Why the Rhino Wears Mud Like Armor #Shorts",
+      "concept": "A rhino uses mud as a cooling coat and protection from sun and biting insects.",
+      "status": "uploaded",
+      "startedAt": "2026-10-09T10:05:53-04:00",
+      "mode": "stock-footage+captions",
+      "factSources": [
+        "https://www.ifaw.org/animals/rhinos",
+        "https://www.bbc.co.uk/newsround/36073502"
+      ],
+      "selectionNotes": "Queued elephant ear cooling already uploaded; bat unfilmable and generic lizard not prequalified. New rhino survival angle inspired by top-viewed rhino and high-retention elephant adaptations.",
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-10-09-SELF1/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-10-09-SELF1/narration.mp3",
+        "finalVideo": "/tmp/jvshorts/JV-2026-10-09-SELF1/final.mp4",
+        "durationSeconds": 52.6,
+        "hookOverlay": "MUD IS SURVIVAL ARMOR",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "35818409",
+            "sourceUrl": "https://www.pexels.com/video/african-rhinos-grazing-on-open-plains-35818409/",
+            "photographer": "Joolsmagools  ®️",
+            "queryUsed": "rhinoceros",
+            "duration": 9,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "34510474",
+            "sourceUrl": "https://www.pexels.com/video/solitary-rhinoceros-in-muddy-enclosure-34510474/",
+            "photographer": "Anshu Kumar",
+            "queryUsed": "rhinoceros mud",
+            "duration": 9,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "34479391",
+            "sourceUrl": "https://www.pexels.com/video/close-up-of-a-rhino-grazing-in-the-wild-34479391/",
+            "photographer": "Peter Smit",
+            "queryUsed": "rhino wallowing",
+            "duration": 13,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "34479391",
+            "sourceUrl": "https://www.pexels.com/video/close-up-of-a-rhino-grazing-in-the-wild-34479391/",
+            "photographer": "Peter Smit",
+            "queryUsed": "rhino wallowing",
+            "duration": 13,
+            "reusedFromScene": 3,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "16912922",
+            "sourceUrl": "https://www.pexels.com/video/rare-atnimal-rhino-16912922/",
+            "photographer": "Huu Huynh",
+            "queryUsed": "rhinoceros resting shade",
+            "duration": 30,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "40003117",
+            "sourceUrl": "https://www.pexels.com/video/majestic-rhinoceros-grazing-in-open-field-40003117/",
+            "photographer": "Joolsmagools  ®️",
+            "queryUsed": "rhino walking grassland",
+            "duration": 30,
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "rejectedClips": [
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "7299417",
+            "sourceUrl": "https://www.pexels.com/video/extreme-close-up-of-a-man-s-face-7299417/",
+            "photographer": "Kindel Media",
+            "queryUsed": "rhinoceros skin close up",
+            "license": "Pexels (free commercial use, no attribution required)",
+            "reason": "Human close-up, not rhinoceros; excluded from render."
+          }
+        ],
+        "validation": {
+          "ok": true,
+          "assemblyOk": true,
+          "duration": 52.6,
+          "width": 1080,
+          "height": 1920,
+          "hasVideo": true,
+          "hasAudio": true,
+          "decodeOk": true,
+          "speciesCheck": "All retained clips visually verified as rhinoceroses; facts are not species-specific.",
+          "uniqueAcceptedClips": 5,
+          "narrationOnly": true,
+          "audioMapping": "Only narration.mp3 audio mapped; assembly music bed and all source scene audio excluded.",
+          "fileBytes": 6919235
+        }
+      },
+      "renderedAt": "2026-10-09T10:12:13-04:00",
+      "durationSeconds": 52.6,
+      "uploadedAt": "2026-10-09T10:12:30-04:00",
+      "youtube": {
+        "videoId": "uGMJ6cR3lnA",
+        "url": "https://www.youtube.com/watch?v=uGMJ6cR3lnA",
+        "privacyStatus": "public"
       },
       "error": null
     }
