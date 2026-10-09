@@ -392,6 +392,40 @@
         ],
         "completeVariantDailyAverages": null
       }
+    },
+    {
+      "id": "EXP-011",
+      "videoId": "BDS46bo0SQw",
+      "field": "title",
+      "baseline": "Why the Deer Sees You Coming From Every Direction #Shorts",
+      "variant": "How Does a Deer Spot Movement Without Turning Its Head? #Shorts",
+      "appliedVia": "youtube_data_api-update-video-details",
+      "launchedAt": "2026-10-09T09:05:07-04:00",
+      "status": "running",
+      "evalWindowHours": 72,
+      "baselineMetrics": {
+        "windowDays": 28,
+        "startDate": "2026-09-11",
+        "endDate": "2026-10-09",
+        "views": 2901,
+        "watched": 1356,
+        "estimatedMinutesWatched": 1356,
+        "likes": 107,
+        "comments": 0,
+        "avgViewDuration": 45,
+        "flag": "optimize"
+      },
+      "baselineDailyAverages": {
+        "views": 103.60714285714286,
+        "watched": 48.42857142857143,
+        "avgViewDuration": 45
+      },
+      "titleVerification": {
+        "via": "youtube_data_api-update-video-details response",
+        "title": "How Does a Deer Spot Movement Without Turning Its Head? #Shorts",
+        "verifiedAt": "2026-10-09T09:05:07-04:00"
+      },
+      "note": "Sequential title test, not a randomized concurrent A/B test. Eligibility uses 28-day views; baseline period includes days before publication and reporting lag."
     }
   ],
   "policy": {

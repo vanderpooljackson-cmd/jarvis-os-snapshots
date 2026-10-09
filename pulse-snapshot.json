@@ -7,61 +7,29 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 187237,
-      "subscriberCount": 299,
-      "videoCount": 193
+      "viewCount": 190383,
+      "subscriberCount": 303,
+      "videoCount": 195
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-09-07",
-    "endDate": "2026-10-05",
+    "startDate": "2026-09-11",
+    "endDate": "2026-10-09",
     "label": "Last 28 days",
-    "dataThrough": "2026-10-02"
+    "dataThrough": "2026-10-06"
   },
   "totals": {
-    "views": 55793,
-    "estimatedMinutesWatched": 22402,
-    "subscribersGained": 130,
+    "views": 50895,
+    "estimatedMinutesWatched": 21337,
+    "subscribersGained": 127,
     "subscribersLost": 7,
-    "likes": 2870,
-    "comments": 42,
-    "shares": 74,
-    "netSubscribers": 123
+    "likes": 2646,
+    "comments": 36,
+    "shares": 69,
+    "netSubscribers": 120
   },
   "daily": [
-    {
-      "day": "2026-09-07",
-      "views": 1348,
-      "watched": 512,
-      "subsGained": 2,
-      "subsLost": 0,
-      "likes": 89
-    },
-    {
-      "day": "2026-09-08",
-      "views": 2133,
-      "watched": 523,
-      "subsGained": 2,
-      "subsLost": 0,
-      "likes": 69
-    },
-    {
-      "day": "2026-09-09",
-      "views": 2399,
-      "watched": 636,
-      "subsGained": 2,
-      "subsLost": 0,
-      "likes": 106
-    },
-    {
-      "day": "2026-09-10",
-      "views": 2219,
-      "watched": 580,
-      "subsGained": 1,
-      "subsLost": 0,
-      "likes": 102
-    },
     {
       "day": "2026-09-11",
       "views": 2269,
@@ -237,14 +205,46 @@
       "subsGained": 7,
       "subsLost": 0,
       "likes": 111
+    },
+    {
+      "day": "2026-10-03",
+      "views": 66,
+      "watched": 14,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 1
+    },
+    {
+      "day": "2026-10-04",
+      "views": 1069,
+      "watched": 473,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 37
+    },
+    {
+      "day": "2026-10-05",
+      "views": 1990,
+      "watched": 686,
+      "subsGained": 4,
+      "subsLost": 0,
+      "likes": 101
+    },
+    {
+      "day": "2026-10-06",
+      "views": 76,
+      "watched": 13,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 3
     }
   ],
   "topVideos": [
     {
       "videoId": "stLW6k2r018",
       "title": "Why the Rhino Horn Is Made of Hair Not Bone #Shorts",
-      "views": 2981,
-      "watched": 1921,
+      "views": 2983,
+      "watched": 1922,
       "likes": 127,
       "comments": 4,
       "avgViewDuration": 60,
@@ -253,20 +253,20 @@
     },
     {
       "videoId": "BDS46bo0SQw",
-      "title": "Why the Deer Sees You Coming From Every Direction #Shorts",
-      "views": 2898,
+      "title": "How Does a Deer Spot Movement Without Turning Its Head? #Shorts",
+      "views": 2901,
       "watched": 1356,
       "likes": 107,
       "comments": 0,
       "avgViewDuration": 45,
-      "flag": "stable",
-      "note": "Within normal top-10 range"
+      "flag": "optimize",
+      "note": "Above-average views (2901 vs 1948.7) but below-median average view duration (45s vs 47s); EXP-011 title test launched."
     },
     {
       "videoId": "xQH2pDOHLCc",
       "title": "Why the Elephant Never Forgets a Face for 30 Years #Shorts",
-      "views": 2609,
-      "watched": 1609,
+      "views": 2615,
+      "watched": 1611,
       "likes": 219,
       "comments": 2,
       "avgViewDuration": 62,
@@ -287,8 +287,8 @@
     {
       "videoId": "fpxnaqYxlMU",
       "title": "Why the Rhino Heals Wounds That Would Kill Any Other Animal #Shorts",
-      "views": 1537,
-      "watched": 743,
+      "views": 1540,
+      "watched": 744,
       "likes": 84,
       "comments": 0,
       "avgViewDuration": 45,
@@ -320,7 +320,7 @@
     {
       "videoId": "5p-ZHv0qxZQ",
       "title": "Why the Elephant's Trunk Has 40,000 Muscles #Shorts",
-      "views": 1451,
+      "views": 1452,
       "watched": 547,
       "likes": 108,
       "comments": 3,
@@ -331,7 +331,7 @@
     {
       "videoId": "JGlYtx5pEa8",
       "title": "Why the Peacock Changes Color When You Move #Shorts",
-      "views": 1429,
+      "views": 1437,
       "watched": 518,
       "likes": 78,
       "comments": 3,
@@ -340,46 +340,46 @@
       "note": "Within normal top-10 range"
     },
     {
-      "videoId": "d4KV2VtHjdQ",
-      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
-      "views": 1427,
-      "watched": 532,
-      "likes": 99,
+      "videoId": "RjBYoCrIPuU",
+      "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
+      "views": 1428,
+      "watched": 802,
+      "likes": 82,
       "comments": 1,
-      "avgViewDuration": 38,
+      "avgViewDuration": 52,
       "flag": "stable",
       "note": "Within normal top-10 range"
     }
   ],
-  "fetchedAt": "2026-10-05T09:04:36-04:00",
+  "fetchedAt": "2026-10-09T09:05:07-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-10-05T09:04:36-04:00",
+      "fetchedAt": "2026-10-09T09:05:07-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Ad-revenue eligibility routes require 1,000 subscribers plus either 4,000 qualifying public watch hours in 12 months or 10M qualifying Shorts views in 90 days, plus other program requirements. Reported total watch time and total views below are proxies, NOT verified qualifying totals; Shorts-feed watch hours do not count toward 4,000.",
       "eligibilitySource": "https://support.google.com/youtube/answer/72851?hl=en&co=genie.platform=desktop",
       "subscribers": {
-        "current": 299,
+        "current": 303,
         "threshold": 1000,
-        "percent": 29.9
+        "percent": 30.3
       },
       "watchHours12mo": {
-        "current": 1043.7,
+        "current": 1063.5,
         "threshold": 4000,
-        "percent": 26.09,
+        "percent": 26.59,
         "window": "Last 12 months",
-        "minutesWatched": 62620,
+        "minutesWatched": 63809,
         "isEligibilityMetric": false,
         "note": "Total channel watch hours, not qualifying YPP public watch hours. Percentage is a raw ratio only.",
         "qualifiedCurrent": null,
         "qualifiedPercent": null
       },
       "shortsViews90d": {
-        "current": 168168,
+        "current": 170320,
         "threshold": 10000000,
-        "percent": 1.682,
+        "percent": 1.703,
         "window": "Last 90 days",
         "isEligibilityMetric": false,
         "note": "proxy: total 90-day views; not verified qualifying Shorts engaged views",
