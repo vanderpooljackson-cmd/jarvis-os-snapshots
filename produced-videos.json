@@ -1,7 +1,7 @@
 {
   "version": 1,
   "channelId": "UCseGVATXCf7COWSj4eB_amA",
-  "lastRunAt": "2026-10-09T10:12:30-04:00",
+  "lastRunAt": "2026-10-09T16:13:26-04:00",
   "videos": [
     {
       "productionId": "JV-2026-07-05-SELFN",
@@ -6200,6 +6200,130 @@
       "youtube": {
         "videoId": "uGMJ6cR3lnA",
         "url": "https://www.youtube.com/watch?v=uGMJ6cR3lnA",
+        "privacyStatus": "public"
+      },
+      "error": null
+    },
+    {
+      "productionId": "JV-2026-10-09-SELF2",
+      "ideaId": "SELF2",
+      "sourceHash": "896926a2d2a2e2523f2e1639b4e9534c9c30c21db3f0e5fb0201d8337d3c07cc",
+      "status": "uploaded",
+      "startedAt": "2026-10-09T16:07:06-04:00",
+      "mode": "stock-footage+captions",
+      "title": "Why the Elephant Feels With Whiskers on Its Trunk #Shorts",
+      "concept": "Sensory nerves around trunk whisker follicles help elephants feel what they touch.",
+      "factSources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10250425/",
+        "https://is.mpg.de/en/news/elephant-whiskers"
+      ],
+      "selectionNotes": "Queued elephant idea uploaded; bat unfilmable, lizard not prequalified. New tactile-sense angle combines leading elephant retention with animal-adaptation framing; elephant is filmable with baseQuery elephant.",
+      "assetManifest": {
+        "mode": "stock-footage+captions",
+        "script": "/tmp/jvshorts/JV-2026-10-09-SELF2/script.txt",
+        "narration": "/tmp/jvshorts/JV-2026-10-09-SELF2/narration.mp3",
+        "finalVideo": "/tmp/jvshorts/JV-2026-10-09-SELF2/final.mp4",
+        "durationSeconds": 51.766667,
+        "hookOverlay": "WHISKERS THAT SENSE TOUCH",
+        "stockClips": [
+          {
+            "scene": 1,
+            "provider": "pexels",
+            "providerId": "11760786",
+            "sourceUrl": "https://www.pexels.com/video/an-african-elephant-and-its-baby-11760786/",
+            "photographer": "ROMAN ODINTSOV",
+            "queryUsed": "elephant",
+            "duration": 21,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 2,
+            "provider": "pexels",
+            "providerId": "34643880",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephant-feeding-at-zoo-habitat-34643880/",
+            "photographer": "Joolsmagools  ®️",
+            "queryUsed": "elephant trunk eating",
+            "duration": 44,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "34643880",
+            "sourceUrl": "https://www.pexels.com/video/asian-elephant-feeding-at-zoo-habitat-34643880/",
+            "photographer": "Joolsmagools  ®️",
+            "queryUsed": "elephant trunk eating",
+            "duration": 44,
+            "reusedFromScene": 2,
+            "sourceStartSec": 10,
+            "sourceEndSec": 20,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 4,
+            "provider": "pexels",
+            "providerId": "35623748",
+            "sourceUrl": "https://www.pexels.com/video/majestic-elephant-grazing-in-lush-landscape-35623748/",
+            "photographer": "justin  vendha",
+            "queryUsed": "elephant grazing grass",
+            "duration": 25,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 5,
+            "provider": "pexels",
+            "providerId": "35764996",
+            "sourceUrl": "https://www.pexels.com/video/two-asian-elephants-interacting-in-enclosure-35764996/",
+            "photographer": "Joolsmagools  ®️",
+            "queryUsed": "elephant picking food trunk",
+            "duration": 63,
+            "license": "Pexels (free commercial use, no attribution required)"
+          },
+          {
+            "scene": 6,
+            "provider": "pexels",
+            "providerId": "11760754",
+            "sourceUrl": "https://www.pexels.com/video/an-elephant-covered-in-mud-walking-in-the-african-savannah-11760754/",
+            "photographer": "ROMAN ODINTSOV",
+            "queryUsed": "elephant walking savanna",
+            "duration": 50,
+            "license": "Pexels (free commercial use, no attribution required)"
+          }
+        ],
+        "rejectedClips": [
+          {
+            "scene": 3,
+            "provider": "pexels",
+            "providerId": "38651081",
+            "sourceUrl": "https://www.pexels.com/video/close-up-of-green-leaves-on-rustic-tree-bark-38651081/",
+            "photographer": "Gaurav Kumar",
+            "queryUsed": "elephant trunk leaves",
+            "license": "Pexels (free commercial use, no attribution required)",
+            "reason": "Tree bark and leaves, not elephant trunk; excluded from render."
+          }
+        ],
+        "validation": {
+          "ok": true,
+          "assemblyOk": true,
+          "width": 1080,
+          "height": 1920,
+          "duration": 51.766667,
+          "hasVideo": true,
+          "hasAudio": true,
+          "decodeOk": true,
+          "uniqueAcceptedClips": 5,
+          "speciesCheck": "Retained footage visually verified as elephants; both Asian and African savanna elephants are explicitly covered by the script and cited research.",
+          "narrationOnly": true,
+          "audioMapping": "Only narration.mp3 audio mapped. Source scene audio and helper music bed excluded.",
+          "fileBytes": 7465915
+        }
+      },
+      "renderedAt": "2026-10-09T16:13:07-04:00",
+      "durationSeconds": 51.766667,
+      "uploadedAt": "2026-10-09T16:13:26-04:00",
+      "youtube": {
+        "videoId": "xQET5AxN1P4",
+        "url": "https://www.youtube.com/watch?v=xQET5AxN1P4",
         "privacyStatus": "public"
       },
       "error": null
