@@ -7,37 +7,29 @@
     "publishedAt": "2020-03-22T05:30:03.581399Z",
     "thumbnail": "https://yt3.ggpht.com/ywu_WghhFcQ8n2OEOJ-EBShhNZ0gIU5GfbOHx1KNsbP1rekKwDDQzzwg6b0pm8EcVhIHQDaVxvM=s800-c-k-c0x00ffffff-no-rj",
     "statistics": {
-      "viewCount": 190383,
+      "viewCount": 190434,
       "subscriberCount": 303,
-      "videoCount": 195
+      "videoCount": 197
     },
     "monetized": false
   },
   "window": {
-    "startDate": "2026-09-11",
-    "endDate": "2026-10-09",
+    "startDate": "2026-09-12",
+    "endDate": "2026-10-10",
     "label": "Last 28 days",
-    "dataThrough": "2026-10-06"
+    "dataThrough": "2026-10-07"
   },
   "totals": {
-    "views": 50895,
-    "estimatedMinutesWatched": 21337,
-    "subscribersGained": 127,
+    "views": 48663,
+    "estimatedMinutesWatched": 20470,
+    "subscribersGained": 122,
     "subscribersLost": 7,
-    "likes": 2646,
+    "likes": 2544,
     "comments": 36,
-    "shares": 69,
-    "netSubscribers": 120
+    "shares": 68,
+    "netSubscribers": 115
   },
   "daily": [
-    {
-      "day": "2026-09-11",
-      "views": 2269,
-      "watched": 877,
-      "subsGained": 5,
-      "subsLost": 0,
-      "likes": 102
-    },
     {
       "day": "2026-09-12",
       "views": 2267,
@@ -237,6 +229,14 @@
       "subsGained": 0,
       "subsLost": 0,
       "likes": 3
+    },
+    {
+      "day": "2026-10-07",
+      "views": 37,
+      "watched": 10,
+      "subsGained": 0,
+      "subsLost": 0,
+      "likes": 0
     }
   ],
   "topVideos": [
@@ -254,13 +254,13 @@
     {
       "videoId": "BDS46bo0SQw",
       "title": "How Does a Deer Spot Movement Without Turning Its Head? #Shorts",
-      "views": 2901,
+      "views": 2904,
       "watched": 1356,
       "likes": 107,
       "comments": 0,
       "avgViewDuration": 45,
-      "flag": "optimize",
-      "note": "Above-average views (2901 vs 1948.7) but below-median average view duration (45s vs 47s); EXP-011 title test launched."
+      "flag": "stable",
+      "note": "Within normal top-10 range; EXP-011 remains running. Baseline shift reflects top-10 membership changes, not a test outcome."
     },
     {
       "videoId": "xQH2pDOHLCc",
@@ -340,23 +340,23 @@
       "note": "Within normal top-10 range"
     },
     {
-      "videoId": "RjBYoCrIPuU",
-      "title": "Why the Gorilla Beats Its Chest So Loud You Can Hear It a Mile Away #Shorts",
-      "views": 1428,
-      "watched": 802,
-      "likes": 82,
+      "videoId": "d4KV2VtHjdQ",
+      "title": "Why the Peacock Makes Blue Without Any Blue #Shorts",
+      "views": 1431,
+      "watched": 534,
+      "likes": 100,
       "comments": 1,
-      "avgViewDuration": 52,
+      "avgViewDuration": 38,
       "flag": "stable",
       "note": "Within normal top-10 range"
     }
   ],
-  "fetchedAt": "2026-10-09T09:05:07-04:00",
+  "fetchedAt": "2026-10-10T09:03:51-04:00",
   "source": "YouTube Analytics API",
   "monetization": {
     "ypp": {
       "program": "YouTube Partner Program",
-      "fetchedAt": "2026-10-09T09:05:07-04:00",
+      "fetchedAt": "2026-10-10T09:03:51-04:00",
       "source": "YouTube Analytics API + channel statistics",
       "note": "Ad-revenue eligibility routes require 1,000 subscribers plus either 4,000 qualifying public watch hours in 12 months or 10M qualifying Shorts views in 90 days, plus other program requirements. Reported total watch time and total views below are proxies, NOT verified qualifying totals; Shorts-feed watch hours do not count toward 4,000.",
       "eligibilitySource": "https://support.google.com/youtube/answer/72851?hl=en&co=genie.platform=desktop",
@@ -366,20 +366,20 @@
         "percent": 30.3
       },
       "watchHours12mo": {
-        "current": 1063.5,
+        "current": 1063.7,
         "threshold": 4000,
         "percent": 26.59,
         "window": "Last 12 months",
-        "minutesWatched": 63809,
+        "minutesWatched": 63819,
         "isEligibilityMetric": false,
         "note": "Total channel watch hours, not qualifying YPP public watch hours. Percentage is a raw ratio only.",
         "qualifiedCurrent": null,
         "qualifiedPercent": null
       },
       "shortsViews90d": {
-        "current": 170320,
+        "current": 170357,
         "threshold": 10000000,
-        "percent": 1.703,
+        "percent": 1.704,
         "window": "Last 90 days",
         "isEligibilityMetric": false,
         "note": "proxy: total 90-day views; not verified qualifying Shorts engaged views",
